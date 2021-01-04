@@ -233,8 +233,7 @@ Body: "Protecting your data, privacy and personal data (as defined under Article
   or information.\n\n**SECTION 9- CHANGES TO THIS POLICY**\nAny changes we make to
   our Privacy Policy in the future will be posted on this page, and where appropriate,
   notified to you by SMS, email or other notifications. We, therefore, encourage you
-  to review it from time to time to stay informed of how we are processing your data.
-  \n"
+  to review it from time to time to stay informed of how we are processing your data.."
 Privacy Policy - Swahili Description: "SERA YA FARAGHA/USIRI YA TRIGGERISE\nKuhifadhi
   data yako, usuri na data ya kibinafsi (jinsi ilivyoelezwa kwa Makala ya 4(1) ya
   kanuni za kijumla za ulinzi wa data (EU) 2016/679 (“GDRP”)) ni ya muhimu kwa Triggerise
