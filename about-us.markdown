@@ -135,6 +135,11 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
   Image: "/uploads/IMG_20200906_133938.jpg"
+- Name: Navendu
+  Role: Chief Insights Officer
+  Location: New York, USA
+  LinkedIn: 
+  Image: "/uploads/Navendu%20headshot.jpg"
 - Name: Nelson
   Role: Chief Technology Officer
   Location: Cape Town, South Africa
@@ -176,7 +181,7 @@ Our People:
   LinkedIn: https://linkedin.com/in/shreysaraswat
   Image: "/uploads/Trig_profiles_shrey.jpg"
 - Name: Thera
-  Role: Human Resource Manager
+  Role: Chief People Officer
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_Threa.jpg"
