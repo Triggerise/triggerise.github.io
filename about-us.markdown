@@ -21,42 +21,42 @@ Mission-text: |-
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
   change for good.
 Map-locations:
-- Location:
-  Description:
-  Image:
+- Location: 
+  Description: 
+  Image: 
 Supervisory Board:
 - Name: 'Lisa Simutami '
-  Role:
+  Role: 
   Description: "(Chapel Hill, NC, USA), is the chair of our supervisory board since
     inception. Lisa is the COO of Ipas, and previously served as Regional Director
     at Population Services International."
   Image: "/uploads/Trig_profiles_lisa.jpg"
 - Name: Leslie Pascaud
-  Role:
+  Role: 
   Description: "(New York, NJ, USA), leads Branding for Good and has been working
     on innovation projects in the USA, Europe and Asia for over 20 years."
   Image: "/uploads/Trig_profiles_leslie.jpg"
 - Name: Miles Kemplay
-  Role:
+  Role: 
   Description: "(London, UK), is leading adolescent sexual and reproductive health
     work as Executive Director with Children’s Investment Fund Foundation since 2016.
     He has spent over a decade working for global health, development and private
     sector organisations."
   Image: "/uploads/Trig_profiles_miles.jpg"
 - Name: Werner Strydom
-  Role:
+  Role: 
   Description: "(Amsterdam, The Netherlands), heads up the Advanced Technology & Innovation
     unit within the Office of the CTO at Irdeto. He has 30 years of experience in
     the field of cybersecurity and leads software development, technology research,
     and innovation teams."
   Image: "/uploads/Werner%20(1).jpg"
 - Name: Leontine Gast
-  Role:
+  Role: 
   Description: "(Amsterdam, The Netherlands) is the CEO of The Terrace. She works
     in strategy, branding and communication with retail and consumer goods organisations. "
   Image: "/uploads/Trig_profiles_leotine.jpg"
 - Name: Julia Sakovska
-  Role:
+  Role: 
   Description: "(Breda, The Netherlands), FCCA, serves as a CFO on the Managing Board
     of Van Tilburg-Bastianen Group, one of the most prominent businesses in the mobility
     services industry. Julia has 25 years of finance and accounting experience gained
@@ -242,3 +242,4 @@ Filters:
 SafeGuarding-link: "/privacy-policy/"
 layout: about
 ---
+
