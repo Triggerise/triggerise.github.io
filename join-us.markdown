@@ -4,7 +4,7 @@ date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
 Testimonial:
-- Image: "/uploads/Trig_profiles_nuno.jpg"
+- Image: "/uploads/Joana%20Pereira%20.jpg"
   Quote: '"Triggerise has a collaborative culture sustained by very nice people with
     a great team spirit which promotes a good work-life balance. I joined Triggerise
     because as a data analyst I think we should always use data to have a positive
