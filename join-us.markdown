@@ -5,14 +5,15 @@ Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
 Testimonial:
 - Image: "/uploads/Trig_profiles_nuno.jpg"
-  Quote: '"Triggerise culture embodies the best part of being a start-up - it''s relaxed,
-    challenging, collaborative, casual, autonomous, friendly and engaging.  Contributing
-    to an organization that helps people help themselves while also watching it grow,
-    learning about exciting new technologies, and improving myself as a developer
-    and, most of all, as a person is the most fulfilling for me."
+  Quote: '"Triggerise has a collaborative culture sustained by very nice people with
+    a great team spirit which promotes a good work-life balance. I joined Triggerise
+    because as a data analyst I think we should always use data to have a positive
+    impact on someone''s life. Every day we know that we have to do our best and challenge
+    ourselves to look for the best solutions so that all decisions have an even more
+    significant impact on communities."
 
 '
-  Name: Nuno Marques | Backend Developer, Porto
+  Name: Joana Pereira | Data Analyst, Porto
 Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission
   to get things done and do them well. We’re ever open-minded and highly impact-driven,
   keen to take on how the world does change. \n\nUniting the best bits of working
