@@ -194,9 +194,9 @@
     font-size: 14px;
     color: $textColorLight;
     margin: -5px 0 0;
-    max-width: 450px;
+    width: 320px;
 
-    table {
+  /*  table {
       padding: 0;
       border-spacing: 0px;
       margin: auto;
@@ -220,7 +220,7 @@
           top: -5px;
         }
       }
-    }
+    } */
 
     .svgMap-tooltip-no-data {
       padding: 2px 0;

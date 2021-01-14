@@ -246,6 +246,62 @@ button {
   font-size: 20px;;
 }
 
+
+
+.map_Container {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+
+    @include mq($from: desktop) {
+        max-width: -webkit-calc(980px - (#{$spacing-unit}));
+        max-width:         calc(980px - (#{$spacing-unit}));
+        width: -webkit-calc(980px - (#{$spacing-unit}));
+        width:         calc(980px - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+
+    @include mq($from: wide) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+
+    &.full {
+      width: 100%;
+      padding: 0;
+      max-width: 100%;
+    }
+}
+
+.map_h2 {
+    width: 100%;
+    margin-right: 5%;
+    margin-left: 5%;
+
+    @include mq($from: desktop) {
+      margin-right: 0;
+      margin-left: 0;
+    }
+
+    @include mq($from: wide) {
+      margin-right: 0;
+      margin-left: 0;
+    }
+}
+
+
+
+
+
+
+
 footer {
   .flex {
     justify-content: space-between;
