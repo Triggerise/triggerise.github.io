@@ -8,7 +8,7 @@
     {% for story in page.Success-stories %}
       <div id="{{story.Project | slugify}}" class="success-story-wrapper">
         <h1>{{story.Title}}</h1>
-        <h2>{{story.['Intro text']}}</h2>
+        <h2 class="success_story_h2">{{story.['Intro text']}}</h2>
         {{story.Body | markdownify }}
       </div>
     {% endfor %}
