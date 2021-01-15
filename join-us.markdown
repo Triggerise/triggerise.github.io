@@ -77,7 +77,7 @@ Jobs:
     to find out more about this position for a Marketing and Communications Manager.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=54
 - Job Title: Data Team Lead
-  Location: Portugal, Porto
+  Location: Porto, Portugal
   Job Description: Do you consider yourself an expert in all things data, and have
     experience managing a team?  You’re not afraid of complex data sets and tools,
     actually you thrive most when working with them!  Sounds like you’re a fit for
@@ -98,7 +98,7 @@ Jobs:
     in detection, prevention, and an overall reduction of fraud.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
 - Job Title: Agile Lead
-  Location: Cape Town
+  Location: Cape Town, South Africa
   Job Description: Have you led a team using an Agile approach in the past?  Would
     you like the opportunity to facilitate, and guide a team in this direction?  Check
     out the ad for more information on the Agile Lead position!
@@ -118,7 +118,7 @@ Jobs:
     position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
 - Job Title: Data Engineer
-  Location: Porto
+  Location: Porto, Portugal
   Job Description: Do you have an affinity for Data?  Are you able to use tools to
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
