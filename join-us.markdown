@@ -124,7 +124,7 @@ Jobs:
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
 - Job Title: 'Tiko System Facilitator '
-  Location: Ethiopia, Addis Ababa
+  Location: Addis Ababa, Ethiopia
   Job Description: Are you excited about working with youth within local, urban communities?  Do
     you have experience in mobilising field activities in the area of sexual, reproductive
     and maternal health? Continue reading to find out if this is something for you!
@@ -141,6 +141,26 @@ Jobs:
     connected people with their ideal role, whether in tech or other industries?  Read
     on to find out more about our role as Global Recruiter.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=80
+- Job Title: HR Internship
+  Location: Global
+  Job Description: 'Are you interested in global HR? Would you like to gain experience
+    with an independent, global research project?  This is the role for you!  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=84
+- Job Title: Field Operations Lead
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and training and do you see job opportunities everywhere? Read more
+    to find out about this Field Operations Lead role.
+
+'
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=79
+- Job Title: Customer Support Officer
+  Location: Addis Ababa, Ethiopia
+  Job Description: Are you looking for a role in operations, where you can be a part
+    of transforming business concepts & needs core to our platform?  Have you got
+    experience troubleshooting and solving urgent technical or user issues with great
+    efficiency? Continue reading, and apply below!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=67
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
