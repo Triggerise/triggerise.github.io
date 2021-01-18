@@ -161,6 +161,13 @@ Jobs:
     experience troubleshooting and solving urgent technical or user issues with great
     efficiency? Continue reading, and apply below!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=67
+- Job Title: M&E Lead / Data Scientist
+  Location: Global
+  Job Description: "\nTriggerise creates impact by applying tech to non-profit. Are
+    you that special person that brings us the best of both worlds? We are looking
+    for an M&E lead/Data Scientist that can help us to not just monitor and evaluate,
+    but also predict and steer on data. "
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
