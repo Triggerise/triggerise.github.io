@@ -1262,6 +1262,77 @@
   }
 }
 
+
+
+
+&.sectionWrapper {
+  padding-bottom: spacing(2);
+
+  .sectionwrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+    @include mq($from: desktop) {
+      flex-direction: row;
+    }
+
+    h3 {
+      font-size: map-get($font-scale, 4);
+      line-height: 1;
+      font-weight: 400;
+
+      @include mq($from: desktop) {
+        font-size: map-get($font-scale, 5);
+      }
+
+      @include mq($from: wide) {
+        font-size: map-get($font-scale, 10);
+      }
+    }
+
+    .impact__description-wrapper {
+      padding-right: 8%;
+      box-sizing: border-box;
+
+      @include mq($from: desktop) {
+        width: 50%;
+      }
+
+      h5 {
+        font-size: map-get($font-scale, 1);
+        line-height: 1.2;
+        margin-top: spacing(-2);
+
+        @include mq($from: desktop) {
+          font-size: map-get($font-scale, bigpar);
+        }
+
+        @include mq($from: wide) {
+          font-size: map-get($font-scale, 2);
+        }
+      }
+
+      p {
+        font-size: map-get($font-scale, 0.7);
+        line-height: 1.2;
+
+        @include mq($from: desktop) {
+          font-size: map-get($font-scale, 1);
+        }
+
+        @include mq($from: wide) {
+          font-size: map-get($font-scale, 1.2);
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
 .t-rescources-wrapper {
   .report-cover {
     width: 100%;
