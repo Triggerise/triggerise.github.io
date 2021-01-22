@@ -1675,7 +1675,7 @@
 
 .success_story_h2 {
   font-size: 18px;
-  max-width: 600px;
+  max-width: 100%;
   margin-bottom: spacing(4);
 
   @include mq($from: desktop) {
@@ -1699,7 +1699,7 @@
   }
 
   h1, h2, p, ul, ol {
-    max-width: 600px;
+    max-width: 100%;
   }
 
   img {
@@ -1726,6 +1726,57 @@
     }
   }
 }
+
+
+
+
+
+
+
+.impact__wrapper {
+  border-bottom: 1px solid $darkBlue;
+  padding-bottom: spacing(6);
+
+  ul, ol {
+    margin: 0;
+    margin-left: 15px;
+    margin-bottom: 10px;
+  }
+
+  h1, h2, p, ul, ol {
+    max-width: 600px;
+    border-bottom: 1px solid $darkBlue;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  h1 {
+    font-size: map-get($font-scale, 3);
+    margin-bottom: spacing(4);
+
+    @include mq($from: desktop) {
+      font-size: map-get($font-scale, 4);
+    }
+  }
+
+  p {
+    font-size: map-get($font-scale, 0.8);
+
+    strong {
+      display: block;
+    }
+  }
+}
+
+
+
+
+
 
 .journal {
   padding-bottom: 20px;
