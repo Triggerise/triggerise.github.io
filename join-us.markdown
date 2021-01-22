@@ -62,13 +62,6 @@ Jobs:
     end development? Continue reading to find out more about our back end developer
     role.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=42
-- Job Title: Product Manager
-  Location: Global
-  Job Description: You’ve worked extensively across digital platforms, now is the
-    time to combine that expertise with your naturally empathetic and forward-thinking
-    approach towards our target audience needs.  We are looking for someone to take
-    on this rewarding role as a Product Manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=46
 - Job Title: Marketing & Communications Manager
   Location: Nairobi, Kenya
   Job Description: Are you a self-starter who quickly understands what needs to be
@@ -83,13 +76,6 @@ Jobs:
     actually you thrive most when working with them!  Sounds like you’re a fit for
     the Data Team Lead position.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=59
-- Job Title: 'County Programme Manager '
-  Location: Uasin Gishu County, Kenya
-  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
-    you like to contribute to Triggerise growth and footprint?  This is the role for
-    you!  Each quarter, Triggerise expands into new geographies, and we are looking
-    for someone with a tech-savvy background to help us to do so.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=64
 - Job Title: Risk Analyst
   Location: Global
   Job Description: Using and analyzing data, you are able to dig deep and identify
@@ -135,12 +121,6 @@ Jobs:
     And are you looking for a role that combines strategy and practical implementation?
     Then this might be your next job!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=60
-- Job Title: Global Recruiter
-  Location: Global
-  Job Description: Do you have international recruitment experience? Have you successfully
-    connected people with their ideal role, whether in tech or other industries?  Read
-    on to find out more about our role as Global Recruiter.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=80
 - Job Title: HR Internship
   Location: Global
   Job Description: 'Are you interested in global HR? Would you like to gain experience
