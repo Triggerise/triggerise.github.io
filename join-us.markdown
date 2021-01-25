@@ -121,11 +121,6 @@ Jobs:
     And are you looking for a role that combines strategy and practical implementation?
     Then this might be your next job!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=60
-- Job Title: HR Internship
-  Location: Global
-  Job Description: 'Are you interested in global HR? Would you like to gain experience
-    with an independent, global research project?  This is the role for you!  '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=84
 - Job Title: Field Operations Lead
   Location: Addis Ababa, Ethiopia
   Job Description: 'Do you want to have a direct impact on our mission?  Are you experienced
