@@ -83,12 +83,6 @@ Jobs:
     challenges and frustrations and you can use your solution-driven approach to assist
     in detection, prevention, and an overall reduction of fraud.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
-- Job Title: Agile Lead
-  Location: Cape Town, South Africa
-  Job Description: Have you led a team using an Agile approach in the past?  Would
-    you like the opportunity to facilitate, and guide a team in this direction?  Check
-    out the ad for more information on the Agile Lead position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
 - Job Title: DevOps Engineer (AWS)
   Location: Global
   Job Description: Do you have experience building, testing & maintaining tools that
