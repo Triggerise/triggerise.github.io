@@ -4,7 +4,7 @@ date: 2020-07-28 11:50:00 Z
 Body: "Triggerise Stichting (the Foundation) is a non-profit institution for the public
   benefit (ANBI), as is apparent from the Foundation’s statutes in the Triggerise
   Stichting Articles of Incorporation and from the actual work planned and implemented
-  by the Foundation.\n\n**Activities and Work by the Foundation**\n\nThe disposition
+  by the Foundation..\n\n**Activities and Work by the Foundation**\n\nThe disposition
   of Triggerise Sitchting’s assets are made in accordance with its objectives, which
   include creating, fostering, investing and/or managing businesses and philanthropic
   solutions to underserved market segments worldwide. The foundation’s mission and
