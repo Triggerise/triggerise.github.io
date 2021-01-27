@@ -1913,17 +1913,34 @@
     margin-left: auto;
   }
 
+  h2 {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
   p {
-    max-width: 60%;
+    max-width: 90%;
   }
 
   .address-wrapper {
     @include mq($from: desktop) {
       column-count: 2;
       column-fill: balance;
-      max-height: 540px;
+      max-height: 600px;
     }
   }
+  .addresses-section-container {
+    border-bottom: solid .3px $darkBlue;
+    margin: 20px 0;
+  }
+}
+
+.contact_banner__h3 {
+  width: 100%;
+  display: block;
+  padding-top: 50px;
+  text-align: center;
 }
 
 .filters {
@@ -1943,7 +1960,6 @@
     }
   }
 }
-
 
 //arrows for carousel
 .fp-controlArrow {

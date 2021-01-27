@@ -1,0 +1,13 @@
+<div class="t-one {{include.colour}} {{include.classList}}" {%if include.data == false %}uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" {% endif %}>
+  <div class="wrapper">
+    {% if include.sectionTitle %}
+      <h3 class="text-colour-{{include.textColor}} t-one__title_wrapper t_one_layout contact_banner__h3" >{{include.sectionTitle}}</h3>
+    {% endif %}
+
+    {% if include.description %}
+      <div class="t-one__description-wrapper text-colour-{{include.textColor}}">
+        {{include.description | markdownify}}
+      </div>
+    {% endif %}
+  </div>
+</div>
