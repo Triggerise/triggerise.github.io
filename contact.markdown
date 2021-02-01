@@ -16,15 +16,9 @@ AddressesRow1:
     Porto, Portugal
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
-AddressesRow2:    
-- Address: |-
-    **Triggerise Ethiopia**
-
-    Gulf Aziz Building,       
-    Office Number 120,         
-    Addis Ababa, Ethiopia
-
-    [helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)
+AddressesRow2:
+- Address: "**Triggerise Ethiopia**\n\nGulf Aziz Building,       \nOffice Number 120,
+    \        \nAddis Ababa, Ethiopia\n\n[helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)"
 - Address: |-
     **Triggerise Kenya**
 
@@ -34,7 +28,7 @@ AddressesRow2:
     Nairobi, Kenya
 
     [hellokenya@triggerise.org](mailto:hellokenya@triggerise.org)
-AddressesRow3:    
+AddressesRow3:
 - Address: |-
     **Triggerise India**
 
