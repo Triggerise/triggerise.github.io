@@ -391,7 +391,7 @@
         }
 
         p {
-          font-size: map-get($font-scale, 0);
+          font-size: map-get($font-scale, 0.7);
           line-height: 1.2;
 
           @include mq($from: desktop) {
@@ -399,7 +399,7 @@
           }
 
           @include mq($from: wide) {
-            font-size: map-get($font-scale, bigpar);
+            font-size: map-get($font-scale, 1.2);
           }
         }
       }
@@ -1263,6 +1263,32 @@
   }
 }
 
+.sectionWrapper {
+  padding-bottom: spacing(2);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+    @include mq($from: desktop) {
+      flex-direction: row;
+    }
+
+    h3 {
+      font-size: map-get($font-scale, 4);
+      line-height: 1;
+      font-weight: 400;
+
+      @include mq($from: desktop) {
+        font-size: map-get($font-scale, 5);
+      }
+
+      @include mq($from: wide) {
+        font-size: map-get($font-scale, 10);
+      }
+    }
+
+}
+
 .t-rescources-wrapper {
   .report-cover {
     width: 100%;
@@ -1502,6 +1528,9 @@
   }
 }
 
+
+
+
 .about-us-lines {
   width: 100%;
 
@@ -1673,6 +1702,20 @@
   }
 }
 
+.success_story_h2 {
+  font-size: 18px;
+  max-width: 100%;
+  margin-bottom: spacing(4);
+
+  @include mq($from: desktop) {
+    font-size: 20px;
+  }
+
+  @include mq($from: wide) {
+    font-size: 27px;
+  }
+}
+
 .success-story-wrapper {
   position: relative;
   border-bottom: 1px solid $darkBlue;
@@ -1685,7 +1728,7 @@
   }
 
   h1, h2, p, ul, ol {
-    max-width: 600px;
+    max-width: 100%;
   }
 
   img {
@@ -1703,19 +1746,48 @@
       font-size: map-get($font-scale, 4);
     }
   }
-  h2 {
-    font-size: map-get($font-scale, bigpar);
-    margin-bottom: spacing(4);
 
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 2);
-    }
-  }
   p {
-    font-size: map-get($font-scale, 1);
+    font-size: map-get($font-scale, 0.8);
 
     strong {
       display: block;
+    }
+  }
+}
+
+.impact__description-wrapper {
+  padding-right: 8%;
+  box-sizing: border-box;
+
+  @include mq($from: desktop) {
+    width: 50%;
+  }
+
+  h5 {
+    font-size: map-get($font-scale, 1);
+    line-height: 1.2;
+    margin-top: spacing(-2);
+
+    @include mq($from: desktop) {
+      font-size: map-get($font-scale, bigpar);
+    }
+
+    @include mq($from: wide) {
+      font-size: map-get($font-scale, 2);
+    }
+  }
+
+  p {
+    font-size: map-get($font-scale, 0.7);
+    line-height: 1.2;
+
+    @include mq($from: desktop) {
+      font-size: map-get($font-scale, 1);
+    }
+
+    @include mq($from: wide) {
+      font-size: map-get($font-scale, 1.2);
     }
   }
 }
@@ -1913,17 +1985,34 @@
     margin-left: auto;
   }
 
+  h2 {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
   p {
-    max-width: 60%;
+    max-width: 90%;
   }
 
   .address-wrapper {
     @include mq($from: desktop) {
       column-count: 2;
       column-fill: balance;
-      max-height: 540px;
+      max-height: 600px;
     }
   }
+  .addresses-section-container {
+    border-bottom: solid .3px $darkBlue;
+    margin: 20px 0;
+  }
+}
+
+.contact_banner__h3 {
+  width: 100%;
+  display: block;
+  padding-top: 50px;
+  text-align: center;
 }
 
 .filters {
@@ -1943,7 +2032,6 @@
     }
   }
 }
-
 
 //arrows for carousel
 .fp-controlArrow {

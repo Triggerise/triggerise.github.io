@@ -69,13 +69,6 @@ Jobs:
     marketing to drive awareness and interest in Triggerise services? Continue reading
     to find out more about this position for a Marketing and Communications Manager.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=54
-- Job Title: Data Team Lead
-  Location: Porto, Portugal
-  Job Description: Do you consider yourself an expert in all things data, and have
-    experience managing a team?  You’re not afraid of complex data sets and tools,
-    actually you thrive most when working with them!  Sounds like you’re a fit for
-    the Data Team Lead position.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=59
 - Job Title: Risk Analyst
   Location: Global
   Job Description: Using and analyzing data, you are able to dig deep and identify
