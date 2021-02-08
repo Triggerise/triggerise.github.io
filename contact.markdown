@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2020-07-28 11:50:00 Z
-Addresses:
+AddressesRow1:
 - Address: |-
     **Triggerise Headquarters**
 
@@ -16,14 +16,9 @@ Addresses:
     Porto, Portugal
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
-- Address: |-
-    **Triggerise Ethiopia**
-
-    Gulf Aziz Building,
-    Office Number 120,
-    Addis Ababa, Ethiopia
-
-    [helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)
+AddressesRow2:
+- Address: "**Triggerise Ethiopia**\n\nGulf Aziz Building,       \nOffice Number 120,
+    \        \nAddis Ababa, Ethiopia\n\n[helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)"
 - Address: |-
     **Triggerise Kenya**
 
@@ -33,6 +28,7 @@ Addresses:
     Nairobi, Kenya
 
     [hellokenya@triggerise.org](mailto:hellokenya@triggerise.org)
+AddressesRow3:
 - Address: |-
     **Triggerise India**
 
@@ -42,8 +38,14 @@ Addresses:
     New Delhi, India
 
     [helloindia@triggerise.org](mailto:helloindia@triggerise.org)
-- Address: "**Triggerise South Africa**\n\nWorkshop 17,\nThe Watershed,\n17 Dock Rd,
-    V&A Water Front,\nCape Town, South Africa \n\n[hello@triggerise.org](mailto:hello@triggerise.org)"
+- Address: |-
+    **Triggerise South Africa**
+
+    Workshop 17, The Watershed,
+    17 Dock Rd, V&A Water Front,
+    Cape Town, South Africa
+
+    [hello@triggerise.org](mailto:hello@triggerise.org)
 layout: simple
 ---
 

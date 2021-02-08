@@ -614,6 +614,7 @@
     display: flex;
     margin-top: 30px;
     padding-top: 10px;
+    padding-left: 3%;
     padding-bottom: spacing(2);
     flex-direction: column;
 
@@ -1263,10 +1264,8 @@
 }
 
 
-
-
 .sectionWrapper {
-    padding-bottom: spacing(2);
+  padding-bottom: spacing(2);
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -1289,9 +1288,6 @@
       }
     }
 }
-
-
-
 
 
 .t-rescources-wrapper {
@@ -1533,6 +1529,9 @@
   }
 }
 
+
+
+
 .about-us-lines {
   width: 100%;
 
@@ -1749,11 +1748,47 @@
     }
   }
 
+
   p {
     font-size: map-get($font-scale, 0.8);
 
     strong {
       display: block;
+    }
+  }
+}
+
+.impact__description-wrapper {
+  padding-right: 8%;
+  box-sizing: border-box;
+
+  @include mq($from: desktop) {
+    width: 50%;
+  }
+
+  h5 {
+    font-size: map-get($font-scale, 1);
+    line-height: 1.2;
+    margin-top: spacing(-2);
+
+    @include mq($from: desktop) {
+      font-size: map-get($font-scale, bigpar);
+    }
+
+    @include mq($from: wide) {
+      font-size: map-get($font-scale, 2);
+    }
+  }
+
+  p {
+    font-size: map-get($font-scale, 0.7);
+    line-height: 1.2;
+    @include mq($from: desktop) {
+      font-size: map-get($font-scale, 1);
+    }
+
+    @include mq($from: wide) {
+      font-size: map-get($font-scale, 1.2);
     }
   }
 }
@@ -1951,17 +1986,34 @@
     margin-left: auto;
   }
 
+  h2 {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
   p {
-    max-width: 60%;
+    max-width: 90%;
   }
 
   .address-wrapper {
     @include mq($from: desktop) {
       column-count: 2;
       column-fill: balance;
-      max-height: 540px;
+      max-height: 600px;
     }
   }
+  .addresses-section-container {
+    border-bottom: solid .3px $darkBlue;
+    margin: 20px 0;
+  }
+}
+
+.contact_banner__h3 {
+  width: 100%;
+  display: block;
+  padding-top: 50px;
+  text-align: center;
 }
 
 .filters {
@@ -1981,7 +2033,6 @@
     }
   }
 }
-
 
 //arrows for carousel
 .fp-controlArrow {

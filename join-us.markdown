@@ -62,13 +62,6 @@ Jobs:
     end development? Continue reading to find out more about our back end developer
     role.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=42
-- Job Title: Product Manager
-  Location: Global
-  Job Description: You’ve worked extensively across digital platforms, now is the
-    time to combine that expertise with your naturally empathetic and forward-thinking
-    approach towards our target audience needs.  We are looking for someone to take
-    on this rewarding role as a Product Manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=46
 - Job Title: Marketing & Communications Manager
   Location: Nairobi, Kenya
   Job Description: Are you a self-starter who quickly understands what needs to be
@@ -76,20 +69,6 @@ Jobs:
     marketing to drive awareness and interest in Triggerise services? Continue reading
     to find out more about this position for a Marketing and Communications Manager.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=54
-- Job Title: Data Team Lead
-  Location: Portugal, Porto
-  Job Description: Do you consider yourself an expert in all things data, and have
-    experience managing a team?  You’re not afraid of complex data sets and tools,
-    actually you thrive most when working with them!  Sounds like you’re a fit for
-    the Data Team Lead position.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=59
-- Job Title: 'County Programme Manager '
-  Location: Uasin Gishu County, Kenya
-  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
-    you like to contribute to Triggerise growth and footprint?  This is the role for
-    you!  Each quarter, Triggerise expands into new geographies, and we are looking
-    for someone with a tech-savvy background to help us to do so.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=64
 - Job Title: Risk Analyst
   Location: Global
   Job Description: Using and analyzing data, you are able to dig deep and identify
@@ -97,12 +76,6 @@ Jobs:
     challenges and frustrations and you can use your solution-driven approach to assist
     in detection, prevention, and an overall reduction of fraud.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
-- Job Title: Agile Lead
-  Location: Cape Town
-  Job Description: Have you led a team using an Agile approach in the past?  Would
-    you like the opportunity to facilitate, and guide a team in this direction?  Check
-    out the ad for more information on the Agile Lead position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
 - Job Title: DevOps Engineer (AWS)
   Location: Global
   Job Description: Do you have experience building, testing & maintaining tools that
@@ -118,13 +91,13 @@ Jobs:
     position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
 - Job Title: Data Engineer
-  Location: Porto
+  Location: Porto, Portugal
   Job Description: Do you have an affinity for Data?  Are you able to use tools to
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
 - Job Title: 'Tiko System Facilitator '
-  Location: Ethiopia, Addis Ababa
+  Location: Addis Ababa, Ethiopia
   Job Description: Are you excited about working with youth within local, urban communities?  Do
     you have experience in mobilising field activities in the area of sexual, reproductive
     and maternal health? Continue reading to find out if this is something for you!
@@ -135,12 +108,28 @@ Jobs:
     And are you looking for a role that combines strategy and practical implementation?
     Then this might be your next job!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=60
-- Job Title: Global Recruiter
+- Job Title: Field Operations Lead
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and training and do you see job opportunities everywhere? Read more
+    to find out about this Field Operations Lead role.
+
+'
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=79
+- Job Title: Customer Support Officer
+  Location: Addis Ababa, Ethiopia
+  Job Description: Are you looking for a role in operations, where you can be a part
+    of transforming business concepts & needs core to our platform?  Have you got
+    experience troubleshooting and solving urgent technical or user issues with great
+    efficiency? Continue reading, and apply below!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=67
+- Job Title: M&E Lead / Data Scientist
   Location: Global
-  Job Description: Do you have international recruitment experience? Have you successfully
-    connected people with their ideal role, whether in tech or other industries?  Read
-    on to find out more about our role as Global Recruiter.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=80
+  Job Description: "\nTriggerise creates impact by applying tech to non-profit. Are
+    you that special person that brings us the best of both worlds? We are looking
+    for an M&E lead/Data Scientist that can help us to not just monitor and evaluate,
+    but also predict and steer on data. "
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
