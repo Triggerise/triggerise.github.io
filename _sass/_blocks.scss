@@ -1263,6 +1263,7 @@
   }
 }
 
+
 .sectionWrapper {
   padding-bottom: spacing(2);
     display: flex;
@@ -1286,8 +1287,8 @@
         font-size: map-get($font-scale, 10);
       }
     }
-
 }
+
 
 .t-rescources-wrapper {
   .report-cover {
@@ -1747,6 +1748,7 @@
     }
   }
 
+
   p {
     font-size: map-get($font-scale, 0.8);
 
@@ -1781,7 +1783,6 @@
   p {
     font-size: map-get($font-scale, 0.7);
     line-height: 1.2;
-
     @include mq($from: desktop) {
       font-size: map-get($font-scale, 1);
     }
