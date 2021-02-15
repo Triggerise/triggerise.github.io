@@ -5,14 +5,37 @@
       <div class="jobs-intro">
         <h2>{{page.Open-positions-text | markdownify}}</h2>
       </div>
-      {% for job in page.Jobs %}
-      <div class="job">
-        <h3>{{job.['Job Title']}}</h3>
-        <h3 class="location">{{job.Location}}</h3>
-        <p>{{job.['Job Description']}}</p>
-        <small><a href="{{job.Link}}">Read full description</a></small>
+        <div class="arrows__container">
+         <svg width="129" height="129" class="svg__arrow_1" id="svg__arrow_1" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
+         <svg width="129" class="svg__arrow_2" id="svg__arrow_2" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
+       </div>
+      <div class="job__slider_container" id="job__slider_container">
+          <div class="job__slider" id="job__slider">
+            {% for job in page.Jobs %}
+             <div class="job" >
+                  <h3> {{job.['Job Title']}} </h3>
+                  <h3 class="location">{{job.Location}}</h3>
+                  <p>{{job.['Job Description']}}</p>
+                  <small><a href="{{job.Link}}">Read full description</a></small>
+             </div>
+            {% endfor %}
+          </div>
       </div>
-      {% endfor %}
     </div>
   </div>
 </div>
+
+
+<script>
+  console.log('Built by sida');
+
+  const buttonRight = document.getElementById('svg__arrow_2');
+  const buttonLeft = document.getElementById('svg__arrow_1');
+
+  buttonRight.onclick = function () {
+    document.getElementById('job__slider').scrollLeft += 300;
+  };
+  buttonLeft.onclick = function () {
+    document.getElementById('job__slider').scrollLeft -= 300;
+  };
+</script>

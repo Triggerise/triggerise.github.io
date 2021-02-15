@@ -273,6 +273,26 @@ function filters(){
  }
 };
 
+
+
+// $(document).on('click', '#pnAdvancerLeft', function() {
+//     console.log('TEST')
+// });
+
+
+
+// var test = document.querySelector('#pnAdvancerLeft');
+// test.onclick = function() {
+//     console.log('Hello');
+// }
+
+// $(document).ready(function() {
+//   $('#pnAdvancerLeft').on('click', function() {
+//     console.log('Hello');
+//   });
+// });
+
+
 var myStorage = window.localStorage;
 console.log(myStorage);
 var cookies = myStorage.getItem('cookies');

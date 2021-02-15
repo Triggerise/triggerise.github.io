@@ -1,4 +1,5 @@
 ---
+<script src="{{ base.url | prepend: site.url }}/assets/scroller.js"></script>
 title: Join us
 date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
@@ -131,7 +132,6 @@ Jobs:
     but also predict and steer on data. "
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 Values animation image: "/uploads/Mark05-a40558.gif"
-Field name: 
+Field name:
 layout: join
 ---
-
