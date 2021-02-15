@@ -1839,17 +1839,29 @@
 
   .arrows__container {
     width: 100%;
-    margin-bottom: -500px;
-    margin-top: 250px;
+    margin-bottom: -200px;
+    margin-top: 100px;
+
+    @include mq($from: desktop) {
+      width: 100%;
+      margin-bottom: -500px;
+      margin-top: 250px;
+    }
   }
 
   .svg__arrow_1 {
     max-width: 40px;
     height:auto;
-    padding-top: 250px;
-    margin-left: 70px;
+    padding-top: 100px;
+    margin-left: 10px;
     transform: rotate(90deg);
     float: left;
+
+    @include mq($from: desktop) {
+      max-width: 40px;
+      padding-top: 250px;
+      margin-left: 80px;
+    }
 
     &:hover {
       transform: scale(1.02);
@@ -1862,9 +1874,15 @@
     float: right;
     max-width: 40px;
     height:auto;
-    padding-top: 250px;
-    margin-right: 80px;
+    padding-top: 100px;
+    margin-right: 10px;
     transform: rotate(270deg);
+
+    @include mq($from: desktop) {
+      max-width: 40px;
+      padding-top: 250px;
+      margin-right: 80px;
+    }
 
     &:hover {
       transform: scale(1.02);
@@ -1875,23 +1893,38 @@
 
   .job__slider_container {
     width: 100%;
-    height: 820px;
+    height: 250px;
    -webkit-overflow-scrolling: touch;
+
+   @include mq($from: desktop) {
+     width: 100%;
+     height: 820px;
+    -webkit-overflow-scrolling: touch;
+   }
   }
 
   .job__slider {
     height: 100%;
     width: 100%;
-    display:flex;
-    flex-direction:column;
-    grid-template-columns: auto auto auto auto;
-    flex-wrap:wrap;
-    grid-template-rows: 250px 250px 250px;
-    //white-space:nowrap;
-    align-content: flex-start;
-    grid-gap: 10px;
+    white-space:nowrap;
     overflow-x: scroll;
     overflow-y: hidden;
+
+    @include mq($from: desktop) {
+      height: 100%;
+      width: 100%;
+      display:flex;
+      flex-direction:column;
+      grid-template-columns: auto auto auto auto;
+      flex-wrap:wrap;
+      grid-template-rows: 250px 250px 250px;
+      //white-space:nowrap;
+      align-content: flex-start;
+      grid-gap: 10px;
+      overflow-x: scroll;
+      overflow-y: hidden;
+    }
+
   }
 
   .job__link {
