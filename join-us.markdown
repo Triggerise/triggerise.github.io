@@ -130,6 +130,42 @@ Jobs:
     for an M&E lead/Data Scientist that can help us to not just monitor and evaluate,
     but also predict and steer on data. "
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
+- Job Title: Software Team Lead
+  Location: Portugal, Porto
+  Job Description: Do you have experience leading a software engineering team to success,
+    as well as playing a big part in being hands on and contributing to the creation
+    and maintenance of software?  Sounds like you could be our new Software team Lead..
+    read on to find out more!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=92
+- Job Title: Mobile Engineer
+  Location: South Africa, Cape Town
+  Job Description: Do you have experience creating and maintaining software that enables
+    mobile apps to function?  Are you looking to utilize your skillset whilst having
+    a positive impact with tech?  Read on to find out more about our Mobile Developer
+    position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
+- Job Title: Product Owner
+  Location: South Africa, Cape Town
+  Job Description: Are you a product visionary, who has an affinity for technology,
+    combined with the ability to gather and parse the opinions of multiple stakeholders?  You
+    always see the bigger picture and are an expert at understanding our user's needs
+    and wants.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
+- Job Title: Engineering and Data Manager
+  Location: Portugal, Porto
+  Job Description: "You have previous experience guiding, and aligning multi-functional
+    teams, to ensure that agreed delivery by teams and individuals is met.  Are you
+    looking for your next opportunity to contribute to the growth and success of others?
+    \ Continue reading to find out more about our Engineer & Data Manager position!\n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
+- Job Title: Agile Lead
+  Location: Cape Town, South Africa
+  Job Description: 'Have you influenced Agile within teams?  Would you like the opportunity
+    to facilitate, and guide a team in this direction?  Check out the ad for more
+    information on the Agile Lead position!
+
+'
+  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
