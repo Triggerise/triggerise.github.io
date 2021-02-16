@@ -158,13 +158,14 @@ Jobs:
     looking for your next opportunity to contribute to the growth and success of others?
     \ Continue reading to find out more about our Engineer & Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
-- Job Title: Product Owner
-  Location: South Africa, Cape Town
-  Job Description: "Are you a product visionary, who has an affinity for technology,
-    combined with the ability to gather and parse the opinions of multiple stakeholders?
-    \ You always see the bigger picture and are an expert at understanding our user's
-    needs and wants.\n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
+- Job Title: Agile Lead
+  Location: Cape Town, South Africa
+  Job Description: 'Have you influenced Agile within teams?  Would you like the opportunity
+    to facilitate, and guide a team in this direction?  Check out the ad for more
+    information on the Agile Lead position!
+
+'
+  Link: 
 - Job Title: 
   Location: 
   Job Description: 
