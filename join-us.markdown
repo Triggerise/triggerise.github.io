@@ -166,10 +166,6 @@ Jobs:
 
 '
   Link: 
-- Job Title: 
-  Location: 
-  Job Description: 
-  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
