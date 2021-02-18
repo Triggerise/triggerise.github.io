@@ -151,7 +151,7 @@ Jobs:
     information on the Agile Lead position!
 
 '
-  Link: 
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
 - Job Title: Virtual Pro
   Location: Yaounde, Cameroon
   Job Description: 'Are you a social media fan, who knows how to use it in a professional
