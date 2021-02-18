@@ -102,14 +102,6 @@ Jobs:
     you have experience in mobilising field activities in the area of sexual, reproductive
     and maternal health? Continue reading to find out if this is something for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=77
-- Job Title: Field Operations Lead
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Do you want to have a direct impact on our mission?  Are you experienced
-    in connecting and training and do you see job opportunities everywhere? Read more
-    to find out about this Field Operations Lead role.
-
-'
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=79
 - Job Title: Customer Support Officer
   Location: Addis Ababa, Ethiopia
   Job Description: Are you looking for a role in operations, where you can be a part
@@ -125,28 +117,28 @@ Jobs:
     but also predict and steer on data. "
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 - Job Title: Software Team Lead
-  Location: Portugal, Porto
+  Location: Porto, Portugal
   Job Description: Do you have experience leading a software engineering team to success,
     as well as playing a big part in being hands on and contributing to the creation
     and maintenance of software?  Sounds like you could be our new Software team Lead..
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=92
 - Job Title: Mobile Engineer
-  Location: South Africa, Cape Town
+  Location: Cape Town, South Africa
   Job Description: Do you have experience creating and maintaining software that enables
     mobile apps to function?  Are you looking to utilize your skillset whilst having
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
 - Job Title: Product Owner
-  Location: South Africa, Cape Town
+  Location: Cape Town, South Africa
   Job Description: Are you a product visionary, who has an affinity for technology,
     combined with the ability to gather and parse the opinions of multiple stakeholders?  You
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
 - Job Title: Engineering and Data Manager
-  Location: Portugal, Porto
+  Location: Porto, Portugal
   Job Description: "You have previous experience guiding, and aligning multi-functional
     teams, to ensure that agreed delivery by teams and individuals is met.  Are you
     looking for your next opportunity to contribute to the growth and success of others?
@@ -160,6 +152,15 @@ Jobs:
 
 '
   Link: 
+- Job Title: Virtual Pro
+  Location: Yaounde, Cameroon
+  Job Description: 'Are you a social media fan, who knows how to use it in a professional
+    way? Do you love being in contact with people and do you have an interest in sexual
+    and reproductive health (SRH)? Then our Virtual Pro role is the right job for
+    you!
+
+'
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=93&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
