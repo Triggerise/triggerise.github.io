@@ -102,12 +102,6 @@ Jobs:
     you have experience in mobilising field activities in the area of sexual, reproductive
     and maternal health? Continue reading to find out if this is something for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=77
-- Job Title: Marketing Technologist
-  Location: Global
-  Job Description: Can you set a technology vision for marketing in a digital world?
-    And are you looking for a role that combines strategy and practical implementation?
-    Then this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=60
 - Job Title: Field Operations Lead
   Location: Addis Ababa, Ethiopia
   Job Description: 'Do you want to have a direct impact on our mission?  Are you experienced
