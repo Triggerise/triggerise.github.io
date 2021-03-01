@@ -76,13 +76,6 @@ Jobs:
     challenges and frustrations and you can use your solution-driven approach to assist
     in detection, prevention, and an overall reduction of fraud.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
-- Job Title: DevOps Engineer (AWS)
-  Location: Global
-  Job Description: Do you have experience building, testing & maintaining tools that
-    allow for speedy development of software?  You enjoy working in an Agile way and
-    are excited by the prospect of using technology to create impact.  Read on to
-    find out more to find out about our Devops Engineer position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
 - Job Title: Back End Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
