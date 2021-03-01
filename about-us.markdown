@@ -3,7 +3,7 @@ title: About us
 date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
-- Number: 125
+- Number: 135
   Text: brilliant people strong
 - Number: 25
   Text: 'cities we call home '
@@ -57,10 +57,13 @@ Supervisory Board:
   Image: "/uploads/Trig_profiles_leotine.jpg"
 - Name: Julia Sakovska
   Role: 
-  Description: "(Breda, The Netherlands), FCCA, serves as a CFO on the Managing Board
-    of Van Tilburg-Bastianen Group, one of the most prominent businesses in the mobility
-    services industry. Julia has 25 years of finance and accounting experience gained
-    at KPMG Audit, DLL (Rabobank Group) and Athlon International."
+  Description: "(the Netherlands), FCCA, serves as a CFO at TCR Group (Brussels),
+    a Private Equity backed international provider of Ground Support Equipment (GSE)
+    to ground handlers, airlines and airports. Julia has over 25 years of finance
+    and accounting experience gained at KPMG Audit, DLL (Rabobank Group), Athlon International
+    (innovative leasing and mobility services businesses) and Van Tilburg-Bastianen
+    Group (one of the most prominent family-owned businesses in the mobility services
+    industry in the Netherlands)."
   Image: "/uploads/Trig_profiles_julia.jpg"
 Chief Executive Officers:
 - Name: Benoit Renard
