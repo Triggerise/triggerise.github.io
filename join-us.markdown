@@ -145,14 +145,11 @@ Jobs:
 
 '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
-- Job Title: Virtual Pro
+- Job Title: Social Media Agent
   Location: Yaounde, Cameroon
-  Job Description: 'Are you a social media fan, who knows how to use it in a professional
-    way? Do you love being in contact with people and do you have an interest in sexual
-    and reproductive health (SRH)? Then our Virtual Pro role is the right job for
-    you!
-
-'
+  Job Description: "Are you familiar with using social media? Do you love being in
+    contact with people and do you have an interest in sexual and reproductive health
+    (SRH)? Then our Social Media Agent role is the right job for you!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=93&source=aWQ9MjM%3D
 - Job Title: Front end / Web Engineer
   Location: Cape Town, South Africa
