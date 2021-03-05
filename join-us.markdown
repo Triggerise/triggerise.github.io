@@ -165,6 +165,11 @@ Jobs:
     all of Triggerise information Data and IT systems safe? We have an open position
     for an IT Security Lead.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=97
+- Job Title: Quality Assurance Engineer
+  Location: Global
+  Job Description: 'Do you enjoy improving software by focusing on quality? Do you
+    like ‘crashing the system’? Read on! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=98&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join

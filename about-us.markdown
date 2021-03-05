@@ -89,11 +89,6 @@ Our People:
   Location: Porto, Portugal
   LinkedIn: https://www.linkedin.com/in/ribadmilo/
   Image: "/uploads/Trig_profiles_admilo.jpg"
-- Name: Arika
-  Role: Product Owner – TikoSystem
-  Location: Porto, Portugal
-  LinkedIn: http://www.linkedin.com/in/arika-srivastava
-  Image: "/uploads/Trig_profiles_arika.jpg"
 - Name: Asgar
   Role: Tiko System Manager
   Location: Jaipur, India
