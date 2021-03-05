@@ -62,13 +62,6 @@ Jobs:
     end development? Continue reading to find out more about our back end developer
     role.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=42
-- Job Title: Marketing & Communications Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you a self-starter who quickly understands what needs to be
-    said and done in order to reach your audience?  Are you able to focus on targeted
-    marketing to drive awareness and interest in Triggerise services? Continue reading
-    to find out more about this position for a Marketing and Communications Manager.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=54
 - Job Title: Risk Analyst
   Location: Global
   Job Description: Using and analyzing data, you are able to dig deep and identify
