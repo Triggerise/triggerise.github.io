@@ -89,19 +89,6 @@ Jobs:
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
-- Job Title: 'Tiko System Facilitator '
-  Location: Addis Ababa, Ethiopia
-  Job Description: Are you excited about working with youth within local, urban communities?  Do
-    you have experience in mobilising field activities in the area of sexual, reproductive
-    and maternal health? Continue reading to find out if this is something for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=77
-- Job Title: Customer Support Officer
-  Location: Addis Ababa, Ethiopia
-  Job Description: Are you looking for a role in operations, where you can be a part
-    of transforming business concepts & needs core to our platform?  Have you got
-    experience troubleshooting and solving urgent technical or user issues with great
-    efficiency? Continue reading, and apply below!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=67
 - Job Title: M&E Lead / Data Scientist
   Location: Global
   Job Description: "\nTriggerise creates impact by applying tech to non-profit. Are
