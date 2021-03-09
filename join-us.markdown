@@ -110,21 +110,13 @@ Jobs:
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
-- Job Title: Engineering and Data Manager
+- Job Title: Data Engineering Manager
   Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning multi-functional
-    teams, to ensure that agreed delivery by teams and individuals is met.  Are you
-    looking for your next opportunity to contribute to the growth and success of others?
-    \ Continue reading to find out more about our Engineer & Data Manager position!\n\n"
+  Job Description: "You have previous experience guiding, and aligning data team,
+    to ensure that agreed delivery by teams and individuals is met.  Are you looking
+    for your next opportunity to contribute to the growth and success of others?  Continue
+    reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
-- Job Title: Agile Lead
-  Location: Cape Town, South Africa
-  Job Description: 'Have you influenced Agile within teams?  Would you like the opportunity
-    to facilitate, and guide a team in this direction?  Check out the ad for more
-    information on the Agile Lead position!
-
-'
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
 - Job Title: Social Media Agent
   Location: Yaounde, Cameroon
   Job Description: "Are you familiar with using social media? Do you love being in
