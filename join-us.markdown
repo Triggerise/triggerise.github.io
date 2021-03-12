@@ -82,13 +82,6 @@ Jobs:
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
-- Job Title: M&E Lead / Data Scientist
-  Location: Global
-  Job Description: "\nTriggerise creates impact by applying tech to non-profit. Are
-    you that special person that brings us the best of both worlds? We are looking
-    for an M&E lead/Data Scientist that can help us to not just monitor and evaluate,
-    but also predict and steer on data. "
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 - Job Title: Software Team Lead
   Location: Porto, Portugal
   Job Description: Do you have experience leading a software engineering team to success,
