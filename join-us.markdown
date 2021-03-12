@@ -110,21 +110,13 @@ Jobs:
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
-- Job Title: Engineering and Data Manager
+- Job Title: Data Engineering Manager
   Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning multi-functional
-    teams, to ensure that agreed delivery by teams and individuals is met.  Are you
-    looking for your next opportunity to contribute to the growth and success of others?
-    \ Continue reading to find out more about our Engineer & Data Manager position!\n\n"
+  Job Description: "You have previous experience guiding, and aligning data team,
+    to ensure that agreed delivery by teams and individuals is met.  Are you looking
+    for your next opportunity to contribute to the growth and success of others?  Continue
+    reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
-- Job Title: Agile Lead
-  Location: Cape Town, South Africa
-  Job Description: 'Have you influenced Agile within teams?  Would you like the opportunity
-    to facilitate, and guide a team in this direction?  Check out the ad for more
-    information on the Agile Lead position!
-
-'
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=73
 - Job Title: Social Media Agent
   Location: Yaounde, Cameroon
   Job Description: "Are you familiar with using social media? Do you love being in
@@ -150,6 +142,12 @@ Jobs:
   Job Description: 'Do you enjoy improving software by focusing on quality? Do you
     like ‘crashing the system’? Read on! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=98&source=aWQ9MjM%3D
+- Job Title: Customer Support Officer
+  Location: Nairobi, Kenya
+  Job Description: Do you have experience in troubleshooting and solving urgent technical
+    issues with great efficiency? Do you have a good eye for detail and know how to
+    prioritise? Continue reading, this might be your next job!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=105&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
