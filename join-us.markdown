@@ -110,12 +110,6 @@ Jobs:
     for your next opportunity to contribute to the growth and success of others?  Continue
     reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
-- Job Title: Social Media Agent
-  Location: Yaounde, Cameroon
-  Job Description: "Are you familiar with using social media? Do you love being in
-    contact with people and do you have an interest in sexual and reproductive health
-    (SRH)? Then our Social Media Agent role is the right job for you!\n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=93&source=aWQ9MjM%3D
 - Job Title: Front end / Web Engineer
   Location: Cape Town, South Africa
   Job Description: We have an open position for a Front End / Web Engineer! Do you
