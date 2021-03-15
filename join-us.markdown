@@ -135,12 +135,6 @@ Jobs:
   Job Description: 'Do you enjoy improving software by focusing on quality? Do you
     like ‘crashing the system’? Read on! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=98&source=aWQ9MjM%3D
-- Job Title: Customer Support Officer
-  Location: Nairobi, Kenya
-  Job Description: Do you have experience in troubleshooting and solving urgent technical
-    issues with great efficiency? Do you have a good eye for detail and know how to
-    prioritise? Continue reading, this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=105&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
