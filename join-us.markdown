@@ -128,7 +128,19 @@ Jobs:
   Location: Global
   Job Description: 'Do you enjoy improving software by focusing on quality? Do you
     like ‘crashing the system’? Read on! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=98&source=aWQ9MjM%3D
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=98
+- Job Title: Customer Support Officer
+  Location: 'Portugal, Porto '
+  Job Description: Do you have experience in troubleshooting and solving urgent technical
+    issues with great efficiency? Do you have a good eye for detail and know how to
+    prioritise? Continue reading, this might be your next job!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=104
+- Job Title: D2C Lead
+  Location: Kenya, Nairobi
+  Job Description: Are you looking for a job where your work sustainably creates a
+    big impact on a global scale? Do you wish to work in a diverse and intercultural
+    company? If so, Triggerise could be your place!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
