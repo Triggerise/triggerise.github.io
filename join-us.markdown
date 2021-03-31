@@ -142,6 +142,12 @@ Jobs:
   Job Description: 'Do you enjoy improving software by ‘crashing the system’? Would
     you call yourself communicative and a creative thinker? Read on! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=108&source=aWQ9MjM%3D
+- Job Title: Backend Java Developer
+  Location: Global
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team who use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
