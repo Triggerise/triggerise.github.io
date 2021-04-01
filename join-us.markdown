@@ -69,7 +69,7 @@ Jobs:
     challenges and frustrations and you can use your solution-driven approach to assist
     in detection, prevention, and an overall reduction of fraud.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
-- Job Title: Back End Scala Engineer
+- Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
     want to continue working on innovative projects, whilst making an impact with
@@ -90,14 +90,14 @@ Jobs:
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=92
 - Job Title: Mobile Engineer
-  Location: Cape Town, South Africa
+  Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
     mobile apps to function?  Are you looking to utilize your skillset whilst having
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
 - Job Title: Product Owner
-  Location: Cape Town, South Africa
+  Location: Global
   Job Description: Are you a product visionary, who has an affinity for technology,
     combined with the ability to gather and parse the opinions of multiple stakeholders?  You
     always see the bigger picture and are an expert at understanding our user's needs
@@ -111,7 +111,7 @@ Jobs:
     reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
-  Location: Cape Town, South Africa
+  Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
     have experience within the front end space, developing and enhancing websites
     and mobile applications?  If you thrive most when you are a creating user-friendly
