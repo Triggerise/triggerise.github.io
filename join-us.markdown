@@ -137,11 +137,6 @@ Jobs:
     big impact on a global scale? Do you wish to work in a diverse and intercultural
     company? If so, Triggerise could be your place!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
-- Job Title: Quality Assurance Engineer
-  Location: Global
-  Job Description: 'Do you enjoy improving software by ‘crashing the system’? Would
-    you call yourself communicative and a creative thinker? Read on! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=108&source=aWQ9MjM%3D
 - Job Title: Backend Java Developer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
