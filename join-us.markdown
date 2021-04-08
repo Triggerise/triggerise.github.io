@@ -82,13 +82,6 @@ Jobs:
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
-- Job Title: Software Team Lead
-  Location: Porto, Portugal
-  Job Description: Do you have experience leading a software engineering team to success,
-    as well as playing a big part in being hands on and contributing to the creation
-    and maintenance of software?  Sounds like you could be our new Software team Lead..
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=92
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
