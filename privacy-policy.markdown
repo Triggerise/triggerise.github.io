@@ -21,20 +21,25 @@ Body: "Protecting your data, privacy and personal data (as defined under Article
   \nQuestions, comments and requests regarding this Privacy Policy are welcome and
   should be addressed to privacy@triggerise.org. Our Data Protection Officer is Admillo
   Ribeiro.\n\n**SECTION 2 – GENERAL OVERVIEW OF OUR DATA PROCESSING IN CONNECTION
-  WITH SERVICES, PRODUCTS AND INFORMATION**\n\nInformation you provide to us. \nYou
-  will be asked to provide us with your information when you:\n\n●Fill in forms on
+  WITH SERVICES, PRODUCTS AND INFORMATION**\nInformation you provide to us. \nYou
+  will be asked to provide us with your information when you:
+  \n\n- Fill in forms on
   our websites, our applications, our digital assets (such as Facebook Messenger,
-  Twitter, Whatsapp, Instagram or correspond with us by SMS, phone, email or otherwise;\n\n●Register/enrol to use our services, products or offers, subscribe to our newsletter,
-  promotional emails or other marketing materials;\n\n●Use the services or products
-  that you receive through our platforms;\n\n●Rate the services or products that you
-  receive on our platforms\n\n●Report a problem with services or products received;
-  or\n\n●Complete any surveys or studies that we use for research purposes to evaluate
+  Twitter, Whatsapp, Instagram or correspond with us by SMS, phone, email or otherwise;
+  \n\n- Register/enrol to use our services, products or offers, subscribe to our newsletter,
+  promotional emails or other marketing materials;
+  \n\n- Use the services or products
+  that you receive through our platforms;
+  \n\n- Rate the services or products that you receive on our platforms
+  \n\n- Report a problem with services or products received;
+  or
+  \n\n- Complete any surveys or studies that we use for research purposes to evaluate
   our services or improve the quality of services that we provide to you\n\nThe information
   you will be asked to provide us for these purposes may include your gender, date
   of birth, phone number, products or services you received, locations of places where
   you received a product, service or information, redeemed rewards or further information
   required to verify your identity such as an image of your face.\n\n**SECTION 3 –
-  SPECIFIC PROCESSING ACTIVITIES, TYPE AND PURPOSE OF THEIR USE** \n\n**3.1 WHEN YOU USE
+  SPECIFIC PROCESSING ACTIVITIES, TYPE AND PURPOSE OF THEIR USE** \n**3.1 WHEN YOU USE
   OUR WEBSITES**\nTypes of data: IP address of the requesting device, date and time
   of access, name and URL of the requested file, website from which access is obtained
   (“Referrer URL”), browser used and, where applicable, your device’s operating system
@@ -146,22 +151,23 @@ Body: "Protecting your data, privacy and personal data (as defined under Article
   data that is no longer needed is either anonymized (and the anonymized data may
   be retained) or securely destroyed.\n\n**SECTION 8 –  YOUR RIGHTS**\nUnder GDPR,
   you have various rights in relation to your personal data (as listed below). All
-  of these rights can be exercised by contacting us at [privacy@triggerise.org](mailto:privacy@triggerise.org).\n\nRight
-  to withdraw consent: You have the right to withdraw your consent at any time by
+  of these rights can be exercised by contacting us at [privacy@triggerise.org](mailto:privacy@triggerise.org).
+  \n\nRight to withdraw consent: You have the right to withdraw your consent at any time by
   notifying us by email to the following address: privacy@triggerise.org or by sending
   an SMS to any of the shortcodes that we use in the countries in which we operate.
   By withdrawing your consent, the lawfulness of the processing based on consent up
-  until the point of withdrawal will not be affected. \n\nRight to object: You have
-  a right to object under the conditions of Article 21 DSGVO. Below you will find
-  more detailed information:\n\n— Right to object where the processing is based on
+  until the point of withdrawal will not be affected. 
+  \n\nRight to object: You have a right to object under the conditions of Article 21 DSGVO. Below you will find
+  more detailed information:
+  \n\n- Right to object where the processing is based on
   legitimate interests: As a data subject, you have the right to object, on grounds
   relating to your particular situation, at any time to processing of your personal
   data which is based on Article 6 (1) (e) or (f) GDPR, including profiling based
   on those provisions. In the event of an objection relating to your particular situation,
   we will no longer process your personal data unless we can demonstrate compelling
   legitimate grounds for the processing which override your interests, rights and
-  freedoms or for the establishment, exercise or defence of legal claims. \n\n— Right
-  to object where we process your personal data for statistical purposes: If we process
+  freedoms or for the establishment, exercise or defence of legal claims. 
+  \n\n- Right to object where we process your personal data for statistical purposes: If we process
   your personal data for statistical purposes pursuant to Article 9 (2) (j) DSGVO,
   Section 27 (1) BDSG, you have the right to object to such processing for reasons
   arising from your particular situation. In the event of such an objection, we will
@@ -169,8 +175,8 @@ Body: "Protecting your data, privacy and personal data (as defined under Article
   is necessary to fulfil a task in the public interest, or the discontinuation of
   processing is likely to make it impossible or seriously impair the realisation of
   statistical purposes and the continuation of processing is necessary for the fulfilment
-  of statistical purposes.\n\n— Right to object to direct marketing: Where your personal
-  data are processed for direct marketing purposes, you have the right to object at
+  of statistical purposes.
+  \n\n- Right to object to direct marketing: Where your personal data are processed for direct marketing purposes, you have the right to object at
   any time to processing of your personal data for such marketing, which includes
   profiling to the extent that it is related to such direct marketing. If you object
   to processing for direct marketing purposes, we no longer process your personal
@@ -252,25 +258,31 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   Ethiopia, Portugal, Africa Kusini na Uholanzi.\n\nMaswali, maoni na maombi juu ya
   sera hii ya usiri yanakaribishwa na yafaa kuelekezwa kwa privacy@triggerise.org​.
   Afisa wetu anayehusika na ulinzi wa data ni Admillo Ribeiro.\n\n**SEHEMU YA 2 -
-  MTAZAMO WA KIJUMLA WA USINDIKAJI WA DATA UKIUNGANISHWA NA HUDUMA, BIDHAA NA HABARI.**\n\nHabari
-  unayotupatia.\nUtaombwa kutupatia habari zako wakati:\n\n● Wakati unajaza fomu katika
+  MTAZAMO WA KIJUMLA WA USINDIKAJI WA DATA UKIUNGANISHWA NA HUDUMA, BIDHAA NA HABARI.**\nHabari
+  unayotupatia.\nUtaombwa kutupatia habari zako wakati:
+  \n\n- Wakati unajaza fomu katika
   tuvuti zetu, maombi yetu, vifaa vyetu vya kidigitali (kama facebook, Messenger,
   Twitter, Whatsapp, Instagram ama kuwasiliana nasi kupitia ujumbe mfupi, simu, barua
-  pepe ama mengineyo)\n\n● Kujiandikisha/ kujisajili kutumia huduma, bidhaa ama ununuzi
-  wetu, kujiunga na jarida letu, barua pepe za uendelezaji ama vifaa vingine vya masoko.\n\n● Kutumia
-  huduma ama bidhaa unazopata kupitia majukwaa yetu\n\n● Kuweka kiwango kwa huduma
-  ama bidhaa unazopata kwa majukwaa yetu.\n\n● Repoti shida kwa huduma ama bidhaa oliyopokea
-  ama;\n\n● Kujaza utafiti wowote ama masomo ambayo tunatumia kwa minajili ya utafiti
+  pepe ama mengineyo)
+  \n\n- Kujiandikisha/ kujisajili kutumia huduma, bidhaa ama ununuzi
+  wetu, kujiunga na jarida letu, barua pepe za uendelezaji ama vifaa vingine vya masoko.
+  \n\n- Kutumia
+  huduma ama bidhaa unazopata kupitia majukwaa yetu
+  \n\n- Kuweka kiwango kwa huduma
+  ama bidhaa unazopata kwa majukwaa yetu.
+  \n\n- Repoti shida kwa huduma ama bidhaa oliyopokea
+  ama;
+  \n\n- Kujaza utafiti wowote ama masomo ambayo tunatumia kwa minajili ya utafiti
   na kutathmini huduma zetu ama kuboresha ubora wa huduma ambazo tunawapatia.\n\nHabari
   zile utaombwa kutupea kwa makusudi hayo yanaweza kuwa jinsia yako, tarehe ya kuzaliwa,
   namba ya simu, bidhaa ama huduma ulizopokea, mahali ambapo ulipokea bidhaa, huduma
   ama ujumbe, kukomboa tuzo ama habari nyingine yoyote inayohitajika kuhakikisha kitambulisho
   chako kama picha ya uso wako.\n\n**SEHEMU YA 3 -SHUGHULI MAALUM ZA USINDIKAJI, AINA
-  NA KUSUDI LA UTUMIZI WAO.**\n3.1 Ukitumia tuvuti letu\nAina ya data in pamoja na:
+  NA KUSUDI LA UTUMIZI WAO.**\n**3.1 UKITUMIA TUVUTI LETU**\nAina ya data in pamoja na:
   Anwani ya IP ya kifaa kinachotuma maombi, tarehe na wakati wa upatikanaji, jina
   na ULR ya ile faili inayotuma maombi, tovuti ambayo upatikanaji ulipatikana (“Referrer
   URL”) mtandao uliotumiwa na ikiwezekana, na mfumo wa uendeshaji wa kidude chako
-  na kitambulisho cha anayekupa upatikanaji.\nMatumizi ya data hiyo: tunatumia hiyo
+  na kitambulisho cha anayekupa upatikanaji.\n\nMatumizi ya data hiyo: tunatumia hiyo
   data hapo juu kukuwezesha kupata tovuti yetu, kuhakikisha kwamba tovuti hiyo inaweza
   gundua uhusiano wa internet vyema n ani rahisi kutumia; kuchunguza mfumo wa usalama
   na uthabiti wake, na pia kuongezea kusudi la utawala.\n\nMsingi wa kutumia:  Mvuto
@@ -287,14 +299,14 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   huo hapo juu kukupa akaunti ya kutumia na upatikanaji wa huduma, bidhaa na habari
   ambazo tunapeana kwa majukwaa yetu. Haiwezekani kufikia huduma zetu kama (habari
   zisizo za hiari) hazijapeanwa.\n\nMsingi wa utumizi:  Utendakazi wa kandarasi (
-  Makala ya 6 (1) (b) GDPR/ ruhusa ( Makala 9 (2) (a) GDPR)\nMuda wa kuhifadhi: data
+  Makala ya 6 (1) (b) GDPR/ ruhusa ( Makala 9 (2) (a) GDPR).\n\nMuda wa kuhifadhi: data
   yako inafutwa ama kutolewa vitambulisho (na haiwezi husishwa na mtu fulani) ukiomba
   akauti yako kufutwa. Kama akauti yako haifanyi kazi kwa Zaidi ya miezi 12, tutawasiliana
   nawe kuona kama ungependelea kuendelea kutumia huduma zetu. Ukiacha tena akaunti
   ya matumizi bila kutumiwa kwa miezi mingine 12, tutafuka akauti yako na kutoa vitambulisho
   kwa data yako (ili isiweze kuhusishwa na mtu yeyote).\n\n**3.3 UNAPOPOKEA HUDUMA,
   BIDHAA AMA HABARI KWA MAJUKWA AMBAYO TUNASIMAMIA**\nAina ya data ni pamoja na: Jinsia,
-  tarehe ya kuzaliwa, picha y asura yako, aina ya huduma, bidhaa ama habari ambayo
+  tarehe ya kuzaliwa, picha ya sura yako, aina ya huduma, bidhaa ama habari ambayo
   ulipokea, yule aliyekupa hiyo huduma ama bidhaa, tarehe uliyopokea hiyo huduma ama
   bidhaa ama habari, tathmini yako juu ya ubora wa huduma, bidhaa na habari ulizopokea,
   ikiwa unakomboa ari/mipango kama ya pointi za uaminifu (‘Tiko Miles’) na kama ni
@@ -313,7 +325,7 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   9 (2) (a) GDPR)\nMuda wa kuhifadhi: Data yako inafutwa na kutolewa vitambulishi
   ( na haiwezi kuhusishwa na mtu yeyote) unpoomba akaunti yako kufutwa\n\n**3.4 MASOKO
   YA MOJA KWA MOJA KWAKO WA HUDUMA, BIDHAA AMA HABARI AMBAZO ZIKO KWA  MAJUKWAA TUNAYO
-  SIMAMIA.**\nAina ya data ni kama: : Jinsia, tarehe ya kuzaliwa, picha y asura yako,
+  SIMAMIA.**\nAina ya data ni kama: Jinsia, tarehe ya kuzaliwa, picha y asura yako,
   aina ya huduma, bidhaa ama habari ambayo ulipokea, yule aliyekupa hiyo huduma ama
   bidhaa, tarehe uliyopokea hiyo huduma ama bidhaa ama habari, tathmini yako juu ya
   ubora wa huduma, bidhaa na habari ulizopokea, , ikiwa unakomboa ari/mipango kama
@@ -327,10 +339,10 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   ujumbe wa Whatsapp ama facebook ukisema “koma” ama (5) kututumia barua pepe.\n\nMsingi
   wa utumizi: Ruhusa (Makala 6 (1) (a) GDPR)\nMuda wa kuhifadhi: Data yako inafutwa
   na kutolewa vitambulishi ( na haiwezi kuhusishwa na mtu yeyote) unpoomba akaunti
-  yako kufutwa\n\n**3.4 KUTUMIA DATA INAYOAMBATANA NA AFYA YAKO KWA UTAFITI NA KUSUDI
+  yako kufutwa\n\n**3.5 KUTUMIA DATA INAYOAMBATANA NA AFYA YAKO KWA UTAFITI NA KUSUDI
   LA TAKWIMU**\nAina ya data ni kama: rekodi za bidhaa za afya ama huduma ambazo umepokea
   kutoka kwetu, ujumbe mwingine wa kiafya ambao umetupatia moja kwa moja ama  kwa
-  usahihi wakati wakutumia bidhaa ama huduma zetu.\nUtumizi wa data: Tunachakata data
+  usahihi wakati wakutumia bidhaa ama huduma zetu.\n\nUtumizi wa data: Tunachakata data
   hii ili kufanya utafiti unaohusiana na utumizi na uchukuzi wa huduma na bidhaa za
   afya ya uzazi na kijinsia na kutayarisha ujumla wa takwimu wa utumizi wa bidhaa,
   huduma na habari za kiafya katika maeneo ambayo yaweza kulinganishwa na habari za
@@ -382,8 +394,8 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   kushiriki ujumbe wako wa kibinafsi na washiriki wetu wa utafifi walioaminiwa ambao
   wanaweza chakata habari kwa niaba ya Triggerise kwa kusudi zilizotolewa hapa kwa
   hii sera ya usisri kwa kufuata makubaliano ya mchakato wa data uliokubalika ambao
-  unapeana ulinzi kikamilifu wa habari zako za kibinafsi.\n**SEHEMU YA 7 -TUNAWEKA HABARI
-  ZAKO ZA KIBINAFSI KWA MUDA GANI**\n\nTutaweka habari hiyo hapo juu kwa ule muda ambao
+  unapeana ulinzi kikamilifu wa habari zako za kibinafsi.\n\n**SEHEMU YA 7 -TUNAWEKA HABARI
+  ZAKO ZA KIBINAFSI KWA MUDA GANI**\nTutaweka habari hiyo hapo juu kwa ule muda ambao
   ni muhimu ili kukupa huduma, kushughulikia jambo maalum ambalo laweza kuchipuka
   ama, vinginevyo, kama inavyohitajika kisheria ama mwili wa kuthibiti unaofaa. Wakati
   maalum wakuweka michakato tofauti mtawalia umeelezewa kinaga ubaga kwa sehemu ya
@@ -403,21 +415,23 @@ Privacy Policy - Swahili Description: "**SERA YA FARAGHA/USIRI YA TRIGGERISE**\n
   ambazo tunatumia kwa nchi ambazo tunafanya kazi. Kwa kuondoa ruhusa yako, uhalali
   wa mchakato kwa msingi wa ruhusa hadi pale ambapo unatoka hautaathirika. \n\nHaki
   ya kupinga: una haki ya kupinga chini ya sharia za Makala ya 21 DSGVO. Utapata habari
-  Zaidi hapo chini:\n\n-Haki ya kukataa iwapo mchakato una msingi wa mvuto wa kisheria:
+  Zaidi hapo chini:
+  \n\n- Haki ya kukataa iwapo mchakato una msingi wa mvuto wa kisheria:
   kama mhusika wa data, una haki ya kupinga kwa madai yanayohusika na hali Fulani
   kwa wakati wowote kuchakata habari zako za kibinafsi ambayo ina msingi wa Makala
   ya 6 (1) (e) ama (f) GDPR, ikiwamo ufichuzi kwa msingi wa utoaji. Ikiwa kutakuwa
   na kukataa inayoambatana na hali yako Fulani, hatuwezi kuchakata habari zako za
   kibinafsi hadi tuweza kupambanua sababu za kisheria za kuchakata ambazo zinapita
-  mvuto wako, haki na uhuru ama kwa kutekeleza, kufanya ama kinga kwa madai ya kisheria.
-  \               \n\n-Haki ya kupinga penye tunachakata habari zako za kibinafsi
+  mvuto wako, haki na uhuru ama kwa kutekeleza, kufanya ama kinga kwa madai ya kisheria.            
+  \n\n- Haki ya kupinga penye tunachakata habari zako za kibinafsi
   kwa makusudi ya takwimu: Tukichakata habari zako za binafsi kwa makusudi ya takwimu
   kulingana na Makala 9 (2) (j) DSGVO sehemu ya 27 (1) BDSG, una haki ya kukataa mchakato
   kama huo kwa sababu zinazotoka kwa hali yako Fulani. Ikiwa kuna kukataa kama hiyo,
   hatutachakata tena habari za kibinafsi zinazohusika na kusudi hiyo isipokuwa kama
   kuchakata ni kwa muhimu kutekeleza jukumu ambalo lina maslahi ya umma, ama kukomesha
   kuchakata inaweza fanya kutowezekana ama kuzuia kupata makusudi ya takwimu na kuendelea
-  kuchakata ni muhimu kwa kutekeleza makusudi ya takwimu.\n\n -Haki ya kukataa masoko
+  kuchakata ni muhimu kwa kutekeleza makusudi ya takwimu.
+  \n\n- Haki ya kukataa masoko
   ya moja kwa moja:  habari zako za kibinafsi zikichakatwa kwa makusudi ya masoko
   ya moja kwa moja, una haki ya kukataa wakati wowote kuchakatwa kwa habari zako za
   kibinafsi kwa masoko kama hayo, imbayo inahusu kuficha hadi ambapo inahusiana na
@@ -493,7 +507,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   que nous collectons auprès de vous, la manière dont nous les utilisons, les circonstances
   dans lesquelles nous les partagerons avec des tiers, ainsi que vos droits par rapport aux
   données à caractère personnel que vous nous fournissez.
-  Lors de l&#39;utilisation de notre plateforme, de nos applications, de nos sites (les « Services »),
+  \n\nLors de l&#39;utilisation de notre plateforme, de nos applications, de nos sites (les « Services »),
   il vous sera demandé d’accepter les pratiques décrites dans la présente politique et, le cas
   échéant, d’y donner votre consentement.
   \n\n**SECTION 1 – QUI SOMMES NOUS**
@@ -507,18 +521,18 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   DANS LE CADRE DES SERVICES, PRODUITS ET INFORMATIONS FOURNIS**
   Les renseignements que vous nous fournissez.
   Il vous sera demandé de nous fournir des renseignements lorsque :
-  \n\n●Vous remplirez des formulaires sur nos sites web, nos applications, nos actifs
+  \n\n- Vous remplirez des formulaires sur nos sites web, nos applications, nos actifs
   numériques (tels que Facebook Messenger, Twitter, Whatsapp, Instagram ou
   correspondrez avec nous par SMS, téléphone, e-mail ou autre ;
-  \n\n●Vous vous inscrirez ou vous vous ferez inscrire pour utiliser nos services, produits ou
+  \n\n- Vous vous inscrirez ou vous vous ferez inscrire pour utiliser nos services, produits ou
   offres, vous vous abonnerez à notre bulletin d&#39;information, à nos courriers
   électroniques promotionnels ou à d&#39;autres supports marketing ;
-  \n\n●Vous utiliserez les services ou produits que vous recevrez par l&#39;intermédiaire de nos
+  \n\n- Vous utiliserez les services ou produits que vous recevrez par l&#39;intermédiaire de nos
   plateformes ;
-  \n\n●Vous évaluerez les services ou produits que vous recevrez sur nos plateformes
-  \n\n●Vous signalerez un problème concernant les services ou les produits que vous aurez
+  \n\n- Vous évaluerez les services ou produits que vous recevrez sur nos plateformes
+  \n\n- Vous signalerez un problème concernant les services ou les produits que vous aurez
   reçus ; ou
-  \n\n●Vous répondrez à toute enquête ou étude que nous utiliserons à des fins de
+  \n\n- Vous répondrez à toute enquête ou étude que nous utiliserons à des fins de
   recherche pour évaluer nos services ou améliorer la qualité des services que nous
   vous fournissons.
   Les renseignements que nous vous demanderons de fournir à ces fins peuvent inclure
@@ -528,22 +542,22 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   par exemple une image de votre visage.
   \n\n**SECTION 3 - ACTIVITÉS SPÉCIFIQUES DE TRAITEMENT, TYPE ET FINALITÉ DE
   LEUR UTILISATION**
-  \n\n**3.1 LORSQUE VOUS UTILISEZ NOS SITES WEB**
+  \n**3.1 LORSQUE VOUS UTILISEZ NOS SITES WEB**
   Types de données : adresse IP de l&#39;appareil demandeur, date et heure de l&#39;accès, nom et
   URL du fichier demandé, site web à partir duquel l&#39;accès est obtenu (« URL de référence
   »), navigateur utilisé et, le cas échéant, système d&#39;exploitation de votre appareil et identité
   de votre fournisseur d&#39;accès.
-  Utilisations de ces données : nous utilisons les données susmentionnées pour vous
+  \n\nUtilisations de ces données : nous utilisons les données susmentionnées pour vous
   permettre d&#39;accéder à notre site web, pour nous assurer que le site web peut établir une
   connexion Internet sans problème et qu&#39;il est facile à utiliser et pour analyser la sécurité et
   la stabilité du système, ainsi qu&#39;à des fins administratives supplémentaires.
-  Justification de l&#39;utilisation : intérêts légitimes (article 6, paragraphe 1, point (f) du
+  \n\nJustification de l&#39;utilisation : intérêts légitimes (article 6, paragraphe 1, point (f) du
   RGPD). Notre intérêt légitime se fonde sur les objectifs de collecte de données énumérés
   ci-dessus. Nous n&#39;utilisons pas les données collectées dans le but de vous identifier. Vous
   n&#39;êtes pas obligée de fournir les données à caractère personnel susmentionnées. Toutefois,
   vous ne serez pas en mesure d&#39;accéder aux sites web si ces données à caractère
   personnel ne sont pas fournies.
-  Durée de conservation : vos données sont supprimées après 14 jours, à moins qu&#39;un
+  \n\nDurée de conservation : vos données sont supprimées après 14 jours, à moins qu&#39;un
   événement relatif à la sécurité ne se produise (par exemple, une attaque DDoS, ou attaque
   par déni de service). En cas d&#39;événement compromettant la sécurité, les fichiers journaux
 
@@ -557,16 +571,16 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   fournir un compte utilisateur et l’accès aux services, produits et informations que nous
   fournissons par le biais de nos plateformes. Il n&#39;est pas possible d&#39;accéder à nos services si
   les données (non facultatives) ne sont pas fournies.
-  Justification de l&#39;utilisation : exécution du contrat (article 6 (1) (b) du RPDG /
+  \n\nJustification de l&#39;utilisation : exécution du contrat (article 6 (1) (b) du RPDG /
   consentement (article 9 (2) (a) du RPDG).
-  Durée de conservation : vos données sont supprimées ou anonymisées (et ne peuvent
+  \n\nDurée de conservation : vos données sont supprimées ou anonymisées (et ne peuvent
   être associées à une personne physique particulière) lorsque vous demandez la
   suppression de votre compte. Si votre compte est inactif pendant plus de 12 mois, nous
   vous contacterons pour vérifier si vous souhaitez continuer à utiliser nos services. Si vous
   continuez à ne pas utiliser votre compte utilisateur pendant les 12 mois suivants, nous
   supprimerons votre compte et nous anonymiserons vos données (de sorte qu&#39;elles ne
   pourront pas être associées à une personne physique spécifique).
-  **3.2 LORSQUE VOUS RECEVEZ DES SERVICES, DES PRODUITS OU DES
+  \n\n**3.3 LORSQUE VOUS RECEVEZ DES SERVICES, DES PRODUITS OU DES
   INFORMATIONS SUR LES PLATEFORMES QUE NOUS GÉRONS**
   Types de données : le sexe, la date de naissance, l&#39;image de votre visage, le type de
   service, de produit ou d&#39;information que vous aurez reçu, l&#39;agent qui vous aura fourni le
@@ -575,7 +589,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   aurez reçus en échange de primes telles que des points de fidélité (« Tiko Miles ») et si oui,
   où vous avez échangé les primes/points de fidélité et combien de primes/points de fidélité
   vous avez dépensé.
-  Utilisations de ces données : nous utilisons les données ci-dessus pour vous permettre
+  \n\nUtilisations de ces données : nous utilisons les données ci-dessus pour vous permettre
   d&#39;accéder aux services, produits et informations que nous fournissons par le biais de nos
   plateformes. Nous utilisons également ces données pour améliorer la quantité et la qualité
   des services, produits et informations que vous recevez, pour vérifier et valider les services,
@@ -590,12 +604,12 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   sur la manière dont nous pouvons améliorer la qualité des services, produits et informations
   que vous avez reçus sur nos plateformes. Il est impossible d&#39;accéder à nos services,
   produits ou informations (non facultatifs) si ces renseignements ne sont pas fournis.
-  Justification de l&#39;utilisation : exécution du contrat (article 6 (1) (b) du RPDG /
+  \n\nJustification de l&#39;utilisation : exécution du contrat (article 6 (1) (b) du RPDG /
   consentement (article 9 (2) (a) RPDG).
   Durée de conservation : vos données sont supprimées ou anonymisées (et ne peuvent
   être associées à une personne physique spécifique) lorsque vous demandez la suppression
   de votre compte.
-  \n\n**3.3 MARKETING DIRECT DES SERVICES, PRODUITS OU INFORMATIONS
+  \n\n**3.4 MARKETING DIRECT DES SERVICES, PRODUITS OU INFORMATIONS
   DISPONIBLES SUR LES PLATEFORMES QUE NOUS GÉRONS.**
   Types de données : le sexe, la date de naissance, l&#39;image de votre visage, le type de
   service, de produit ou d&#39;information que vous avez reçu, la date à laquelle vous avez reçu le
@@ -603,7 +617,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   informations que vous avez reçus, en échange de points de fidélité (« Tiko Miles ») auquel
   cas, où vous avez échangé les points de fidélité et combien de points de fidélité vous avez
   dépensé.
-  Utilisations de ces données : nous utilisons les données susmentionnées pour
+  \n\nUtilisations de ces données : nous utilisons les données susmentionnées pour
   promouvoir des services, des produits ou vous fournir des informations qui, selon nous,
   sont susceptibles de vous intéresser. Vous pouvez modifier vos paramètres-marketing à
   tout moment (1) en envoyant le mot « STOP » à l&#39;un des numéros courts que vous avez
@@ -611,24 +625,24 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   qui vous a aidée à vous inscrire sur notre plateforme, (3) en nous appelant directement aux
   numéros partagés avec vous, (4) en tapant « Stop » par message Whatsapp ou Facebook
   ou (5) en nous envoyant un e-mail.
-  Justification de l&#39;utilisation : consentement (article 6, paragraphe 1, point (a) du RPDG).
+  \n\nJustification de l&#39;utilisation : consentement (article 6, paragraphe 1, point (a) du RPDG).
   Durée de conservation : Vos données sont supprimées ou anonymisées (et ne peuvent
   être associées à une personne physique spécifique) lorsque vous demandez la suppression
   de votre compte.
-  \n\n**3.4 UTILISATION DES DONNÉES RELATIVES À VOTRE SANTÉ À DES FINS DE
+  \n\n**3.5 UTILISATION DES DONNÉES RELATIVES À VOTRE SANTÉ À DES FINS DE
   RECHERCHE ET DE STATISTIQUES**
 
   Types de données : les enregistrements des produits ou services de santé que vous avez
   reçus de notre part, d&#39;autres données sanitaires que vous nous avez fournies directement
   ou indirectement pendant votre utilisation de nos produits ou services.
-  Utilisations de ces données : nous traitons ces données pour mener des recherches sur
+  \n\nUtilisations de ces données : nous traitons ces données pour mener des recherches sur
   l&#39;utilisation et la mise en œuvre des services et produits de santé sexuelle et reproductive et
   pour préparer des statistiques globales sur l&#39;utilisation géographique des produits, services
   ou informations de santé qui peuvent être mises en correspondance avec les informations
   démographiques que nous détenons sur vous. Lorsque ces données sont mises à la
   disposition du public, elles sont présentées sous forme de statistiques résumées et
   anonymes.
-  Justification de l&#39;utilisation : le traitement est nécessaire à des fins de recherche
+  \n\nJustification de l&#39;utilisation : le traitement est nécessaire à des fins de recherche
   scientifique ou de statistiques et nous publions des statistiques anonymes et résumées à
   partir desquelles l&#39;identification d&#39;une personne physique spécifique est impossible (art. 9
   (2) (j) DSGVO ; art. 27 (1) BDSG). Notre intérêt légitime par rapport au traitement des
@@ -638,7 +652,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   Vous pouvez, pour des raisons découlant de votre situation particulière, vous opposer à
   tout moment à un tel traitement en envoyant un courrier électronique à
   privacy@triggerise.org.
-  Durée de conservation : La durée de conservation de vos données sur la base desquelles
+  \n\nDurée de conservation : La durée de conservation de vos données sur la base desquelles
   nous créons les statistiques correspond à la période de traitement selon le point 3.2.
   Lorsque vous demandez la suppression d&#39;un cas spécifique ou si vous supprimez un cas
   dans l&#39;appli, les données de votre cas ne seront plus utilisées à cette fin. Les statistiques
@@ -652,7 +666,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   de l&#39;utilisateur collectées de cette manière sont pseudonymisées. Les données sont
   conservées séparément des autres données à caractère personnel de l&#39;utilisateur. Ce
   traitement s’effectue sur une base légale ou, si la loi l&#39;exige, si vous y consentez.
-  **SECTION 5 - OÙ CONSERVONS-NOUS VOS DONNÉES À CARACTÈRE PERSONNEL**
+  \n\n**SECTION 5 - OÙ CONSERVONS-NOUS VOS DONNÉES À CARACTÈRE PERSONNEL**
 
   Les données à caractère personnel que nous collectons auprès de vous sont conservées
   dans l&#39;Union européenne sur les serveurs Cloud (Europe) d&#39;Amazon Web Services EMEA
@@ -664,7 +678,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   appropriées en vertu de l&#39;art. 46 du RGPD (telles que certaines clauses standard de
   protection des données, ou des circonstances exceptionnelles en vertu de l&#39;art. 49 du
   RGPD).
-  Les informations sensibles entre votre navigateur et notre site web sont transférées sous
+  \n\nLes informations sensibles entre votre navigateur et notre site web sont transférées sous
   forme cryptée à l&#39;aide du protocole de Sécurité de la couche de transport (Transport Layer
   Security, « TLS »). Lorsque vous transmettez des informations sensibles, vous devez
   toujours vous assurer que votre navigateur peut valider notre certificat.
@@ -678,13 +692,13 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   permettant le transfert est disponible en vertu de la législation applicable. En outre, nous ne
   transférons pas vos données à caractère personnel à des tiers, sauf aux fins énumérées à
   la section 3 ci-dessus.
-  Justification de l&#39;utilisation : la base juridique du transfert des données à caractère
+  \n\nJustification de l&#39;utilisation : la base juridique du transfert des données à caractère
   personnel au sous-traitant et du traitement par le sous-traitant est tributaire de la base
   juridique sur laquelle nous nous appuyons, en tant que responsables du traitement des
   données (voir la section 3 ci-dessus), si nous sommes tenus, en vertu des lois locales de la
   juridiction dans laquelle nous opérons ou nos affiliés opèrent, de divulguer ou de partager
   vos données à caractère personnel.
-  Justification de l&#39;utilisation : obligation légale.
+  \n\nJustification de l&#39;utilisation : obligation légale.
   Nous pouvons également partager vos données à caractère personnel avec des
   partenaires de recherche de confiance qui peuvent traiter les informations au nom de
   Triggerise aux fins énoncées dans le présente politique de confidentialité conformément
@@ -700,11 +714,11 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   traitement respectives sont détaillées dans la section 3 ci-dessus.
   Une fois votre compte résilié, nous supprimerons les données à caractère personnel
   relatives à votre compte dans un délai de 1 mois.
-  Si vos données à caractère personnel sont utilisées à deux fins différentes, nous les
+  \n\nSi vos données à caractère personnel sont utilisées à deux fins différentes, nous les
   conserverons jusqu&#39;à l&#39;expiration de la finalité dont la durée est la plus longue, mais nous
   cesserons de les utiliser pour la finalité dont la durée est la plus courte dès l&#39;expiration de
   cette dernière.
-  Nous limitons l&#39;accès à vos données à caractère personnel aux personnes qui ont besoin
+  \n\nNous limitons l&#39;accès à vos données à caractère personnel aux personnes qui ont besoin
   de les utiliser pour une ou les fins pertinentes. Nos périodes de conservation se fondent sur
   des besoins commerciaux raisonnables, et vos données à caractère personnel qui ne sont
   plus nécessaires sont soit anonymisées (et les données anonymisées peuvent être
@@ -713,14 +727,14 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   En vertu du RGPD, vous disposez de différents droits en ce qui concerne vos données à
   caractère personnel (comme indiqué ci-dessous). Tous ces droits peuvent être exercés en
   nous contactant à l&#39;adresse privacy@triggerise.org.
-  Droit de retirer votre consentement : vous avez le droit de retirer votre consentement à
+  \n\nDroit de retirer votre consentement : vous avez le droit de retirer votre consentement à
   tout moment en nous en avisant par e-mail à l&#39;adresse suivante : privacy@triggerise.org ou
   en envoyant un SMS à l&#39;un des codes courts que nous utilisons dans les pays où nous
   opérons. En retirant votre consentement, la légalité du traitement fondé sur le
   consentement jusqu&#39;au moment du retrait ne sera pas affectée.
-  Droit d&#39;opposition : vous disposez d&#39;un droit d&#39;opposition dans les conditions de l&#39;article 21
+  \n\nDroit d&#39;opposition : vous disposez d&#39;un droit d&#39;opposition dans les conditions de l&#39;article 21
   DSGVO. Vous trouverez ci-dessous des informations plus détaillées :
-  - Droit d&#39;opposition lorsque le traitement est fondé sur des intérêts légitimes : au titre de
+  \n\n- Droit d&#39;opposition lorsque le traitement est fondé sur des intérêts légitimes : au titre de
   personne concernée, vous avez le droit de vous opposer, pour des motifs liés à votre
   situation particulière, à tout moment au traitement de vos données à caractère personnel,
   qui est fondé sur l&#39;article 6 (1) (e) ou (f) du RGPD, y compris le profilage fondé sur ces
@@ -729,7 +743,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
 
   légitimes impérieux pour le traitement qui prévalent sur vos intérêts, droits et libertés ou
   pour la constatation, l&#39;exercice ou la défense de droits en justice.
-  - Droit d&#39;opposition lorsque nous traitons vos données à caractère personnel à des fins
+  \n\n- Droit d&#39;opposition lorsque nous traitons vos données à caractère personnel à des fins
   statistiques : si nous traitons vos données à caractère personnel à des fins statistiques
   conformément à l&#39;art. 9 (2) (j) DSGVO, art. 27 (1) BDSG, vous avez le droit de vous
   opposer à ce traitement pour des raisons découlant de votre situation particulière. En cas
@@ -738,7 +752,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   ou que l&#39;arrêt du traitement soit susceptible de rendre impossible ou de compromettre
   gravement la réalisation des objectifs statistiques et que la poursuite du traitement soit
   nécessaire à la réalisation des objectifs statistiques.
-  - Droit d&#39;opposition au marketing direct : lorsque vos données à caractère personnel sont
+  \n\n- Droit d&#39;opposition au marketing direct : lorsque vos données à caractère personnel sont
   traitées à des fins de marketing direct, vous avez le droit de vous opposer à tout moment au
   traitement de vos données à caractère personnel à des fins de marketing direct, ce qui
   inclut le profilage dans la mesure où il est lié à ce marketing direct. Si vous vous opposez
@@ -746,7 +760,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   personnel à ces fins.
   Pour exercer vos droits d&#39;opposition, vous pouvez nous contacter à tout moment en
   envoyant un courrier électronique à privacy@triggerise.org.
-  Droit d&#39;être informé.e : au titre de personne concernée, vous avez le droit d&#39;obtenir l’accès
+  \n\nDroit d&#39;être informée : au titre de personne concernée, vous avez le droit d&#39;obtenir l’accès
   et des informations conformément aux conditions prévues à l&#39;article 15 du RGPD. Cela
   signifie que vous avez le droit d&#39;obtenir une confirmation de notre part quant à savoir si
   nous traitons vos données à caractère personnel. Si tel est le cas, vous avez également le
@@ -755,7 +769,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   les catégories de données à caractère personnel qui sont traitées et les destinataires ou
   catégories de destinataires auxquels les données à caractère personnel ont été ou seront
   divulguées.
-  Droit à l&#39;effacement / « droit à l’oubli » : au titre de personne concernée, vous disposez
+  \n\nDroit à l&#39;effacement / « droit à l’oubli » : au titre de personne concernée, vous disposez
   d&#39;un droit à l&#39;effacement (« droit à l&#39;oubli ») conformément aux conditions prévues à l&#39;article
   17 du RGPD. Cela signifie que vous avez généralement le droit d&#39;obtenir de nous
   l&#39;effacement de vos données à caractère personnel et que nous sommes tenus d&#39;effacer
@@ -768,12 +782,12 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
 
   traitement qui traitent les données à caractère personnel que vous avez demandé
   l&#39;effacement par ces responsables du traitement de tout lien vers ces données à caractère
-  personnel ou de toute copie ou réplication de celles-ci (article 17 (2) du RGPD. Le droit à
+  personnel ou de toute copie ou réplication de celles-ci (article 17 (2) du RGPD. \n\nLe droit à
   l&#39;effacement (« droit à l&#39;oubli ») ne s&#39;applique pas par exception si le traitement est
   nécessaire pour l&#39;une des raisons énumérées à l&#39;article 17 (3) du RGPD. Cela peut être le
   cas, par exemple, si le traitement est nécessaire au respect d&#39;une obligation légale ou à la
   constatation, l&#39;exercice ou la défense de droits en justice (article 17 (3) (b) et (e) du RGPD).
-  Droit à la restriction du traitement : au titre de personne concernée, vous avez un droit à
+  \n\nDroit à la restriction du traitement : au titre de personne concernée, vous avez un droit à
   la restriction du traitement dans les conditions prévues à l&#39;article 18 du RGPD. Cela signifie
   que vous avez le droit d&#39;obtenir de notre part la restriction du traitement si l&#39;une des
   conditions prévues à l&#39;article 18 (1) du RGPD s&#39;applique. Cela peut être le cas, par
@@ -782,7 +796,7 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   des données à caractère personnel (article 18 (1) (a) du RGPD). La restriction signifie que
   les données à caractère personnel conservées sont marquées dans le but de limiter leur
   traitement futur (article 4 n° 3 du RGPD).
-  Droit à la portabilité des données : au titre de personne concernée, vous avez un droit à
+  \n\nDroit à la portabilité des données : au titre de personne concernée, vous avez un droit à
   la portabilité des données dans les conditions prévues à l&#39;article 20 du RGPD. Cela signifie
   que vous avez généralement le droit de recevoir les données à caractère personnel vous
   concernant que vous nous avez fournies dans un format structuré, couramment utilisé et
@@ -794,12 +808,12 @@ Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERI
   vous avez également généralement le droit de faire transmettre vos données à caractère
   personnel directement de notre part à un autre responsable du traitement si cela est
   techniquement possible (article 20 (2) du RGPD).
-  Droit de rectification : au titre de personne concernée, vous avez le droit de rectification
+  \n\nDroit de rectification : au titre de personne concernée, vous avez le droit de rectification
   dans les conditions prévues à l&#39;article 16 du RGPD. Cela signifie notamment que vous avez
   le droit de recevoir de notre part, sans retard excessif, la rectification des inexactitudes
   dans vos données à caractère personnel et le complément des données à caractère
   personnel incomplètes.
-  Droit de porter plainte : au titre de personne concernée, vous avez le droit de déposer
+  \n\nDroit de porter plainte : au titre de personne concernée, vous avez le droit de déposer
   une plainte auprès d&#39;une autorité de contrôle dans les conditions prévues à l&#39;article 77 du
   RGPD. Pour nous, l’autorité de contrôle responsable est xxxx).
   Le fait de nous demander de cesser de traiter vos données à caractère personnel ou de les
