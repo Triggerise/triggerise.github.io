@@ -13,8 +13,8 @@
     z-index: 1000;
 
     svg {
-      width: 150px;
-      height: auto;
+    width: 150px;
+    height: auto;
     }
 }
 
@@ -31,9 +31,9 @@
     }
 
     svg {
-      path {
+    path {
         fill: $blue;
-      }
+    }
     }
 }
 
@@ -117,21 +117,21 @@
 }
 
 .footer-left {
-  h3 {
+h3 {
     margin-bottom: spacing(3);
     color: $blue;
-  }
+}
 }
 
 .footer-right {
-  position: relative;
+position: relative;
 
-  small {
+small {
     @include mq($from: desktop){
-      position: absolute;
-      bottom: 0px;
+    position: absolute;
+    bottom: 0px;
     }
-  }
+}
 }
 
 .footer-heading {
@@ -139,11 +139,11 @@
     margin-bottom: 0;
 
     svg {
-      width: 150px;
-      height: auto;
-      path {
+    width: 150px;
+    height: auto;
+    path {
         fill:$blue;
-      }
+    }
     }
 }
 
