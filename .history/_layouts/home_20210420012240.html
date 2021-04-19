@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: default
 ---
 
@@ -7,7 +7,7 @@ layout: default
 {% assign body = page.Header-Text %}
 {% assign number = page.Home-number %}
 {% assign SubTitle = page.Home-number-text %}
-<div class="section" data-percentage="90">
+<div class="section padd" data-percentage="90">
   {% include 3up.html
     title=title
     copy=body
@@ -17,6 +17,7 @@ layout: default
     colourTwo="cream"
     colourThree="green"
     textColor="lightBlue"
+    classList="center"
     %}
 </div>
 {% assign sectionTitle = "Our Model" %}
@@ -26,21 +27,24 @@ layout: default
 {% assign ModelDescriptionTwo = page.Our-Model[1].Description %}
 {% assign diagramThree = page.Our-Model[2].Diagram %}
 {% assign ModelDescriptionThree = page.Our-Model[2].Description %}
-  <div class="section" data-percentage="90">
+{% assign ModelLink= page.Our-Model-Link %}
+  <div class="section carousel" data-percentage="90">
     <div class="slide" data-anchor="slide1">
-      {% include 1up.html colour="lightBlue" sectionTitle=sectionTitle diagram=diagram description=ModelDescription textColor="darkBlue" classList="full"%}
+      {% include 1up.html colour="lightBlue" sectionTitle=sectionTitle diagram=diagram description=ModelDescription textColor="darkBlue" classList="full carousel" buttonClass="darkBlue" buttonLink="/what-we-do" %}
     </div>
     <div class="slide" data-anchor="slide2">
-        {% include 1up.html colour="darkBlue" sectionTitle=sectionTitle diagram=diagramTwo description=ModelDescriptionTwo textColor="lightBlue" classList="full"%}
+        {% include 1up.html colour="darkBlue" sectionTitle=sectionTitle diagram=diagramTwo description=ModelDescriptionTwo textColor="lightBlue" classList="full carousel" buttonClass="lightBlue" buttonLink="/what-we-do"%}
     </div>
     <div class="slide" data-anchor="slide3">
-        {% include 1up.html colour="purple" sectionTitle=sectionTitle diagram=diagramThree description=ModelDescriptionThree textColor="lightYellow" classList="full"%}
+        {% include 1up.html colour="purple" sectionTitle=sectionTitle diagram=diagramThree description=ModelDescriptionThree textColor="lightYellow" classList="full carousel" buttonClass="lightYellow" buttonLink="/what-we-do"%}
     </div>
   </div>
 <div class="section" data-percentage="90">
-{% include 1up.html colour="cream" sectionTitle=page.Eco-System-Text classList="full ecoSystem" %}
+  {% include ecosystem.html colour="white" sectionTitle=page.Eco-System-Text classList="full ecoSystem" %}
 </div>
 {% assign CTAtitle = page.CTA-Block.Header %}
+{% assign linkOne = page.CTA-Block['CTA Link'] %}
+{% assign linkTwo = page.CTA-Block.CTA-Two-Link %}
 {% assign CTAsubTitle = page.CTA-Block.Description %}
 {% assign CTAimage = page.CTA-Block.CTA-Image %}
 {% assign CTAimageTwo = page.CTA-Block.CTA-Image-two %}
@@ -54,7 +58,11 @@ layout: default
   textColor="cream"
   image=CTAimage
   imageTwo=CTAimageTwo
+  linkOne = linkOne
+  linkTwo = linkTwo
   classList="image"
+  button="true"
+  buttonClass="cream"
 %}
 </div>
-</div> -->
+</div>
