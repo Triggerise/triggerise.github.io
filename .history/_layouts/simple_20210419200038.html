@@ -67,12 +67,16 @@ layout: default
       {{page.Body | markdownify }}
 
       {% if page.title == "Privacy Policy" %}
+      <!-- <h2 id="Swahili">Swahili</h2> -->
         {{page['Privacy Policy - Swahili Description'] | markdownify }}
       {% endif %}
 
       {% if page.title == "Privacy Policy" %}
-        {{page['Privacy Policy - French Description'] | markdownify }}
-      {% endif %}
+      <!-- <h2 id="French">French</h2>  -->
+        {% if permalink == "permalink: "/privacy-policy-french/"" %}
+        {% endif %}
+        <h2 id="French">French</h2>
+    
     </div>
     {% endif %}
   </div>

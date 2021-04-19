@@ -3,7 +3,7 @@ title: Privacy Policy
 date: 2020-07-28 11:50:00 Z
 permalink: "/privacy-policy-english/"
 Intro Text: 
-Body:  "Protecting your data, privacy and personal data (as defined under Article 4(1)
+Body:  "**English** Protecting your data, privacy and personal data (as defined under Article 4(1)
   of the General Data Protection Regulation (EU) 2016/679 (“GDPR”)) is very important
   to Triggerise Stitching and its affiliates – Triggerise Kenya Private Limited, Triggerise
   Stichting Ethiopia branch, Triggerise India, Triggerise BV, Triggerise South Africa

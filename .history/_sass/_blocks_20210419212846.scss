@@ -1718,6 +1718,11 @@
     transform-origin: left top;
     transform: scale(1, 1);
   }
+  
+  a:active::visited {
+    background-color: #999;
+    text-decoration: underline;
+  }
 }
 
 .success_story_h2 {

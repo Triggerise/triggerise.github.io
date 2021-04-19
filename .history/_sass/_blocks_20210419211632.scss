@@ -1701,23 +1701,18 @@
   a {
     color: $darkBlue;
   }
-  
-  a:hover, a:focus {
-    color: #999;
-    text-decoration: none;
-}
-  a::before {
-    display: block;
-    bottom: 3px;
-    height: 3px;
+  a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color: $darkBlue;
   }
   a:active::before {
     background-color: #000;
-  }
-  a:hover::before, a:focus::before {
+}
+a:hover::before, a:focus::before {
     transform-origin: left top;
     transform: scale(1, 1);
-  }
+}
+  
 }
 
 .success_story_h2 {

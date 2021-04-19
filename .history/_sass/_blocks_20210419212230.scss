@@ -1702,13 +1702,14 @@
     color: $darkBlue;
   }
   
-  a:hover, a:focus {
+  a:hover, a:focus, a:active {
     color: #999;
-    text-decoration: none;
+    text-decoration: underline;
 }
   a::before {
     display: block;
     bottom: 3px;
+    left: 0;
     height: 3px;
   }
   a:active::before {

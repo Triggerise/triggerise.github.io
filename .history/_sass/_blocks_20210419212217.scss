@@ -1690,7 +1690,7 @@
 }
 
 .story-list {
-  padding-bottom: 18px;
+  padding-bottom: 14px;
   padding-top: 20px;
   position: sticky;
   top: 70px;
@@ -1701,14 +1701,15 @@
   a {
     color: $darkBlue;
   }
-  
-  a:hover, a:focus {
+
+  a:hover, a:focus, a:active {
     color: #999;
-    text-decoration: none;
+    text-decoration: underline;
 }
   a::before {
     display: block;
     bottom: 3px;
+    left: 0;
     height: 3px;
   }
   a:active::before {

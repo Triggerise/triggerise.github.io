@@ -53,7 +53,7 @@ layout: default
     {% endif %}
     {% if page.title == "Privacy Policy" %}
     <div class="story-list">
-        <span><a href="/privacy-policy-english/">English</a> /</span>
+        <span><a href="#English">English</a> /</span>
         <span><a href="/privacy-policy-swahili/">Swahili</a> /</span> </br>
         <span><a href="/privacy-policy-french/">French</a> /</span>
         <!-- <span><a href="#Hindi">Hindi</a> /</span> -->
@@ -61,16 +61,18 @@ layout: default
     {% endif %}
     {% if page.title != "Contact" %}
     <div class="success-story-wrapper">
-      {% if page.title == "Privacy Policy" %}
-      <!-- <h2 id="English">English</h2> -->
-      {% endif %}
+      {% if page.title == "Privacy Policy" %}<h2 id="English">English</h2>{% endif %}
       {{page.Body | markdownify }}
 
       {% if page.title == "Privacy Policy" %}
+      <hr></hr>
+      <h2 id="Swahili">Swahili</h2>
         {{page['Privacy Policy - Swahili Description'] | markdownify }}
       {% endif %}
 
       {% if page.title == "Privacy Policy" %}
+      <hr></hr>
+      <h2 id="French">French</h2> 
         {{page['Privacy Policy - French Description'] | markdownify }}
       {% endif %}
     </div>

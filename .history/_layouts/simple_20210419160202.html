@@ -4,7 +4,7 @@ layout: default
 
 {% assign title = page.title %}
 {% assign content = page.content %}
-{% include contactPolicyBanner.html colour="cream" sectionTitle=title description=content classList="flexWrapper padd" %}
+{% include contactPolicyBanner.html colour="cream" sectionTitle=title description=content classList="flexWrapper pad" %}
 
 <div class="t-one {{include.colour}} autoHeight success-stories padd simple {% if page.title == "Privacy Policy" %}privacy{% endif %} {% if page.title == "Policy Plan" or page.title == "Cookies" %}privacy policy{% endif %}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper {% if page.title == "Contact" %} flex {% endif %}">
@@ -53,26 +53,28 @@ layout: default
     {% endif %}
     {% if page.title == "Privacy Policy" %}
     <div class="story-list">
-        <span><a href="/privacy-policy-english/">English</a> /</span>
-        <span><a href="/privacy-policy-swahili/">Swahili</a> /</span> </br>
-        <span><a href="/privacy-policy-french/">French</a> /</span>
+        <span><a href="#English">English</a> /</span>
+        <span><a href="/_site/privacy-policy-sw/index.html">Swahili</a> /</span> </br>
+        <span><a href="/_posts/2021-04-19-privacy-policy-fr.markdown">French</a> /</span>
         <!-- <span><a href="#Hindi">Hindi</a> /</span> -->
     </div>
     {% endif %}
     {% if page.title != "Contact" %}
     <div class="success-story-wrapper">
-      {% if page.title == "Privacy Policy" %}
-      <!-- <h2 id="English">English</h2> -->
-      {% endif %}
+      {% if page.title == "Privacy Policy" %}<h2 id="English">English</h2>{% endif %}
       {{page.Body | markdownify }}
 
-      {% if page.title == "Privacy Policy" %}
+      <!-- {% if page.title == "Privacy Policy" %}
+      <hr></hr>
+      <h2 id="Swahili">Swahili</h2>
         {{page['Privacy Policy - Swahili Description'] | markdownify }}
       {% endif %}
 
       {% if page.title == "Privacy Policy" %}
+      <hr></hr>
+      <h2 id="French">French</h2>
         {{page['Privacy Policy - French Description'] | markdownify }}
-      {% endif %}
+      {% endif %} -->
     </div>
     {% endif %}
   </div>
