@@ -3,8 +3,8 @@ title: Privacy Policy
 permalink: "/privacy-policy-french/"
 subtitle: French language
 Intro Text: 
-Body: 
-Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERISE**\n
+  Body: 
+  Privacy Policy - French Description: "**POLITIQUE DE CONFIDENTIALITE DE TRIGGERISE**\n
   La protection de vos données, de votre vie privée et de vos données à caractère
   personnel (telles que définies au paragraphe 1 de l&#39;article 4 du Règlement Général
   sur la Protection des Données (UE) 2016/679 (« RGPD »)) est très importante pour
