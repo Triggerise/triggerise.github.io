@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% assign title = page.Title %}
+{% assign numbers = page.Numbers %}
+{% assign animation = page['Header animation image'] %}
+{% assign sectionTitle = page.Mission-Title %}
+{% assign ModelDescription = page.Mission-text %}
+{% assign safeTitle = "We safeguard digital human rights" %}
+{% assign safeDescription = page.Safeguarding-text %}
+
+{% include 3upHorizontal.html
+  title=title colour="blue"
+  colourTwo="darkBlue"
+  colourThree="pink"
+  image=animation
+  imageTwo=CTAimageTwo
+  classList="image"
+  padding="padd"
+  numbers=numbers
+  textColor="lightBlue"
+  lines="lines"
+%}
+{% include 1up.html
+  colour="white"
+  sectionTitle=sectionTitle
+  diagram=diagram
+  description=ModelDescription
+  textColor="darkBlue"
+  classList="flexWrapper autoHeight"
+%}
+{% include map.html
+  colour="darkBlue"
+  textColor="darkBlue"
+  classList="autoHeight map"
+  textColor="cream"
+%}
+{% include team.html
+  colour="grey"
+  textColor="darkBlue"
+%}
+{% include resources.html
+  colour="white"
+  textColor="darkBlue"
+  classList="resources autoHeight"
+%}
+{% include 1up.html
+  colour="cream"
+  sectionTitle=safeTitle
+  diagram=diagram
+  description=safeDescription
+  textColor="darkBlue"
+  buttonClass="true"
+  buttonLink="/privacy-policy-english/"
+  classList="flexWrapper autoHeight safeguarding"
+%}
