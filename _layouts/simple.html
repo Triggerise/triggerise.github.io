@@ -61,15 +61,8 @@ layout: default
     {% if page.title != "Contact" %}
     <div class="success-story-wrapper">
       {% if page.title == "Privacy Policy" %}
-      <!-- <h2 id="English">English</h2> -->
-      {% endif %}
-      {{page.Body | markdownify }}
-
-      {% if page.title == "Privacy Policy" %}
-        {{page['Privacy Policy - Swahili Description'] | markdownify }}
-      {% endif %}
-
-      {% if page.title == "Privacy Policy" %}
+        {{page.Body | markdownify }}
+        {{page['Privacy Policy - Swahili Description'] | markdownify }}   
         {{page['Privacy Policy - French Description'] | markdownify }}
       {% endif %}
     </div>
