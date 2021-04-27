@@ -1077,6 +1077,11 @@
   }
 }
 
+.iframe {
+  padding-top: spacing(5);
+  padding-bottom: spacing(5);
+}
+
 .image-wrapper-quote {
   height: 50vw;
   width: 50vw;
@@ -1688,6 +1693,7 @@
     padding-left: 0;
   }
 }
+
 
 .story-list {
   padding-bottom: 18px;
