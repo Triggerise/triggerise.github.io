@@ -1077,10 +1077,38 @@
   }
 }
 
-.iframe {
-  padding-top: spacing(5);
-  padding-bottom: spacing(5);
+.work-at-triggerise {
+    padding-bottom: 0;
 }
+
+.who-we-are {
+    font-weight: 400;
+    display: block;
+    font-size: 25px;
+    padding-top: spacing(10);
+    padding-bottom: spacing(5);
+    padding-left: spacing(5);
+    padding-right: spacing(5);
+ }
+
+ .iframe-container {
+   position: relative;
+   padding-top: 30px;
+   padding-bottom: 56.25%;
+   height: 0;
+   overflow: hidden;
+
+ }
+
+ .iframe-container iframe {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   flex: grow;
+ }
+
 
 .image-wrapper-quote {
   height: 50vw;
