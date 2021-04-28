@@ -11,9 +11,10 @@ layout: default
   <div class="wrapper">
     <div class="story-list">
       {% for policy in page.Policies %}
+      {% assign remainder = forloop.index | modulo: 2 %}
       <span>
         <a href="#{{ policy.Language | slugify: "latin" }}" data-nav-lang="{{ policy.Language | slugify: "latin" }}">{{ policy.Language }}</a>
-      {% unless forloop.last %}/{% endunless %}
+      {% unless forloop.last %}/{% if remainder == 0 %}<br class="brnodisplay">{% endif %}{% endunless %}
       </span>
       {% endfor %}
     </div>

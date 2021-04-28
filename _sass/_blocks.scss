@@ -742,6 +742,12 @@
         border-bottom: 0;
         background-color: transparent;
       }
+
+      .brnodisplay {
+        @include mq($until: desktop) {
+          display: none;
+        }
+      }
     }
 
     .success-story-wrapper {
@@ -1701,7 +1707,7 @@
   a {
     color: #999;
   }
-  
+
   a:hover, a:focus {
     color: $darkBlue;
     text-decoration: none;
