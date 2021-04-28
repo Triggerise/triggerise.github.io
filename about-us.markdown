@@ -237,7 +237,7 @@ Filters:
   Key: Annual Report
 - Filter: FinancialReport
   Key: Financial Report
-SafeGuarding-link: "/privacy-policy-english/"
+SafeGuarding-link: "/privacy-policy/"
 layout: about
 ---
 
