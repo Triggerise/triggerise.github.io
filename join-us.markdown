@@ -82,13 +82,6 @@ Jobs:
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
-- Job Title: Software Team Lead
-  Location: Porto, Portugal
-  Job Description: Do you have experience leading a software engineering team to success,
-    as well as playing a big part in being hands on and contributing to the creation
-    and maintenance of software?  Sounds like you could be our new Software team Lead..
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=92
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
@@ -117,14 +110,6 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Information Security Lead
-  Location: Cape Town, South Africa
-  Job Description: Are you looking for an opportunity to use your skills to make a
-    change in the world? Do you want to work in a team of global pioneers, keeping
-    all of Triggerise information Data and IT systems safe? We have an open position
-    for an IT Security Lead.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=97
-  Key: 
 - Job Title: Customer Support Officer
   Location: 'Portugal, Porto '
   Job Description: Do you have experience in troubleshooting and solving urgent technical
