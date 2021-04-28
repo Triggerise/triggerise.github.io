@@ -13,7 +13,7 @@ layout: default
       {% for policy in page.Policies %}
       <span>
         <a href="#{{ policy.Language | slugify: "latin" }}" data-nav-lang="{{ policy.Language | slugify: "latin" }}">{{ policy.Language }}</a>
-      {% if forloop.last != true %}/{% endif %}
+      {% unless forloop.last %}/{% endunless %}
       </span>
       {% endfor %}
     </div>
