@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% assign title = page.title %}
+{% assign content = page.content %}
+
+{% include contactPolicyBanner.html colour="cream" sectionTitle=title description=content classList="flexWrapper padd" %}
+
+<div class="t-one autoHeight success-stories padd simple privacy" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+  <div class="wrapper">
+    <div class="story-list">
+      {% for policy in page.Policies %}
+      <span>
+        <a href="#{{ policy.Language | slugify: "latin" }}" data-nav-lang="{{ policy.Language | slugify: "latin" }}">{{ policy.Language }}</a>
+      {% if forloop.last != true %}/{% endif %}
+      </span>
+      {% endfor %}
+    </div>
+
+    <div class="success-story-wrapper">
+      {% for policy in page.Policies %}
+      <div data-lang="{{ policy.Language | slugify: "latin" }}">
+        {{ policy.Text | markdownify }}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+function display_lang(lang) {
+  // Check if selected language exists in the page or else default to english
+  if (document.querySelectorAll(`[data-lang="${lang}"]`)[0]) {
+    const languages = document.querySelectorAll("[data-lang]");
+    for (var i = 0; i < languages.length; i++) {
+      if(languages[i].dataset.lang === lang){
+        languages[i].style = "display: block;";
+      } else {
+        languages[i].style = "display: none;";
+      }
+    }
+
+    const navLanguages = document.querySelectorAll("[data-nav-lang]");
+    for (var i = 0; i < navLanguages.length; i++) {
+      if (navLanguages[i].dataset.navLang === lang) {
+        navLanguages[i].style = "color: #1D214F;";
+      } else {
+        navLanguages[i].style = "color: #999;";
+      }
+    }
+  } else {
+    window.location.hash = "english";
+    display_lang("english");
+  }
+}
+
+function privacy() {
+  const navLanguages = document.querySelectorAll("[data-nav-lang]");
+  for (var i = 0; i < navLanguages.length; i++) {
+    navLanguages[i].onclick = function change_language(event) {
+      display_lang(event.target.dataset.navLang);
+    }
+  }
+
+  if(window.location.hash) {
+    var hashLanguage = window.location.hash.replace("#", "");
+
+    display_lang(hashLanguage);
+  } else {
+    display_lang("english");
+  }
+}
+privacy();
+</script>
