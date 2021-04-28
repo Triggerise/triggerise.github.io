@@ -4,8 +4,9 @@ date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
 Work-at-Triggerise:
-- Image: "/uploads/Joana%20Pereira%20.jpg"
-  Quote: ' "We come from different cultures and backgrounds; what unites us is our open-mindedness and drive for impact. You can choose your own working conditions and we give our teams a lot of space. We trust you know best and are not afraid to let you try something new! This is how we pioneer and create more impact every day."'
+- Quote: ' "We come from different cultures and backgrounds; what unites us is our open-mindedness and drive for impact. You can choose your own working conditions and we give our teams a lot of space. We trust you know best and are not afraid to let you try something new! This is how we pioneer and create more impact every day."'
+
+Video: 
 
 Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission
   to get things done and do them well. We’re ever open-minded and highly impact-driven,
