@@ -110,12 +110,6 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Customer Support Officer
-  Location: 'Portugal, Porto '
-  Job Description: Do you have experience in troubleshooting and solving urgent technical
-    issues with great efficiency? Do you have a good eye for detail and know how to
-    prioritise? Continue reading, this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=104
 - Job Title: D2C Lead
   Location: Kenya, Nairobi
   Job Description: Are you looking for a job where your work sustainably creates a
