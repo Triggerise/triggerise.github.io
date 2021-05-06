@@ -1209,8 +1209,10 @@
 
 .what-we-do {
   .center-container {
+    margin-top: 35px;
     position: relative;
     padding-top: 10px;
+    padding-bottom: 100px;
 
     @include mq($from: desktop) {
       position: absolute;
@@ -1221,6 +1223,7 @@
   }
   h2 {
     padding-left: 30px;
+    margin-top: 35px;
 
     .dot {
       width: 30px;
@@ -1272,6 +1275,7 @@
 
     @include mq($from: desktop) {
       flex-direction: row;
+      margin-top: 35px;
     }
 
     h3 {
