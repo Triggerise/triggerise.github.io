@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.fontFamily": "Hack Nerd Font"
+    "terminal.integrated.fontFamily": "monospace",
+    "git.ignoreLimitWarning": true
 }

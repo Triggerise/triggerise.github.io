@@ -5,6 +5,12 @@ _site/
 .vscode-cache/
 .history
 .DS_Store
+<<<<<<< HEAD
 .vscode 
 .bundle-cache
 .bundle
+=======
+vendor
+.bundle-cache/
+.bundle
+>>>>>>> bb24a74b3ad9871c6e954b5d22e78a2c0d6459ae
