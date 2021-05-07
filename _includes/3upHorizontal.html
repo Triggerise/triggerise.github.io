@@ -1,89 +1,88 @@
 <div class="t-three flex {{include.flexList}} {{include.padding}}">
-  <div class="t-three-left {{include.colour}}">
-    <div class="t-one {% if include.flexList != 'reverse' %}left{% endif %} {% if include.flexList == 'reverse' %}right{% endif %}">
-      <div class="inner-wrapper">
-        {% if include.title %}
-          <h1 class="text-colour-{{include.textColor}} t-three-title">{{include.title}}</h1>
-        {% endif %}
-        {% if include.sub %}
-          <h2 class="text-colour-{{include.textColor}} t-three-sub-title">{{include.sub}}</h2>
-        {% endif %}
-        {% if include.button == "true" %}
-          <a href="{{include.linkOne}}"><button class="button-colour-{{include.buttonClass}}">Let's talk</button></a>
-          <a href="{{include.linkTwo}}"><button class="button-colour-{{include.buttonClass}}">Join us</button></a>
-        {% endif %}
-        {% if include.body %}
-        <div class="t-body">
-          {{include.body | markdownify}}
-        </div>
-        {% endif%}
-        {% if include.list %}
-          {% for item in include.list %}
-            <h2>{{item.Name}}</h2>
-            <p>{{item.Description}}</p>
-          {% endfor %}
-        {% endif%}
-        {% if include.data %}
-          <div class="t-data-wrapper">
-            <h1 id="platform-services" class="update-api platform-services">0</h1>
-            <h2>services redeemed on our platform since 2015</h2>
-          </div>
-          <div class="t-data-wrapper">
-            <h1 id="tiko-miles" class="update-api tiko-miles">0</h1>
-            <h2>Tiko miles injected in the local economies since 2015 (value in Euros)</h2>
-          </div>
+    <div class="t-three-left {{include.colour}}">
+        <div class="t-one {% if include.flexList != 'reverse' %}left{% endif %} {% if include.flexList == 'reverse' %}right{% endif %}">
+            <div class="inner-wrapper">
+                {% if include.title %}
+                <h1 class="text-colour-{{include.textColor}} t-three-title">{{include.title}}</h1>
+                {% endif %} {% if include.sub %}
+                <h2 class="text-colour-{{include.textColor}} t-three-sub-title">{{include.sub}}</h2>
+                {% endif %} {% if include.button == "true" %}
+                <a href="{{include.linkOne}}"><button class="button-colour-{{include.buttonClass}}">Let's talk</button></a>
+                <a href="{{include.linkTwo}}"><button class="button-colour-{{include.buttonClass}}">Join us</button></a> {% endif %} {% if include.body %}
+                <div class="t-body">
+                    {{include.body | markdownify}}
+                </div>
+                {% endif%} {% if include.list %} {% for item in include.list %}
+                <h2>{{item.Name}}</h2>
+                <p>{{item.Description}}</p>
+                {% endfor %} {% endif%} {% if include.data %}
+                <div class="t-data-wrapper">
+                    <h1 id="platform-services" class="update-api platform-services">0</h1>
+                    <h2>services redeemed on our platform since 2015</h2>
+                </div>
+                <div class="t-data-wrapper">
+                    <h1 id="tiko-miles" class="update-api tiko-miles">0</h1>
+                    <h2>Tiko miles injected in the local economies since 2015 (value in Euros)</h2>
+                </div>
 
-          <div class="t-data-wrapper">
-            <div class="flex">
-              <div>
-                <h1 id="partnersKenya" class="update-api tiko-miles">0</h1>
-                <h2>Kenya</h2>
-              </div>
-              <div>
-                <h1 id="partners-india" class="update-api tiko-miles">0</h1>
-                <h2>India</h2>
-              </div>
-              <div>
-                <h1 id="partnersEthiopia" class="update-api tiko-miles">0</h1>
-                <h2>Ethiopia</h2>
-              </div>
+                <div class="t-data-wrapper">
+                    <div class="flex">
+                        <div>
+                            <h1 id="partnersKenya" class="update-api tiko-miles">0</h1>
+                            <h2>Kenya</h2>
+                        </div>
+                        <div>
+                            <h1 id="partners-india" class="update-api tiko-miles">0</h1>
+                            <h2>India</h2>
+                        </div>
+                        <div>
+                            <h1 id="partnersEthiopia" class="update-api tiko-miles">0</h1>
+                            <h2>Ethiopia</h2>
+                        </div>
+                    </div>
+                    <h2>Supply partners in our ecosystem</h2>
+                </div>
+                {% endif %}
             </div>
-            <h2>Supply partners in our ecosystem</h2>
-          </div>
+        </div>
+        {% if include.lines %}
+        <div class="about-us-lines">
+            {% include dotodot.html %}
+        </div>
         {% endif %}
-      </div>
     </div>
-    {% if include.lines %}
-      <div class="about-us-lines">
-        {% include dotodot.html %}
-      </div>
-    {% endif %}
-  </div>
-  <div class="t-three-right">
+</div>
+{% if include.lines %}
+<div class="about-us-lines">
+    {% include dotodot.html %}
+</div>
+{% endif %}
+</div>
+<div class="t-three-right">
     <div class="t-one {{include.colourTwo}} {{include.classList}} {% if include.flexList == 'reverse' %}left{% endif %} {% if include.flexList != 'reverse' %}right{% endif %}">
-      {% if include.titleAlt %}
-      {% if include.flexList == 'reverse' %}<div class="inner-wrapper">{% endif %}
-        <h1 class="section-title-center">{{include.titleAlt}}</h1>
-        {% if include.flexList == 'reverse' %}</div>{% endif %}
-      {% endif %}
-      {% if include.image %}
-        <img src="{{include.image}}">
-      {% endif %}
+        {% if include.titleAlt %} {% if include.flexList == 'reverse' %}
+        <div class="inner-wrapper">{% endif %}
+            <h1 class="section-title-center">{{include.titleAlt}}</h1>
+            {% if include.flexList == 'reverse' %}</div>{% endif %} {% endif %} {% if include.image %}
+        <img src="{{include.image}}"> {% endif %}
     </div>
-    <div class="t-one {{include.colourThree}} {{include.classList}} {% if include.flexList != 'reverse' %}right{% endif %} {% if include.flexList == 'reverse' %}left{% endif %}">
-      {% if include.imageTwo %}
-        <img src="{{include.imageTwo}}">
-      {% endif %}
-      {% if include.numbers %}
-        {% for number in include.numbers %}
-          <div class="inner-wrapper numbers">
-            <h2>{{number.Number}} <span>{{number.Text}}</span></h2>
-          </div>
-        {% endfor %}
-      {% endif %}
-      {% if include.bodyCopy %}
-        <h2>{{include.bodyCopy | markdownify }}</h2>
-      {% endif %}
+    <div class="t-three-right">
+        <div class="t-one {{include.colourTwo}} {{include.classList}} {% if include.flexList == 'reverse' %}left{% endif %} {% if include.flexList != 'reverse' %}right{% endif %}">
+            {% if include.titleAlt %} {% if include.flexList == 'reverse' %}
+            <div class="inner-wrapper">{% endif %}
+                <h1 class="section-title-center">{{include.titleAlt}}</h1>
+                {% if include.flexList == 'reverse' %}</div>{% endif %} {% endif %} {% if include.image %}
+            <img src="{{include.image}}"> {% endif %}
+        </div>
+        <div class="t-one {{include.colourThree}} {{include.classList}} {% if include.flexList != 'reverse' %}right{% endif %} {% if include.flexList == 'reverse' %}left{% endif %}">
+            {% if include.imageTwo %}
+            <img src="{{include.imageTwo}}"> {% endif %} {% if include.numbers %} {% for number in include.numbers %}
+            <div class="inner-wrapper numbers">
+                <h2>{{number.Number}} <span>{{number.Text}}</span></h2>
+            </div>
+            {% endfor %} {% endif %} {% if include.bodyCopy %}
+            <h2>{{include.bodyCopy | markdownify }}</h2>
+            {% endif %}
+        </div>
     </div>
-  </div>
 </div>
