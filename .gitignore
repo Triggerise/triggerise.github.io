@@ -5,3 +5,6 @@ _site/
 .vscode-cache/
 .history
 .DS_Store
+.vscode 
+.bundle-cache
+.bundle
