@@ -3,7 +3,7 @@ title: Join us
 date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
-
+youtubeID: "jxyPJiLL4Kw"
 Work-at-Triggerise:
 - Quote: ' "We come from different cultures and backgrounds; what unites us is our open-mindedness and drive for impact. You can choose your own working conditions and we give our teams a lot of space. We trust you know best and are not afraid to let you try something new! This is how we pioneer and create more impact every day."'
 Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission

@@ -8,3 +8,4 @@ _site/
 .vscode/settings.json
 vendor/bundle/ruby
 .bundle/config.markdown
+vendor/bundle/ruby
