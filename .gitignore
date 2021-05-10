@@ -7,3 +7,5 @@ _site/
 .DS_Store
 .vscode
 vendor/bundle/ruby
+.vscode/
+vendor/bundle/ruby

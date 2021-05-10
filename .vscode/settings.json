@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.fontFamily": "Cascadia Code, monospace"
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "git.ignoreLimitWarning": true
 }
