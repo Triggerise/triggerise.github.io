@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+date: 2021-04-19 00:00:00 Z
 permalink: "/privacy-policy-french/"
 subtitle: French language
 Intro Text: 
