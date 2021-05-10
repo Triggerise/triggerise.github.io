@@ -309,7 +309,7 @@
     font-weight: 700;
   }
 
-  .section-title-centre {
+  .section-title-center {
     padding-top: spacing(1);
   }
 
@@ -350,6 +350,7 @@
       }
 
       h3 {
+        padding-top: 35px;
         width: 100%;
         font-size: map-get($font-scale, 4);
         line-height: 1;
@@ -584,7 +585,7 @@
 
 //classList
 
-.centred-data {
+.centered-data {
   @include mq($from: desktop) {
     position: absolute;
     top: 50%;
@@ -601,6 +602,7 @@
 
 .map {
   h2 {
+    padding-top: 35px;
     max-width: 620px;
 
     @include mq($until: tablet) {
@@ -962,6 +964,7 @@
   position: relative;
 
   h2 {
+    padding-bottom: 40px;
     width: 90%;
     text-align: center;
     margin-left: auto;
@@ -1245,8 +1248,10 @@
 
 .what-we-do {
   .center-container {
+    margin-top: 35px;
     position: relative;
     padding-top: 10px;
+    padding-bottom: 100px;
 
     @include mq($from: desktop) {
       position: absolute;
@@ -1257,6 +1262,7 @@
   }
   h2 {
     padding-left: 30px;
+    margin-top: 35px;
 
     .dot {
       width: 30px;
@@ -1308,6 +1314,7 @@
 
     @include mq($from: desktop) {
       flex-direction: row;
+      margin-top: 35px;
     }
 
     h3 {
