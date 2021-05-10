@@ -6,3 +6,5 @@ _site/
 .history
 .DS_Store
 .vscode
+.vscode/
+vendor/bundle/ruby
