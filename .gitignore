@@ -7,4 +7,4 @@ _site/
 .DS_Store
 .vscode/settings.json
 vendor/bundle/ruby
-.bundle/config
+.bundle/config.markdown
