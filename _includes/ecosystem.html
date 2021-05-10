@@ -1,32 +1,25 @@
 <div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
-  <div class="wrapper">
-    {% if include.sectionTitle %}
-      <h3 class="text-colour-{{include.textColor}}" >{{include.sectionTitle}}</h3>
-    {% endif %}
-    <div class="ecosystem-map">
-      {% include ecosystem1.html %}
-      {% include ecosystem2.html %}
-      {% include ecosystem3.html %}
-      {% include ecosystem4.html %}
-      {% include ecosystem5.html %}
-      {% include ecosystem6.html %}
-      {% include ecosystem7.html %}
-      {% include ecosystem8.html %}
-      {% include ecosystem9.html %}
+    <div class="wrapper">
+        {% if include.sectionTitle %}
+        <h3 class="text-colour-{{include.textColor}}">{{include.sectionTitle}}</h3>
+        {% endif %}
+        <div class="ecosystem-map">
+            {% include ecosystem1.html %} {% include ecosystem2.html %} {% include ecosystem3.html %} {% include ecosystem4.html %} {% include ecosystem5.html %} {% include ecosystem6.html %} {% include ecosystem7.html %} {% include ecosystem8.html %} {% include
+            ecosystem9.html %}
+        </div>
+        <div class="key">
+            <ul class="dot-key">
+                <li>Tiko Platform</li>
+                <li>Platform user</li>
+                <li>Tiko Pro</li>
+                <li>Shop</li>
+                <li>Health service</li>
+                <li>Lifestyle</li>
+            </ul>
+            <ul class="line-key">
+                <li>Platform connector</li>
+                <li>Data</li>
+            </ul>
+        </div>
     </div>
-    <div class="key">
-      <ul class="dot-key">
-        <li>Tiko Platform</li>
-        <li>Platform user</li>
-        <li>Tiko Pro</li>
-        <li>Shop</li>
-        <li>Health service</li>
-        <li>Lifestyle</li>
-      </ul>
-      <ul class="line-key">
-        <li>Platform connector</li>
-        <li>Data</li>
-      </ul>
-    </div>
-  </div>
 </div>
