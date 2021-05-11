@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy Policy Swahili
 date: 2021-04-19 00:00:00 Z
 permalink: "/privacy-policy-swahili/"
 Intro Text: 
