@@ -5,8 +5,7 @@ _site/
 .vscode-cache/
 .history
 .DS_Store
-.vscode
+.vscode/settings.json
 vendor/bundle/ruby
-.vscode/
-
-
+.bundle/config.markdown
+vendor/bundle/ruby
