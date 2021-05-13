@@ -120,48 +120,18 @@ Jobs:
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
 - Job Title: County Programme Manager
   Location: Kenya, Busia
-  Job Description: "\n\n\nThe Company\nWe are a fast-growing non-profit social enterprise
-    with offices in the Netherlands, Portugal, India, Kenya, and Ethiopia. Triggerise
-    builds digital platforms that motivate users - primarily young women and adolescent
-    girls - to make positive choices. We work together with local communities and
-    use nudges like reminders, discounts, and reward points to encourage our users
-    to access and use health products and services. We also support our users in becoming
-    entrepreneurs and adding value to their economies.\n\n\n\nAll of our Triggerise
-    offices are comfortable, open spaces filled with enthusiastic, international colleagues.
-    Whether you are working from our biggest office in Nairobi, the fast-growing office
-    in New Delhi, or from home, our people are young and our culture is global and
-    dynamic. Our work environment is fast-paced, informal, and friendly\n\n\n\nThe
-    Job\n\nOur County Programme Managers manage a County that has a cluster of geographic
-    areas or as we call them wards.  The County Programme Manager will be responsible
-    for delivering on the execution of field operations and processes necessary to
-    promote growth and innovation of their ecosystem, whilst contributing to Triggerise’
-    County strategic goals. \n\n\n\nSetting up the ecosystem and onboarding new service
-    providers from approved franchises.\nresponsible for detecting and mitigating
-    all risk to the program, at the county level,  that may include program, fiduciary,
-    and political risks.\nCoordinate donor and partner visits and meetings with senior
-    county management officials\nTroubleshoot issues related to the use of the platform
-    and ensure prompt response and resolution of all tech challenges faced by all
-    actors.\nAssessment of what works and does not work at the field level and propose
-    solutions to improve implementation of the project \n\n\nAbout you\n\nYou are
-    someone who thrives in an environment that is ever-changing, and moving at a rapid
-    pace, as well as being Tech Savvy and proficient in using Apps, tablets, laptops,
-    and smartphones.  You should be a clear communicator, who knows how to make effective
-    data-driven decisions in order to improve outcomes.\n\n\n\nRequirements\n\nTo
-    be a bachelor’s degree holder.\nCommitted to the mission, vision, and theory of
-    change of Triggerise\nExperienced in fieldwork, preferably in sales and marketing\nExperienced
-    in managing teams of field operations and implementation\nDedicated to data-driven
-    decision making for improved outcomes\nKnowledgeable in small business and entrepreneurial
-    spirit\nExpert at networking, connecting, recruiting, and supporting various actors
-    in the business community\nProficient in written and spoken Kiswahili and English\n\n\nThe
-    Rewards\n\nIn return for your hard work and dedication, we offer you:\n\nA competitive
-    salary and good secondary benefits \nA personal development budget\nUnlimited
-    holidays, if you can make it work with your team you’re good to go\nGrowth opportunities\nA
-    product to help shape as we grow, to leave your mark on how we do things\nA vision
-    that we trust that you will do your job without us having to invent unnecessary
-    rules and regulations.\n \n\nThe details \nInterested? Click apply now below!
-    Want more information? Check out our website or contact our Global Recruiter.
-    We only accept applications through the apply links, not by email. \n\n"
-  Link: 
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=116
+- Job Title: County Programme Manager
+  Location: Kenya, Nairobi
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=63
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
