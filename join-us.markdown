@@ -115,9 +115,21 @@ Jobs:
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
+- Job Title: County Programme Manager
+  Location: Kenya, Busia
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=116
+- Job Title: County Programme Manager
+  Location: Kenya, Nairobi
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=63
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
 ---
-
-
