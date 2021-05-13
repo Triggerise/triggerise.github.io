@@ -9,3 +9,4 @@ _site/
 vendor/bundle/ruby
 .bundle/config.markdown
 vendor/bundle/ruby
+Gemfile.lock
