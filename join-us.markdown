@@ -92,12 +92,12 @@ Jobs:
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
-- Job Title: Data Engineering Manager
+- Job Title: Software development manager with a focus on data
   Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning data team,
-    to ensure that agreed delivery by teams and individuals is met.  Are you looking
-    for your next opportunity to contribute to the growth and success of others?  Continue
-    reading to find out more about our Data Manager position!\n\n"
+  Job Description: "You have previous experience guiding, and aligning software and
+    data teams, to ensure that agreed delivery by teams and individuals is met.  Are
+    you looking for your next opportunity to contribute to the growth and success
+    of others?  Continue reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
   Location: Global
@@ -132,6 +132,16 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=63
+- Job Title: HR Specialist
+  Location: Kenya, Nairobi
+  Job Description: "Are you looking for a job where your work sustainably creates
+    a big impact on a global scale? Do you wish to work in a diverse and intercultural
+    company? If so, Triggerise could be your place.\n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=118
+- Job Title: 
+  Location: 
+  Job Description: 
+  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
