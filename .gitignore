@@ -8,5 +8,5 @@ _site/
 .vscode
 vendor/bundle/ruby
 .vscode/
-
+Gemfile.lock
 

@@ -1080,23 +1080,56 @@
   }
 }
 
-#video {
-  
-}
-//Join us  - You Tube tink and text
+//Join us  - You Tube link and text
 
 .work-at-triggerise {
     padding-bottom: 0;
 }
 
-.who-we-are {
+.who-we-are{
     font-weight: 400;
     display: block;
     font-size: 25px;
-    padding-top: spacing(10);
-    padding-bottom: spacing(5);
+    padding-top: spacing(2);
+    padding-bottom: spacing(2);
     padding-left: spacing(5);
     padding-right: spacing(5);
+ }
+
+ .blockquote {
+   margin: 10px 0px;
+   padding: 25px;
+   background: #fff;
+   color: #1D214F;
+   height: 470px;
+   font-size: xxx-large;
+ }
+  .blockquote--quoted::before {
+    content: "\201c";
+    font-size: 100px;
+    color: #1D214F;
+    display: block;
+    margin-bottom: -40px;
+    margin-top: -20px;
+  }
+
+  .blockquote--quoted::after {
+    content: "\201d";
+    font-size: 100px;
+    color: #1D214F;
+    margin-bottom: -140px;
+    margin-top: -40px;
+  }
+
+
+ .blockquote__text {
+   font-size: x-large;
+   line-height: 1.5;
+   margin:0;
+ }
+
+ .blockquote__text:not(:last-child) {
+   margin-bottom: 1em;
  }
 
  .iframe-container {
@@ -2153,3 +2186,5 @@
     color: #fff;
   }
 }
+
+
