@@ -1,21 +1,40 @@
-<div class="work-at-triggerise">
-  <div class="t-two-half flex {{include.colour}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
-    <div class="t-half left text">
-        <p class="who-we-are">
-          <blockquote class="blockquote blockquote--quoted">
-            <p class="blockquote__text">
-              We come from different cultures and backgrounds; 
-              what unites us is our open-mindedness and drive for impact. 
-              You can choose your own working conditions and we give our teams a lot of space. 
-              We trust you know best and are not afraid to let you try something new! 
-              This is how we pioneer and create more impact every day.
-            </p>
-          </blockquote>
-        </p>
-    </div>
-    <div class="t-half {{include.colourSplit}} right video">
-      <div class="video">
-      {% include youtubeplayer.html%} 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+  <body>
+    <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match uk-grid">
+      <div class="uk-child-width-auto@m uk-text-left uk-margin-auto">
+        <div class="uk-blockquote lightBlue uk-card-default uk-card-body">
+              <blockquote class="blockquote blockquote--quoted">
+                <p class="blockquote__text">
+                    We come from different cultures and backgrounds; 
+                    what unites us is our open-mindedness and drive for impact. 
+                    You can choose your own working conditions and we give our teams a lot of space. 
+                    We trust you know best and are not afraid to let you try something new! 
+                    This is how we pioneer and create more impact every day.
+                </p>
+              </blockquote>
+        </div>
+      </div>
+      <div class="uk-video pink uk-card-center uk-card-body">
+            <iframe id="yTPlayer" src="https://www.youtube.com/embed/jxyPJiLL4Kw?autoplay=true&mute=1;
+                rel=0&amp;
+                modestbranding=1
+                &amp;playsinline=1" 
+                  width="100%" 
+                  height="695"
+                  frameborder="0" 
+                  uk-responsive 
+                  uk-video="autoplay: inview">
+            </iframe>
+          </div>
       </div>
     </div>
-</div>
+    
+  </body>
+</html>
