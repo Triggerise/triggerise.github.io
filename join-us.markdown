@@ -3,17 +3,13 @@ title: Join us
 date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
-Testimonial:
-- Image: "/uploads/Joana%20Pereira%20.jpg"
-  Quote: '"Triggerise has a collaborative culture sustained by very nice people with
-    a great team spirit which promotes a good work-life balance. I joined Triggerise
-    because as a data analyst I think we should always use data to have a positive
-    impact on someone''s life. Every day we know that we have to do our best and challenge
-    ourselves to look for the best solutions so that all decisions have an even more
-    significant impact on communities."
-
-'
-  Name: Joana Pereira | Data Analyst, Porto
+youtubeID: jxyPJiLL4Kw
+Work-at-Triggerise:
+- Quote: ' "We come from different cultures and backgrounds; what unites us is our
+    open-mindedness and drive for impact. You can choose your own working conditions
+    and we give our teams a lot of space. We trust you know best and are not afraid
+    to let you try something new! This is how we pioneer and create more impact every
+    day."'
 Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission
   to get things done and do them well. We’re ever open-minded and highly impact-driven,
   keen to take on how the world does change. \n\nUniting the best bits of working
@@ -96,12 +92,12 @@ Jobs:
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
-- Job Title: Data Engineering Manager
+- Job Title: Software development manager with a focus on data
   Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning data team,
-    to ensure that agreed delivery by teams and individuals is met.  Are you looking
-    for your next opportunity to contribute to the growth and success of others?  Continue
-    reading to find out more about our Data Manager position!\n\n"
+  Job Description: "You have previous experience guiding, and aligning software and
+    data teams, to ensure that agreed delivery by teams and individuals is met.  Are
+    you looking for your next opportunity to contribute to the growth and success
+    of others?  Continue reading to find out more about our Data Manager position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
   Location: Global
@@ -110,12 +106,6 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Customer Support Officer
-  Location: 'Portugal, Porto '
-  Job Description: Do you have experience in troubleshooting and solving urgent technical
-    issues with great efficiency? Do you have a good eye for detail and know how to
-    prioritise? Continue reading, this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=104
 - Job Title: D2C Lead
   Location: Kenya, Nairobi
   Job Description: Are you looking for a job where your work sustainably creates a
@@ -128,6 +118,32 @@ Jobs:
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
+- Job Title: County Programme Manager
+  Location: Kenya, Busia
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=116
+- Job Title: County Programme Manager
+  Location: Kenya, Nairobi
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=63
+- Job Title: HR Specialist
+  Location: Kenya, Nairobi
+  Job Description: "Are you looking for a job where your work sustainably creates
+    a big impact on a global scale? Do you wish to work in a diverse and intercultural
+    company? If so, Triggerise could be your place.\n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=118
+- Job Title: Facilitator
+  Location: Global
+  Job Description: Are you an expert on the pros and cons of different ways of working?
+    Can you make our teams excel by helping them choose what works for them? Then
+    this is your chance to build something new and exciting!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=123&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join

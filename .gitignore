@@ -5,3 +5,8 @@ _site/
 .vscode-cache/
 .history
 .DS_Store
+.vscode
+vendor/bundle/ruby
+.vscode/
+Gemfile.lock
+
