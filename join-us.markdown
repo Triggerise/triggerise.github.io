@@ -138,10 +138,12 @@ Jobs:
     a big impact on a global scale? Do you wish to work in a diverse and intercultural
     company? If so, Triggerise could be your place.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=118
-- Job Title: 
-  Location: 
-  Job Description: 
-  Link: 
+- Job Title: Facilitator
+  Location: Global
+  Job Description: Are you an expert on the pros and cons of different ways of working?
+    Can you make our teams excel by helping them choose what works for them? Then
+    this is your chance to build something new and exciting!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=123&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
