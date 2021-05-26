@@ -86,7 +86,7 @@ Jobs:
     always see the bigger picture and are an expert at understanding our user's needs
     and wants.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
-- Job Title: Software development manager with a focus on data
+- Job Title: Engineering Manager
   Location: Porto, Portugal
   Job Description: "You have previous experience guiding, and aligning software and
     data teams, to ensure that agreed delivery by teams and individuals is met.  Are
@@ -138,6 +138,12 @@ Jobs:
     Can you make our teams excel by helping them choose what works for them? Then
     this is your chance to build something new and exciting!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=123&source=aWQ9MjM%3D
+- Job Title: M&E Lead
+  Location: Cape Town, Western Cape
+  Job Description: Triggerise creates impact by applying tech to non-profit.  We are
+    looking for an M&E lead who can ensure that our high quality can be collected,
+    processed & analyzed in order to make evidence-driven decisions.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
