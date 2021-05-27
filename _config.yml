@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+  annualReports: 
+    title: Annual Reports
+    output: true
+  financialReports: 
+    title: Financial Reports
+    output: true
 defaults:
 - scope:
     path: ''
