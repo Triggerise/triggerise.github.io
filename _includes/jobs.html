@@ -8,7 +8,7 @@
       <div class="uk-grid-small uk-child-width-1-4@s uk-flex-left uk-text-left" uk-grid>
         {% for job in page.Jobs %}
         <div class="job">
-          <h3 uk-toggle="target: #toggle-hover; mode: hover">{{job.['Job Title']}}</h3>
+          <h3 uk-toggle="target: #toggle-hover; mode: hover, click">{{job.['Job Title']}}</h3>
             <div class="uk-visible-toggle" tabindex="-1">
               <h3 class="location">{{job.Location}}</h3>
               <div class="uk-hidden-hover uk-iconnav">
