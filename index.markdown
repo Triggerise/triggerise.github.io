@@ -286,7 +286,6 @@ Our-Model:
     2.07 5.085 5.445v.945l-4.815.405c-6.66.495-10.17 3.06-10.17 7.29 0 3.69 2.88 6.075
     7.245 6.075zm1.485-2.745c-2.7 0-4.59-1.44-4.59-3.645 0-2.88 2.25-4.365 6.57-4.725l4.32-.36v1.98c0
     3.96-2.655 6.75-6.3 6.75zM935 137v-20H363v20h572z" fill="#FDDE5A"/></svg>
-Eco-System-Text: Our ecosytem connects supply & demand
 CTA-Block:
   Header: Let’s trigger great change together.
   Description: "We’re always keen to join forces and ignite more positive impact across
