@@ -46,19 +46,6 @@ Jobs:
     New Business Development Director that helps us scale our already considerable
     impact in the coming years. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=53
-- Job Title: Back End Developer
-  Location: Porto, Portugal
-  Job Description: Do you have an interest in Technology, and an affinity for back
-    end development? Continue reading to find out more about our back end developer
-    role.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=42
-- Job Title: Risk Analyst
-  Location: Global
-  Job Description: Using and analyzing data, you are able to dig deep and identify
-    trends, and spot potential fraud risk areas.  You enjoy dealing with people’s
-    challenges and frustrations and you can use your solution-driven approach to assist
-    in detection, prevention, and an overall reduction of fraud.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
 - Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
@@ -79,13 +66,6 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Product Owner
-  Location: Global
-  Job Description: Are you a product visionary, who has an affinity for technology,
-    combined with the ability to gather and parse the opinions of multiple stakeholders?  You
-    always see the bigger picture and are an expert at understanding our user's needs
-    and wants.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
 - Job Title: Engineering Manager
   Location: Porto, Portugal
   Job Description: "You have previous experience guiding, and aligning software and
