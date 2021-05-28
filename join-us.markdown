@@ -4,13 +4,6 @@ date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
 Work-at-Triggerise: 
-Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission
-  to get things done and do them well. We’re ever open-minded and highly impact-driven,
-  keen to take on how the world does change. \n\nUniting the best bits of working
-  for a developmental not-for-profit and an agile tech start-up, we offer an inspiring
-  fast-paced place to learn and grow for graduates and experienced experts alike.
-  \n\nWe’re expanding and look forward to meeting talented, enthusiastic and driven
-  prospective team members.\n"
 Values:
 - Name: We are open
   Description: We’re open to diverse experiences, ideas and people. We believe that
@@ -33,12 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: New Business Development Director
   Location: Global
   Job Description: 'What if you can be instrumental in positively impacting hundreds
@@ -124,6 +111,12 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
