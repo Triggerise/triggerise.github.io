@@ -7,7 +7,6 @@
   <title>Resources</title>
 </head>
 <body>
-
   <div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
     <h2>Reports & resources</h2>
@@ -20,7 +19,6 @@
         {% endfor %}
       </div>
     </div>
-    
     {% assign reports = page.Reports-Resources %}
     <div class="t-resources-wrapper flex">
       {% for report in reports reversed %}
@@ -51,7 +49,8 @@
                 </svg>
               </div>
         </div>
-      {% endfor %}
+        {% endfor %}
+      </ul>
     </div>
   </div>
 </div>
