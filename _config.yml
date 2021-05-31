@@ -2,6 +2,14 @@
 title: Triggerise
 timezone: UTC
 collections:
+  annual-reports:
+    title: "year"
+    tag: "Annual Report"
+    output: true
+  financial-reports:
+    title: "year"
+    tag: "Financial Report"
+    output: true
   posts:
     title: Posts
     output: true

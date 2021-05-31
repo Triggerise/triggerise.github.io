@@ -179,46 +179,36 @@ Our People:
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_Threa.jpg"
 Reports-Resources:
-- Name: Annual Report
-  Sub title: 2019
-  Link: "/uploads/Annual%20Report%202019.pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report  '
-  Sub title: 2018
-  Link: "/uploads/Triggerise_2018_Annual_Report.pdf"
-  Tag: AnnualReport
-- Name: Annual Report
-  Sub title: 2017
-  Link: "/uploads/Annual%20Report%202017_FINAL.pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report '
-  Sub title: 2016
-  Link: "/uploads/Triggerise%202016%20annual%20report%20(1).pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report '
-  Sub title: 2015
-  Link: "/uploads/Triggerise%202015%20report%20FINAL.pdf"
-  Tag: AnnualReport
-- Name: Financial Report
-  Sub title: 2019
-  Link: "/uploads/Triggerise%20Stichting%20consolidated%20FS%20%202019%20_AR_unsigned%20(1).pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2018
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202018.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2017
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202017.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2016
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202016.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2015
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202015.pdf"
-  Tag: FinancialReport
+- Title: 2015
+  Link: "/uploads/2015_annual_report.pdf"
+  tag: Annual Report
+- Title: 2015
+  tag: Financial Report
+  Link: "/uploads/2015_financial_report.pdf"  
+- Title: 2016
+  Link: "/uploads/2016_annual_report.pdf"
+  tag: Annual Report
+- Title: 2016
+  tag: Financial Report
+  Link: "/uploads/2016_financial_report.pdf"
+- Title: 2017
+  Link: "/uploads/2017_annual_report.pdf"
+  tag: Annual Report
+- Title: 2017
+  Link: "/uploads/2017_financial_report.pdf"
+  tag: Financial Report
+- Title: 2018
+  Link: "/uploads/2018_annual_report.pdf"
+  tag: Annual Report
+- Title: 2018
+  Link: "/uploads/2018_financial_report.pdf"
+  tag: Financial Report
+- Title: 2019
+  Link: "/uploads/2019_annual_report.pdf"
+  tag: Annual Report
+- Title: 2019
+  Link: "/uploads/2019_financial_report.pdf"
+  tag: Financial Report
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
