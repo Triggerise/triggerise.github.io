@@ -7,22 +7,25 @@
   <title>Resources</title>
 </head>
 <body>
+
   <div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
     <h2>Reports & resources</h2>
-    <div uk-filter="target: .js-filter">
       <div class="filters">
         {% assign filters = page.Filters %}
         <div class="filter" data-click="report-cover">All</div>
         {% for filter in filters %}
-          <div class="filter" data-click="{{filter.Filter}}">{{filter.Key}}</div>
+          <div class="filter" data-click="{{filter.Filter}}">{{filter.Key}}</div>    
         {% endfor %}
       </div>
-    </div>
+
+
+
+    
     {% assign reports = page.Reports-Resources %}
     <div class="t-resources-wrapper flex">
       {% for report in reports reversed %}
-        <div class="report-cover {{report.Tag}}">
+        <div class="report-cover {{report.Title}}">
           <a href="{{report.file}}" target="_blank" rel="noopener noreferrer" ></a>
             <h2>{{report.['tag']}}</h2>
             <h3>{{report.['Title']}}</h3>

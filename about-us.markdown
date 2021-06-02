@@ -180,34 +180,34 @@ Our People:
   Image: "/uploads/Trig_profiles_Threa.jpg"
 Reports-Resources:
 - Title: 2015
-  Link: "/uploads/2015_annual_report.pdf"
+  file: "/uploads/2015_annual_report.pdf"
   tag: Annual Report
 - Title: 2015
   tag: Financial Report
-  Link: "/uploads/2015_financial_report.pdf"  
+  file: "/uploads/2015_financial_report.pdf"  
 - Title: 2016
-  Link: "/uploads/2016_annual_report.pdf"
+  file: "/uploads/2016_annual_report.pdf"
   tag: Annual Report
 - Title: 2016
   tag: Financial Report
-  Link: "/uploads/2016_financial_report.pdf"
+  file: "/uploads/2016_financial_report.pdf"
 - Title: 2017
-  Link: "/uploads/2017_annual_report.pdf"
+  file: "/uploads/2017_annual_report.pdf"
   tag: Annual Report
 - Title: 2017
-  Link: "/uploads/2017_financial_report.pdf"
+  file: "/uploads/2017_financial_report.pdf"
   tag: Financial Report
 - Title: 2018
-  Link: "/uploads/2018_annual_report.pdf"
+  file: "/uploads/2018_annual_report.pdf"
   tag: Annual Report
 - Title: 2018
-  Link: "/uploads/2018_financial_report.pdf"
+  file: "/uploads/2018_financial_report.pdf"
   tag: Financial Report
 - Title: 2019
-  Link: "/uploads/2019_annual_report.pdf"
+  file: "/uploads/2019_annual_report.pdf"
   tag: Annual Report
 - Title: 2019
-  Link: "/uploads/2019_financial_report.pdf"
+  file: "/uploads/2019_financial_report.pdf"
   tag: Financial Report
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
@@ -227,7 +227,7 @@ Filters:
   Key: Annual Report
 - Filter: FinancialReport
   Key: Financial Report
-SafeGuarding-link: "/privacy-policy-english/"
+SafeGuarding-file: "/privacy-policy-english/"
 layout: about
 ---
 
