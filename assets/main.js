@@ -252,26 +252,30 @@ function classLists() {
 
 
 var filtersCheck = document.querySelectorAll('.filter');
+function hideReports(reports) {
+  reports.forEach((item, i) => {
+    item.classList.remove('display');
+    item.style.display = "none";
+  });
+}
 function filters(){
- for(i=0; i<filtersCheck.length; i++) {
-   filtersCheck[i].addEventListener('click', function(){
-     document.querySelectorAll('.report-cover').forEach((item, i) => {
-       item.classList.remove('display');
-     });
-
+  var allReports = Array.from(document.querySelectorAll('.report-cover'))
+  hideReports(allReports)
+  console.log(allReports);
+  var initialReports = allReports.slice(0, 4);
+  initialReports.forEach( e  => e.classList.add('display'));
+  filtersCheck.forEach(f =>{
+    f.addEventListener('click', function(){
+      hideReports(allReports)
       var data = this.dataset.click;
       var selected = document.querySelectorAll('.report-cover.' + data);
       console.log(selected);
-      for(j=0; j<selected.length; j++) {
-        console.log(j);
-        document.querySelectorAll('.report-cover').forEach((item, i) => {
-          item.style.display = "none";
-        });
-        selected[j].classList.add('display');
-      }
-   });
- }
-};
+      selected.forEach(s => {
+        s.classList.add('display')
+      })  
+    });
+  });
+}
 
 var myStorage = window.localStorage;
 console.log(myStorage);
