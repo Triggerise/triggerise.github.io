@@ -178,37 +178,6 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_Threa.jpg"
-Reports-Resources:
-- Title: 2015
-  file: "/uploads/2015_annual_report.pdf"
-  tag: Annual Report
-- Title: 2015
-  tag: Financial Report
-  file: "/uploads/2015_financial_report.pdf"  
-- Title: 2016
-  file: "/uploads/2016_annual_report.pdf"
-  tag: Annual Report
-- Title: 2016
-  tag: Financial Report
-  file: "/uploads/2016_financial_report.pdf"
-- Title: 2017
-  file: "/uploads/2017_annual_report.pdf"
-  tag: Annual Report
-- Title: 2017
-  file: "/uploads/2017_financial_report.pdf"
-  tag: Financial Report
-- Title: 2018
-  file: "/uploads/2018_annual_report.pdf"
-  tag: Annual Report
-- Title: 2018
-  file: "/uploads/2018_financial_report.pdf"
-  tag: Financial Report
-- Title: 2019
-  file: "/uploads/2019_annual_report.pdf"
-  tag: Annual Report
-- Title: 2019
-  file: "/uploads/2019_financial_report.pdf"
-  tag: Financial Report
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
@@ -222,11 +191,6 @@ Board of Directors Description: The Triggerise Supervisory Board helps fulfil ou
 Team Description: Our people and their commitment to our vision move us forward every
   day. Here are some of the faces that are working hard behind the scenes to create
   big impact.
-Filters:
-- Filter: AnnualReport
-  Key: Annual Report
-- Filter: FinancialReport
-  Key: Financial Report
 SafeGuarding-link: "/privacy-policy-english/"
 layout: about
 ---
