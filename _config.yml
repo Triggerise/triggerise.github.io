@@ -3,10 +3,10 @@ title: Triggerise
 timezone: UTC
 collections:
   annual-reports:
-    title: "Annual Reports"
+    title: Annual Reports
     output: true
   financial-reports:
-    title: "Financial Reports"
+    title: Financial Reports
     output: true
   posts:
     title: Posts
@@ -14,7 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-    
 defaults:
 - scope:
     path: ''
@@ -29,14 +28,14 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: "annual-reports"
+    type: annual-reports
   values:
-    label: "Annual Report"
-    filter: "AnnualReport"
+    label: Annual Report
+    filter: AnnualReport
 - scope:
     path: ''
-    type: "financial-reports"
+    type: financial-reports
   values:
-    label: "Financial Report"
-    filter: "FinancialReport"
+    label: Financial Report
+    filter: FinancialReport
 permalink: pretty
