@@ -260,8 +260,7 @@ function hideReports(reports) {
 }
 function filters(){
   var allReports = Array.from(document.querySelectorAll('.report-cover'))
-  hideReports(allReports)
-  console.log(allReports);
+  hideReports(allReports);
   var initialReports = allReports.slice(0, 4);
   initialReports.forEach( e  => e.classList.add('display'));
   filtersCheck.forEach(f =>{
