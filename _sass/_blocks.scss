@@ -1923,6 +1923,8 @@
   }
 }
 
+// Jobs
+
 .jobs {
   padding-top: spacing(4);
   padding-bottom: spacing(4);
@@ -1955,6 +1957,7 @@
 
     h3 {
       font-size: map-get($font-scale, 2);
+      pointer-events: none;
       line-height: 1;
       margin: 0;
 

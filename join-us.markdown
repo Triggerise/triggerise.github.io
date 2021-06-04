@@ -4,13 +4,6 @@ date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
 Splash-image: "/uploads/join_image.jpg"
 Work-at-Triggerise: 
-Open-positions-text: "### We’re an energetic bunch of global pioneers on a mission
-  to get things done and do them well. We’re ever open-minded and highly impact-driven,
-  keen to take on how the world does change. \n\nUniting the best bits of working
-  for a developmental not-for-profit and an agile tech start-up, we offer an inspiring
-  fast-paced place to learn and grow for graduates and experienced experts alike.
-  \n\nWe’re expanding and look forward to meeting talented, enthusiastic and driven
-  prospective team members.\n"
 Values:
 - Name: We are open
   Description: We’re open to diverse experiences, ideas and people. We believe that
@@ -33,12 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: New Business Development Director
   Location: Global
   Job Description: 'What if you can be instrumental in positively impacting hundreds
@@ -46,19 +33,6 @@ Jobs:
     New Business Development Director that helps us scale our already considerable
     impact in the coming years. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=53
-- Job Title: Back End Developer
-  Location: Porto, Portugal
-  Job Description: Do you have an interest in Technology, and an affinity for back
-    end development? Continue reading to find out more about our back end developer
-    role.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=42
-- Job Title: Risk Analyst
-  Location: Global
-  Job Description: Using and analyzing data, you are able to dig deep and identify
-    trends, and spot potential fraud risk areas.  You enjoy dealing with people’s
-    challenges and frustrations and you can use your solution-driven approach to assist
-    in detection, prevention, and an overall reduction of fraud.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=61
 - Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
@@ -79,13 +53,6 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Product Owner
-  Location: Global
-  Job Description: Are you a product visionary, who has an affinity for technology,
-    combined with the ability to gather and parse the opinions of multiple stakeholders?  You
-    always see the bigger picture and are an expert at understanding our user's needs
-    and wants.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=89
 - Job Title: Engineering Manager
   Location: Porto, Portugal
   Job Description: "You have previous experience guiding, and aligning software and
@@ -144,6 +111,12 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
