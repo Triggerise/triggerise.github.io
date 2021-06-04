@@ -178,47 +178,6 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_Threa.jpg"
-Reports-Resources:
-- Name: Annual Report
-  Sub title: 2019
-  Link: "/uploads/Annual%20Report%202019.pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report  '
-  Sub title: 2018
-  Link: "/uploads/Triggerise_2018_Annual_Report.pdf"
-  Tag: AnnualReport
-- Name: Annual Report
-  Sub title: 2017
-  Link: "/uploads/Annual%20Report%202017_FINAL.pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report '
-  Sub title: 2016
-  Link: "/uploads/Triggerise%202016%20annual%20report%20(1).pdf"
-  Tag: AnnualReport
-- Name: 'Annual Report '
-  Sub title: 2015
-  Link: "/uploads/Triggerise%202015%20report%20FINAL.pdf"
-  Tag: AnnualReport
-- Name: Financial Report
-  Sub title: 2019
-  Link: "/uploads/Triggerise%20Stichting%20consolidated%20FS%20%202019%20_AR_unsigned%20(1).pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2018
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202018.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2017
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202017.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2016
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202016.pdf"
-  Tag: FinancialReport
-- Name: Financial Report
-  Sub title: 2015
-  Link: "/uploads/TS%20ST%20Audited%20financial%20statements%202015.pdf"
-  Tag: FinancialReport
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
@@ -232,11 +191,6 @@ Board of Directors Description: The Triggerise Supervisory Board helps fulfil ou
 Team Description: Our people and their commitment to our vision move us forward every
   day. Here are some of the faces that are working hard behind the scenes to create
   big impact.
-Filters:
-- Filter: AnnualReport
-  Key: Annual Report
-- Filter: FinancialReport
-  Key: Financial Report
 SafeGuarding-link: "/privacy-policy-english/"
 layout: about
 ---
