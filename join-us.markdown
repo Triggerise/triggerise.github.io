@@ -117,6 +117,12 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Chief Finance Officer
+  Location: Global
+  Job Description: 'Are you a finance leader with vision? We are looking for a Chief
+    Finance Officer that will enable our finance team to scale in a period of rapid
+    growth.  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
