@@ -2,19 +2,22 @@
   <div class="wrapper">
     <h2>Reports & resources</h2>
     <div class="filters">
-      {% assign filters = page.Filters %}
       <div class="filter" data-click="report-cover">All</div>
-      {% for filter in filters %}
-        <div class="filter" data-click="{{filter.Filter}}">{{filter.Key}}</div>
-      {% endfor %}
+      <div class="filter" data-click="AnnualReport">Annual Reports</div>
+      <div class="filter" data-click="FinancialReport">Financial Reports</div>
     </div>
-    {% assign reports = page.Reports-Resources %}
+    
+    {% assign annualReports = site.annual-reports %}
+    {% assign financialReports = site.financial-reports %}
+
+    {% assign reports = annualReports | concat: financialReports | sort: "title" %}
+
     <div class="t-rescources-wrapper flex">
-      {% for report in reports %}
-        <div class="report-cover {{report.Tag}}">
-          <a href="{{report.Link}}"></a>
-          <h2>{{report.Name}}</h2>
-          <h3>{{report.['Sub title']}}</h3>
+      {% for report in reports reversed %}
+        <div class="report-cover {{report.filter}}">
+          <a href="{{report.file}}" target="_blank" rel="noopener noreferrer" ></a>
+          <h2>{{report.label}}</h2>
+          <h3>{{report.title}}</h3>
           <div class="report-image">
             <svg class="one" width="286" height="185" viewBox="0 0 286 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 92.5C0 143.562 41.438 185 92.5 185S185 143.562 185 92.5 143.623 0 92.5 0C41.438 0 0 41.377 0 92.5z" fill="#1D214F"/><path d="M205 144.5c0 22.357 18.143 40.5 40.5 40.5s40.5-18.143 40.5-40.5-18.116-40.5-40.5-40.5c-22.357 0-40.5 18.116-40.5 40.5zM258 40.5c0 6.9-5.6 12.5-12.5 12.5S233 47.4 233 40.5 238.591 28 245.5 28c6.9 0 12.5 5.592 12.5 12.5z" fill="#FDDE5A"/></svg>
             <svg class="two" width="298" height="185" viewBox="0 0 298 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M92.5 185C41.438 185 0 143.562 0 92.5h185c0 51.062-41.438 92.5-92.5 92.5z" fill="#2C449C"/><path d="M205.5 0C256.562 0 298 41.438 298 92.5H113C113 41.438 154.438 0 205.5 0z" fill="#742F8D"/></svg>

@@ -4,7 +4,10 @@ timezone: UTC
 collections:
   annual-reports:
     title: Annual Reports
-    output: false
+    output: true
+  financial-reports:
+    title: Financial Reports
+    output: true
   posts:
     title: Posts
     output: true
@@ -23,4 +26,16 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: annual-reports
+  values:
+    label: Annual Report
+    filter: AnnualReport
+- scope:
+    path: ''
+    type: financial-reports
+  values:
+    label: Financial Report
+    filter: FinancialReport
 permalink: pretty
