@@ -14,13 +14,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  privacy-policy:
+    title: Privacy Policies
+    output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
@@ -38,4 +35,22 @@ defaults:
   values:
     label: Financial Report
     filter: FinancialReport
+- scope:
+    path: ''
+    type: privacy-policy
+  values:
+    label: English
+    filter: English
+- scope:
+    path: ''
+    type: privacy-policy
+  values:
+    label: Swahili
+    filter: Swahili
+- scope:
+    path: ''
+    type: privacy-policy
+  values:
+    label: French
+    filter: French        
 permalink: pretty
