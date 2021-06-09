@@ -131,6 +131,26 @@ Jobs:
     Financial consolidation? Read on to learn more about our Financial Controller
     vacancy! \n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
+- Job Title: Health & Education Expert Lead
+  Location: 'Global '
+  Job Description: 'Do you possess strategic leadership experience in health as well
+    as education and employability? Are you passionate about the strengthening and
+    expansion of health systems? If so, read on to hear more about the Health & Education
+    Expert Lead position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=127&source=aWQ9MjM%3D
+- Job Title: Education & Employability Advisor
+  Location: 'Global '
+  Job Description: 'Are you well-versed on the latest scientific evidence in learning
+    strategies? Do you want to provide technical oversight to education and employability
+    components for an international insights department? If so, read on to hear more
+    about the Education & Employability Advisor position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=126&source=aWQ9MjM%3D
+- Job Title: Research Lead
+  Location: 'Cape Town, South Africa '
+  Job Description: 'Are you constantly asking critical and constructive questions?
+    Do you have extensive quantitative research experience? If so, the Research Manager
+    position might be for you! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=125&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
