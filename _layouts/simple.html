@@ -49,32 +49,24 @@ layout: default
       </div>
     </div>
     {% endif %}
-    
-    <div class="filter">
-      <div class="filter" data-click="">English</div>
-      <div class="filter" data-click="">Swahili</div>
-      <div class="filter" data-click="">French</div>
-    </div>
-    
-    {% if page.title == "Privacy Policy" %}
+
     <div class="story-list">
-      <span><a href="/privacy-policy/english/" {% if page.url == "/privacy-policy/english"%}style="color: #1D214F;"{% endif %}>English /</a></span>
-      <span><a href="/privacy-policy/swahili/" {% if page.url == "/privacy-policy/swahili/" %}style="color: #1D214F;"{% endif %}>Swahili /</a></span> <br>
-      <span><a href="/privacy-policy/french/" {% if page.url == "/privacy-policy/french/" %}style="color: #1D214F;"{% endif %}>French /</a></span>
+      <div class="policies-filters">
+        <span><a href="#policies-pageEnglish">English /</a></span>
+        <span><a href="#policies-pageSwahili">Swahili /</a></span> <br>
+        <span><a href="#policies-pageFrench">French /</a></span>
+      </div>
     </div>
-    {% endif %}
-    {% if page.title != "Contact" %}
-    <div class="success-story-wrapper">
-    {% for policy in site.privacy-policy%}
-    {{ policy }}
-    {% endfor %}
-    </div>
-    {% endif %}
+      {% assign policies = site.privacy-policy %}
+      {% if page.title != "Contact" %}  
+        <div class="success-story-wrapper">
+          {% for policy in policies %}
+            <div id="policies-page{{policy.title}}">
+              {{ policy.content}}
+            </div>
+          {% endfor %}
+        </div>    
+      {% endif %}
   </div>
 </div>
 
-{% if page.title == "Privacy Policy" %}
-        {{page.Body | markdownify }}
-        {{page['Privacy Policy - Swahili Description'] | markdownify }}   
-        {{page['Privacy Policy - French Description'] | markdownify }}
-      {% endif %}
