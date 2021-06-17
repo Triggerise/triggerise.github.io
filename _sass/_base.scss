@@ -61,12 +61,13 @@ img {
   height: 0;
 
   @include mq($from: desktop) {
-    margin-top: 25%;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  @include mq($from: mobile) {
+    max-height: fit-content;
   }
 }
-
-
-
 
 .iframe-container iframe {
   position: absolute; 
@@ -74,6 +75,7 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
+
 }
 
 /**
@@ -315,12 +317,6 @@ button {
       margin-left: 0;
     }
 }
-
-
-
-
-
-
 
 footer {
   .flex {
