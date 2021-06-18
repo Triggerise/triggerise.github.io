@@ -164,6 +164,13 @@ Jobs:
     your tech skills & knowledge.  Read on to find out more about our Scala Engineering
     Team Lead position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
+- Job Title: DevOps Engineer
+  Location: Cape Town, Western Cape
+  Job Description: Do you have experience building, testing & maintaining tools that
+    allow for speedy development of software?  You enjoy working in an Agile way and
+    are excited by the prospect of using technology to create impact.  Read on to
+    find out more to find out about our DevOps Engineer position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
