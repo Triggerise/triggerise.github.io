@@ -1999,27 +1999,110 @@ blockquote:after {
 }
 
 // Jobs
+
 .jobs-wrapper {
   box-sizing: border-box;
 
-  .uk-grid-small {
-    padding-top: 20px;
+  .grid {
+    display: grid;
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+    @include mq($until: mobile) {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
+    @include mq($until: tablet) {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
+    @include mq($from: tablet, $and: '(orientation: landscape)') {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+    @include mq(1024px) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    @include mq(1300px) {
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+    @include mq(tablet, desktop) {
+        grid-template-columns: repeat(2, 1fr);
+        
+      }
+  }
+}
+
+.jobs {
+  .job {
+    width: 100%;
+    margin-bottom: 22px;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: transform ease-in-out 0.2s;
+
+    h3 {
+      padding: 50px 0;
+      font-size: map-get($font-scale, 2);
+      pointer-events: none;
+      line-height: 1;
+      margin: 0;
+
+      @include mq($from: mobile) {
+        font-size: map-get($font-scale, 1);
+      }
+
+      @include mq($from: desktop) {
+        font-size: map-get($font-scale, 2);
+      }
+
+      @include mq($from: wide) {
+        font-size: map-get($font-scale, 2);
+      }
+
+      &.location {
+        position: absolute;
+        left: 0; 
+        right: 0; 
+        margin-left: auto; 
+        margin-right: auto; 
+        opacity: 0.5;
+        bottom: 0;
+        text-align: center;
+        line-height: 1;
+        font-size: map-get($font-scale, 0);
+      }
+    }
+  }
+
+  h1 {
+    font-size: map-get($font-scale, 5);
   }
 }
 
 // The flip card container 
 .flip-card {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
   width: 240px;
   height: 300px;
   perspective: 1000px; 
+
 }
 
 // This container positions the front and back side 
 .flip-card-inner {
-  position: relative;
+  position: absolute;
   width: 100%;
   height: 100%;
-  text-align: left;
+  text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
 }
@@ -2041,12 +2124,18 @@ blockquote:after {
 .flip-card-front {
   background-color: #fff;
   color: #1D214F;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .flip-card-back {
   padding-top: 10px;
   background-color: #fff;
   color: #1D214F;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
   transform: rotateY(180deg);
 }
 
