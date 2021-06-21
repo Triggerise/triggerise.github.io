@@ -61,6 +61,7 @@ img {
   height: 0;
 
   @include mq($from: desktop) {
+    color: hotpink;
     margin-top: 0;
     margin-bottom: 0;
   }
