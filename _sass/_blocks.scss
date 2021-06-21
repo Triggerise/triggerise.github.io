@@ -1086,62 +1086,54 @@
     padding-bottom: 0;
 }
 
+.quote-text-body {
+    @include mq($until: mobile) {
+      max-height: fit-content;
+    }
+    @include mq($from: mobile) {
+      max-height: fit-content;
+    }
+    @include mq(tablet, desktop) {
+    }
+    @include mq($from: tablet, $and: '(orientation: landscape)') {
+      max-height: fit-content;
+    }
+    @include mq(900px) {
+      max-height: fit-content;
+    }
+    @include mq(1024px) {
+    }
+    @include mq(1300px) {
+      max-height: fit-content;
+    }
+}
+.job-inner-wrapper {
+  justify-content: center;
+}
 
- .blockquote {
-   padding: 25px;
-   color: #1D214F;
-   height: 470px;
-   font-size: xx-large;
-   border-left: none !important;
- }
-  .blockquote--quoted::before {
-    content: "\201c";
-    font-size: 100px;
-    color: #1D214F;
-    display: block;
-    margin-bottom: -40px;
-    margin-top: -20px;
+.join-quote {
+  border: none;
+  color:  #1D214F;
+  text-align: left;
+
+  @include mq(tablet, desktop) {
+    font-size: 14px;
+  }
+  @include mq(1024px) {
+    font-size: 20px;
   }
 
-  .blockquote--quoted::after {
-    content: "\201d";
-    font-size: 100px;
-    color: #1D214F;
-    margin-bottom: -120px;
-    margin-top: -40px;
-    padding-bottom: 150px;
-    float:right
+  @include mq(1200px) {
+    font-size: 24px;
   }
 
- .blockquote__text {
-   line-height: 1.5;
-   margin:0;
-   font-weight: 400;
-   display: block;
-   padding-top: spacing(2);
-   padding-bottom: spacing(2);
-   padding-left: spacing(5);
-   padding-right: spacing(5);
- }
-
-
- .blockquote__text {
-  
-      @include mq($from: mobile) {
-          font-size: large;
-      }
-      @include mq($from: tablet) {
-          font-size: x-large;
-      }
-      @include mq($from: 1360px) {
-          font-size: xx-large;
-      }
+  @include mq(1300px) {
+    font-size: 28px;
   }
+}
 
- .blockquote__text:not(:last-child) {
-   margin-bottom: 1em;
- }
 
+//Join us Testimonial
 
 .image-wrapper-quote {
   height: 50vw;

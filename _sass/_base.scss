@@ -61,12 +61,29 @@ img {
   height: 0;
 
   @include mq($from: desktop) {
+    color: hotpink;
     margin-top: 0;
     margin-bottom: 0;
   }
   @include mq($from: mobile) {
     max-height: fit-content;
   }
+
+  @include mq($until: tablet) {
+    max-height: fit-content;
+  }
+  @include mq(mobile, tablet) {
+    color: green;
+    max-height: fit-content;
+  }
+  @include mq($from: tablet, $and: '(orientation: landscape)') {
+    max-height: fit-content;
+  }
+  @include mq(950px) {
+    color: hotpink;
+    max-height: fit-content;
+  }
+    
 }
 
 .iframe-container iframe {
