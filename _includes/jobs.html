@@ -1,8 +1,8 @@
 <div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
     <h1>Open positions</h1>
-    <div class="jobs-wrapper flex">
-      <div class="uk-grid-small uk-child-width-1-4@s uk-flex-left uk-text-left" uk-grid>
+    <div class="jobs-wrapper">
+      <div class="grid">
         {% for job in page.Jobs %}
           <div class="job">
             <div class="flip-card">
