@@ -111,12 +111,6 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: Chief Finance Officer
   Location: Global
   Job Description: 'Are you a finance leader with vision? We are looking for a Chief
@@ -171,6 +165,12 @@ Jobs:
     are excited by the prospect of using technology to create impact.  Read on to
     find out more to find out about our DevOps Engineer position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
