@@ -68,7 +68,7 @@ Jobs:
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
 - Job Title: D2C Lead
-  Location: Kenya, Nairobi
+  Location: " Nairobi, Kenya"
   Job Description: Are you looking for a job where your work sustainably creates a
     big impact on a global scale? Do you wish to work in a diverse and intercultural
     company? If so, Triggerise could be your place!
@@ -80,21 +80,21 @@ Jobs:
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
 - Job Title: County Programme Manager
-  Location: Kenya, Busia
+  Location: Busia, Kenya
   Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
     you like to contribute to Triggerise growth and footprint?  This is the role for
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=116
 - Job Title: County Programme Manager
-  Location: Kenya, Nairobi
+  Location: Nairobi, Kenya
   Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
     you like to contribute to Triggerise growth and footprint?  This is the role for
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=63
 - Job Title: HR Specialist
-  Location: Kenya, Nairobi
+  Location: Nairobi, Kenya
   Job Description: "Are you looking for a job where your work sustainably creates
     a big impact on a global scale? Do you wish to work in a diverse and intercultural
     company? If so, Triggerise could be your place.\n\n"
@@ -106,7 +106,7 @@ Jobs:
     this is your chance to build something new and exciting!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=123&source=aWQ9MjM%3D
 - Job Title: M&E Lead
-  Location: Cape Town, Western Cape
+  Location: Cape Town, South Africa
   Job Description: Triggerise creates impact by applying tech to non-profit.  We are
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
@@ -118,13 +118,53 @@ Jobs:
     growth.  '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
 - Job Title: Financial Controller
-  Location: Amsterdam
+  Location: Amsterdam, The Netherlands
   Job Description: "Are you an analytical, result orientated professional looking
     to take your finance career to the next level? Would you be excited to gain international
     exposure while being part of the team responsible for the business’s complete
     Financial consolidation? Read on to learn more about our Financial Controller
     vacancy! \n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
+- Job Title: Health & Education Expert Lead
+  Location: 'Global '
+  Job Description: 'Do you possess strategic leadership experience in health as well
+    as education and employability? Are you passionate about the strengthening and
+    expansion of health systems? If so, read on to hear more about the Health & Education
+    Expert Lead position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=127&source=aWQ9MjM%3D
+- Job Title: Education & Employability Advisor
+  Location: 'Global '
+  Job Description: 'Are you well-versed on the latest scientific evidence in learning
+    strategies? Do you want to provide technical oversight to education and employability
+    components for an international insights department? If so, read on to hear more
+    about the Education & Employability Advisor position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=126&source=aWQ9MjM%3D
+- Job Title: Research Lead
+  Location: 'Cape Town, South Africa '
+  Job Description: 'Are you constantly asking critical and constructive questions?
+    Do you have extensive quantitative research experience? If so, the Research Manager
+    position might be for you! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=125&source=aWQ9MjM%3D
+- Job Title: Java Engineering Team Lead
+  Location: Global
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team who use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=130&source=aWQ9MjM%3D
+- Job Title: Scala Engineering Team Lead
+  Location: Global
+  Job Description: 'You’ve gained experience in the software development space, and
+    want to continue working on innovative projects, whilst making an impact with
+    your tech skills & knowledge.  Read on to find out more about our Scala Engineering
+    Team Lead position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
+- Job Title: DevOps Engineer
+  Location: Cape Town, Western Cape
+  Job Description: Do you have experience building, testing & maintaining tools that
+    allow for speedy development of software?  You enjoy working in an Agile way and
+    are excited by the prospect of using technology to create impact.  Read on to
+    find out more to find out about our DevOps Engineer position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best

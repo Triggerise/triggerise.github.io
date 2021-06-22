@@ -455,7 +455,7 @@
   min-height: 50vh;
 
   @include mq($from: desktop) {
-    width: 50%;
+    width: 49.5%;
     min-height: inherit;
   }
 
@@ -1115,7 +1115,7 @@
   border: none;
   color:  #1D214F;
   text-align: left;
-
+  
   @include mq(tablet, desktop) {
     font-size: 14px;
   }
