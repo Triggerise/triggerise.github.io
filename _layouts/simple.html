@@ -52,21 +52,18 @@ layout: default
 
     <div class="story-list">
       <div class="policies-filters">
-        <span><a href="#policies-pageEnglish">English /</a></span>
-        <span><a href="#policies-pageSwahili">Swahili /</a></span> <br>
-        <span><a href="#policies-pageFrench">French /</a></span>
+        <span><a href="#" {% if policy.title == "English" %} style="color: #1D214F;"{% endif %}>English /</a></span>
+        <span><a href="#"{% if policy.title == "Swahili" %} style="color: #1D214F;"{% endif %}>Swahili /</a></span> <br>
+        <span><a href="#"{% if policy.title == "French" %} style="color: #1D214F;"{% endif %}>French /</a></span>
       </div>
     </div>
       {% assign policies = site.privacy-policy %}
       {% if page.title != "Contact" %}  
         <div class="success-story-wrapper">
           {% for policy in policies %}
-            <div id="policies-page{{policy.title}}">
-              {{ policy.content}}
-            </div>
+             <p>{{ policy.description | markdownify  }}</p> 
           {% endfor %}
         </div>    
       {% endif %}
   </div>
 </div>
-
