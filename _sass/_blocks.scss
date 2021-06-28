@@ -765,6 +765,11 @@
   }
 }
 
+//Hide Policies
+.hidden {
+  display: none !important; 
+}
+
 .ecoSystem {
   height: auto;
 
@@ -1832,13 +1837,6 @@
     max-width: 100%;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    margin-top: spacing(2);
-    margin-bottom: spacing(2);
-  }
-
   h1 {
     font-size: map-get($font-scale, 3);
     margin-bottom: spacing(4);
@@ -2214,3 +2212,5 @@
     color: #fff;
   }
 }
+
+ 

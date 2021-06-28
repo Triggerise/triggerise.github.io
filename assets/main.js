@@ -276,6 +276,23 @@ function filters(){
   });
 }
 
+//Policy Select 
+
+var selectedPolicy = document.querySelectorAll('.link');
+
+var policies = Array.from(document.querySelectorAll(".policy"));
+
+  policies.forEach((e) => {
+    e.classList.add('hidden')
+  });
+  
+var initialPolicy = policies.slice(0 , 1);
+  initialPolicy.forEach( e => e.classList.remove('hidden'));
+
+
+
+
+
 var myStorage = window.localStorage;
 console.log(myStorage);
 var cookies = myStorage.getItem('cookies');
