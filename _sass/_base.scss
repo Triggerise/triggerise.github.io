@@ -77,7 +77,6 @@ img {
   }
 
   @include mq(tablet, desktop) {
-    background-color: purple;
     max-height: fit-content;
   }
 

@@ -1197,10 +1197,10 @@ blockquote.join-quote {
     h3 {
       font-size: 16px !important;}
   }
-}
   @include mq($from: tablet, $and: '(orientation: landscape)') {
     padding-top: 30px;
-  } 
+  }
+}
 
 blockquote h3:before { 
 content: open-quote;
