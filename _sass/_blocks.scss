@@ -1199,7 +1199,7 @@
       }
   }
 
-  @include mq(1440) {
+  @include mq(1440px) {
     margin-top: 25px;
     padding-top: 20px;
       h3 {
