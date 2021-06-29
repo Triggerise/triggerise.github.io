@@ -1087,49 +1087,153 @@
 }
 
 .quote-text-body {
+    padding-bottom: 0;
+    margin-top: 20px;
+    max-height: fit-content;
+
     @include mq($until: mobile) {
       max-height: fit-content;
+      padding: 0;
+      margin: 0;
     }
+
     @include mq($from: mobile) {
       max-height: fit-content;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+    
+    @include mq($until: tablet) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+    }
+
     @include mq(tablet, desktop) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+
+    @include mq(mobile, tablet) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+    }
+
     @include mq($from: tablet, $and: '(orientation: landscape)') {
       max-height: fit-content;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+
     @include mq(900px) {
       max-height: fit-content;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+
     @include mq(1024px) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+
     @include mq(1300px) {
       max-height: fit-content;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
     }
+
+    @include mq(wide) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+    }
+
 }
+
+
 .job-inner-wrapper {
   justify-content: center;
 }
+
 
 .join-quote {
   border: none;
   color:  #1D214F;
   text-align: left;
-  
+
   @include mq(tablet, desktop) {
-    font-size: 14px;
+    margin-top: 0;
   }
+  
+  @include mq(mobile, tablet) {
+    margin-top: 0;
+    padding-top: 0;
+    h3 {
+      font-size: 16px !important;}
+  }
+}
+
+blockquote h3:before { 
+content: open-quote;
+font-weight: bold;
+font-size: 40px;
+color:#1D214F;
+
+  @include mq(950px) {
+      font-size: 30px;
+  }
+
   @include mq(1024px) {
-    font-size: 20px;
+    font-size: 32px;
   }
 
-  @include mq(1200px) {
-    font-size: 24px;
+}
+
+blockquote h3:after { 
+content: close-quote;
+font-weight: bold;
+font-size: 40px;
+color:#1D214F;
+
+  @include mq(mobile, tablet) {
+      padding-left: 18px;
+      padding-top: 0px;
+      width: 10px;
+      height: 5px;
   }
 
-  @include mq(1300px) {
-    font-size: 28px;
+  @include mq($from: tablet, $and: '(orientation: landscape)') {
+      padding-top: 0px;
+      width: 10px;
+      height: 5px;
   }
+
+  @include mq(tablet, desktop) {
+    padding-left: 18px;
+    padding-top: 0;
+    padding-bottom: 0px;
+  }
+
+  @include mq(950px) {
+    padding-left: 18px;
+    padding-top: 0;
+    padding-bottom: 0px;
+    font-size: 30px;
+  }
+
+  @include mq(1024px) {
+    padding-left: 20px;
+    padding-top: 0;
+    font-size: 32px;
+  }
+
 }
 
 
