@@ -1137,6 +1137,7 @@
     }
 
     @include mq(1024px) {
+      max-height: fit-content;
       padding-top: 0;
       padding-bottom: 0;
       margin: 0;
@@ -1159,7 +1160,7 @@
 
 
 .job-inner-wrapper {
-  justify-content: center;
+  justify-content: left;
 }
 
 
@@ -1168,6 +1169,24 @@
   color:  #1D214F;
   text-align: left;
 
+  @include mq(768px) {
+    h3 {
+      font-size: 17px !important;
+    }
+  }
+
+  @include mq(1024px) {
+      h3 {
+        font-size: 22px !important;
+      }
+    }
+
+  @include mq($until: mobile) {
+      h3 {
+        font-size: 16px !important;
+      }
+  }
+  
   @include mq(tablet, desktop) {
     margin-top: 0;
   }
@@ -1175,10 +1194,20 @@
   @include mq(mobile, tablet) {
     margin-top: 0;
     padding-top: 0;
-    h3 {
-      font-size: 16px !important;}
+      h3 {
+        font-size: 16px !important;
+      }
+  }
+
+  @include mq(1440) {
+    margin-top: 25px;
+    padding-top: 20px;
+      h3 {
+        font-size: 28px !important;
+      }
   }
 }
+
 
 blockquote h3:before { 
 content: open-quote;
@@ -1202,9 +1231,15 @@ font-weight: bold;
 font-size: 40px;
 color:#1D214F;
 
+  @include mq($until: tablet) {
+    padding-bottom: 0;
+    font-size: 25px !important;
+  }
+
   @include mq(mobile, tablet) {
-      padding-left: 18px;
+      padding-left: 10px;
       padding-top: 0px;
+      margin-top: 0px;
       width: 10px;
       height: 5px;
   }
@@ -1219,6 +1254,10 @@ color:#1D214F;
     padding-left: 18px;
     padding-top: 0;
     padding-bottom: 0px;
+  }
+  @include mq(768px) {
+    width: 10px;
+    height: 5px;
   }
 
   @include mq(950px) {
