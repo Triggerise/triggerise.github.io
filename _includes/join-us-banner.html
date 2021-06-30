@@ -1,0 +1,51 @@
+<div class="t-two-half flex full {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+  <div class="t-two-title-float">
+    {% if include.titleOne %}
+      <div class="wrapper flex">
+      <h1 class="text-colour-{{include.textColor}}">{{include.titleOne}} <span class="dot"></span></h1>
+      <span class="line"></span>
+      <h1 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.titleTwo}}</h1>
+      </div>
+    {% endif %}
+  </div>
+  <div class="t-half left">
+    <div class="inner-wrapper">
+      {% if include.subTitle %}
+      <div class="center-container">
+        <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitle }}</h2>
+      {% endif %}
+      {% if include.sub %}
+        <div class="body-text text-colour-{{include.textColor}}">
+        <span class="line"></span>  {{include.sub | markdownify }}
+        </div>
+      {% endif %}
+      {% if include.subTitleSplit %}
+        <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitleSplit}}</h2>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="t-half image">
+    {% if include.image %}
+      <img src="{{include.image}}">
+    {% endif %}
+    {% if include.data %}
+    <div class="inner-wrapper">
+      <div class="centered-data">
+        <div class="t-data-wrapper">
+          <h1 class="update-api partners"><span id="serviceUptake">0</span>%</h1>
+          <h2>of our members enrolled in Kenya visited a provider in the month of July 2020</h2>
+        </div>
+        <div class="t-data-wrapper">
+          <h1 class="update-api partners-india"><span id="repeatBehaviour">0</span>%</h1>
+          <h2>of our members in Kenya who took a service were repeat users in the month of July 2020</h2>
+        </div>
+        <div class="t-data-wrapper">
+          <h1 class="update-api partners-ethiopia"><span id="providerRatings">0</span>%</h1>
+          <h2>of all our providers in Kenya in the month of July 2020 were rated 5 stars</h2>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>

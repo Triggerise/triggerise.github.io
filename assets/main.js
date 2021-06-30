@@ -326,3 +326,9 @@ function init(){
     filters();
   }
 }init();
+
+//Includes Jobs.html
+
+$('.card-flip').hover( function () {
+  $('.uk-card').toggleClass('flipped');
+});
