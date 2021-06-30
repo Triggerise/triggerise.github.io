@@ -80,12 +80,6 @@ Jobs:
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
 - 
-- Job Title: HR Specialist
-  Location: Nairobi, Kenya
-  Job Description: "Are you looking for a job where your work sustainably creates
-    a big impact on a global scale? Do you wish to work in a diverse and intercultural
-    company? If so, Triggerise could be your place.\n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=118
 - Job Title: Facilitator
   Location: Global
   Job Description: Are you an expert on the pros and cons of different ways of working?
@@ -98,12 +92,6 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
-- Job Title: Chief Finance Officer
-  Location: Global
-  Job Description: 'Are you a finance leader with vision? We are looking for a Chief
-    Finance Officer that will enable our finance team to scale in a period of rapid
-    growth.  '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
 - Job Title: Financial Controller
   Location: Amsterdam, The Netherlands
   Job Description: "Are you an analytical, result orientated professional looking
@@ -152,6 +140,37 @@ Jobs:
     are excited by the prospect of using technology to create impact.  Read on to
     find out more to find out about our DevOps Engineer position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
+- Job Title: Risk Management Auditor
+  Location: Nairobi, Kenya
+  Job Description: Are you detail orientated and analytical in your approach? Do you
+    enjoy developing processes and have a passion for risk management? Read on to
+    hear more about our Risk Auditor role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=111&source=aWQ9MjM%3D
+- Job Title: Project Manager
+  Location: Boucle de Mouhoun, Burkina Faso
+  Job Description: Are you a great communicator and problem solver? Have you worked
+    with multi-functional teams and successfully executed entire projects to a high
+    standard? If so, this role might be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=131&source=aWQ9MjM%3D
+- Job Title: Community Manager
+  Location: Global
+  Job Description: Do you have a fine eye for detail? Are you highly organized and
+    passionate about the employee experience within the workplace? If so, read on
+    to find out more about the Community Manager role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=136&source=aWQ9MjM%3D
+- Job Title: Learning and Development Lead
+  Location: Global
+  Job Description: Can you help us help our people grow? Do you know how to design
+    effective training and onboarding programmes? If so, read on to find out more
+    about our Recruitment Lead role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=141&source=aWQ9MjM%3D
+- Job Title: County Programme Manager
+  Location: Mombasa, Kenya
+  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
+    you like to contribute to Triggerise growth and footprint?  This is the role for
+    you!  Each quarter, Triggerise expands into new geographies, and we are looking
+    for someone with a tech-savvy background to help us to do so.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
