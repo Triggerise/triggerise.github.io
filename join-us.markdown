@@ -39,6 +39,12 @@ Jobs:
     your tech skills & knowledge.  Read on to find out more about our Scala Engineering
     Team Lead position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
+- Job Title: 'Account Manager '
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Are you the person that can assure we create impact in Ethiopia
+    ? Are you able to operate at a strategic level? If so, read on to find out more
+    about the Account Manager role!  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=132&source=aWQ9MjM%3D
 - Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
@@ -52,6 +58,14 @@ Jobs:
     interpret and analyze data?  Sounds like you could be our next data engineer,
     read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
+- Job Title: Financial Controller
+  Location: Amsterdam, The Netherlands
+  Job Description: "Are you an analytical, result orientated professional looking
+    to take your finance career to the next level? Would you be excited to gain international
+    exposure while being part of the team responsible for the business’s complete
+    Financial consolidation? Read on to learn more about our Financial Controller
+    vacancy! \n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
@@ -59,6 +73,12 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
+- Job Title: D2C Lead
+  Location: " Nairobi, Kenya"
+  Job Description: Are you looking for a job where your work sustainably creates a
+    big impact on a global scale? Do you wish to work in a diverse and intercultural
+    company? If so, Triggerise could be your place!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
 - Job Title: Engineering Manager
   Location: Porto, Portugal
   Job Description: "You have previous experience guiding, and aligning software and
@@ -73,12 +93,6 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: D2C Lead
-  Location: " Nairobi, Kenya"
-  Job Description: Are you looking for a job where your work sustainably creates a
-    big impact on a global scale? Do you wish to work in a diverse and intercultural
-    company? If so, Triggerise could be your place!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
 - Job Title: New Business Development Director
   Location: Global
   Job Description: 'What if you can be instrumental in positively impacting hundreds
@@ -104,14 +118,6 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
-- Job Title: Financial Controller
-  Location: Amsterdam, The Netherlands
-  Job Description: "Are you an analytical, result orientated professional looking
-    to take your finance career to the next level? Would you be excited to gain international
-    exposure while being part of the team responsible for the business’s complete
-    Financial consolidation? Read on to learn more about our Financial Controller
-    vacancy! \n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Health & Education Expert Lead
   Location: 'Global '
   Job Description: 'Do you possess strategic leadership experience in health as well
@@ -170,12 +176,6 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
-- Job Title: 'Account Manager '
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Are you the person that can assure we create impact in Ethiopia
-    ? Are you able to operate at a strategic level? If so, read on to find out more
-    about the Account Manager role!  '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=132&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
