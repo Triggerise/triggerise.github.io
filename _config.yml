@@ -34,23 +34,5 @@ defaults:
     type: financial-reports
   values:
     label: Financial Report
-    filter: FinancialReport
-- scope:
-    path: ''
-    type: privacy-policy
-  values:
-    label: English
-    filter: English
-- scope:
-    path: ''
-    type: privacy-policy
-  values:
-    label: Swahili
-    filter: Swahili
-- scope:
-    path: ''
-    type: privacy-policy
-  values:
-    label: French
-    filter: French        
+    filter: FinancialReport     
 permalink: pretty
