@@ -1092,7 +1092,6 @@
 blockquote {
   border:none;
   color:  #1D214F;
-  // margin-bottom:30px;
   quotes: "\201C""\201D""\2018""\2019";
   }
 
@@ -1101,20 +1100,41 @@ blockquote {
   line-height: 1.3em;
   margin: 20px auto;
   font-size: 2em;
+  font-weight: bold;
   }
 
 .join-text {
-  @include mq($until: mobile) {
-    font-size: 50%;
+    @include mq(360px) {
+      font-size: 50%;
+    }
+    @include mq(375px) {
+      font-size: 50%;
+    }
+    @include mq(411px) {
+      font-size: 50%;
+    }
+  @include mq(540px) {
+      font-size: 60%;
+    }
+  @include mq(768px) {
+    padding-top: 10px;
+    font-size: 40%;
   }
-  @include mq($from: mobile, $until: tablet) {
-    font-size: 35%;
+  @include mq(1280px) {
+    padding-top: 20px;
+    font-size: 80%;
   }
-  @include mq($from: desktop, $until: wide) {
-    font-size: 65%;
+  @include mq(1366px) {
+    padding-top: 25px;
+    font-size: 85%;
   }
   @include mq(1440px) {
+    padding-top: 30px;
     font-size: 90%;
+  }
+  @include mq(1920px) {
+    padding-top: 30px;
+    font-size: 120%;
   }
 }
   
@@ -1128,24 +1148,49 @@ blockquote:before {
   left: 30px;
   top: 40px;
 
-    @include mq($until: mobile) {
-      left: 25px;
-      top: 30px;
-    }
-    @include mq($from: mobile, $until: tablet) {
+    @include mq(360px) {
+      font-size: 95%;
       left: 45px;
       top: 30px;
     }
-
-    @include mq(1024px) {
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-    @include mq(1440px) {
-      left: 55px;
+    @include mq(375px) {
+      font-size: 95%;
+      left: 50px;
       top: 30px;
     }
+    @include mq(411px) {
+      left: 50px;
+      top: 30px;
+    }
+    @include mq(540px) {
+      left: 65px;
+      top: 30px;
+    }
+    @include mq(768px) {
+      left: 50px;
+      top: 40px;
+    }
+    @include mq(1280px) {
+      font-size: 110%;
+      left: 75px;
+      top: 50px;
+    }
+    @include mq(1366px) {
+      font-size: 110%;
+      left: 75px;
+      top: 55px;
+    }
+    @include mq(1440px) {
+      font-size: 120%;
+      left: 80px;
+      top: 60px;
+    }
+    @include mq(1920px) {
+      font-size: 140%;
+      left: 100px;
+      top: 60px;
+    }
+
   } 
 
     @include mq(wide) {
@@ -1212,25 +1257,47 @@ blockquote:after {
   color:  #1D214F;
   position: relative;
   
-    @include mq($until: mobile) {
-      left: 140px;
-      bottom: 18px;
+    @include mq(360px) {
+      font-size: 95%;
+      left: 35px;
+      bottom: 28px;
     }
-    @include mq($from: mobile, $until: tablet) {
-      left: 220px;
-      bottom: 18px;
+    @include mq(375px) {
+      font-size: 95%;
+      left: 110px;
+      bottom: 28px;
     }
-    @include mq($from: tablet, $until: desktop) {
-      left: 60px;
-      bottom: 20px;
-    }  
-    @include mq($from: desktop, $until: wide) {
-      left: 340px;
-      bottom: 25px;
+    @include mq(411px) {
+      left: 195px;
+      bottom: 28px;
+    }
+    @include mq(540px) {
+      left: 35px;
+      bottom: 28px;
+    }
+    @include mq(768px) {
+      left: 55px;
+      bottom: 24px;
+    }
+    @include mq(1280px) {
+      font-size: 110%;
+      left: 370px;
+      bottom: 36px;
+    }
+    @include mq(1366px) {
+      font-size: 110%;
+      left: 400px;
+      bottom: 35px;
     }
     @include mq(1440px) {
-      left: 440px;
-      bottom: 25px;
+      font-size: 120%;
+      left: 430px;
+      bottom: 35px;
+    }
+    @include mq(1920px) {
+      font-size: 140%;
+      left: 580px;
+      bottom: 40px;
     }
   }
 
@@ -1254,10 +1321,8 @@ blockquote:after {
   }
 
 .quote-text-body {
-  // background-color: lime;
   padding: 20px;
   margin: 0px;
-
 }  
 //Join us Testimonial
 
