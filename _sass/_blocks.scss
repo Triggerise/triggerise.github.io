@@ -1191,13 +1191,14 @@ blockquote:before {
       top: 60px;
     }
 
-  } 
-
     @include mq(wide) {
       padding-top: 0;
       padding-bottom: 0;
       margin: 0;
     }
+
+  } 
+
 
 
 
