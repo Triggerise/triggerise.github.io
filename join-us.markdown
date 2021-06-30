@@ -26,13 +26,19 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: New Business Development Director
+- Job Title: Java Engineering Team Lead
   Location: Global
-  Job Description: 'What if you can be instrumental in positively impacting hundreds
-    of thousands of underserved young women across the world? We are looking for a
-    New Business Development Director that helps us scale our already considerable
-    impact in the coming years. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=53
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team who use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=130&source=aWQ9MjM%3D
+- Job Title: Scala Engineering Team Lead
+  Location: Global
+  Job Description: 'You’ve gained experience in the software development space, and
+    want to continue working on innovative projects, whilst making an impact with
+    your tech skills & knowledge.  Read on to find out more about our Scala Engineering
+    Team Lead position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
 - Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
@@ -73,13 +79,19 @@ Jobs:
     big impact on a global scale? Do you wish to work in a diverse and intercultural
     company? If so, Triggerise could be your place!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
+- Job Title: New Business Development Director
+  Location: Global
+  Job Description: 'What if you can be instrumental in positively impacting hundreds
+    of thousands of underserved young women across the world? We are looking for a
+    New Business Development Director that helps us scale our already considerable
+    impact in the coming years. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=53
 - Job Title: Backend Java Developer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
-- 
 - Job Title: Facilitator
   Location: Global
   Job Description: Are you an expert on the pros and cons of different ways of working?
@@ -120,19 +132,6 @@ Jobs:
     Do you have extensive quantitative research experience? If so, the Research Manager
     position might be for you! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=125&source=aWQ9MjM%3D
-- Job Title: Java Engineering Team Lead
-  Location: Global
-  Job Description: Are you a problem-solver with a background in software development?
-    Do you want to be a part of an innovative team who use their technical skills
-    to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=130&source=aWQ9MjM%3D
-- Job Title: Scala Engineering Team Lead
-  Location: Global
-  Job Description: 'You’ve gained experience in the software development space, and
-    want to continue working on innovative projects, whilst making an impact with
-    your tech skills & knowledge.  Read on to find out more about our Scala Engineering
-    Team Lead position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
 - Job Title: DevOps Engineer
   Location: Cape Town, Western Cape
   Job Description: Do you have experience building, testing & maintaining tools that
