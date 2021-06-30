@@ -1086,54 +1086,55 @@
     padding-bottom: 0;
 }
 
-.quote-text-body {
-    padding-bottom: 0;
-    margin-top: 20px;
-    max-height: fit-content;
+
+//Join Us Text 
+
+blockquote {
+  border:none;
+  color:  #1D214F;
+  // margin-bottom:30px;
+  quotes: "\201C""\201D""\2018""\2019";
+  }
+
+.join-quote {
+  width: 76%;
+  line-height: 1.3em;
+  margin: 20px auto;
+  font-size: 2em;
+  }
+
+.join-text {
+  @include mq($until: mobile) {
+    font-size: 50%;
+  }
+  @include mq($from: mobile, $until: tablet) {
+    font-size: 35%;
+  }
+  @include mq($from: desktop, $until: wide) {
+    font-size: 65%;
+  }
+  @include mq(1440px) {
+    font-size: 90%;
+  }
+}
+  
+blockquote:before { 
+  content: open-quote;
+  font-weight: bold;
+  font-size: 45px;
+  color:  #1D214F;
+  position: absolute; 
+  display: block;
+  left: 30px;
+  top: 40px;
 
     @include mq($until: mobile) {
-      max-height: fit-content;
-      padding: 0;
-      margin: 0;
+      left: 25px;
+      top: 30px;
     }
-
-    @include mq($from: mobile) {
-      max-height: fit-content;
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-    
-    @include mq($until: tablet) {
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    @include mq(tablet, desktop) {
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    @include mq(mobile, tablet) {
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    @include mq($from: tablet, $and: '(orientation: landscape)') {
-      max-height: fit-content;
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
-    }
-
-    @include mq(900px) {
-      max-height: fit-content;
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
+    @include mq($from: mobile, $until: tablet) {
+      left: 45px;
+      top: 30px;
     }
 
     @include mq(1024px) {
@@ -1141,13 +1142,11 @@
       padding-bottom: 0;
       margin: 0;
     }
-
-    @include mq(1300px) {
-      max-height: fit-content;
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
+    @include mq(1440px) {
+      left: 55px;
+      top: 30px;
     }
+  } 
 
     @include mq(wide) {
       padding-top: 0;
@@ -1155,7 +1154,7 @@
       margin: 0;
     }
 
-}
+
 
 
 .job-inner-wrapper {
@@ -1241,20 +1240,13 @@ blockquote:after {
     padding-bottom: 0px;
   }
 
-  @include mq(950px) {
-    padding-left: 18px;
-    padding-top: 0;
-    padding-bottom: 0px;
-    font-size: 30px;
+  @include mq(tablet) {
   }
 
-  @include mq(1024px) {
-    padding-left: 20px;
-    padding-top: 0;
-    font-size: 32px;
+  @include mq(1024) {
   }
 
-}
+
 .text-box {
   position: relative;
   top: 45%;
