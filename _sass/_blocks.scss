@@ -1086,6 +1086,30 @@
     padding-bottom: 0;
 }
 
+.quote-text-body {
+    @include mq($until: mobile) {
+      max-height: fit-content;
+    }
+    @include mq($from: mobile) {
+      max-height: fit-content;
+    }
+    @include mq(tablet, desktop) {
+    }
+    @include mq($from: tablet, $and: '(orientation: landscape)') {
+      max-height: fit-content;
+    }
+    @include mq(900px) {
+      max-height: fit-content;
+    }
+    @include mq(1024px) {
+    }
+    @include mq(1300px) {
+      max-height: fit-content;
+    }
+}
+.job-inner-wrapper {
+  justify-content: center;
+}
 
 //Join Us Text 
 
@@ -1104,18 +1128,18 @@ blockquote {
   }
 
 .join-text {
-  @include mq($until: mobile) {
-    font-size: 50%;
-  }
-  @include mq($from: mobile, $until: tablet) {
-    font-size: 35%;
-  }
-  @include mq($from: desktop, $until: wide) {
-    font-size: 65%;
-  }
-  @include mq(1440px) {
-    font-size: 90%;
-  }
+    @include mq($until: mobile) {
+      font-size: 50%;
+    }
+    @include mq($from: mobile, $until: tablet) {
+      font-size: 35%;
+    }
+    @include mq($from: desktop, $until: wide) {
+      font-size: 65%;
+    }
+    @include mq(1440px) {
+      font-size: 90%;
+    }
 }
   
 blockquote:before { 
@@ -1178,9 +1202,8 @@ blockquote:after {
       left: 440px;
       bottom: 25px;
     }
-  
   }
-
+}
 .text-box {
   position: relative;
   top: 45%;
@@ -1192,15 +1215,7 @@ blockquote:after {
   padding: 20px;
   margin: 0px;
 
-  @include mq(tablet) {
-  }
-
-  @include mq(1024) {
-  }
-
 }  
-
-
 //Join us Testimonial
 
 .image-wrapper-quote {
