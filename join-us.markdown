@@ -171,6 +171,12 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
+- Job Title: 'Account Manager '
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Are you the person that can assure we create impact in Ethiopia
+    ? Are you able to operate at a strategic level? If so, read on to find out more
+    about the Account Manager role!  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=132&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
