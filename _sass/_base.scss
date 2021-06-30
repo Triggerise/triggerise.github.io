@@ -61,10 +61,6 @@ img {
   height: 0;
 
   @include mq($from: desktop) {
-<<<<<<< HEAD
-    color: hotpink;
-=======
->>>>>>> 11eb144 (resolved confilicting files)
     margin-top: 0;
     margin-bottom: 0;
   }
@@ -97,13 +93,6 @@ img {
   }
 
   @include mq(950px) {
-<<<<<<< HEAD
-=======
-    max-height: fit-content;
-  }
-
-  @include mq(1024px) {
->>>>>>> 11eb144 (resolved confilicting files)
     max-height: fit-content;
   }
 
