@@ -276,6 +276,7 @@ function filters(){
   });
 }
 
+
 var myStorage = window.localStorage;
 console.log(myStorage);
 var cookies = myStorage.getItem('cookies');
@@ -305,3 +306,9 @@ function init(){
     filters();
   }
 }init();
+
+//Includes Jobs.html
+
+$('.card-flip').hover( function () {
+  $('.uk-card').toggleClass('flipped');
+});
