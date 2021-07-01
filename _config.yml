@@ -34,5 +34,5 @@ defaults:
     type: financial-reports
   values:
     label: Financial Report
-    filter: FinancialReport     
+    filter: FinancialReport
 permalink: pretty
