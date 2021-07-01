@@ -182,6 +182,10 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: 
+  Location: 
+  Job Description: 
+  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
