@@ -191,7 +191,7 @@ Board of Directors Description: The Triggerise Supervisory Board helps fulfil ou
 Team Description: Our people and their commitment to our vision move us forward every
   day. Here are some of the faces that are working hard behind the scenes to create
   big impact.
-SafeGuarding-link: "/privacy-policy-english/"
+SafeGuarding-link: "/privacy-policy/"
 layout: about
 ---
 

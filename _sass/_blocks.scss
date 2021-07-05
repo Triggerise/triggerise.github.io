@@ -340,6 +340,11 @@
   &.flexWrapper {
     padding-bottom: spacing(2);
 
+    @include mq($from: 980px) {
+      margin-bottom: 45px;
+      max-height: 310px;
+    }
+    
     .wrapper {
       display: flex;
       justify-content: space-between;
@@ -348,6 +353,8 @@
       @include mq($from: desktop) {
         flex-direction: row;
       }
+
+     
 
       h3 {
         padding-top: 35px;
@@ -744,6 +751,17 @@
         border-bottom: 0;
         background-color: transparent;
       }
+
+      @include mq($from: 980px) {
+        border-bottom: 0;
+        float: left;
+        
+        .policy-link {
+          text-align: left;
+          display: flex;
+          font-size: 14.5px;
+        }
+      }
     }
 
     .success-story-wrapper {
@@ -763,6 +781,19 @@
       }
     }
   }
+}
+
+
+//Hide Policies
+
+.hidden {
+  display: none !important; 
+
+}
+
+// Active Policy Link
+a.active-policy.policy-link { 
+  color: #1D214F;
 }
 
 .ecoSystem {
@@ -2015,7 +2046,6 @@ blockquote:after {
 
 .story-list {
   padding-bottom: 18px;
-  padding-top: 20px;
   position: sticky;
   top: 70px;
   background-color: #fff;
@@ -2029,6 +2059,10 @@ blockquote:after {
   a:hover, a:focus {
     color: $darkBlue;
     text-decoration: none;
+
+  @include mq($from: desktop) {
+    font-size: 20px;
+  }
 }
 
 }
@@ -2062,13 +2096,6 @@ blockquote:after {
     max-width: 100%;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    margin-top: spacing(2);
-    margin-bottom: spacing(2);
-  }
-
   h1 {
     font-size: map-get($font-scale, 3);
     margin-bottom: spacing(4);
@@ -2086,7 +2113,13 @@ blockquote:after {
       display: block;
     }
   }
+
 }
+
+
+// Privacy Policy Page 
+
+
 
 .impact__description-wrapper {
   padding-right: 8%;

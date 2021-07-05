@@ -14,13 +14,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  privacy-policy:
+    title: Privacy Policies
+    output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
