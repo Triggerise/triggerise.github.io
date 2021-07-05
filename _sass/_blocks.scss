@@ -340,6 +340,11 @@
   &.flexWrapper {
     padding-bottom: spacing(2);
 
+    @include mq($from: 980px) {
+      margin-bottom: 45px;
+      max-height: 310px;
+    }
+    
     .wrapper {
       display: flex;
       justify-content: space-between;
@@ -348,6 +353,8 @@
       @include mq($from: desktop) {
         flex-direction: row;
       }
+
+     
 
       h3 {
         padding-top: 35px;
@@ -455,7 +462,7 @@
   min-height: 50vh;
 
   @include mq($from: desktop) {
-    width: 49.5%;
+    width: 50%;
     min-height: inherit;
   }
 
@@ -744,6 +751,17 @@
         border-bottom: 0;
         background-color: transparent;
       }
+
+      @include mq($from: 980px) {
+        border-bottom: 0;
+        float: left;
+        
+        .policy-link {
+          text-align: left;
+          display: flex;
+          font-size: 14.5px;
+        }
+      }
     }
 
     .success-story-wrapper {
@@ -763,6 +781,19 @@
       }
     }
   }
+}
+
+
+//Hide Policies
+
+.hidden {
+  display: none !important; 
+
+}
+
+// Active Policy Link
+a.active-policy.policy-link { 
+  color: #1D214F;
 }
 
 .ecoSystem {
@@ -1080,59 +1111,297 @@
   }
 }
 
-//Join us  - You Tube link and text
+//JOIN US ** You Tube link and text **
 
 .work-at-triggerise {
     padding-bottom: 0;
 }
 
-.quote-text-body {
-    @include mq($until: mobile) {
-      max-height: fit-content;
+
+//Join Us Text 
+
+blockquote {
+  border:none;
+  color:  #1D214F;
+  quotes: "\201C""\201D""\2018""\2019";
+  }
+
+.join-quote {
+  width: 76%;
+  line-height: 1.3em;
+  margin: 20px auto;
+  font-size: 2em;
+  font-weight: bold;
+  }
+
+.join-text {
+    @include mq(360px) {
+      font-size: 50%;
     }
-    @include mq($from: mobile) {
-      max-height: fit-content;
+    @include mq(375px) {
+      font-size: 50%;
     }
-    @include mq(tablet, desktop) {
+    @include mq(411px) {
+      font-size: 50%;
     }
-    @include mq($from: tablet, $and: '(orientation: landscape)') {
-      max-height: fit-content;
+  @include mq(540px) {
+      font-size: 60%;
     }
-    @include mq(900px) {
-      max-height: fit-content;
-    }
-    @include mq(1024px) {
-    }
-    @include mq(1300px) {
-      max-height: fit-content;
-    }
+  @include mq(768px) {
+    padding-top: 10px;
+    font-size: 40%;
+  }
+  @include mq(1280px) {
+    padding-top: 20px;
+    font-size: 80%;
+  }
+  @include mq(1366px) {
+    padding-top: 25px;
+    font-size: 85%;
+  }
+  @include mq(1440px) {
+    padding-top: 30px;
+    font-size: 90%;
+  }
+  @include mq(1920px) {
+    padding-top: 30px;
+    font-size: 120%;
+  }
 }
+  
+blockquote:before { 
+  content: open-quote;
+  font-weight: bold;
+  font-size: 45px;
+  color:  #1D214F;
+  position: absolute; 
+  display: block;
+  left: 30px;
+  top: 40px;
+
+    @include mq(360px) {
+      font-size: 95%;
+      left: 45px;
+      top: 30px;
+    }
+    @include mq(375px) {
+      font-size: 95%;
+      left: 50px;
+      top: 30px;
+    }
+    @include mq(411px) {
+      left: 50px;
+      top: 30px;
+    }
+    @include mq(540px) {
+      left: 65px;
+      top: 30px;
+    }
+    @include mq(768px) {
+      left: 50px;
+      top: 40px;
+    }
+    @include mq(1280px) {
+      font-size: 110%;
+      left: 75px;
+      top: 50px;
+    }
+    @include mq(1366px) {
+      font-size: 110%;
+      left: 75px;
+      top: 55px;
+    }
+    @include mq(1440px) {
+      font-size: 120%;
+      left: 80px;
+      top: 60px;
+    }
+    @include mq(1920px) {
+      font-size: 140%;
+      left: 100px;
+      top: 60px;
+    }
+
+    @include mq(wide) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+    }
+
+  } 
+
 .job-inner-wrapper {
   justify-content: center;
 }
 
-.join-quote {
-  border: none;
+
+//Join Us Text 
+
+blockquote {
+  border:none;
   color:  #1D214F;
-  text-align: left;
+  quotes: "\201C""\201D""\2018""\2019";
+  }
+
+.join-quote {
+  width: 76%;
+  line-height: 1.3em;
+  margin: 20px auto;
+  font-size: 2em;
+  font-weight: bold;
+  }
+
+.join-text {
+  @include mq(360px) {
+    font-size: 50%;
+  }
+  @include mq(375px) {
+    font-size: 50%;
+  }
+  @include mq(411px) {
+    font-size: 50%;
+  }
+  @include mq(540px) {
+    font-size: 60%;
+  }
+  @include mq(768px) {
+  padding-top: 10px;
+  font-size: 40%;
+  }
+  @include mq(1280px) {
+  padding-top: 20px;
+  font-size: 80%;
+  }
+  @include mq(1366px) {
+  padding-top: 25px;
+  font-size: 85%;
+  }
+  @include mq(1440px) {
+  padding-top: 30px;
+  font-size: 90%;
+  }
+  @include mq(1920px) {
+  padding-top: 30px;
+  font-size: 120%;
+  }
+}
   
-  @include mq(tablet, desktop) {
-    font-size: 14px;
-  }
-  @include mq(1024px) {
-    font-size: 20px;
-  }
+blockquote:before { 
+  content: open-quote;
+  font-weight: bold;
+  font-size: 45px;
+  color:  #1D214F;
+  position: absolute; 
+  display: block;
+  left: 30px;
+  top: 40px;
 
-  @include mq(1200px) {
-    font-size: 24px;
+  @include mq(360px) {
+    font-size: 95%;
+    left: 45px;
+    top: 30px;
   }
-
-  @include mq(1300px) {
-    font-size: 28px;
+  @include mq(375px) {
+    font-size: 95%;
+    left: 50px;
+    top: 30px;
+  }
+  @include mq(411px) {
+    left: 50px;
+    top: 30px;
+  }
+  @include mq(540px) {
+    left: 65px;
+    top: 30px;
+  }
+  @include mq(768px) {
+    left: 50px;
+    top: 40px;
+  }
+  @include mq(1280px) {
+    font-size: 110%;
+    left: 75px;
+    top: 50px;
+  }
+  @include mq(1366px) {
+    font-size: 110%;
+    left: 75px;
+    top: 55px;
+  }
+  @include mq(1440px) {
+    font-size: 120%;
+    left: 80px;
+    top: 60px;
+  }
+  @include mq(1920px) {
+    font-size: 140%;
+    left: 100px;
+    top: 60px;
   }
 }
 
+blockquote:after { 
+  content: close-quote;
+  display: block;
+  font-weight: bold;
+  font-size: 45px;
+  color:  #1D214F;
+  position: relative;
+  
+    @include mq(360px) {
+      font-size: 95%;
+      left: 35px;
+      bottom: 28px;
+    }
+    @include mq(375px) {
+      font-size: 95%;
+      left: 110px;
+      bottom: 28px;
+    }
+    @include mq(411px) {
+      left: 195px;
+      bottom: 28px;
+    }
+    @include mq(540px) {
+      left: 35px;
+      bottom: 28px;
+    }
+    @include mq(768px) {
+      left: 55px;
+      bottom: 24px;
+    }
+    @include mq(1280px) {
+      font-size: 110%;
+      left: 370px;
+      bottom: 36px;
+    }
+    @include mq(1366px) {
+      font-size: 110%;
+      left: 400px;
+      bottom: 35px;
+    }
+    @include mq(1440px) {
+      font-size: 120%;
+      left: 430px;
+      bottom: 35px;
+    }
+    @include mq(1920px) {
+      font-size: 140%;
+      left: 580px;
+      bottom: 40px;
+    }
+  }
 
+.text-box {
+  position: relative;
+  top: 45%;
+  text-align: left;
+  }
+
+.quote-text-body {
+  padding: 20px;
+  margin: 0px;
+}  
 //Join us Testimonial
 
 .image-wrapper-quote {
@@ -1777,7 +2046,6 @@
 
 .story-list {
   padding-bottom: 18px;
-  padding-top: 20px;
   position: sticky;
   top: 70px;
   background-color: #fff;
@@ -1791,6 +2059,10 @@
   a:hover, a:focus {
     color: $darkBlue;
     text-decoration: none;
+
+  @include mq($from: desktop) {
+    font-size: 20px;
+  }
 }
 
 }
@@ -1824,13 +2096,6 @@
     max-width: 100%;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    margin-top: spacing(2);
-    margin-bottom: spacing(2);
-  }
-
   h1 {
     font-size: map-get($font-scale, 3);
     margin-bottom: spacing(4);
@@ -1848,7 +2113,13 @@
       display: block;
     }
   }
+
 }
+
+
+// Privacy Policy Page 
+
+
 
 .impact__description-wrapper {
   padding-right: 8%;
@@ -1963,6 +2234,112 @@
     box-sizing: border-box;
     transition: transform ease-in-out 0.2s;
 
+    h3 {
+      padding: 50px 0;
+      font-size: map-get($font-scale, 2);
+      pointer-events: none;
+      line-height: 1;
+      margin: 0;
+
+      @include mq($from: mobile) {
+        font-size: map-get($font-scale, 1);
+      }
+
+      @include mq($from: desktop) {
+        font-size: map-get($font-scale, 2);
+      }
+
+      @include mq($from: wide) {
+        font-size: map-get($font-scale, 2);
+      }
+
+      &.location {
+        position: absolute;
+        left: 0; 
+        right: 0; 
+        margin-left: auto; 
+        margin-right: auto; 
+        opacity: 0.5;
+        bottom: 0;
+        text-align: center;
+        line-height: 1;
+        font-size: map-get($font-scale, 0);
+      }
+    }
+  }
+
+  h1 {
+    font-size: map-get($font-scale, 5);
+  }
+}
+
+// The flip card container 
+.flip-card {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  width: 240px;
+  height: 300px;
+  perspective: 1000px; 
+
+}
+
+// This container positions the front and back side 
+.flip-card-inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+// Horizontal flip when mouses is over the flip box container
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+// Positions the front and back side 
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #fff;
+  color: #1D214F;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.flip-card-back {
+  padding-top: 10px;
+  background-color: #fff;
+  color: #1D214F;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  transform: rotateY(180deg);
+}
+
+.jobs {
+  .job {
+    width: 100%;
+    margin-bottom: 22px;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: transform ease-in-out 0.2s;
+
+    @include mq($from: desktop) {
+      width: 24%;
+      margin-right: 1%;
+    }
+    
     h3 {
       padding: 50px 0;
       font-size: map-get($font-scale, 2);

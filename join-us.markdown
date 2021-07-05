@@ -118,6 +118,20 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
+- Job Title: Chief Finance Officer
+  Location: Global
+  Job Description: 'Are you a finance leader with vision? We are looking for a Chief
+    Finance Officer that will enable our finance team to scale in a period of rapid
+    growth.  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
+- Job Title: Financial Controller
+  Location: Amsterdam, The Netherlands
+  Job Description: "Are you an analytical, result orientated professional looking
+    to take your finance career to the next level? Would you be excited to gain international
+    exposure while being part of the team responsible for the business’s complete
+    Financial consolidation? Read on to learn more about our Financial Controller
+    vacancy! \n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Health & Education Expert Lead
   Location: 'Global '
   Job Description: 'Do you possess strategic leadership experience in health as well
@@ -182,6 +196,10 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: 
+  Location: 
+  Job Description: 
+  Link: 
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join

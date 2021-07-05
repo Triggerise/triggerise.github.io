@@ -276,6 +276,26 @@ function filters(){
   });
 }
 
+//Policy Select 
+
+var selectedPolicy = document.querySelectorAll('.link');
+
+function displayPolicy() {
+  let currentLanguage = window.location.hash.replace('#' , '.') || '.English';
+  let allPolicies = Array.from(document.querySelectorAll('.policy'));
+  allPolicies.forEach(policy => policy.classList.add('hidden'));
+  let correctPolicy = Array.from(document.querySelectorAll('.policy' + currentLanguage));
+  correctPolicy.forEach(policy => policy.classList.remove('hidden'));
+
+  let allPolicyLinks = Array.from(document.querySelectorAll('.policy-link'));
+  allPolicyLinks.forEach(policy => policy.classList.remove('active-policy'));
+  let correctPolicyLink = Array.from(document.querySelectorAll('.policy-link' + currentLanguage));
+  correctPolicyLink.forEach(policy => policy.classList.add('active-policy'));
+}
+
+displayPolicy();
+window.addEventListener('hashchange', displayPolicy);
+
 
 var myStorage = window.localStorage;
 console.log(myStorage);
