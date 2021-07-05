@@ -77,10 +77,6 @@ img {
   }
 
   @include mq(tablet, desktop) {
-<<<<<<< HEAD
-=======
-    background-color: purple;
->>>>>>> 3dfefcc (resolved confilicting files)
     max-height: fit-content;
   }
 
