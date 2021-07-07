@@ -2,7 +2,6 @@
   <div class="wrapper">
     <div class="flex">
       <div class="footer-left">
-        <!--  <h2 class="footer-heading">{% include logo.html %}</h2>  -->
         <img src="../assets/footer-logo.png" class="footer__logo">
         <ul class="socials">
           <li>
@@ -51,11 +50,9 @@
         </ul>
         <div class="small">
           <ul>
-            <li><small>
-              <a href="/contact">Contact</a></small></li><li><small>
-              <a href="/policy-plan">Policy plan</a></small></li><li><small>
-              <a href="/privacy-policy/">Privacy policy</a></small></li><li><small>
-              <a href="/cookies">Cookies</a></small></li>
+            {% for link in site.data.navigation.footer-links %}
+              <small><li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li></small>
+            {% endfor %}
           </ul>
         </div>
       </div>
