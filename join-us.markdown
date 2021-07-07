@@ -124,13 +124,13 @@ Jobs:
     Finance Officer that will enable our finance team to scale in a period of rapid
     growth.  '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
-- Job Title: Financial Controller
+- Job Title: Assistant Controller
   Location: Amsterdam, The Netherlands
   Job Description: "Are you an analytical, result orientated professional looking
     to take your finance career to the next level? Would you be excited to gain international
     exposure while being part of the team responsible for the business’s complete
-    Financial consolidation? Read on to learn more about our Financial Controller
-    vacancy! \n\n"
+    Financial consolidation? Read on to learn more about our Assitant Controller vacancy!
+    \n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Health & Education Expert Lead
   Location: 'Global '
