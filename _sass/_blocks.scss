@@ -787,14 +787,20 @@
 //Hide Policies
 
 .hidden {
-  display: none !important; 
+  display: none !important;
 
 }
 
 // Active Policy Link
-a.active-policy.policy-link { 
+a.active-policy.policy-link {
   color: #1D214F;
 }
+
+//Policy plan
+.wrapper policy-plan {
+  max-width: 1000px;
+}
+
 
 .ecoSystem {
   height: auto;
