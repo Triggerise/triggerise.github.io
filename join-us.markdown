@@ -196,10 +196,13 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
-- Job Title: 
-  Location: 
-  Job Description: 
-  Link: 
+- Job Title: DevOps Team Lead
+  Location: Global
+  Job Description: Do you have experience leading a team to build, test & maintain
+    tools that allow for speedy development of software? Would you enjoy working in
+    an Agile way and are excited by the prospect of using technology to create impact.
+    Read on to find out more to find out about our DevOps Team Lead position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=151&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
