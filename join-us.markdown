@@ -203,6 +203,12 @@ Jobs:
     an Agile way and are excited by the prospect of using technology to create impact.
     Read on to find out more to find out about our DevOps Team Lead position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=151&source=aWQ9MjM%3D
+- Job Title: Data Engineering Team Lead
+  Location: Porto, Portugal
+  Job Description: Do you have an affinity for data and a background in Data Engineering?
+    Do you want to be a part of an innovative team who use data driven decisions  to
+    make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=153
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
