@@ -205,9 +205,10 @@ Jobs:
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=151&source=aWQ9MjM%3D
 - Job Title: Data Engineering Team Lead
   Location: Porto, Portugal
-  Job Description: Do you have an affinity for data and a background in Data Engineering?
-    Do you want to be a part of an innovative team who use data driven decisions  to
-    make a positive impact? Then this role could be for you!
+  Job Description: Do you consider yourself an expert in all things data, and have
+    some experience leading a team?  You’re not afraid of complex data sets and tools,
+    actually you thrive most when working with them!  Sounds like you’re a fit for
+    the Data Team Lead position.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=153
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
