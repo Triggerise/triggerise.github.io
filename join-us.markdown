@@ -80,11 +80,12 @@ Jobs:
     company? If so, Triggerise could be your place!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
 - Job Title: Engineering Manager
-  Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning software and
-    data teams, to ensure that agreed delivery by teams and individuals is met.  Are
-    you looking for your next opportunity to contribute to the growth and success
-    of others?  Continue reading to find out more about our Data Manager position!\n\n"
+  Location: Global
+  Job Description: "You have previous experience guiding, and aligningengineering
+    (software and data) teams, to ensure that agreed delivery by teams and individuals
+    is met.  Are you looking for your next opportunity to contribute to the growth
+    and success of others?  Continue reading to find out more about our Data Manager
+    position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
   Location: Global
