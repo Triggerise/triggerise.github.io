@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-07-09 17:29:00 Z
 Title: Big ambitions | Better futures
-Splash-image: "/uploads/1088809-f63314.jpg"
+Splash-image: "/uploads/photo-1531123414780-f74242c2b052.jpeg"
 Supporting-title: Making big impact possible
 Description: "### Young people across Africa and India are using our Tiko platform
   to make positive life decisions. We connect our members' needs to existing local
