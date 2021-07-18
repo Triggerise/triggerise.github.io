@@ -191,12 +191,6 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: Do you have experience leading a team to build, test & maintain
@@ -211,6 +205,33 @@ Jobs:
     actually you thrive most when working with them!  Sounds like you’re a fit for
     the Data Team Lead position.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=153
+- Job Title: Marketing and Communications Manager
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
+- Job Title: Marketing and Communications Manager
+  Location: Nairobi, Kenya
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=145&source=aWQ9MjM%3D
+- Job Title: Marketing and Communications Manager
+  Location: Global
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=147&source=aWQ9MjM%3D
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
