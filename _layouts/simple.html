@@ -4,69 +4,11 @@ layout: default
 
 {% assign title = page.title %}
 {% assign content = page.content %}
-{% include contactPolicyBanner.html colour="cream" sectionTitle=title description=content classList="flexWrapper padd" %}
-
-<div class="t-one {{include.colour}} autoHeight success-stories padd simple {% if page.title == "Privacy Policy" %}privacy{% endif %} {% if page.title == "Policy Plan" or page.title == "Cookies" %}privacy policy{% endif %}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
-  <div class="wrapper {% if page.title == "Contact" %} flex {% endif %}">
-    {% if page.title == "Contact" %}
-    <div class="contact-form">
-      <h2>Let's talk</h2>
-      <form action="https://getform.io/f/ebe28e33-81f6-4ba8-8dd2-789e88f59ea5" method="POST">
-        <label>Name</label>
-        <input type="text" name="name">
-        <label>Email address</label>
-        <input type="email" name="email">
-        <label>Message</label>
-        <textarea type="text" name="message"></textarea>
-        <button type="submit">Send</button>
-      </form>
-    </div>
-    <div class="addresses">
-      <h2 class="addresses-header">Our locations</h2>
-
-      <div class="address-wrapper addresses-section-container">
-      {% for Address in page.AddressesRow1 %}
-          <div class="">
-            {{Address.Address | markdownify }}
-          </div>
-      {% endfor %}
-      </div>
-
-      <div class="address-wrapper addresses-section-container">
-      {% for Address in page.AddressesRow2 %}
-          <div class="">
-            {{Address.Address | markdownify }}
-          </div>
-      {% endfor %}
-      </div>
-
-      <div class="address-wrapper addresses-section-container">
-      {% for Address in page.AddressesRow3 %}
-          <div class="">
-            {{Address.Address | markdownify }}
-          </div>
-      {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% assign policies = site.privacy-policy %}
-    <div class="story-list">
-      <div class="policies-filters">
-        {% for policy in policies %}
-        <span><a href="#{{ policy.title }}" id="link{{ policy.title }}" class="policy-link {{ policy.title }}">{{ policy.title }} /</a></span>
-        {% endfor %}
-      </div>
-    </div>
-      
-      {% if page.title != "Contact" %}  
-        <div class="success-story-wrapper">
-          {% for policy in policies %}
-          <div class="policy {{ policy.title}}">
-            <p id="policies">{{ policy.description | markdownify  }}</p>
-          </div>
-          {% endfor %}
-        </div>    
-      {% endif %}
-  </div>
-</div>
+{% include contactPolicyBanner.html
+  colour="cream"
+  sectionTitle=title description=content
+  classList="flexWrapper padd"
+%}
+{% include contact.html %}
+{% include policy-plan.html %}
+{% include privacy-policy.html %}

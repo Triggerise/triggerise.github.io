@@ -1,0 +1,22 @@
+{% if page.title == "Privacy Policy" %}
+<div class="wrapper uk-scrollspy-inview uk-animation-fade">
+    <div class="t-one {{include.colour}} autoHeight success-stories padd simple {% if page.title == "Privacy Policy" %}privacy{% endif %} {% if page.title == "Policy Plan" or page.title == "Cookies" %}privacy policy{% endif %}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">    
+        {% assign policies = site.privacy-policy %}
+        <div class="story-list">
+            <div class="policies-filters">
+                {% for policy in policies %}
+                    <span><a href="#{{ policy.title }}" id="link{{ policy.title }}" class="policy-link {{ policy.title }}">{{ policy.title }} /</a></span>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="success-story-wrapper">
+            {% for policy in policies %}
+                <div class="policy {{ policy.title}}">
+                    <p id="policies">{{ policy.description | markdownify  }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endif%}
