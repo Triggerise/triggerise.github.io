@@ -226,6 +226,12 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=147&source=aWQ9MjM%3D
+- Job Title: Global Recruiter
+  Location: Global
+  Job Description: Are you experienced in recruiting across multiple disciplines on
+    a global scale? Are you passionate about identifying and hiring top talent? You
+    could be our next Global Recruiter!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=152&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
