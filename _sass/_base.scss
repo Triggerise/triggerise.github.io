@@ -347,10 +347,10 @@ button {
     }
 }
 
+//Footer div
 footer {
   .flex {
     justify-content: space-between;
-
     @include mq($from: desktop) {
       flex-direction: row;
     }
@@ -364,33 +364,31 @@ footer {
     }
   }
 
+//Footer Links
   .small {
     margin-top: 10px;
     ul {
       display: flex;
       list-style: none;
-      margin: 0;
-
+      margin-left: 0;
       li {
         margin-right: 10px;
       }
     }
   }
+//Footer Icons
   .socials {
     display: flex;
     margin: 0;
-    list-style: none;
     margin-top: 10px;
     margin-bottom: 30px;
-
-    li {
+    a {
       margin-right: 10px;
-
-      svg {
-        circle {
-          fill: $blue;
-        }
-      }
+      list-style: none;
+      justify-content: space-between;
+    }
+    ul {
+      margin-left: 0;
     }
   }
 }
