@@ -80,11 +80,12 @@ Jobs:
     company? If so, Triggerise could be your place!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
 - Job Title: Engineering Manager
-  Location: Porto, Portugal
-  Job Description: "You have previous experience guiding, and aligning software and
-    data teams, to ensure that agreed delivery by teams and individuals is met.  Are
-    you looking for your next opportunity to contribute to the growth and success
-    of others?  Continue reading to find out more about our Data Manager position!\n\n"
+  Location: Global
+  Job Description: "You have previous experience guiding, and aligningengineering
+    (software and data) teams, to ensure that agreed delivery by teams and individuals
+    is met.  Are you looking for your next opportunity to contribute to the growth
+    and success of others?  Continue reading to find out more about our Data Manager
+    position!\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
   Location: Global
@@ -118,6 +119,20 @@ Jobs:
     looking for an M&E lead who can ensure that our high quality can be collected,
     processed & analyzed in order to make evidence-driven decisions.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
+- Job Title: Chief Finance Officer
+  Location: Global
+  Job Description: 'Are you a finance leader with vision? We are looking for a Chief
+    Finance Officer that will enable our finance team to scale in a period of rapid
+    growth.  '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
+- Job Title: Assistant Controller
+  Location: Amsterdam, The Netherlands
+  Job Description: "Are you an analytical, result orientated professional looking
+    to take your finance career to the next level? Would you be excited to gain international
+    exposure while being part of the team responsible for the business’s complete
+    Financial consolidation? Read on to learn more about our Assitant Controller vacancy!
+    \n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Health & Education Expert Lead
   Location: 'Global '
   Job Description: 'Do you possess strategic leadership experience in health as well
@@ -176,6 +191,47 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
+- Job Title: DevOps Team Lead
+  Location: Global
+  Job Description: Do you have experience leading a team to build, test & maintain
+    tools that allow for speedy development of software? Would you enjoy working in
+    an Agile way and are excited by the prospect of using technology to create impact.
+    Read on to find out more to find out about our DevOps Team Lead position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=151&source=aWQ9MjM%3D
+- Job Title: Data Engineering Team Lead
+  Location: Porto, Portugal
+  Job Description: Do you consider yourself an expert in all things data, and have
+    some experience leading a team?  You’re not afraid of complex data sets and tools,
+    actually you thrive most when working with them!  Sounds like you’re a fit for
+    the Data Team Lead position.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=153
+- Job Title: Marketing and Communications Manager
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
+- Job Title: Marketing and Communications Manager
+  Location: Nairobi, Kenya
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=145&source=aWQ9MjM%3D
+- Job Title: Marketing and Communications Manager
+  Location: Global
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=147&source=aWQ9MjM%3D
+- Job Title: Global Recruiter
+  Location: Global
+  Job Description: Are you experienced in recruiting across multiple disciplines on
+    a global scale? Are you passionate about identifying and hiring top talent? You
+    could be our next Global Recruiter!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=152&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best

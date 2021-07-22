@@ -90,36 +90,22 @@ Our People:
   LinkedIn: https://www.linkedin.com/in/ribadmilo/
   Image: "/uploads/Trig_profiles_admilo.jpg"
 - Name: Asgar
-  Role: Tiko System Manager
+  Role: Project Manager
   Location: Jaipur, India
   LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
   Image: "/uploads/Trig_profiles_asgar.jpg"
-- Name: Brian
-  Role: Country Programme Manager
-  Location: Bungoma, Kenya
-  Image: "/uploads/Trig_profiles_brian.jpg"
-- Name: Caroline Mutua
-  Role: Product Owner – Data
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/carolinemutua/
-  Image: "/uploads/Trig_profiles_caroline.jpg"
 - Name: Jesse
-  Role: Country Lead and Director – Kenya
+  Role: Country Director – Kenya
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
   Image: "/uploads/Trig_profiles_jesse.jpg"
-- Name: Kalkidan
-  Role: Tiko System Manager
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: https://www.linkedin.com/in/kalkidan-tsegaye-001a95154/
-  Image: "/uploads/Trig_profiles_kalkidan.jpg"
 - Name: Lidya
-  Role: Country Lead and Director – Ethiopia
+  Role: Country Director – Ethiopia
   Location: Addis Ababa, Ethiopia
   LinkedIn: https://www.linkedin.com/in/lidya-mulat-82829a83/
   Image: "/uploads/IMG_0411.jpg"
 - Name: Maria
-  Role: Associate Technical Advisor
+  Role: Programme Advisor
   Location: Yaounde, Cameroon
   LinkedIn: https://www.linkedin.com/in/maria-g-ndzelen-ba086116/
   Image: "/uploads/Trig_profiles_maria.jpg"
@@ -129,7 +115,7 @@ Our People:
   LinkedIn: https://www.linkedin.com/in/maryloukupfer/
   Image: "/uploads/Trig_profiles_marylou.jpg"
 - Name: Nathalie-Ann
-  Role: Global Technical Advisor
+  Role: Programme Director
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
   Image: "/uploads/IMG_20200906_133938.jpg"
@@ -138,28 +124,13 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.jpg"
-- Name: Nienke
-  Role: Chief Finance Officer
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/nienkestel/
-  Image: "/uploads/Trig_profiles_neiken.jpg"
-- Name: Payal
-  Role: Country Lead and Director – India
-  Location: New Delhi, India
-  LinkedIn: https://www.linkedin.com/in/payal852/
-  Image: "/uploads/Trig_profiles_payal.jpg"
-- Name: Ritu
-  Role: Administrative Assistant
-  Location: New Delhi, India
-  LinkedIn: http://www.linkedin.com/in/ritu-sharma-7290b12b
-  Image: "/uploads/Trig_profiles_ritu.jpg"
 - Name: Roxy
   Role: Global Recruiter
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
   Image: "/uploads/Trig_profiles_roxy-f4cf76.jpg"
 - Name: Sam
-  Role: Business Development Lead
+  Role: Programme Lead
   Location: New York, USA
   LinkedIn: https://www.linkedin.com/in/samuel-lewin-70711489/
   Image: "/uploads/Trig_profiles_sam.jpg\n"
@@ -168,11 +139,6 @@ Our People:
   Location: Lisbon, Portugal
   LinkedIn: https://www.linkedin.com/in/amuxix/
   Image: "/uploads/Trig_profiles_samuel.jpg"
-- Name: Shrey
-  Role: Corporate Communications Officer
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://linkedin.com/in/shreysaraswat
-  Image: "/uploads/Trig_profiles_shrey.jpg"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
@@ -191,7 +157,7 @@ Board of Directors Description: The Triggerise Supervisory Board helps fulfil ou
 Team Description: Our people and their commitment to our vision move us forward every
   day. Here are some of the faces that are working hard behind the scenes to create
   big impact.
-SafeGuarding-link: "/privacy-policy-english/"
+SafeGuarding-link: "/privacy-policy/"
 layout: about
 ---
 
