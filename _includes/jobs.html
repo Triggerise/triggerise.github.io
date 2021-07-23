@@ -11,11 +11,7 @@
                   <p>
                     <h3>{{job.['Job Title']}}</h3>
                     {% assign location = job.Location%}
-                    {% if location == "Global" %}
-                      <h3 class="location">{{location}}</h3>
-                    {% elsif location != "Global"%}
                       <h3 class="location">{{location | split: ", " | join:"<br />"}}</h3>
-                    {% endif %}
                   </p>
                 </div>
                 <div class="flip-card-back">
