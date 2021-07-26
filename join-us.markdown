@@ -73,7 +73,7 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: D2C Lead
+- Job Title: Digital Health Specialist
   Location: " Nairobi, Kenya"
   Job Description: Are you looking for a job where your work sustainably creates a
     big impact on a global scale? Do you wish to work in a diverse and intercultural
