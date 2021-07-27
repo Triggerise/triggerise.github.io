@@ -1,7 +1,7 @@
 ---
 title: Cookies
 date: 2020-07-28 11:50:00 Z
-Body: |-
+description: |-
   We use cookies to improve our website. By continuing to use this website, you consent to the placement of these cookies on your device. We are committed to the lawful and transparent collection and use of personal data.
 
   **What is a Cookie?**

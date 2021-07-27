@@ -1271,24 +1271,28 @@ blockquote {
     font-size: 60%;
   }
   @include mq(768px) {
-  padding-top: 10px;
-  font-size: 40%;
+    padding-top: 10px;
+    font-size: 40%;
   }
+  @include mq(1024px) {
+    padding-top: 10px;
+    font-size: 58%;
+    }
   @include mq(1280px) {
-  padding-top: 20px;
-  font-size: 80%;
+    padding-top: 20px;
+    font-size: 80%;
   }
   @include mq(1366px) {
-  padding-top: 25px;
-  font-size: 85%;
+    padding-top: 25px;
+    font-size: 85%;
   }
   @include mq(1440px) {
-  padding-top: 30px;
-  font-size: 90%;
+    padding-top: 30px;
+    font-size: 90%;
   }
   @include mq(1920px) {
-  padding-top: 30px;
-  font-size: 120%;
+    padding-top: 30px;
+    font-size: 120%;
   }
 }
   
@@ -1324,6 +1328,11 @@ blockquote:before {
     left: 50px;
     top: 40px;
   }
+  @include mq(1024px) {
+    font-size: 100%;
+    left: 65px;
+    top: 35px;
+  }
   @include mq(1280px) {
     font-size: 110%;
     left: 75px;
@@ -1346,14 +1355,13 @@ blockquote:before {
   }
 }
 
-blockquote:after { 
+blockquote:after {
   content: close-quote;
   display: block;
   font-weight: bold;
   font-size: 45px;
   color:  #1D214F;
   position: relative;
-  
     @include mq(360px) {
       font-size: 95%;
       left: 35px;
@@ -1375,6 +1383,11 @@ blockquote:after {
     @include mq(768px) {
       left: 55px;
       bottom: 24px;
+    }
+    @include mq(1024px) {
+      font-size: 100%;
+      left: 135px;
+      bottom: 28px;
     }
     @include mq(1280px) {
       font-size: 110%;
@@ -2537,10 +2550,12 @@ blockquote:after {
   }
 }
 
+//Footer
 .footer__logo {
   text-align: center;
   max-width: 100%;
 }
+
 
 .addresses {
   width: 100%;
