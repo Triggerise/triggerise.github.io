@@ -9,5 +9,11 @@
         {{include.description | markdownify}}
       </div>
     {% endif %}
+
+    <div class="cookies-banner">
+      {% if page.title == "Cookies" %}
+        <p>{{ include.description }}</p>
+      {% endif %}
+    </div>
   </div>
 </div>
