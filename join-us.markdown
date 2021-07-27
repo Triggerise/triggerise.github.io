@@ -212,20 +212,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Marketing and Communications Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=145&source=aWQ9MjM%3D
-- Job Title: Marketing and Communications Manager
-  Location: Global
-  Job Description: Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=147&source=aWQ9MjM%3D
 - Job Title: Global Recruiter
   Location: Global
   Job Description: Are you experienced in recruiting across multiple disciplines on
