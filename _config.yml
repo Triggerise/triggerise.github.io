@@ -17,6 +17,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  social-icons:
+    title: Social Icons
+    output: true
 defaults:
 - scope:
     path: ''
