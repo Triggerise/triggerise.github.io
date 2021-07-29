@@ -73,7 +73,7 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: D2C Lead
+- Job Title: Digital Health Specialist
   Location: " Nairobi, Kenya"
   Job Description: Are you looking for a job where your work sustainably creates a
     big impact on a global scale? Do you wish to work in a diverse and intercultural
@@ -212,20 +212,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Marketing and Communications Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=145&source=aWQ9MjM%3D
-- Job Title: Marketing and Communications Manager
-  Location: Global
-  Job Description: Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=147&source=aWQ9MjM%3D
 - Job Title: Global Recruiter
   Location: Global
   Job Description: Are you experienced in recruiting across multiple disciplines on
