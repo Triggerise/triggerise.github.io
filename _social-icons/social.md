@@ -1,6 +1,7 @@
 ---
 title: social
 ---
+
 [![Twitter](/uploads/icons/twitter.svg)](https://twitter.com/triggerise){:target="_blank"}
 [![Facebook](/uploads/icons/facebook.svg)](https://www.facebook.com/triggerise){:target="_blank"}
 [![Instagram](/uploads/icons/instagram.svg)](https://www.instagram.com/triggerise/){:target="_blank"}
