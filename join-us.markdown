@@ -73,20 +73,6 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Digital Health Specialist
-  Location: " Nairobi, Kenya"
-  Job Description: Are you looking for a job where your work sustainably creates a
-    big impact on a global scale? Do you wish to work in a diverse and intercultural
-    company? If so, Triggerise could be your place!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=106
-- Job Title: Engineering Manager
-  Location: Global
-  Job Description: "You have previous experience guiding, and aligningengineering
-    (software and data) teams, to ensure that agreed delivery by teams and individuals
-    is met.  Are you looking for your next opportunity to contribute to the growth
-    and success of others?  Continue reading to find out more about our Data Manager
-    position!\n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=90
 - Job Title: Front end / Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
@@ -107,18 +93,6 @@ Jobs:
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
-- Job Title: Facilitator
-  Location: Global
-  Job Description: Are you an expert on the pros and cons of different ways of working?
-    Can you make our teams excel by helping them choose what works for them? Then
-    this is your chance to build something new and exciting!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=123&source=aWQ9MjM%3D
-- Job Title: M&E Lead
-  Location: Cape Town, South Africa
-  Job Description: Triggerise creates impact by applying tech to non-profit.  We are
-    looking for an M&E lead who can ensure that our high quality can be collected,
-    processed & analyzed in order to make evidence-driven decisions.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=52
 - Job Title: Chief Finance Officer
   Location: Global
   Job Description: 'Are you a finance leader with vision? We are looking for a Chief
@@ -140,19 +114,6 @@ Jobs:
     expansion of health systems? If so, read on to hear more about the Health & Education
     Expert Lead position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=127&source=aWQ9MjM%3D
-- Job Title: Education & Employability Advisor
-  Location: 'Global '
-  Job Description: 'Are you well-versed on the latest scientific evidence in learning
-    strategies? Do you want to provide technical oversight to education and employability
-    components for an international insights department? If so, read on to hear more
-    about the Education & Employability Advisor position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=126&source=aWQ9MjM%3D
-- Job Title: Research Lead
-  Location: 'Cape Town, South Africa '
-  Job Description: 'Are you constantly asking critical and constructive questions?
-    Do you have extensive quantitative research experience? If so, the Research Manager
-    position might be for you! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=125&source=aWQ9MjM%3D
 - Job Title: DevOps Engineer
   Location: Cape Town, Western Cape
   Job Description: Do you have experience building, testing & maintaining tools that
@@ -191,13 +152,6 @@ Jobs:
     you!  Each quarter, Triggerise expands into new geographies, and we are looking
     for someone with a tech-savvy background to help us to do so.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
-- Job Title: DevOps Team Lead
-  Location: Global
-  Job Description: Do you have experience leading a team to build, test & maintain
-    tools that allow for speedy development of software? Would you enjoy working in
-    an Agile way and are excited by the prospect of using technology to create impact.
-    Read on to find out more to find out about our DevOps Team Lead position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=151&source=aWQ9MjM%3D
 - Job Title: Data Engineering Team Lead
   Location: Porto, Portugal
   Job Description: Do you consider yourself an expert in all things data, and have
