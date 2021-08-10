@@ -93,12 +93,6 @@ Jobs:
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
-- Job Title: Chief Finance Officer
-  Location: Global
-  Job Description: 'Are you a finance leader with vision? We are looking for a Chief
-    Finance Officer that will enable our finance team to scale in a period of rapid
-    growth.  '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=119&source=aWQ9MjM%3D
 - Job Title: Assistant Controller
   Location: Amsterdam, The Netherlands
   Job Description: "Are you an analytical, result orientated professional looking
@@ -166,12 +160,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Global Recruiter
-  Location: Global
-  Job Description: Are you experienced in recruiting across multiple disciplines on
-    a global scale? Are you passionate about identifying and hiring top talent? You
-    could be our next Global Recruiter!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=152&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
