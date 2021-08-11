@@ -8,7 +8,63 @@
 }
 
 #fullpage {
-  // padding-top: 77px;
+  padding-top: 77px;
+
+  @include mq($from: 320px) {
+    margin-top: 180px;
+    padding-top: 250px;
+    padding-bottom: 280px;
+  }
+
+  @include mq($from: 375px) {
+    margin-top: 160px;
+    margin-bottom: 200px;
+    padding-top: 250px;
+    padding-bottom: 100px;
+  }
+
+  @include mq($from: 411px) {
+    margin-top: 120px;
+    padding-bottom: 120px;
+    padding-top: 250px;
+  }
+
+  @include mq($from: 540px) {
+    margin-top: 120px;
+    margin-bottom: 240px;
+    padding-top: 250px;
+    padding-bottom: 100px;
+  }
+
+  @include mq($from: 768px) {
+    margin-top: 140px;
+    padding-top: 200px;
+    padding-bottom: 360px;
+  }
+
+  @include mq($from: 1024px) {
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+
+  @include mq($from: 1280px) {
+    margin-bottom: 40px;
+    padding-top: 60px;
+  }
+
+  @include mq($from: 1440px) {
+    margin-bottom: 10px;
+    padding-top: 80px;
+  }
+
+  @include mq($from: 1920px) {
+    padding-top: 100px;
+    margin-top: 120px;
+    padding-bottom: 50px;
+    margin-bottom: 60px;
+  }
+
 }
 
 .fp-slidesNav.fp-bottom {
@@ -20,7 +76,7 @@
 }
 
 .section {
-  max-height: 410px !important;
+  max-height: 310px !important;
 
   @include mq($from: desktop) {
     max-height: 690px !important;
@@ -88,6 +144,7 @@
   @include mq($from: desktop) {
     flex-direction: row;
   }
+
 }
 
 .t-three-top {
@@ -98,9 +155,19 @@
   .t-half {
     min-height: auto;
 
-    @include mq($from: desktop) {
-      min-height: inherit;
+    @include mq($from: 768px) {
+      background-color: yellow;
+      margin-top: 35px;
     }
+
+    @include mq($from: 1280px) {
+      margin-top: 40px;
+    }
+
+    @include mq($from: 1920px) {
+      margin-top: 80px;
+    }
+
   }
 }
 
@@ -108,13 +175,46 @@
   width: 100%;
   position: relative;
 
+  @include mq($from: 320px) {
+    height: auto;
+  }
+
+  @include mq($from: 768px) {
+    padding-top: 210px;
+  }
+
   @include mq($from: desktop) {
     width: 50%;
   }
+
+  @include mq($from: 1280px) {
+    padding-bottom: 0px;
+  }
+
+}
+
+
+.t-three-left {
+  @include mq($from: 320px) {
+    padding-top: 10px;
+    height: auto;
+  }
+  @include mq($from: 1280px) {
+    padding-top: 20px;
+  }
+
+  @include mq($from: 1920px) {
+    margin-top: 60px;
+  }
+
 }
 
 .t-three-title {
-  margin-top: 20px;
+  margin-top: 30px;
+
+  @include mq($from: 768px) {
+    margin-top: 0px;
+  }
 }
 
 .t-three-sub-title {
@@ -123,10 +223,19 @@
   @include mq($from: desktop) {
     margin-top: spacing(5);
   }
+
+  @include mq($from: 768px) {
+    margin-top: spacing(1);
+    padding-bottom: 100px;
+  }
 }
 
 .t-three-sub, .t-three-number {
   @include mq($from: desktop) {
+    margin-left: spacing(7);
+  }
+
+  @include mq($from: 768px) {
     margin-left: spacing(7);
   }
 }
@@ -152,7 +261,20 @@
     min-height: 40vh;
   }
 
+  @include mq($from: 1024px) {
+    margin-bottom: 100px;
+  }
+
+  @include mq($from: 1280px) {
+    margin-bottom: 80px;
+  }
+
+  @include mq($from: 1920px) {
+    margin-bottom: 160px;
+  }
+
   &.left {
+background-color: white;
     z-index: 100;
 
     @include mq($from: desktop) {
@@ -176,6 +298,10 @@
           width: 130%;
         }
       }
+    }
+
+    @include mq($until: 540px) {
+      margin-bottom: 160px;
     }
   }
 }
@@ -290,6 +416,7 @@
   padding-bottom: 10px;
   height: auto;
 
+
   @include mq($from: desktop) {
     min-height: 310px;
     height: 40vh;
@@ -301,7 +428,17 @@
 
   &.carousel {
     height: 700px;
-    min-height: 100%;
+    min-height: 80%;
+
+    @include mq($from: 768px) {
+      min-height: 310px;
+      height: 50vh;
+
+      p{
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+    }
   }
 
   .section-title {
