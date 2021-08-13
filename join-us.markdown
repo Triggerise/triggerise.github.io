@@ -166,6 +166,12 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Risk Management Auditor
+  Location: Addis Ababa, Ethiopia
+  Job Description: Are you detail orientated and analytical in your approach? Do you
+    enjoy developing processes and have a passion for risk management? Read more to
+    find out about our Risk Management Auditor position.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=163
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
