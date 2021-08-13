@@ -1446,7 +1446,6 @@ blockquote:after {
 }
 
 .team-one-container, .team-two-container, .team-three-container {
-  justify-content: space-between;
   width: 75%;
   max-height: auto;
   overflow: visible;
@@ -1454,16 +1453,11 @@ blockquote:after {
   text-align: center;
   padding-bottom: spacing(5);
 
-
   @include mq($from: desktop) {
     width: 33.3%;
     overflow-y: hidden;
     overflow-x: hidden;
     max-height: 60vh;
-
-    &:hover {
-        overflow-y: scroll;
-    }
   }
 
   &:hover {
@@ -1543,19 +1537,41 @@ blockquote:after {
 }
 
 .team-one-card, .team-two-card, .team-three-card {
-  h2, p, svg {
+  width: 450px;
 
-    background-color: red;
-    @include mq($from: desktop) {
-      margin-left: 50px;
-    margin-right: 50px;
-    }
+  @include mq($from: desktop) {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    max-height: 65vh;
 
     &:hover {
-      overflow-y: scroll;
+        overflow-y: scroll;
+        position: absolute;
     }
   }
 
+  .text-box {
+    left: 20px;
+    right: 40px;
+  }
+
+  h2, p {
+    @include mq($from: desktop) {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    }
+  }
+
+  svg {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
 }
 
 .what-we-do {
