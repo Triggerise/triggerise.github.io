@@ -1446,12 +1446,14 @@ blockquote:after {
 }
 
 .team-one-container, .team-two-container, .team-three-container {
-  width: 100%;
+  justify-content: space-between;
+  width: 75%;
   max-height: auto;
   overflow: visible;
   padding-top:spacing(2);
   text-align: center;
   padding-bottom: spacing(5);
+
 
   @include mq($from: desktop) {
     width: 33.3%;
@@ -1460,7 +1462,7 @@ blockquote:after {
     max-height: 60vh;
 
     &:hover {
-      overflow-y: scroll;
+        overflow-y: scroll;
     }
   }
 
@@ -1540,6 +1542,21 @@ blockquote:after {
   }
 }
 
+.team-one-card, .team-two-card, .team-three-card {
+  h2, p, svg {
+
+    background-color: red;
+    @include mq($from: desktop) {
+      margin-left: 50px;
+    margin-right: 50px;
+    }
+
+    &:hover {
+      overflow-y: scroll;
+    }
+  }
+
+}
 
 .what-we-do {
   .center-container {
