@@ -65,6 +65,10 @@ Supervisory Board:
     Group (one of the most prominent family-owned businesses in the mobility services
     industry in the Netherlands)."
   Image: "/uploads/Trig_profiles_julia.jpg"
+- Name: Phinah Kodisang
+- Role: 
+- Description: "(Johannesburg, South Africa) is the CEO of Soul City Institute. She has over 15 years of experience in the field of sexual reproductive health and champions strategic and innovative development and management of programmes aimed at youth."
+  Image: 
 Chief Executive Officers:
 - Name: Benoit Renard
   Role: Director of Triggerise Stichting, Chief Executive Officer (CEO) and Co-founder
