@@ -29,7 +29,9 @@
 
 .section:not(.carousel) {
   height: auto !important;
+  display: contents;
 }
+
 .fp-tableCell {
   height: auto !important;
 }
