@@ -7,55 +7,67 @@
 <div class="t-one {{include.classList}} {{include.colour}} team" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper flex full">
     <div class="team-one-container cream">
-      <h2 class="teamsTitle">Supervisory Board</h2>
-      <p>{{SupervisoryDescription}}</p>
-      <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
-      {% for member in Board %}
-        <div class="team-image-wrapper">
-          <img src="{{member.Image}}">
+      <div class="team-one-card">
+        <div class="text-box">
+        <h2 class="teamsTitle">Supervisory Board</h2>
+          <p>{{SupervisoryDescription}}</p>
+          <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
+          {% for member in Board %}
+            <div class="team-image-wrapper">
+              <img src="{{member.Image}}">
+            </div>
+            <h2>{{member.Name}}</h2>
+            <p>{{member.Role}}</p>
+            <p>{{member.Location}}</p>
+            <p>{{member.Description}}</p>
+            {% if member.LinkedIn %}
+              <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
+            {% endif %}
+          {% endfor %}
         </div>
-        <h2>{{member.Name}}</h2>
-        <p>{{member.Role}}</p>
-        <p>{{member.Location}}</p>
-        <p>{{member.Description}}</p>
-        {% if member.LinkedIn %}
-          <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
-        {% endif %}
-      {% endfor %}
+      </div>
     </div>
     <div class="team-two-container lightBlue">
-      <h2 class="teamsTitle">Board of Directors</h2>
-      <p>{{BoardDescription}}</p>
-      <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
-      {% for member in Executives %}
-        <div class="team-image-wrapper">
-          <img src="{{member.Image}}">
+      <div class="team-two-card">
+        <div class="text-box">
+          <h2 class="teamsTitle">Board of Directors</h2>
+          <p>{{BoardDescription}}</p>
+          <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
+          {% for member in Executives %}
+            <div class="team-image-wrapper">
+              <img src="{{member.Image}}">
+            </div>
+            <h2>{{member.Name}}</h2>
+            <p>{{member.Role}}</p>
+            <p>{{member.Location}}</p>
+            <p>{{member.Description}}</p>
+            {% if member.LinkedIn %}
+              <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
+            {% endif %}
+          {% endfor %}
         </div>
-        <h2>{{member.Name}}</h2>
-        <p>{{member.Role}}</p>
-        <p>{{member.Location}}</p>
-        <p>{{member.Description}}</p>
-        {% if member.LinkedIn %}
-          <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
-        {% endif %}
-      {% endfor %}
+      </div>
     </div>
     <div class="team-three-container lightCream">
-      <h2 class="teamsTitle">Our People</h2>
-      <p>{{TeamDescription}}</p>
-      <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
-      {% for member in Directors %}
-        <div class="team-image-wrapper">
-          <img src="{{member.Image}}">
+      <div class="team-three-card">
+        <div class="text-box">
+          <h2 class="teamsTitle">Our People</h2>
+          <p>{{TeamDescription}}</p>
+          <svg width="129" height="129" viewBox="0 0 129 129" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M129 64.5c0 35.622-28.878 64.5-64.5 64.5S0 100.122 0 64.5 28.878 0 64.5 0 129 28.878 129 64.5z" fill="#2C449C"/><path fill-rule="evenodd" clip-rule="evenodd" d="M96.82 68.544L68.182 97.182a4.5 4.5 0 01-6.364 0L33.18 68.544a4.5 4.5 0 116.364-6.364L60.5 83.136V33h9v50.136L90.456 62.18a4.5 4.5 0 116.364 6.364z" fill="#FDEBCB"/></svg>
+          {% for member in Directors %}
+            <div class="team-image-wrapper">
+              <img src="{{member.Image}}">
+            </div>
+            <h2>{{member.Name}}</h2>
+            <p>{{member.Role}}</p>
+            <p>{{member.Location}}</p>
+            <p>{{member.Description}}</p>
+            {% if member.LinkedIn %}
+              <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
+            {% endif %}
+          {% endfor %}
         </div>
-        <h2>{{member.Name}}</h2>
-        <p>{{member.Role}}</p>
-        <p>{{member.Location}}</p>
-        <p>{{member.Description}}</p>
-        {% if member.LinkedIn %}
-          <small><a href="{{member.LinkedIn}}"><svg class="noanimate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg></a></small>
-        {% endif %}
-      {% endfor %}
+      </div>
     </div>
   </div>
 </div>
