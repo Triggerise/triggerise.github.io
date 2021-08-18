@@ -160,18 +160,30 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: Risk Management Auditor
   Location: Addis Ababa, Ethiopia
   Job Description: Are you detail orientated and analytical in your approach? Do you
     enjoy developing processes and have a passion for risk management? Read more to
     find out about our Risk Management Auditor position.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=163
+- Job Title: Grants Writer
+  Location: Global
+  Job Description: Are you able to write in a persuasive and professional way? Would
+    you enjoy writing proposals for projects that have the potential to bring about
+    long-term positive change within underserved communities?
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=167&source=aWQ9MjM%3D
+- Job Title: New Business Development Lead
+  Location: Global
+  Job Description: Are you looking for a role where the work that you do sustainably
+    creates an impact on a global scale? Do you wish to be a part of a diverse and
+    multicultural company? If so, Triggerise could be the place for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
