@@ -218,6 +218,38 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Viva Partnership Manager
+  Location: Nairobi, Kenya
+  Job Description: Are you a dynamic professional who thrives most when engaging with
+    people of all levels up to government?  Are you a natural communicator with the
+    ability to work across teams, and bring people together? If so, read on to find
+    out more about The Viva Partnership Manager role.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=164
+- Job Title: Technical Lead Education & Employability
+  Location: Addis, Ethiopia
+  Job Description: Do you have experience, and in depth knowledge within the field
+    of Education and Employability?  Are you looking to help guide operations to have
+    maximise the impact we're able to have across this domain?  In the role of Technical
+    Lead, you help steer and advise the best way to create impact within Education
+    & Employability, read on to find out more.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=170
+- Job Title: Technical Lead Mental Health
+  Location: Mombasa, Kenya
+  Job Description: Do you have experience, and in depth knowledge within the field
+    of Mental Health?  Are you looking to help guide operations to have maximise the
+    impact we're able to have across this domain?  In the role of Technical Lead,
+    you help steer and advise the best way to create impact across the Mental Health
+    space, read on to find out more.
+  Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
+
+'
+- Job Title: Software Engineering Team Lead
+  Location: Porto, Portugal
+  Job Description: Are you a problem-solver with a background in software development
+    and a particular focus on Front End Engineering? Do you want to be a part of an
+    innovative team who use their technical skills to make a positive impact? Then
+    this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=169
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
