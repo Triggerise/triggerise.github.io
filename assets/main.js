@@ -77,15 +77,13 @@ window.onload = function() {
 
     if(impactTotal && !impactTotal.classList.contains('counted')){
       impactTotal.classList.add('counted');
-      var countUp = new CountUp('total-users', 2000, userTotal);
-      console.log(countUp);
+      var countUp = new CountUp('total-users', 2000, userTotal)
       countUp.start();
     }
 
     if(home && !home.classList.contains('counted')) {
       home.classList.add('counted');
-      var countUp = new CountUp('countup', 2000, homepage);
-      console.log(countUp);
+      var countUp = new CountUp('countup', 2000, homepage)
       countUp.start();
     }
 
@@ -93,7 +91,6 @@ window.onload = function() {
       if(elementInViewport(services)) {
         services.classList.add('counted');
         var countUp = new CountUp('platform-services', 2000, servicesTotal);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -102,7 +99,6 @@ window.onload = function() {
       if(elementInViewport(partners)) {
         partners.classList.add('counted');
         var countUp = new CountUp('partnersKenya', 0, partnersTotal);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -111,7 +107,6 @@ window.onload = function() {
       if(elementInViewport(partnersIndia)) {
         partnersIndia.classList.add('counted');
         var countUp = new CountUp('partners-india', 0, partnersTotalIndia);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -120,7 +115,6 @@ window.onload = function() {
       if(elementInViewport(partnersEthiopia)) {
         partnersEthiopia.classList.add('counted');
         var countUp = new CountUp('partnersEthiopia', 0, partnersTotalEthiopia);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -129,7 +123,6 @@ window.onload = function() {
       if(elementInViewport(miles)) {
         miles.classList.add('counted');
         var countUp = new CountUp('tiko-miles', 0, milesTotal);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -138,7 +131,6 @@ window.onload = function() {
       if(elementInViewport(serviceUptakeSelect)) {
         serviceUptakeSelect.classList.add('counted');
         var countUp = new CountUp('serviceUptake', 0, serviceUptake);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -147,7 +139,6 @@ window.onload = function() {
       if(elementInViewport(repeatBehaviourSelect)) {
         repeatBehaviourSelect.classList.add('counted');
         var countUp = new CountUp('repeatBehaviour', 0, repeatBehaviour);
-        console.log(countUp);
         countUp.start();
       }
     }
@@ -156,7 +147,6 @@ window.onload = function() {
       if(elementInViewport(providerRatingsSelect)) {
         providerRatingsSelect.classList.add('counted');
         var countUp = new CountUp('providerRatings', 0, providerRatings);
-        console.log(countUp);
         countUp.start();
       }
     }
