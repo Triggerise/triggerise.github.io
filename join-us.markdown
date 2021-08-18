@@ -73,6 +73,19 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
+- Job Title: New Business Development Director
+  Location: Global
+  Job Description: 'What if you can be instrumental in positively impacting hundreds
+    of thousands of underserved young women across the world? We are looking for a
+    New Business Development Director that helps us scale our already considerable
+    impact in the coming years. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=86&source=aWQ9MjM%3D
+- Job Title: New Business Development Lead
+  Location: Global
+  Job Description: Are you looking for a role where the work that you do sustainably
+    creates an impact on a global scale? Do you wish to be a part of a diverse and
+    multicultural company? If so, Triggerise could be the place for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
 - Job Title: Front end / Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
@@ -80,13 +93,6 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: New Business Development Director
-  Location: Global
-  Job Description: 'What if you can be instrumental in positively impacting hundreds
-    of thousands of underserved young women across the world? We are looking for a
-    New Business Development Director that helps us scale our already considerable
-    impact in the coming years. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=53
 - Job Title: Backend Java Developer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
@@ -115,6 +121,12 @@ Jobs:
     are excited by the prospect of using technology to create impact.  Read on to
     find out more to find out about our DevOps Engineer position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
+- Job Title: Service Quality Lead
+  Location: Global
+  Job Description: 'Are you a strategic thinker? Would you love to develop and execute
+    strategies across Triggerise’s global markets for all service quality assurance
+    for providers? '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=165&source=aWQ9MjM%3D
 - Job Title: Risk Management Auditor
   Location: Nairobi, Kenya
   Job Description: Are you detail orientated and analytical in your approach? Do you
@@ -172,12 +184,34 @@ Jobs:
     you enjoy writing proposals for projects that have the potential to bring about
     long-term positive change within underserved communities?
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=167&source=aWQ9MjM%3D
-- Job Title: New Business Development Lead
+- Job Title: Service Quality Specialist
+  Location: Uganda, Kampala
+  Job Description: Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Do you have a great eye for detail
+    and experience in the health services sector? Read on because this role could
+    be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=162&source=aWQ9MjM%3D
+- Job Title: Service Quality Specialist
+  Location: Addis Ababa, Ethiopia
+  Job Description: Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Do you have a great eye for detail
+    and experience in the health services sector? Read on because this role could
+    be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
+- Job Title: Data Analyst
   Location: Global
-  Job Description: Are you looking for a role where the work that you do sustainably
-    creates an impact on a global scale? Do you wish to be a part of a diverse and
-    multicultural company? If so, Triggerise could be the place for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualisation and data modelling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
+- Job Title: Data Analyst
+  Location: Nairobi, Kenya
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualisation and data modelling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
