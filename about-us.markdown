@@ -21,42 +21,42 @@ Mission-text: |-
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
   change for good.
 Map-locations:
-- Location: 
-  Description: 
-  Image: 
+- Location:
+  Description:
+  Image:
 Supervisory Board:
 - Name: 'Lisa Simutami '
-  Role: 
+  Role:
   Description: "(Chapel Hill, NC, USA), is the chair of our supervisory board since
     inception. Lisa is the COO of Ipas, and previously served as Regional Director
     at Population Services International."
   Image: "/uploads/Trig_profiles_lisa.jpg"
 - Name: Leslie Pascaud
-  Role: 
+  Role:
   Description: "(New York, NJ, USA), leads Branding for Good and has been working
     on innovation projects in the USA, Europe and Asia for over 20 years."
   Image: "/uploads/Trig_profiles_leslie.jpg"
 - Name: Miles Kemplay
-  Role: 
+  Role:
   Description: "(London, UK), is leading adolescent sexual and reproductive health
     work as Executive Director with Children’s Investment Fund Foundation since 2016.
     He has spent over a decade working for global health, development and private
     sector organisations."
   Image: "/uploads/Trig_profiles_miles.jpg"
 - Name: Werner Strydom
-  Role: 
+  Role:
   Description: "(Amsterdam, The Netherlands), heads up the Advanced Technology & Innovation
     unit within the Office of the CTO at Irdeto. He has 30 years of experience in
     the field of cybersecurity and leads software development, technology research,
     and innovation teams."
   Image: "/uploads/Werner%20(1).jpg"
 - Name: Leontine Gast
-  Role: 
+  Role:
   Description: "(Amsterdam, The Netherlands) is the CEO of The Terrace. She works
     in strategy, branding and communication with retail and consumer goods organisations. "
   Image: "/uploads/Trig_profiles_leotine.jpg"
 - Name: Julia Sakovska
-  Role: 
+  Role:
   Description: "(the Netherlands), FCCA, serves as a CFO at TCR Group (Brussels),
     a Private Equity backed international provider of Ground Support Equipment (GSE)
     to ground handlers, airlines and airports. Julia has over 25 years of finance
@@ -65,6 +65,10 @@ Supervisory Board:
     Group (one of the most prominent family-owned businesses in the mobility services
     industry in the Netherlands)."
   Image: "/uploads/Trig_profiles_julia.jpg"
+- Name: Phinah Kodisang
+  Role:
+  Description: "(Johannesburg, South Africa) is the CEO of Soul City Institute. She has over 15 years of experience in the field of sexual reproductive health and champions strategic and innovative development and management of programmes aimed at youth."
+  Image: "/uploads/Trig_profiles_phinah.jpg"
 Chief Executive Officers:
 - Name: Benoit Renard
   Role: Director of Triggerise Stichting, Chief Executive Officer (CEO) and Co-founder
