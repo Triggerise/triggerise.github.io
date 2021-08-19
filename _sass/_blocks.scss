@@ -1346,14 +1346,14 @@ blockquote:before {
   }
 }
 
-blockquote:after { 
+blockquote:after {
   content: close-quote;
   display: block;
   font-weight: bold;
   font-size: 45px;
   color:  #1D214F;
   position: relative;
-  
+
     @include mq(360px) {
       font-size: 95%;
       left: 35px;
@@ -1453,6 +1453,19 @@ blockquote:after {
   text-align: center;
   padding-bottom: spacing(5);
 
+  @include mq($until: 1024px) {
+    margin: 0 auto;
+    width: 100%;
+    overflow-y: visible;
+    overflow-x: visible;
+
+    &:hover {
+      overflow-y: scroll;
+      position: relative;
+      cursor: pointer;
+    }
+  }
+
   @include mq($from: desktop) {
     width: 33.3%;
     overflow-y: hidden;
@@ -1537,7 +1550,23 @@ blockquote:after {
 }
 
 .team-one-card, .team-two-card, .team-three-card {
-  width: 450px;
+  width: 350px;
+  margin: 0 auto;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+
+  @include mq($until: 1024px) {
+    margin: 0 auto;
+    width: 90%;
+    overflow-y: visible;
+    overflow-x: visible;
+
+    &:hover {
+      overflow-y: scroll;
+      position: relative;
+      cursor: pointer;
+    }
+  }
 
   @include mq($from: desktop) {
     overflow-y: hidden;
@@ -1546,31 +1575,32 @@ blockquote:after {
 
     &:hover {
         overflow-y: scroll;
-        position: absolute;
+        position: relative;
+        cursor: pointer;
     }
   }
 
   .text-box {
-    left: 20px;
+    left: 0px;
     right: 40px;
   }
 
   h2, p {
-    @include mq($from: desktop) {
     margin-left: 50px;
     margin-right: 50px;
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
-    }
   }
 
   svg {
+    display: block;
     position: relative;
-    left: 50%;
+    margin: 0 auto;
+    padding-top: calc(50% - 100px);
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
+    transform: translate(0, -50%);
   }
 }
 
