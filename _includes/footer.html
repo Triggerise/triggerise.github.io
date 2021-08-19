@@ -4,13 +4,10 @@
       <div class="footer-left">
         <img src="../assets/footer-logo.png" class="footer__logo">
           <div class="socials">
-            <ul>
-              <a href="https://twitter.com/triggerise" target="_blank"><img src="/uploads/icons/twitter.svg"></a>
-              <a href="https://www.facebook.com/triggerise" target="_blank"><img src="/uploads/icons/facebook.svg"></a>
-              <a href="https://www.instagram.com/triggerise/" target="_blank"><img src="/uploads/icons/instagram.svg"></a>
-              <a href="https://www.youtube.com/channel/UCB9i2kUn4j6wgyMLmk_-UQg/featured" target="_blank"><img src="/uploads/icons/youtube.svg"></a>
-              <a href="https://www.linkedin.com/company/triggerise/" target="_blank"><img src="/uploads/icons/linkedin.svg"></a>
-            </ul>
+            {% assign social = site.social-icons%}
+              {%for social in social%}
+                {{ social.content }}
+              {% endfor %}
           </div>
         <div class="small">
           <ul>

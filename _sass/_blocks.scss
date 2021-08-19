@@ -8,7 +8,7 @@
 }
 
 #fullpage {
-  // padding-top: 77px;
+  padding-top: 77px;
 }
 
 .fp-slidesNav.fp-bottom {
@@ -29,7 +29,9 @@
 
 .section:not(.carousel) {
   height: auto !important;
+  display: contents;
 }
+
 .fp-tableCell {
   height: auto !important;
 }
@@ -1271,24 +1273,28 @@ blockquote {
     font-size: 60%;
   }
   @include mq(768px) {
-  padding-top: 10px;
-  font-size: 40%;
+    padding-top: 10px;
+    font-size: 40%;
   }
+  @include mq(1024px) {
+    padding-top: 10px;
+    font-size: 58%;
+    }
   @include mq(1280px) {
-  padding-top: 20px;
-  font-size: 80%;
+    padding-top: 20px;
+    font-size: 80%;
   }
   @include mq(1366px) {
-  padding-top: 25px;
-  font-size: 85%;
+    padding-top: 25px;
+    font-size: 85%;
   }
   @include mq(1440px) {
-  padding-top: 30px;
-  font-size: 90%;
+    padding-top: 30px;
+    font-size: 90%;
   }
   @include mq(1920px) {
-  padding-top: 30px;
-  font-size: 120%;
+    padding-top: 30px;
+    font-size: 120%;
   }
 }
   
@@ -1323,6 +1329,11 @@ blockquote:before {
   @include mq(768px) {
     left: 50px;
     top: 40px;
+  }
+  @include mq(1024px) {
+    font-size: 100%;
+    left: 65px;
+    top: 35px;
   }
   @include mq(1280px) {
     font-size: 110%;
@@ -1375,6 +1386,11 @@ blockquote:after {
     @include mq(768px) {
       left: 55px;
       bottom: 24px;
+    }
+    @include mq(1024px) {
+      font-size: 100%;
+      left: 135px;
+      bottom: 28px;
     }
     @include mq(1280px) {
       font-size: 110%;
@@ -1567,6 +1583,7 @@ blockquote:after {
       cursor: pointer;
     }
   }
+
 
   @include mq($from: desktop) {
     overflow-y: hidden;
