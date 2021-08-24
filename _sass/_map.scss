@@ -132,6 +132,7 @@
   }
 }
 
+
 .svgMap-tooltip {
   box-shadow: 0 0 3px rgba(0, 0, 0, .2);
   position: absolute;
@@ -140,12 +141,14 @@
   background: #fff;
   transform: translate(-50%, -100%);
   border-bottom: 1px solid #000;
-  display: none;
-  pointer-events: none;
   min-width: 60px;
 
+  @include mq($from: 1024px) {
+    display: none;
+    pointer-events: none;
+  }
+
   &.svgMap-tooltip-flipped {
-    transform: translate(-50%, 0);
     border-bottom: 0;
     border-top: 1px solid #000;
   }

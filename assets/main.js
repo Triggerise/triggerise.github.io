@@ -250,6 +250,20 @@ function classLists() {
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
 
+function init(){
+  if(worldMapCheck){
+    worldMap();
+    classLists();
+  }
+  if(map) {
+    scroll();
+  }
+  if(filtersCheck) {
+    filters();
+  }
+}init();
+
+
 
 var filtersCheck = document.querySelectorAll('.filter');
 function hideReports(reports) {
@@ -271,12 +285,12 @@ function filters(){
       console.log(selected);
       selected.forEach(s => {
         s.classList.add('display')
-      })  
+      });
     });
   });
 }
 
-//Policy Select 
+//Policy Select
 
 var selectedPolicy = document.querySelectorAll('.link');
 
@@ -314,21 +328,9 @@ if(cookies) {
 }
 
 
-function init(){
-  if(worldMapCheck){
-    worldMap();
-    classLists();
-  }
-  if(map) {
-    scroll();
-  }
-  if(filtersCheck) {
-    filters();
-  }
-}init();
+
 
 //Includes Jobs.html
-
 $('.card-flip').hover( function () {
   $('.uk-card').toggleClass('flipped');
 });
