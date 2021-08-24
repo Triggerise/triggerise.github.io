@@ -14,11 +14,11 @@ collections:
   privacy-policy:
     title: Privacy Policies
     output: true
-  uploads:
-    title: Uploads
-    output: true
   social-icons:
     title: Social Icons
+    output: true
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:

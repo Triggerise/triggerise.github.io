@@ -29,7 +29,9 @@
 
 .section:not(.carousel) {
   height: auto !important;
+  display: contents;
 }
+
 .fp-tableCell {
   height: auto !important;
 }
@@ -1362,6 +1364,7 @@ blockquote:after {
   font-size: 45px;
   color:  #1D214F;
   position: relative;
+
     @include mq(360px) {
       font-size: 95%;
       left: 35px;
@@ -1459,22 +1462,31 @@ blockquote:after {
 }
 
 .team-one-container, .team-two-container, .team-three-container {
-  width: 100%;
+  width: 75%;
   max-height: auto;
   overflow: visible;
   padding-top:spacing(2);
   text-align: center;
   padding-bottom: spacing(5);
 
+  @include mq($until: 1024px) {
+    margin: 0 auto;
+    width: 100%;
+    overflow-y: visible;
+    overflow-x: visible;
+
+    &:hover {
+      overflow-y: scroll;
+      position: relative;
+      cursor: pointer;
+    }
+  }
+
   @include mq($from: desktop) {
     width: 33.3%;
     overflow-y: hidden;
     overflow-x: hidden;
     max-height: 60vh;
-
-    &:hover {
-      overflow-y: scroll;
-    }
   }
 
   &:hover {
@@ -1553,6 +1565,61 @@ blockquote:after {
   }
 }
 
+.team-one-card, .team-two-card, .team-three-card {
+  width: 350px;
+  margin: 0 auto;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+
+  @include mq($until: 1024px) {
+    margin: 0 auto;
+    width: 90%;
+    overflow-y: visible;
+    overflow-x: visible;
+
+    &:hover {
+      overflow-y: scroll;
+      position: relative;
+      cursor: pointer;
+    }
+  }
+
+
+  @include mq($from: desktop) {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    max-height: 65vh;
+
+    &:hover {
+        overflow-y: scroll;
+        position: relative;
+        cursor: pointer;
+    }
+  }
+
+  .text-box {
+    left: 0px;
+    right: 40px;
+  }
+
+  h2, p {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+
+  svg {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding-top: calc(50% - 100px);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translate(0, -50%);
+  }
+}
 
 .what-we-do {
   .center-container {
