@@ -65,6 +65,13 @@ Supervisory Board:
     Group (one of the most prominent family-owned businesses in the mobility services
     industry in the Netherlands)."
   Image: "/uploads/Trig_profiles_julia.jpg"
+- Name: Phinah Kodisang
+  Role: 
+  Description: "(Johannesburg, South Africa) is the CEO of Soul City Institute. She
+    has over 15 years of experience in the field of sexual reproductive health and
+    champions strategic and innovative development and management of programmes aimed
+    at youth."
+  Image: "/uploads/Trig_profiles_phinah.jpg"
 Chief Executive Officers:
 - Name: Benoit Renard
   Role: Director of Triggerise Stichting, Chief Executive Officer (CEO) and Co-founder
@@ -84,11 +91,6 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.jpg"
 Our People:
-- Name: Admilo
-  Role: Data Scientist and Lead
-  Location: Porto, Portugal
-  LinkedIn: https://www.linkedin.com/in/ribadmilo/
-  Image: "/uploads/Trig_profiles_admilo.jpg"
 - Name: Asgar
   Role: Project Manager
   Location: Jaipur, India
@@ -134,11 +136,6 @@ Our People:
   Location: New York, USA
   LinkedIn: https://www.linkedin.com/in/samuel-lewin-70711489/
   Image: "/uploads/Trig_profiles_sam.jpg\n"
-- Name: Samuel
-  Role: Backend Developer
-  Location: Lisbon, Portugal
-  LinkedIn: https://www.linkedin.com/in/amuxix/
-  Image: "/uploads/Trig_profiles_samuel.jpg"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
