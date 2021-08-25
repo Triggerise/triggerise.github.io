@@ -91,41 +91,41 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.jpg"
 Our People:
-- Name: Asgar
-  Role: Project Manager
-  Location: Jaipur, India
-  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
-  Image: "/uploads/Trig_profiles_asgar.jpg"
-- Name: Jesse
-  Role: Country Director – Kenya
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
-  Image: "/uploads/Trig_profiles_jesse.jpg"
 - Name: Lidya
   Role: Country Director – Ethiopia
   Location: Addis Ababa, Ethiopia
   LinkedIn: https://www.linkedin.com/in/lidya-mulat-82829a83/
   Image: "/uploads/IMG_0411.jpg"
-- Name: Maria
-  Role: Programme Advisor
-  Location: Yaounde, Cameroon
-  LinkedIn: https://www.linkedin.com/in/maria-g-ndzelen-ba086116/
-  Image: "/uploads/Trig_profiles_maria.jpg"
-- Name: Marylou
-  Role: Strategy Manager
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
-  Image: "/uploads/Trig_profiles_marylou.jpg"
-- Name: Nathalie-Ann
-  Role: Programme Director
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
-  Image: "/uploads/IMG_20200906_133938.jpg"
 - Name: Nelson
   Role: Chief Technology Officer
   Location: Cape Town, South Africa
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.jpg"
+- Name: Maria
+  Role: Programme Advisor
+  Location: Yaounde, Cameroon
+  LinkedIn: https://www.linkedin.com/in/maria-g-ndzelen-ba086116/
+  Image: "/uploads/Trig_profiles_maria.jpg"
+- Name: Jesse
+  Role: Country Director – Kenya
+  Location: Nairobi, Kenya
+  LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
+  Image: "/uploads/Trig_profiles_jesse.jpg"
+- Name: Asgar
+  Role: Project Manager
+  Location: Jaipur, India
+  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
+  Image: "/uploads/Trig_profiles_asgar.jpg"
+- Name: Nathalie-Ann
+  Role: Programme Director
+  Location: Nairobi, Kenya
+  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
+  Image: "/uploads/IMG_20200906_133938.jpg"
+- Name: Marylou
+  Role: Strategy Manager
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
+  Image: "/uploads/Trig_profiles_marylou.jpg"
 - Name: Roxy
   Role: Global Recruiter
   Location: Amsterdam, The Netherlands
