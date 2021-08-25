@@ -91,11 +91,6 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.jpg"
 Our People:
-- Name: Admilo
-  Role: Data Scientist and Lead
-  Location: Porto, Portugal
-  LinkedIn: https://www.linkedin.com/in/ribadmilo/
-  Image: "/uploads/Trig_profiles_admilo.jpg"
 - Name: Asgar
   Role: Project Manager
   Location: Jaipur, India
@@ -141,11 +136,6 @@ Our People:
   Location: New York, USA
   LinkedIn: https://www.linkedin.com/in/samuel-lewin-70711489/
   Image: "/uploads/Trig_profiles_sam.jpg\n"
-- Name: Samuel
-  Role: Backend Developer
-  Location: Lisbon, Portugal
-  LinkedIn: https://www.linkedin.com/in/amuxix/
-  Image: "/uploads/Trig_profiles_samuel.jpg"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
