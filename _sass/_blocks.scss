@@ -2682,6 +2682,23 @@ blockquote:after {
   }
 }
 
+// anbi link
+
+.anbi-link {
+    border: 1px solid $darkBlue;
+    margin-right: 10px;
+    padding: 8px;
+    cursor: pointer;
+    color: #1D214F;
+
+    &:hover {
+      background-color: $darkBlue;
+      color: $pink;
+    }
+}
+
+
+
 //arrows for carousel
 .fp-controlArrow {
   background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTS0xLjg5ODg4ZS0wNiAyMi41Qy0xLjM1NTk2ZS0wNiAxMC4wNzk1IDEwLjA3OTUgOS4zNjc4N2UtMDcgMjIuNSAxLjQ3OTdlLTA2QzM0LjkyMDQgMi4wMjI2MmUtMDYgNDUgMTAuMDc5NSA0NSAyMi41QzQ1IDM0LjkyMDUgMzQuOTM1NCA0NSAyMi41IDQ1QzEwLjA3OTUgNDUgLTIuNDQyNDVlLTA2IDM0LjkzNTQgLTEuODk4ODhlLTA2IDIyLjVaIiBmaWxsPSIjMkM0NDlDIi8+CjxwYXRoIGQ9Ik0yNSAxNkwxOCAyM0wyNSAzMCIgc3Ryb2tlPSIjRjlEN0RGIiBzdHJva2Utd2lkdGg9IjMiLz4KPC9zdmc+Cg==");

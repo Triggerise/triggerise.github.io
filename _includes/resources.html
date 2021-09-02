@@ -5,11 +5,15 @@
       <div class="filter" data-click="report-cover">All</div>
       <div class="filter" data-click="AnnualReport">Annual Reports</div>
       <div class="filter" data-click="FinancialReport">Financial Reports</div>
+      {% assign anbi = site.anbi-status %}
+        {% for anbi in anbi%}
+          <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" >
+            <div class="anbi-link">ANBI Status</div>
+          </a>
+        {% endfor %}
     </div>
-    
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
-
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
 
     <div class="t-rescources-wrapper flex">
