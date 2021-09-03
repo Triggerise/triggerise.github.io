@@ -214,6 +214,13 @@ Jobs:
     content? Would enjoy creating intriguing content with a focus on impact creation?
     If so, read on to find out more about the Storyteller position at Triggerise!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
+- Job Title: Strategic Growth Lead
+  Location: Global
+  Job Description: 'Are you a seasoned marketing professional driven to design and
+    implement successful global campaigns that drive brand growth? Do you feel that
+    you could increase community adaptation to our platform? Read on because this
+    role could be for you! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=154&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
