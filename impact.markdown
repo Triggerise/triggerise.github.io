@@ -6,15 +6,15 @@ Splash-Number-description: 'Our active membership community. '
 Data-descriptor: "Triggerise in real-time data\n\nWe’re driven by people and fuelled
   by data. See our live impact figures and keep track of how we’re making change for
   good in real-time. "
-Data-descriptor-image: "/uploads/impactImage.jpg"
+Data-descriptor-image: "/uploads/impactImage.webp"
 Success-stories-intro: Success stories
 Success-stories-descriptor: 'Dive deeper into some of our projects and see how our
   work is improving lives. '
 Success-stories:
 - Title: Delivering evidence-based impact in Kenya
-  Image: "/uploads/TRIGGERISE%20KIBERA%20139.jpg"
-  Body: "**Real-time data and powerful collaborations**\n![TRIGGERISE-KIBERA-139.jpg](/uploads/TRIGGERISE-KIBERA-139.jpg)\nFunded
-    by the Children’s Investment Fund Foundation (CIFF), In Their Hands (ITH) project
+  Image: "/uploads/TRIGGERISE%20KIBERA%20139.webp"
+  Body: "**Real-time data and powerful collaborations**\n![TRIGGERISE-KIBERA-139.webp](/uploads/TRIGGERISE-KIBERA-139.webp)\n
+    Funded by the Children’s Investment Fund Foundation (CIFF), In Their Hands (ITH) project
     has connected 319,228 girls to 336,931 SRH services and products across Kenya
     in 3 years. We built 145 ecosystems in 19 counties of Kenya. These ecosystems
     are made of pharmacies, retailers, on-the-ground mobilisers and clinics, jointly
@@ -41,9 +41,9 @@ Success-stories:
     Half a million teenage girls in Kenya now have easy access to contraceptives and
     sexual health services through our platform. This is how we made it happen. '
 - Title: Inspiring entrepreneurship to trigger change in India
-  Image: "/uploads/Triggerise-TikoPro.jpg"
-  Body: "**Last-mile connectivity and entrepreneurial ambitions**\n![Triggerise-TikoPro
-    (1).jpg](/uploads/Triggerise-TikoPro%20(1).jpg)\nSince 2016, around 3,500* Tiko
+  Image: "/uploads/Triggerise-TikoPro.webp"
+  Body: "**Last-mile connectivity and entrepreneurial ambitions**\n
+    ![Triggerise-TikoPro.webp](/uploads/Triggerise-TikoPro.webp)\nSince 2016, around 3,500* Tiko
     Pro mobilisers in India have played a crucial role in connecting over 85,000*
     young mothers and girls to approximately 145,000* antenatal and SRH services.
     Tiko Pro is a key feature of the Tiko platform that motivates community members

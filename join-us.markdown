@@ -2,7 +2,7 @@
 title: Join us
 date: 2020-07-09 17:30:00 Z
 Title: Join | Triggerise
-Splash-image: "/uploads/join_image.jpg"
+Splash-image: "/uploads/join_image.webp"
 Work-at-Triggerise: 
 Values:
 - Name: We are open
@@ -18,7 +18,7 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Testimonial-two:
-- Image: "/uploads/Roxy%20grey.JPG"
+- Image: "/uploads/Trig_testimonial_roxy.webp"
   Quote: '"I joined Triggerise to have the opportunity to work with global colleagues,
     and directly impact the growth of the business.  To know that my work is creating
     such a positive impact is awesome! The culture and the people here are great,

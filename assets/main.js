@@ -154,16 +154,6 @@ var myFullpage = new fullpage('#fullpage', {
   controlArrows: true
 });
 
-//ecosystem
-var map = document.querySelector('.ecosystem-map');
-function scroll() {
-  document.addEventListener('scroll', function(){
-    if(elementInViewport(map)){
-      map.classList.add('display');
-    }
-  });
-}
-
 var worldMapCheck = document.querySelector('#svgMap');
 function worldMap() {
   new svgMap({
