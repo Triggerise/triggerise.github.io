@@ -85,7 +85,7 @@ Jobs:
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Backend Java Developer
+- Job Title: Backend Java Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
     Do you want to be a part of an innovative team who use their technical skills
