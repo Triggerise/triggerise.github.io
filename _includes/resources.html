@@ -5,12 +5,10 @@
       <div class="filter" data-click="report-cover">All</div>
       <div class="filter" data-click="AnnualReport">Annual Reports</div>
       <div class="filter" data-click="FinancialReport">Financial Reports</div>
-      <div class="filter" data-click="ANBI-Status">ANBI Status</div>
     </div>
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
-    {% assign anbi = site.anbi-status %}
 
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
@@ -26,15 +24,6 @@
           </div>
         </div>
       {% endfor %}
-      <div class="anbi-cover">
-        {% for anbi in anbi %}
-          <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" ></a>
-            <h2>{{anbi.label}}</h2>
-            <h3>{{anbi.title}}</h3>
-              <div class="anbi-image">
-                <svg class="three" width="197" height="207" viewBox="0 0 197 207" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 108.5C6 159.562 47.438 201 98.5 201s92.5-41.438 92.5-92.5M191 98.5C191 47.438 149.562 6 98.5 6S6 47.438 6 98.5" stroke="#742F8D" stroke-width="12"/><path d="M44 103.5c0 30.085 24.415 54.5 54.5 54.5s54.5-24.415 54.5-54.5S128.621 49 98.5 49C68.415 49 44 73.379 44 103.5z" fill="#FDDE5A"/></svg>
-              </div>
-        {% endfor %}
       </div>
     </div>
   </div>

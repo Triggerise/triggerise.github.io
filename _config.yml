@@ -8,9 +8,6 @@ collections:
   financial-reports:
     title: Financial Reports
     output: true
-  anbi-status:
-    title: ANBI Status
-    output: true
   posts:
     title: Posts
     output: true
@@ -41,10 +38,4 @@ defaults:
   values:
     label: Financial Report
     filter: FinancialReport
-- scope:
-    path: ''
-    type: anbi-status
-  values:
-    label: ANBI Status
-    filter: ANBIStatus
 permalink: pretty

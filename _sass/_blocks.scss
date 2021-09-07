@@ -1879,50 +1879,11 @@ blockquote:after {
 
     
   }
-  .report-image, .anbi-image {
+  .report-image, {
     width: 100px;
     height: auto;
     align-items: center
   }
-
-  //ANBI Cover
-  .anbi-cover {
-    width: 100%;
-    background-color: $blue;
-    margin-right: 1%;
-    box-sizing: border-box;
-    padding: 10px;
-    min-height: 400px;
-    padding-bottom: 10px;
-    position: relative;
-    margin-bottom: 20px;
-    transition: transform 0.2s ease-in-out;
-
-    &.display {
-      display: block !important;
-    }
-
-    &:hover {
-      transform: scale(1.02);
-    }
-
-    a {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      z-index: 100;
-    }
-
-    h2, h3 {
-      color: $darkBlue;
-    }
-    @include mq($from: desktop) {
-      width: 24%;
-    }
-  }
-}
 
 
 
@@ -2721,22 +2682,6 @@ blockquote:after {
     }
   }
 }
-
-// anbi link
-
-.anbi-link {
-    border: 1px solid $darkBlue;
-    margin-right: 10px;
-    padding: 8px;
-    cursor: pointer;
-    color: #1D214F;
-
-    &:hover {
-      background-color: $darkBlue;
-      color: $pink;
-    }
-}
-
 
 
 //arrows for carousel
