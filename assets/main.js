@@ -237,6 +237,9 @@ function hideReports(reports) {
     item.style.display = "none";
   });
 }
+
+
+
 function filters(){
   var allReports = Array.from(document.querySelectorAll('.report-cover'))
   hideReports(allReports);
@@ -250,7 +253,7 @@ function filters(){
       console.log(selected);
       selected.forEach(s => {
         s.classList.add('display')
-      })  
+      }) 
     });
   });
 }
