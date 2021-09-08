@@ -16,7 +16,7 @@
 }
 
 .fp-slidesNav ul li a span {
-  background-color: #fff;
+  background-color: $white;
 }
 
 .section {
@@ -220,7 +220,7 @@
 
   h1 {
     white-space: nowrap;
-    color: #fff;
+    color: $white;
     opacity: 0;
     animation-name: dotFade;
     animation-delay: 1s;
@@ -231,7 +231,7 @@
       width: 25px;
       height: 25px;
       border-radius: 50%;
-      background-color: #fff;
+      background-color: $white;
       display: none;
       margin-top: -20px;
       margin-right: 10px;
@@ -248,7 +248,7 @@
 
     &:nth-child(1) {
       .dot {
-        background-color: #fff;
+        background-color: $white;
       }
     }
     &:nth-child(3) {
@@ -257,7 +257,7 @@
       animation-duration: 1s;
       animation-fill-mode: forwards;
       .dot {
-        background-color: #fff;
+        background-color: $white;
         animation-delay: 2s;
       }
     }
@@ -265,7 +265,7 @@
 
   .line {
     height: 16px;
-    background-color: #fff;
+    background-color: $white;
     width: 0;
     margin-right: 10px;
     margin-top: 0px;
@@ -701,7 +701,7 @@
       }
 
       &:nth-child(4) {
-        color: #fff;
+        color: $white;
 
         &:before {
           background-color: $blue;
@@ -795,7 +795,7 @@
 
 // Active Policy Link
 a.active-policy.policy-link {
-  color: #1D214F;
+  color: $darkBlue;
 }
 
 //Policy plan
@@ -1115,7 +1115,7 @@ a.active-policy.policy-link {
 
   .nameSplit {
     margin-bottom: spacing(1.5);
-    color: #fff;
+    color: $white;
   }
 }
 
@@ -1130,7 +1130,7 @@ a.active-policy.policy-link {
 
 blockquote {
   border:none;
-  color:  #1D214F;
+  color:  $darkBlue;
   quotes: "\201C""\201D""\2018""\2019";
   }
 
@@ -1181,7 +1181,7 @@ blockquote:before {
   content: open-quote;
   font-weight: bold;
   font-size: 45px;
-  color:  #1D214F;
+  color:  $darkBlue;
   position: absolute; 
   display: block;
   left: 30px;
@@ -1247,7 +1247,7 @@ blockquote:before {
 
 blockquote {
   border:none;
-  color:  #1D214F;
+  color:  $darkBlue;
   quotes: "\201C""\201D""\2018""\2019";
   }
 
@@ -1302,7 +1302,7 @@ blockquote:before {
   content: open-quote;
   font-weight: bold;
   font-size: 45px;
-  color:  #1D214F;
+  color:  $darkBlue;
   position: absolute; 
   display: block;
   left: 30px;
@@ -1362,7 +1362,7 @@ blockquote:after {
   display: block;
   font-weight: bold;
   font-size: 45px;
-  color:  #1D214F;
+  color:  $darkBlue;
   position: relative;
 
     @include mq(360px) {
@@ -2135,7 +2135,7 @@ blockquote:after {
   padding-bottom: 18px;
   position: sticky;
   top: 70px;
-  background-color: #fff;
+  background-color: $white;
   border-bottom: 1px solid $darkBlue;
   z-index: 100;
 
@@ -2252,7 +2252,7 @@ blockquote:after {
   margin-top: spacing(4);
 
   .t-journal {
-    background-color: #fff;
+    background-color: $white;
     padding: 10px;
     width: calc(100% - 20px);
     margin-right: 1%;
@@ -2397,8 +2397,8 @@ blockquote:after {
 }
 
 .flip-card-front {
-  background-color: #fff;
-  color: #1D214F;
+  background-color: $white;
+  color: $darkBlue;
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
@@ -2406,8 +2406,8 @@ blockquote:after {
 
 .flip-card-back {
   padding-top: 10px;
-  background-color: #fff;
-  color: #1D214F;
+  background-color: $white;
+  color: $darkBlue;
   padding-left: 10px;
   padding-right: 10px;
   text-align: left;
@@ -2493,7 +2493,7 @@ blockquote:after {
   transform: rotateY(180deg);
 }
 
-// Positions the front and back side 
+// Positions the front and back side
 .flip-card-front, .flip-card-back {
   position: absolute;
   width: 100%;
@@ -2503,8 +2503,8 @@ blockquote:after {
 }
 
 .flip-card-front {
-  background-color: #fff;
-  color: #1D214F;
+  background-color: $white;
+  color: $darkBlue;
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
@@ -2512,8 +2512,8 @@ blockquote:after {
 
 .flip-card-back {
   padding-top: 10px;
-  background-color: #fff;
-  color: #1D214F;
+  background-color: $white;
+  color: $darkBlue;
   padding-left: 10px;
   padding-right: 10px;
   text-align: left;
@@ -2703,8 +2703,7 @@ blockquote:after {
 }
 
 .cookies-banner {
-  background-color: $blue;
-  background-color: #1D214F;
+  background-color: $darkBlue;
   padding-top: 16px;
   padding-bottom: 16px;
   position: fixed;
@@ -2742,7 +2741,7 @@ blockquote:after {
   }
 
   p {
-    color: #ffffff;
+    color: $white;
   }
 
   a {
