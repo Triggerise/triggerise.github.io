@@ -6,16 +6,14 @@
       <div class="filter" data-click="AnnualReport">Annual Reports</div>
       <div class="filter" data-click="FinancialReport">Financial Reports</div>
     </div>
-    
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
-
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
 
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
         <div class="report-cover {{report.filter}}">
-          <a href="{{report.file}}" target="_blank" rel="noopener noreferrer" ></a>
+          <a href="{{report.file}}" aria-label="pdf-report" target="_blank" rel="noopener noreferrer" ></a>
           <h2>{{report.label}}</h2>
           <h3>{{report.title}}</h3>
           <div class="report-image">
@@ -26,6 +24,7 @@
           </div>
         </div>
       {% endfor %}
+      </div>
     </div>
   </div>
 </div>
