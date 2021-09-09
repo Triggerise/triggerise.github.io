@@ -78,7 +78,7 @@ Jobs:
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? If so, Triggerise could be the place for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
-- Job Title: Front end / Web Engineer
+- Job Title: Frontend / Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
     have experience within the front end space, developing and enhancing websites
@@ -189,7 +189,7 @@ Jobs:
   Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
 
 '
-- Job Title: Front End Engineering Team Lead
+- Job Title: Frontend Engineering Team Lead
   Location: Porto, Portugal
   Job Description: Are you a problem-solver with a background in software development
     and a particular focus on Front End Engineering? Do you want to be a part of an
