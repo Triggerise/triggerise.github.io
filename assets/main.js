@@ -230,6 +230,13 @@ function classLists() {
 }
 
 
+
+function showAnbi() {
+document.getElementById("anbi-cover").style.display = "block";
+}
+
+
+
 var filtersCheck = document.querySelectorAll('.filter');
 function hideReports(reports) {
   reports.forEach((item, i) => {
@@ -237,8 +244,6 @@ function hideReports(reports) {
     item.style.display = "none";
   });
 }
-
-
 
 function filters(){
   var allReports = Array.from(document.querySelectorAll('.report-cover'))
