@@ -52,12 +52,6 @@ Jobs:
     your tech skills & knowledge.  Read on to find out more about our Backend Engineer
     position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
-- Job Title: Data Engineer
-  Location: Porto, Portugal
-  Job Description: Do you have an affinity for Data?  Are you able to use tools to
-    interpret and analyze data?  Sounds like you could be our next data engineer,
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
@@ -190,7 +184,7 @@ Jobs:
 
 '
 - Job Title: Frontend Engineering Team Lead
-  Location: Porto, Portugal
+  Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
     and a particular focus on Front End Engineering? Do you want to be a part of an
     innovative team who use their technical skills to make a positive impact? Then
