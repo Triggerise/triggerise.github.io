@@ -1907,9 +1907,8 @@ blockquote:after {
 // anbi report
 
 .anbi-cover {
-    display: none;
     width: 100%;
-    background-color: #FDDE5A;
+    background-color: $pink;
     margin-right: 1%;
     box-sizing: border-box;
     padding: 10px;

@@ -229,13 +229,9 @@ function classLists() {
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
 
-
-
 function showAnbi() {
-document.getElementById("anbi-cover").style.display = "block";
+  document.getElementById("anbi-cover");
 }
-
-
 
 var filtersCheck = document.querySelectorAll('.filter');
 function hideReports(reports) {
