@@ -205,7 +205,7 @@ Jobs:
 - Job Title: Storyteller
   Location: Global
   Job Description: Are you able to creatively tell a brand’s story through written
-    content? Would enjoy creating intriguing content with a focus on impact creation?
+    content? Would you enjoy creating intriguing content with a focus on impact creation?
     If so, read on to find out more about the Storyteller position at Triggerise!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
 - Job Title: Strategic Growth Lead
