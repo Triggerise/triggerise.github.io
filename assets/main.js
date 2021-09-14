@@ -230,8 +230,9 @@ function classLists() {
 }
 
 function showAnbi() {
-  document.getElementById("anbi-cover");
-}
+  var anbi = document.getElementById("anbi-cover");
+  anbi.classList.remove('hidden');
+  }
 
 var filtersCheck = document.querySelectorAll('.filter');
 function hideReports(reports) {

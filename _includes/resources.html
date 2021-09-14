@@ -10,8 +10,6 @@
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
-    {% assign anbi = site.anbi-status %}
-
 
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
@@ -28,8 +26,9 @@
         </div>
       {% endfor %}
     </div>
+    {% assign anbi = site.anbi-status %}
     {% for anbi in anbi%}
-      <div class="anbi-cover">
+      <div id="anbi-cover" class="hidden">
         <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" >
           <h2>{{anbi.label}}</h2>
           <h3>{{anbi.title}}</h3>
