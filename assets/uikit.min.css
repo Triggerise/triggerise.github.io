@@ -1,10 +1,6 @@
 /* ========================================================================
 Component: Grid
  ========================================================================== */
-/*
- * 1. Allow cells to wrap into the next line
- * 2. Reset list
- */
 .uk-grid {
   display: flex;
   /* 1 */
@@ -14,11 +10,6 @@ Component: Grid
   padding: 0;
   list-style: none;
 }
-/*
- * Grid cell
- * Note: Space is allocated solely based on content dimensions, but shrinks: 0 1 auto
- * Reset margin for e.g. paragraphs
- */
 .uk-grid > * {
   margin: 0;
 }
@@ -52,7 +43,6 @@ Component: Grid
   }
 
 }
-
 /*
  * Collapse
  */
@@ -68,12 +58,6 @@ Component: Grid
 
 /* Match child of a grid cell
  ========================================================================== */
-/*
- * Behave like a block element
- * 1. Wrap into the next line
- * 2. Take the full width, at least 100%. Only if no class from the Width component is set.
- * 3. Expand width even if larger than 100%, e.g. because of negative margin (Needed for nested grids)
- */
 .uk-grid-match > *,
 .uk-grid-item-match {
   display: flex;
@@ -125,8 +109,6 @@ Component: Leader
 :root {
   --uk-leader-fill-content: .;
 }
-
-
 /* ========================================================================
 Component: Width
  ========================================================================== */
@@ -136,14 +118,6 @@ Component: Width
   box-sizing: border-box;
   width: 100%;
 }
-
-/*
- * 1. Reset the `min-width`, which is set to auto by default, because
- *    flex items won't shrink below their minimum intrinsic content size.
- *    Using `1px` instead of `0`, so items still wrap into the next line,
- *    if they have zero width and padding and the predecessor is 100% wide.
- */
-
 /* Phone landscape and bigger */
 @media (min-width: 640px) {
   .uk-child-width-1-2\@s > * {
@@ -154,19 +128,9 @@ Component: Width
 /* ========================================================================
 Component: Cover
  ========================================================================== */
-/*
- * Works with iframes and embedded content
- * 1. Reset responsiveness for embedded content
- * 2. Center object
- * Note: Percent values on the `top` property only works if this element
- *       is absolute positioned or if the container has a height
- */
 /* Container
  ========================================================================== */
-/*
- * 1. Parent container which clips resized object
- * 2. Needed if the child is positioned absolute. See note above
- */
+
 .uk-cover-container {
   /* 1 */
   overflow: hidden;
@@ -177,13 +141,6 @@ Component: Cover
 /* ========================================================================
 Component: Flex
  ========================================================================== */
-
-/* Item ordering
- ========================================================================== */
-/*
- * Default is 0
- */
-
 /* Phone landscape and bigger */
 @media (min-width: 640px) {
   .uk-flex-last\@s {
@@ -194,17 +151,12 @@ Component: Flex
 /* ========================================================================
 Component: Margin
  ========================================================================== */
-/*
- * Default
- */
 .uk-margin {
   margin-bottom: 20px;
 }
 * + .uk-margin {
   margin-top: 20px !important;
 }
-/* Remove
- ========================================================================== */
 .uk-margin-remove {
   margin: 0 !important;
 }
