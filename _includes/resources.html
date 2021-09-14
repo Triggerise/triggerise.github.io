@@ -5,12 +5,11 @@
       <div class="filter" data-click="report-cover">All</div>
       <div class="filter" data-click="AnnualReport">Annual Reports</div>
       <div class="filter" data-click="FinancialReport">Financial Reports</div>
-      <div class="filter" onclick="showAnbi()">ANBI Status</div>
+      <div class="filter" data-click="ANBIStatus">ANBI Status</div>
     </div>
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
-
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
         <div class="report-cover {{report.filter}}">
@@ -25,18 +24,14 @@
           </div>
         </div>
       {% endfor %}
+      {% assign anbis = site.anbi-status %}
+      {% for anbi in anbis%}
+        <div class="report-cover anbi-cover {{anbi.filter}} ">
+          <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" ></a>
+            <h2>{{anbi.label}}</h2>
+            <h3>{{anbi.title}}</h3>
+        </div>
+      {% endfor %}
     </div>
-    {% assign anbi = site.anbi-status %}
-    {% for anbi in anbi%}
-      <div id="anbi-cover" class="hidden">
-        <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" >
-          <h2>{{anbi.label}}</h2>
-          <h3>{{anbi.title}}</h3>
-          <div class="report-image">
-            <svg class="two" width="298" height="185" viewBox="0 0 298 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M92.5 185C41.438 185 0 143.562 0 92.5h185c0 51.062-41.438 92.5-92.5 92.5z" fill="#2C449C"/><path d="M205.5 0C256.562 0 298 41.438 298 92.5H113C113 41.438 154.438 0 205.5 0z" fill="#742F8D"/></svg>
-          </div>
-        </a>
-      </div>
-    {% endfor %}
   </div>
 </div>

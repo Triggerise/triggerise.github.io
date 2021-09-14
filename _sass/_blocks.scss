@@ -1828,7 +1828,7 @@ blockquote:after {
       }
     }
 
-    &:nth-child(8n+8) {
+    &:nth-child(8n + 8) {
       background-color: $green;
 
       .four {
@@ -1842,7 +1842,7 @@ blockquote:after {
         color: $darkBlue;
       }
     }
-
+    
     @include mq($from: desktop) {
       width: 24%;
     }
@@ -1903,72 +1903,6 @@ blockquote:after {
     }
   }
 }
-
-// anbi report
-
-#anbi-cover {
-    width: 100%;
-    background-color: $pink;
-    margin-right: 1%;
-    box-sizing: border-box;
-    padding: 10px;
-    min-height: 400px;
-    padding-bottom: 10px;
-    position: relative;
-    margin-bottom: 20px;
-
-    @include mq($from: desktop) {
-      width: 24%;
-    }
-
-    transition: transform 0.2s ease-in-out;
-
-    &:hover {
-      transform: scale(1.02);
-    }
-
-    h2, h3 {
-      color: $darkBlue;
-    }
-
-    svg {
-      position: absolute;
-      bottom: spacing(2);
-      width: 70%;
-      height: auto;
-    }
-
-    img {
-      position: absolute;
-      bottom: spacing(2);
-      width: 90%;
-      height: auto;
-    }
-
-    h2, h3 {
-      margin-bottom: 0;
-      font-size: map-get($font-scale, 2);
-      line-height: 1;
-    }
-
-    h3 {
-      margin-bottom: spacing(2);
-      font-weight: 200;
-      margin-top: spacing(2);
-    }
-
-    .report-image {
-      width: 100px;
-      height: auto;
-      align-items: center;
-    }
-
-    a {
-      text-decoration: none;
-    }
-
-}
-
 
 
 @keyframes impact{
