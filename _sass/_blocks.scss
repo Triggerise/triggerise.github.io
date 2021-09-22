@@ -1,2751 +1,2438 @@
 .header-home {
-  height: 77px;
-  width: 100%;
+    height: 77px;
+    width: 100%;
 }
 
 .padd {
-  padding-top: 77px;
+    padding-top: 77px;
 }
 
 #fullpage {
-  padding-top: 77px;
+    padding-top: 77px;
 }
 
 .fp-slidesNav.fp-bottom {
-  width: max-content;
+    width: max-content;
 }
 
 .fp-slidesNav ul li a span {
-  background-color: $white;
+    background-color: $white;
 }
 
 .section {
-  max-height: 410px !important;
-
-  @include mq($from: desktop) {
-    max-height: 690px !important;
-  }
+    max-height: 410px !important;
+    @include mq($from: desktop) {
+        max-height: 690px !important;
+    }
 }
 
 .section:not(.carousel) {
-  height: auto !important;
-  display: contents;
+    height: auto !important;
+    display: contents;
 }
 
 .fp-tableCell {
-  height: auto !important;
+    height: auto !important;
 }
 
 .inner-wrapper {
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-
-  @include mq($from: desktop) {
-    width: calc(980px / 2);
-  }
-
-  @include mq($from: wide) {
-    width: calc(1300px / 2);
-  }
-
-  .left & {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
     @include mq($from: desktop) {
-      margin-left: auto;
-      margin-right: 0;
-      padding-right: spacing(2);
-      box-sizing: border-box;
+        width: calc(980px / 2);
     }
-  }
-
-  .right & {
-    @include mq($from: desktop) {
-      margin-right: auto;
-      margin-left: 0;
-      padding-left: spacing(3);
-      padding-top: spacing(2);
-      box-sizing: border-box;
+    @include mq($from: wide) {
+        width: calc(1300px / 2);
     }
-  }
-
-  &.values {
-    padding-top: spacing(2);
-    padding-left: spacing(3);
-  }
+    .left & {
+        @include mq($from: desktop) {
+            margin-left: auto;
+            margin-right: 0;
+            padding-right: spacing(2);
+            box-sizing: border-box;
+        }
+    }
+    .right & {
+        @include mq($from: desktop) {
+            margin-right: auto;
+            margin-left: 0;
+            padding-left: spacing(3);
+            padding-top: spacing(2);
+            box-sizing: border-box;
+        }
+    }
+    &.values {
+        padding-top: spacing(2);
+        padding-left: spacing(3);
+    }
 }
 
 .flex {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-
-  &.reverse {
-    flex-direction: column-reverse;
-
-    @include mq($from: desktop) {
-      flex-direction: row-reverse;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    &.reverse {
+        flex-direction: column-reverse;
+        @include mq($from: desktop) {
+            flex-direction: row-reverse;
+        }
     }
-  }
-
-  @include mq($from: desktop) {
-    flex-direction: row;
-  }
+    @include mq($from: desktop) {
+        flex-direction: row;
+    }
 }
 
 .t-three-top {
-  width: 100%;
-  min-height: 40vh;
-  padding-bottom: 20px;
-
-  .t-half {
-    min-height: auto;
-
-    @include mq($from: desktop) {
-      min-height: inherit;
+    width: 100%;
+    min-height: 40vh;
+    padding-bottom: 20px;
+    .t-half {
+        min-height: auto;
+        @include mq($from: desktop) {
+            min-height: inherit;
+        }
     }
-  }
 }
 
-.t-three-left, .t-three-right  {
-  width: 100%;
-  position: relative;
-
-  @include mq($from: desktop) {
-    width: 50%;
-  }
+.t-three-left,
+.t-three-right {
+    width: 100%;
+    position: relative;
+    @include mq($from: desktop) {
+        width: 50%;
+    }
 }
 
 .t-three-title {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .t-three-sub-title {
-  margin-top: spacing(2);
-
-  @include mq($from: desktop) {
-    margin-top: spacing(5);
-  }
+    margin-top: spacing(2);
+    @include mq($from: desktop) {
+        margin-top: spacing(5);
+    }
 }
 
-.t-three-sub, .t-three-number {
-  @include mq($from: desktop) {
-    margin-left: spacing(7);
-  }
+.t-three-sub,
+.t-three-number {
+    @include mq($from: desktop) {
+        margin-left: spacing(7);
+    }
 }
 
 .t-one.lightBlue.image.left {
-  padding-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 .t-one.green.image.values.left {
-  padding-bottom: 10px;
-  min-height: 230px;
+    padding-bottom: 10px;
+    min-height: 230px;
 }
 
 .t-two {
-  width: 100%;
-  min-height: auto;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  position: relative;
-
-  @include mq($from: desktop) {
-    width: 50%;
-    min-height: 40vh;
-  }
-
-  &.left {
-    z-index: 100;
-
+    width: 100%;
+    min-height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
     @include mq($from: desktop) {
-      .dot-wrapper {
-        &:nth-child(1) {
-          width: 140%;
-        }
-        &:nth-child(2) {
-          width: 110%;
-        }
-        &:nth-child(3) {
-          width: 80%;
-        }
-        &:nth-child(4) {
-          width: 111%;
-        }
-        &:nth-child(6) {
-          width: 70%;
-        }
-        &:nth-child(7) {
-          width: 130%;
-        }
-      }
+        width: 50%;
+        min-height: 40vh;
     }
-  }
+    &.left {
+        z-index: 100;
+        @include mq($from: desktop) {
+            .dot-wrapper {
+                &:nth-child(1) {
+                    width: 140%;
+                }
+                &:nth-child(2) {
+                    width: 110%;
+                }
+                &:nth-child(3) {
+                    width: 80%;
+                }
+                &:nth-child(4) {
+                    width: 111%;
+                }
+                &:nth-child(6) {
+                    width: 70%;
+                }
+                &:nth-child(7) {
+                    width: 130%;
+                }
+            }
+        }
+    }
 }
 
 @keyframes dotFade {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 @keyframes lineWidth {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 100%;
-  }
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
 }
 
 .t-two-title-float {
-  position: absolute;
-  width: 100%;
-  z-index: 100;
-  top: 32%;
-  transform: translateY(-50%);
-  text-align: center;
-
-  @include mq($from: desktop) {
-    text-align: left;
-    top: 50%;
-  }
-
-  .flex {
-    justify-content: space-between;
-    flex-wrap: nowrap;
-  }
-
-  h1 {
-    white-space: nowrap;
-    color: $white;
-    opacity: 0;
-    animation-name: dotFade;
-    animation-delay: 1s;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-
-    .dot {
-      width: 25px;
-      height: 25px;
-      border-radius: 50%;
-      background-color: $white;
-      display: none;
-      margin-top: -20px;
-      margin-right: 10px;
-      transform: translateY(-15px);
-      opacity: 0;
-      animation-name: dotFade;
-      animation-duration: 1s;
-      animation-fill-mode: forwards;
-
-      @include mq($from: desktop) {
-        display: inline-block;
-      }
-    }
-
-    &:nth-child(1) {
-      .dot {
-        background-color: $white;
-      }
-    }
-    &:nth-child(3) {
-      animation-name: dotFade;
-      animation-delay: 1.5s;
-      animation-duration: 1s;
-      animation-fill-mode: forwards;
-      .dot {
-        background-color: $white;
-        animation-delay: 2s;
-      }
-    }
-  }
-
-  .line {
-    height: 16px;
-    background-color: $white;
-    width: 0;
-    margin-right: 10px;
-    margin-top: 0px;
-    animation-name: lineWidth;
-    animation-fill-mode: forwards;
-    animation-duration: 4s;
-    animation-delay: 1s;
-    margin-bottom: 8px;
-
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    top: 32%;
+    transform: translateY(-50%);
+    text-align: center;
     @include mq($from: desktop) {
-      margin-top: 29px;
-      margin-bottom: 0;
+        text-align: left;
+        top: 50%;
     }
-    @include mq($from: wide) {
-      margin-top: 47px;
-      margin-bottom: 0;
+    .flex {
+        justify-content: space-between;
+        flex-wrap: nowrap;
     }
-  }
+    h1 {
+        white-space: nowrap;
+        color: $white;
+        opacity: 0;
+        animation-name: dotFade;
+        animation-delay: 1s;
+        animation-duration: 1s;
+        animation-fill-mode: forwards;
+        .dot {
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            background-color: $white;
+            display: none;
+            margin-top: -20px;
+            margin-right: 10px;
+            transform: translateY(-15px);
+            opacity: 0;
+            animation-name: dotFade;
+            animation-duration: 1s;
+            animation-fill-mode: forwards;
+            @include mq($from: desktop) {
+                display: inline-block;
+            }
+        }
+        &:nth-child(1) {
+            .dot {
+                background-color: $white;
+            }
+        }
+        &:nth-child(3) {
+            animation-name: dotFade;
+            animation-delay: 1.5s;
+            animation-duration: 1s;
+            animation-fill-mode: forwards;
+            .dot {
+                background-color: $white;
+                animation-delay: 2s;
+            }
+        }
+    }
+    .line {
+        height: 16px;
+        background-color: $white;
+        width: 0;
+        margin-right: 10px;
+        margin-top: 0px;
+        animation-name: lineWidth;
+        animation-fill-mode: forwards;
+        animation-duration: 4s;
+        animation-delay: 1s;
+        margin-bottom: 8px;
+        @include mq($from: desktop) {
+            margin-top: 29px;
+            margin-bottom: 0;
+        }
+        @include mq($from: wide) {
+            margin-top: 47px;
+            margin-bottom: 0;
+        }
+    }
 }
 
 .t-one {
-  width: 100%;
-  min-height: auto;
-  padding-bottom: 10px;
-  height: auto;
-
-  @include mq($from: desktop) {
-    min-height: 310px;
-    height: 40vh;
-  }
-
-  &.team {
-    padding-bottom: 0;
-  }
-
-  &.carousel {
-    height: 700px;
-    min-height: 100%;
-  }
-
-  .section-title {
-    padding-top: spacing(2);
-    font-weight: 700;
-  }
-
-  .section-title-center {
-    padding-top: spacing(1);
-  }
-
-  .t-body {
-    margin-top: spacing(2);
-    @include mq($from: desktop) {
-      margin-top: spacing(4);
-      margin-left: spacing(4);
-    }
-  }
-
-  &.impact {
-
-    h2 {
-      padding-top: spacing(2);
-    }
-
-    p {
-      line-height: 1.2;
-      font-size: map-get($font-scale, 1);
-
-      @include mq($from: desktop) {
-        font-size: map-get($font-scale, 2);
-      }
-    }
-  }
-
-  &.flexWrapper {
-    padding-bottom: spacing(2);
-
-    @include mq($from: 980px) {
-      margin-bottom: 45px;
-      max-height: 310px;
-    }
-    
-    .wrapper {
-      display: flex;
-      justify-content: space-between;
-      flex-direction: column;
-
-      @include mq($from: desktop) {
-        flex-direction: row;
-      }
-
-     
-
-      h3 {
-        padding-top: 35px;
-        width: 100%;
-        font-size: map-get($font-scale, 4);
-        line-height: 1;
-        font-weight: 400;
-
-        @include mq($from: desktop) {
-          width: 50%;
-          font-size: map-get($font-scale, 5);
-        }
-
-        @include mq($from: wide) {
-          font-size: map-get($font-scale, 10);
-        }
-      }
-
-      .t-one__description-wrapper {
-        width: 100%;
-        padding-right: 8%;
-        box-sizing: border-box;
-        padding-top: spacing(4);
-
-        @include mq($from: desktop) {
-          width: 50%;
-        }
-
-        h3 {
-          font-size: map-get($font-scale, 1);
-          line-height: 1.2;
-          width: 100%;
-          margin-top: spacing(-2);
-
-          @include mq($from: desktop) {
-            font-size: map-get($font-scale, bigpar);
-          }
-
-          @include mq($from: wide) {
-            font-size: map-get($font-scale, 2);
-          }
-        }
-
-        p {
-          font-size: map-get($font-scale, 0.7);
-          line-height: 1.2;
-
-          @include mq($from: desktop) {
-            font-size: map-get($font-scale, 1);
-          }
-
-          @include mq($from: wide) {
-            font-size: map-get($font-scale, 1.2);
-          }
-        }
-      }
-    }
-  }
-
-  &.team {
+    width: 100%;
+    min-height: auto;
+    padding-bottom: 10px;
     height: auto;
-
     @include mq($from: desktop) {
-      height: 68vh;
+        min-height: 310px;
+        height: 40vh;
     }
-  }
-
-  &.impact.cream {
-    @include mq($until: tablet) {
-      padding-bottom: 10px;
-
-      h2 {
-        margin-left: auto;
-        margin-right: auto;
-      }
+    &.team {
+        padding-bottom: 0;
     }
-  }
-
-  &.image {
-    padding-bottom: 0;
-
-    @include mq($from: desktop) {
-      max-height: 40vh;
-      overflow: hidden;
+    &.carousel {
+        height: 700px;
+        min-height: 100%;
     }
-
-    img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
+    .section-title {
+        padding-top: spacing(2);
+        font-weight: 700;
     }
-
-    &.whatWeDoImage {
-      img {
-        object-position: top;
-      }
+    .section-title-center {
+        padding-top: spacing(1);
     }
-  }
+    .t-body {
+        margin-top: spacing(2);
+        @include mq($from: desktop) {
+            margin-top: spacing(4);
+            margin-left: spacing(4);
+        }
+    }
+    &.impact {
+        h2 {
+            padding-top: spacing(2);
+        }
+        p {
+            line-height: 1.2;
+            font-size: map-get($font-scale, 1);
+            @include mq($from: desktop) {
+                font-size: map-get($font-scale, 2);
+            }
+        }
+    }
+    &.flexWrapper {
+        padding-bottom: spacing(2);
+        @include mq($from: 980px) {
+            margin-bottom: 45px;
+            max-height: 310px;
+        }
+        .wrapper {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            @include mq($from: desktop) {
+                flex-direction: row;
+            }
+            h3 {
+                padding-top: 35px;
+                width: 100%;
+                font-size: map-get($font-scale, 4);
+                line-height: 1;
+                font-weight: 400;
+                @include mq($from: desktop) {
+                    width: 50%;
+                    font-size: map-get($font-scale, 5);
+                }
+                @include mq($from: wide) {
+                    font-size: map-get($font-scale, 10);
+                }
+            }
+            .t-one__description-wrapper {
+                width: 100%;
+                padding-right: 8%;
+                box-sizing: border-box;
+                padding-top: spacing(4);
+                @include mq($from: desktop) {
+                    width: 50%;
+                }
+                h3 {
+                    font-size: map-get($font-scale, 1);
+                    line-height: 1.2;
+                    width: 100%;
+                    margin-top: spacing(-2);
+                    @include mq($from: desktop) {
+                        font-size: map-get($font-scale, bigpar);
+                    }
+                    @include mq($from: wide) {
+                        font-size: map-get($font-scale, 2);
+                    }
+                }
+                p {
+                    font-size: map-get($font-scale, 0.7);
+                    line-height: 1.2;
+                    @include mq($from: desktop) {
+                        font-size: map-get($font-scale, 1);
+                    }
+                    @include mq($from: wide) {
+                        font-size: map-get($font-scale, 1.2);
+                    }
+                }
+            }
+        }
+    }
+    &.team {
+        height: auto;
+        @include mq($from: desktop) {
+            height: 68vh;
+        }
+    }
+    &.impact.cream {
+        @include mq($until: tablet) {
+            padding-bottom: 10px;
+            h2 {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+    }
+    &.image {
+        padding-bottom: 0;
+        @include mq($from: desktop) {
+            max-height: 40vh;
+            overflow: hidden;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+        &.whatWeDoImage {
+            img {
+                object-position: top;
+            }
+        }
+    }
 }
 
 .t-half {
-  width: 100%;
-  position: relative;
-  min-height: 50vh;
-
-  @include mq($from: desktop) {
-    width: 50%;
-    min-height: inherit;
-  }
-
-  h1 {
-    z-index: 10;
+    width: 100%;
     position: relative;
-  }
-
-  &.image {
-    img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      object-fit: cover;
-      width: 100%;
-      height: 100%;
-      z-index: 0;
-    }
-  }
-
-  &.testimonial {
-    @include mq($until: tablet){
-      min-height: auto;
-    }
-
-    .name {
-      margin-top: spacing(1);
-    }
-  }
-
-  h3 {
+    min-height: 50vh;
     @include mq($from: desktop) {
-      margin-top: spacing(4);
-      margin-bottom: spacing(0);
+        width: 50%;
+        min-height: inherit;
     }
-  }
+    h1 {
+        z-index: 10;
+        position: relative;
+    }
+    &.image {
+        img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+    }
+    &.testimonial {
+        @include mq($until: tablet) {
+            min-height: auto;
+        }
+        .name {
+            margin-top: spacing(1);
+        }
+    }
+    h3 {
+        @include mq($from: desktop) {
+            margin-top: spacing(4);
+            margin-bottom: spacing(0);
+        }
+    }
 }
 
 .centerTitle {
-  .t-half {
-    &:nth-child(1){
+    .t-half {
+        &:nth-child(1) {
+            h1 {}
+        }
         h1 {
-
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: max-content;
         }
     }
-    h1 {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: max-content;
-    }
-  }
-
 }
 
 .full {
-  position: relative;
-  min-height: 60vh;
-
-  @include mq($from: desktop) {
-  min-height: 90vh;
-  }
-
-  .t_one_layout {
-
-    font-size: 35px;
-  }
-
-  .t-one__diagram-wrapper {
-    display: none;
+    position: relative;
+    min-height: 60vh;
     @include mq($from: desktop) {
-      position: absolute;
-      top: 40%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      width: 100%;
-      max-width: calc(980px - 30px);
-      display:block;
+        min-height: 90vh;
     }
-
-    @include mq($from: wide) {
-      width: 100%;
-      max-width: calc(1300px - 30px);
+    .t_one_layout {
+        font-size: 35px;
     }
-  }
-
-
-
-
-  .t-one__title_wrapper {
-    padding-top: calc(10px * 10);
-    @include mq($from: desktop) {
-      padding-top: calc(10px * 15);
+    .t-one__diagram-wrapper {
+        display: none;
+        @include mq($from: desktop) {
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100%;
+            max-width: calc(980px - 30px);
+            display: block;
+        }
+        @include mq($from: wide) {
+            width: 100%;
+            max-width: calc(1300px - 30px);
+        }
     }
-
-    @include mq($from: wide) {
-       padding-top: calc(10px * 15);
+    .t-one__title_wrapper {
+        padding-top: calc(10px * 10);
+        @include mq($from: desktop) {
+            padding-top: calc(10px * 15);
+        }
+        @include mq($from: wide) {
+            padding-top: calc(10px * 15);
+        }
     }
-  }
-
-
-
-
-  .t-one__description-wrapper {
-    @include mq($from: desktop) {
-      position: absolute;
-      bottom: spacing(15);
+    .t-one__description-wrapper {
+        @include mq($from: desktop) {
+            position: absolute;
+            bottom: spacing(15);
+        }
     }
-  }
 }
 
 //block specific
 .t-one__diagram-wrapper {
-  svg {
-    width: 100%;
-    height: auto;
-  }
+    svg {
+        width: 100%;
+        height: auto;
+    }
 }
 
 .t-one__description-wrapper {
-  width: 100%;
-  @include mq($from: desktop) {
-    width: 33%;
-  }
+    width: 100%;
+    @include mq($from: desktop) {
+        width: 33%;
+    }
 }
 
 //classList
-
 .centered-data {
-  @include mq($from: desktop) {
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-  }
+    @include mq($from: desktop) {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+    }
 }
 
 @keyframes dash {
-  to {
-    stroke-dashoffset: -200;
-  }
+    to {
+        stroke-dashoffset: -200;
+    }
 }
 
 .map {
-  h2 {
-    padding-top: 35px;
-    max-width: 620px;
-
-    @include mq($until: tablet) {
-      font-size: map-get($font-scale, bigpar);
+    h2 {
+        padding-top: 35px;
+        max-width: 620px;
+        @include mq($until: tablet) {
+            font-size: map-get($font-scale, bigpar);
+        }
     }
-  }
-
-  .key {
-    width: 100%;
-    border-top: 1px solid $darkBlue;
-    display: flex;
-    margin-top: 30px;
-    padding-top: 10px;
-    padding-left: 3%;
-    padding-bottom: spacing(2);
-    flex-direction: column;
-
-    @include mq($from: desktop) {
-      flex-direction: row;
-      padding-bottom: spacing(10);
-    }
-
-    ul {
-      list-style: none;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-
-      @include mq($from: desktop) {
-        flex-direction: row;
-      }
-
-      &.line-key {
-        li {
-          color: $darkBlue;
-
-          &:before {
-            background-color: $blue;
-            border-radius: 0;
-            width: 40px;
-          }
-
-          &:nth-child(2) {
-
-            &:before {
-              background-color: transparent;
-              border-bottom: 6px dashed $blue;
-              border-top: 6px dashed $blue;
-              height: 0px
+    .key {
+        width: 100%;
+        border-top: 1px solid $darkBlue;
+        display: flex;
+        margin-top: 30px;
+        padding-top: 10px;
+        padding-left: 3%;
+        padding-bottom: spacing(2);
+        flex-direction: column;
+        @include mq($from: desktop) {
+            flex-direction: row;
+            padding-bottom: spacing(10);
+        }
+        ul {
+            list-style: none;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            @include mq($from: desktop) {
+                flex-direction: row;
             }
-          }
+            &.line-key {
+                li {
+                    color: $darkBlue;
+                    &:before {
+                        background-color: $blue;
+                        border-radius: 0;
+                        width: 40px;
+                    }
+                    &:nth-child(2) {
+                        &:before {
+                            background-color: transparent;
+                            border-bottom: 6px dashed $blue;
+                            border-top: 6px dashed $blue;
+                            height: 0px
+                        }
+                    }
+                }
+            }
         }
-      }
+        li {
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+            margin-right: 10px;
+            color: $pink;
+            &:before {
+                width: 12px;
+                height: 12px;
+                background-color: $pink;
+                display: inline-block;
+                content: '';
+                margin-right: 2px;
+                border-radius: 50%;
+            }
+            &:nth-child(2) {
+                color: $orange;
+                &:before {
+                    background-color: $orange;
+                }
+            }
+            &:nth-child(3) {
+                color: $green;
+                &:before {
+                    background-color: $green;
+                }
+            }
+            &:nth-child(4) {
+                color: $white;
+                &:before {
+                    background-color: $blue;
+                }
+            }
+            &:nth-child(5) {
+                color: $green;
+                &:before {
+                    background-color: $green;
+                }
+            }
+            &:nth-child(6) {
+                color: $lightBlue;
+                &:before {
+                    background-color: $lightBlue;
+                }
+            }
+        }
     }
-
-    li {
-      margin: 0;
-      padding: 0;
-      line-height: 1.2;
-      margin-right: 10px;
-      color: $pink;
-
-      &:before {
-        width: 12px;
-        height: 12px;
-        background-color: $pink;
-        display: inline-block;
-        content: '';
-        margin-right: 2px;
-        border-radius: 50%;
-      }
-
-      &:nth-child(2) {
-        color: $orange;
-
-        &:before {
-          background-color: $orange;
-        }
-      }
-
-      &:nth-child(3) {
-        color: $green;
-
-        &:before {
-          background-color: $green;
-        }
-      }
-
-      &:nth-child(4) {
-        color: $white;
-
-        &:before {
-          background-color: $blue;
-        }
-      }
-
-      &:nth-child(5) {
-        color: $green;
-
-        &:before {
-          background-color: $green;
-        }
-      }
-      &:nth-child(6) {
-        color: $lightBlue;
-
-        &:before {
-          background-color: $lightBlue;
-        }
-      }
-    }
-  }
 }
 
 .autoHeight {
-  height: auto !important;
+    height: auto !important;
 }
 
 .resources {
-  padding-top: spacing(2);
-  padding-bottom: spacing(8);
-
-  h2 {
-    margin-bottom: spacing(4);
-  }
+    padding-top: spacing(2);
+    padding-bottom: spacing(8);
+    h2 {
+        margin-bottom: spacing(4);
+    }
 }
 
 .success-stories {
-  padding-bottom: 20px;
-
-  &.privacy {
-
-    @include mq($from: desktop) {
-      padding-top: 20px;
-    }
-
-    .story-list {
-      @include mq($from: desktop) {
-        border-bottom: 0;
-        background-color: transparent;
-      }
-
-      @include mq($from: 980px) {
-        border-bottom: 0;
-        float: left;
-        
-        .policy-link {
-          text-align: left;
-          display: flex;
-          font-size: 14.5px;
+    padding-bottom: 20px;
+    &.privacy {
+        @include mq($from: desktop) {
+            padding-top: 20px;
         }
-      }
+        .story-list {
+            @include mq($from: desktop) {
+                border-bottom: 0;
+                background-color: transparent;
+            }
+            @include mq($from: 980px) {
+                border-bottom: 0;
+                float: left;
+                .policy-link {
+                    text-align: left;
+                    display: flex;
+                    font-size: 14.5px;
+                }
+            }
+        }
+        .success-story-wrapper {
+            @include mq($from: desktop) {
+                margin-left: auto;
+                margin-right: auto;
+                max-width: 600px;
+                margin-top: -60px;
+            }
+        }
     }
-
-    .success-story-wrapper {
-      @include mq($from: desktop) {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 600px;
-        margin-top: -60px;
-      }
+    &.policy {
+        .success-story-wrapper {
+            @include mq($from: desktop) {
+                margin-top: 0;
+            }
+        }
     }
-  }
-
-  &.policy {
-    .success-story-wrapper {
-      @include mq($from: desktop) {
-        margin-top: 0;
-      }
-    }
-  }
 }
 
-
 //Hide Policies
-
 .hidden {
-  display: none !important;
-
+    display: none !important;
 }
 
 // Active Policy Link
 a.active-policy.policy-link {
-  color: $darkBlue;
+    color: $darkBlue;
 }
 
 //Policy plan
 .wrapper policy-plan {
-  max-width: 1000px;
+    max-width: 1000px;
 }
 
-
 .ecoSystem {
-  height: auto;
-
-  .ecosystem-map {
-    position: relative;
-    height: 290px;
-    max-height: 90vh;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
-
-    @include mq($from: desktop) {
-      height: 430px;
-      margin-top: spacing(4);
-    }
-
-    @include mq($from: wide) {
-      height: 600px;
-    }
-
-    svg {
-      position: absolute;
-      top: 0;
-      width: 160%;
-      height: auto;
-      left: 50%;
-      transform: translateX(-50%);
-
-      @include mq($from: desktop) {
-        height: auto;
-        width: 80%;
-      }
-    }
-  }
-
-  svg {
-    display:block;
-    opacity: 0;
-  }
-
-  h3 {
-    text-align: center;
-    font-size: map-get($font-scale, 3);
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: spacing(3);
-
-    @include mq($from: desktop) {
-      width: 80%;
-    }
-  }
-
-  .key {
-    width: 100%;
-    border-top: 1px solid $darkBlue;
-    display: flex;
-    margin-top: spacing(3);
-    padding-top: spacing(1);
-    padding-bottom: spacing(5);
-    flex-direction: column;
-    position: sticky;
-    top: 0;
-
-    @include mq($from: desktop) {
-      flex-direction: column;
-      padding-bottom: spacing(10);
-      position: absolute;
-      top: 90px;
-      width: 210px;
-    }
-
-    ul {
-      list-style: none;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-
-      @include mq($from: desktop) {
-        flex-direction: column;
-      }
-
-      &.line-key {
-        li {
-          color: $darkBlue;
-
-          &:before {
-            background-color: $blue;
-            border-radius: 0;
-            width: 40px;
-          }
-
-          &:nth-child(2) {
-
-            &:before {
-              background-color: transparent;
-              border-bottom: 6px dashed $blue;
-              border-top: 6px dashed $blue;
-              height: 0px
+    height: auto;
+    .ecosystem-map {
+        position: relative;
+        height: 290px;
+        max-height: 90vh;
+        margin-left: auto;
+        margin-right: auto;
+        overflow: hidden;
+        @include mq($from: desktop) {
+            height: 430px;
+            margin-top: spacing(4);
+        }
+        @include mq($from: wide) {
+            height: 600px;
+        }
+        svg {
+            position: absolute;
+            top: 0;
+            width: 160%;
+            height: auto;
+            left: 50%;
+            transform: translateX(-50%);
+            @include mq($from: desktop) {
+                height: auto;
+                width: 80%;
             }
-          }
         }
-      }
     }
-
-    li {
-      margin: 0;
-      padding: 0;
-      line-height: 1.2;
-      margin-right: 10px;
-
-      &:before {
-        width: 12px;
-        height: 12px;
-        background-color: $darkBlue;
-        display: inline-block;
-        content: '';
-        margin-right: 2px;
-        border-radius: 50%;
-      }
-
-      &:nth-child(2) {
-        color: $pink;
-
-        &:before {
-          background-color: $pink;
-        }
-      }
-
-      &:nth-child(3) {
-        color: $yellow;
-
-        &:before {
-          background-color: $yellow;
-        }
-      }
-
-      &:nth-child(4) {
-        color: $orange;
-
-        &:before {
-          background-color: $orange;
-        }
-      }
-
-      &:nth-child(5) {
-        color: $green;
-
-        &:before {
-          background-color: $green;
-        }
-      }
-      &:nth-child(6) {
-        color: $lightBlue;
-
-        &:before {
-          background-color: $lightBlue;
-        }
-      }
+    svg {
+        display: block;
+        opacity: 0;
     }
-  }
+    h3 {
+        text-align: center;
+        font-size: map-get($font-scale, 3);
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: spacing(3);
+        @include mq($from: desktop) {
+            width: 80%;
+        }
+    }
+    .key {
+        width: 100%;
+        border-top: 1px solid $darkBlue;
+        display: flex;
+        margin-top: spacing(3);
+        padding-top: spacing(1);
+        padding-bottom: spacing(5);
+        flex-direction: column;
+        position: sticky;
+        top: 0;
+        @include mq($from: desktop) {
+            flex-direction: column;
+            padding-bottom: spacing(10);
+            position: absolute;
+            top: 90px;
+            width: 210px;
+        }
+        ul {
+            list-style: none;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            @include mq($from: desktop) {
+                flex-direction: column;
+            }
+            &.line-key {
+                li {
+                    color: $darkBlue;
+                    &:before {
+                        background-color: $blue;
+                        border-radius: 0;
+                        width: 40px;
+                    }
+                    &:nth-child(2) {
+                        &:before {
+                            background-color: transparent;
+                            border-bottom: 6px dashed $blue;
+                            border-top: 6px dashed $blue;
+                            height: 0px
+                        }
+                    }
+                }
+            }
+        }
+        li {
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+            margin-right: 10px;
+            &:before {
+                width: 12px;
+                height: 12px;
+                background-color: $darkBlue;
+                display: inline-block;
+                content: '';
+                margin-right: 2px;
+                border-radius: 50%;
+            }
+            &:nth-child(2) {
+                color: $pink;
+                &:before {
+                    background-color: $pink;
+                }
+            }
+            &:nth-child(3) {
+                color: $yellow;
+                &:before {
+                    background-color: $yellow;
+                }
+            }
+            &:nth-child(4) {
+                color: $orange;
+                &:before {
+                    background-color: $orange;
+                }
+            }
+            &:nth-child(5) {
+                color: $green;
+                &:before {
+                    background-color: $green;
+                }
+            }
+            &:nth-child(6) {
+                color: $lightBlue;
+                &:before {
+                    background-color: $lightBlue;
+                }
+            }
+        }
+    }
 }
 
 @keyframes fadeIn {
-  0% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 @for $i from 1 through 9 {
-  .ecoSystem .ecosystem-map.display svg:nth-child(#{$i}) {
-    animation-name: fadeIn;
-    animation-duration: 0.5s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: 1;
-    animation-delay: $i * 0.75s;
-  }
+    .ecoSystem .ecosystem-map.display svg:nth-child(#{$i}) {
+        animation-name: fadeIn;
+        animation-duration: 0.5s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: 1;
+        animation-delay: $i * 0.75s;
+    }
 }
 
 .ecosystem-map svg.dash {
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-  transition-delay: 5.5s;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    transition-delay: 5.5s;
 }
 
 .ecoSystem .ecosystem-map.display svg.dash {
-  opacity: 1;
-  animation: dash 9s linear;
-  animation-iteration-count: infinite;
-  z-index: -1;
+    opacity: 1;
+    animation: dash 9s linear;
+    animation-iteration-count: infinite;
+    z-index: -1;
 }
 
 .center {
-  position: relative;
-
-  h2 {
-    padding-bottom: 40px;
-    width: 90%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-
-    @include mq($from: desktop) {
-      width: 75%;
-      text-align: left;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+    position: relative;
+    h2 {
+        padding-bottom: 40px;
+        width: 90%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        @include mq($from: desktop) {
+            width: 75%;
+            text-align: left;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
     }
-  }
 }
 
 .bigNumber {
-  font-size: map-get($font-scale, 10);
-  line-height: 1;
-  letter-spacing: -5px;
-  font-weight: 100;
-
-  @include mq($from: desktop) {
     font-size: map-get($font-scale, 10);
     line-height: 1;
-  }
-
-  @include mq($from: wide) {
-    font-size: map-get($font-scale, 12);
-    line-height: 1;
-  }
+    letter-spacing: -5px;
+    font-weight: 100;
+    @include mq($from: desktop) {
+        font-size: map-get($font-scale, 10);
+        line-height: 1;
+    }
+    @include mq($from: wide) {
+        font-size: map-get($font-scale, 12);
+        line-height: 1;
+    }
 }
 
 @keyframes line {
-  0% {
-    width: 100%;
-  }
-  20% {
-    width: 500px;
-  }
-  40% {
-    width: 100px;
-  }
-  50% {
-    width: 60px;
-  }
-  60% {
-    width: 300px;
-  }
-  80% {
-    width: 235px;
-  }
-  100% {
-    width: 100%;
-  }
+    0% {
+        width: 100%;
+    }
+    20% {
+        width: 500px;
+    }
+    40% {
+        width: 100px;
+    }
+    50% {
+        width: 60px;
+    }
+    60% {
+        width: 300px;
+    }
+    80% {
+        width: 235px;
+    }
+    100% {
+        width: 100%;
+    }
 }
 
 @keyframes widthIn {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 100%;
-  }
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
 }
 
-
 .dot-wrapper {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 10px;
-
-  .dot {
-    min-width: 40px;
-    max-width: 40px;
-    height: 40px;
-    background-color: $darkBlue;
-    border-radius: 50%;
-    margin-right: 10px;
-    margin-left: 10px;
-  }
-
-  .line {
-    height: 15px;
-    width: 0;
-    background-color: $darkBlue;
-    margin-top: 12px;
-    will-change: transform;
-    animation-name: widthIn;
-    animation-duration: 4s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-
-    &.animate {
-      animation-name: line;
-      animation-duration: 5s;
-      animation-iteration-count: infinite;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    .dot {
+        min-width: 40px;
+        max-width: 40px;
+        height: 40px;
+        background-color: $darkBlue;
+        border-radius: 50%;
+        margin-right: 10px;
+        margin-left: 10px;
     }
-  }
+    .line {
+        height: 15px;
+        width: 0;
+        background-color: $darkBlue;
+        margin-top: 12px;
+        will-change: transform;
+        animation-name: widthIn;
+        animation-duration: 4s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        &.animate {
+            animation-name: line;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+        }
+    }
 }
 
 .testimonial {
-  padding-top: spacing(5);
-  padding-bottom: spacing(5);
-
-  h4 {
-    margin-bottom: 0;
-  }
-
-  .nameSplit {
-    margin-bottom: spacing(1.5);
-    color: $white;
-  }
+    padding-top: spacing(5);
+    padding-bottom: spacing(5);
+    h4 {
+        margin-bottom: 0;
+    }
+    .nameSplit {
+        margin-bottom: spacing(1.5);
+        color: $white;
+    }
 }
 
 //JOIN US ** You Tube link and text **
-
 .work-at-triggerise {
     padding-bottom: 0;
 }
 
-
 //Join Us Text 
-
 blockquote {
-  border:none;
-  color:  $darkBlue;
-  quotes: "\201C""\201D""\2018""\2019";
-  }
+    border: none;
+    color: $darkBlue;
+    quotes: "\201C""\201D""\2018""\2019";
+}
 
 .join-quote {
-  width: 76%;
-  line-height: 1.3em;
-  margin: 20px auto;
-  font-size: 2em;
-  font-weight: bold;
-  }
+    width: 76%;
+    line-height: 1.3em;
+    margin: 20px auto;
+    font-size: 2em;
+    font-weight: bold;
+}
 
 .join-text {
     @include mq(360px) {
-      font-size: 50%;
+        font-size: 50%;
     }
     @include mq(375px) {
-      font-size: 50%;
+        font-size: 50%;
     }
     @include mq(411px) {
-      font-size: 50%;
-    }
-  @include mq(540px) {
-      font-size: 60%;
-    }
-  @include mq(768px) {
-    padding-top: 10px;
-    font-size: 40%;
-  }
-  @include mq(1280px) {
-    padding-top: 20px;
-    font-size: 80%;
-  }
-  @include mq(1366px) {
-    padding-top: 25px;
-    font-size: 85%;
-  }
-  @include mq(1440px) {
-    padding-top: 30px;
-    font-size: 90%;
-  }
-  @include mq(1920px) {
-    padding-top: 30px;
-    font-size: 120%;
-  }
-}
-  
-blockquote:before { 
-  content: open-quote;
-  font-weight: bold;
-  font-size: 45px;
-  color:  $darkBlue;
-  position: absolute; 
-  display: block;
-  left: 30px;
-  top: 40px;
-
-    @include mq(360px) {
-      font-size: 95%;
-      left: 45px;
-      top: 30px;
-    }
-    @include mq(375px) {
-      font-size: 95%;
-      left: 50px;
-      top: 30px;
-    }
-    @include mq(411px) {
-      left: 50px;
-      top: 30px;
+        font-size: 50%;
     }
     @include mq(540px) {
-      left: 65px;
-      top: 30px;
+        font-size: 60%;
     }
     @include mq(768px) {
-      left: 50px;
-      top: 40px;
+        padding-top: 10px;
+        font-size: 40%;
     }
     @include mq(1280px) {
-      font-size: 110%;
-      left: 75px;
-      top: 50px;
+        padding-top: 20px;
+        font-size: 80%;
     }
     @include mq(1366px) {
-      font-size: 110%;
-      left: 75px;
-      top: 55px;
+        padding-top: 25px;
+        font-size: 85%;
     }
     @include mq(1440px) {
-      font-size: 120%;
-      left: 80px;
-      top: 60px;
+        padding-top: 30px;
+        font-size: 90%;
     }
     @include mq(1920px) {
-      font-size: 140%;
-      left: 100px;
-      top: 60px;
+        padding-top: 30px;
+        font-size: 120%;
     }
+}
 
+blockquote:before {
+    content: open-quote;
+    font-weight: bold;
+    font-size: 45px;
+    color: $darkBlue;
+    position: absolute;
+    display: block;
+    left: 30px;
+    top: 40px;
+    @include mq(360px) {
+        font-size: 95%;
+        left: 45px;
+        top: 30px;
+    }
+    @include mq(375px) {
+        font-size: 95%;
+        left: 50px;
+        top: 30px;
+    }
+    @include mq(411px) {
+        left: 50px;
+        top: 30px;
+    }
+    @include mq(540px) {
+        left: 65px;
+        top: 30px;
+    }
+    @include mq(768px) {
+        left: 50px;
+        top: 40px;
+    }
+    @include mq(1280px) {
+        font-size: 110%;
+        left: 75px;
+        top: 50px;
+    }
+    @include mq(1366px) {
+        font-size: 110%;
+        left: 75px;
+        top: 55px;
+    }
+    @include mq(1440px) {
+        font-size: 120%;
+        left: 80px;
+        top: 60px;
+    }
+    @include mq(1920px) {
+        font-size: 140%;
+        left: 100px;
+        top: 60px;
+    }
     @include mq(wide) {
-      padding-top: 0;
-      padding-bottom: 0;
-      margin: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin: 0;
     }
-
-  } 
+}
 
 .job-inner-wrapper {
-  justify-content: center;
+    justify-content: center;
 }
-
 
 //Join Us Text 
-
 blockquote {
-  border:none;
-  color:  $darkBlue;
-  quotes: "\201C""\201D""\2018""\2019";
-  }
+    border: none;
+    color: $darkBlue;
+    quotes: "\201C""\201D""\2018""\2019";
+}
 
 .join-quote {
-  width: 76%;
-  line-height: 1.3em;
-  margin: 20px auto;
-  font-size: 2em;
-  font-weight: bold;
-  }
+    width: 76%;
+    line-height: 1.3em;
+    margin: 20px auto;
+    font-size: 2em;
+    font-weight: bold;
+}
 
 .join-text {
-  @include mq(360px) {
-    font-size: 50%;
-  }
-  @include mq(375px) {
-    font-size: 50%;
-  }
-  @include mq(411px) {
-    font-size: 50%;
-  }
-  @include mq(540px) {
-    font-size: 60%;
-  }
-  @include mq(768px) {
-    padding-top: 10px;
-    font-size: 40%;
-  }
-  @include mq(1024px) {
-    padding-top: 10px;
-    font-size: 58%;
+    @include mq(360px) {
+        font-size: 50%;
     }
-  @include mq(1280px) {
-    padding-top: 20px;
-    font-size: 80%;
-  }
-  @include mq(1366px) {
-    padding-top: 25px;
-    font-size: 85%;
-  }
-  @include mq(1440px) {
-    padding-top: 30px;
-    font-size: 90%;
-  }
-  @include mq(1920px) {
-    padding-top: 30px;
-    font-size: 120%;
-  }
+    @include mq(375px) {
+        font-size: 50%;
+    }
+    @include mq(411px) {
+        font-size: 50%;
+    }
+    @include mq(540px) {
+        font-size: 60%;
+    }
+    @include mq(768px) {
+        padding-top: 10px;
+        font-size: 40%;
+    }
+    @include mq(1024px) {
+        padding-top: 10px;
+        font-size: 58%;
+    }
+    @include mq(1280px) {
+        padding-top: 20px;
+        font-size: 80%;
+    }
+    @include mq(1366px) {
+        padding-top: 25px;
+        font-size: 85%;
+    }
+    @include mq(1440px) {
+        padding-top: 30px;
+        font-size: 90%;
+    }
+    @include mq(1920px) {
+        padding-top: 30px;
+        font-size: 120%;
+    }
 }
-  
-blockquote:before { 
-  content: open-quote;
-  font-weight: bold;
-  font-size: 45px;
-  color:  $darkBlue;
-  position: absolute; 
-  display: block;
-  left: 30px;
-  top: 40px;
 
-  @include mq(360px) {
-    font-size: 95%;
-    left: 45px;
-    top: 30px;
-  }
-  @include mq(375px) {
-    font-size: 95%;
-    left: 50px;
-    top: 30px;
-  }
-  @include mq(411px) {
-    left: 50px;
-    top: 30px;
-  }
-  @include mq(540px) {
-    left: 65px;
-    top: 30px;
-  }
-  @include mq(768px) {
-    left: 50px;
+blockquote:before {
+    content: open-quote;
+    font-weight: bold;
+    font-size: 45px;
+    color: $darkBlue;
+    position: absolute;
+    display: block;
+    left: 30px;
     top: 40px;
-  }
-  @include mq(1024px) {
-    font-size: 100%;
-    left: 65px;
-    top: 35px;
-  }
-  @include mq(1280px) {
-    font-size: 110%;
-    left: 75px;
-    top: 50px;
-  }
-  @include mq(1366px) {
-    font-size: 110%;
-    left: 75px;
-    top: 55px;
-  }
-  @include mq(1440px) {
-    font-size: 120%;
-    left: 80px;
-    top: 60px;
-  }
-  @include mq(1920px) {
-    font-size: 140%;
-    left: 100px;
-    top: 60px;
-  }
+    @include mq(360px) {
+        font-size: 95%;
+        left: 45px;
+        top: 30px;
+    }
+    @include mq(375px) {
+        font-size: 95%;
+        left: 50px;
+        top: 30px;
+    }
+    @include mq(411px) {
+        left: 50px;
+        top: 30px;
+    }
+    @include mq(540px) {
+        left: 65px;
+        top: 30px;
+    }
+    @include mq(768px) {
+        left: 50px;
+        top: 40px;
+    }
+    @include mq(1024px) {
+        font-size: 100%;
+        left: 65px;
+        top: 35px;
+    }
+    @include mq(1280px) {
+        font-size: 110%;
+        left: 75px;
+        top: 50px;
+    }
+    @include mq(1366px) {
+        font-size: 110%;
+        left: 75px;
+        top: 55px;
+    }
+    @include mq(1440px) {
+        font-size: 120%;
+        left: 80px;
+        top: 60px;
+    }
+    @include mq(1920px) {
+        font-size: 140%;
+        left: 100px;
+        top: 60px;
+    }
 }
 
 blockquote:after {
-  content: close-quote;
-  display: block;
-  font-weight: bold;
-  font-size: 45px;
-  color:  $darkBlue;
-  position: relative;
-
+    content: close-quote;
+    display: block;
+    font-weight: bold;
+    font-size: 45px;
+    color: $darkBlue;
+    position: relative;
     @include mq(360px) {
-      font-size: 95%;
-      left: 35px;
-      bottom: 28px;
+        font-size: 95%;
+        left: 35px;
+        bottom: 28px;
     }
     @include mq(375px) {
-      font-size: 95%;
-      left: 110px;
-      bottom: 28px;
+        font-size: 95%;
+        left: 110px;
+        bottom: 28px;
     }
     @include mq(411px) {
-      left: 195px;
-      bottom: 28px;
+        left: 195px;
+        bottom: 28px;
     }
     @include mq(540px) {
-      left: 35px;
-      bottom: 28px;
+        left: 35px;
+        bottom: 28px;
     }
     @include mq(768px) {
-      left: 55px;
-      bottom: 24px;
+        left: 55px;
+        bottom: 24px;
     }
     @include mq(1024px) {
-      font-size: 100%;
-      left: 135px;
-      bottom: 28px;
+        font-size: 100%;
+        left: 135px;
+        bottom: 28px;
     }
     @include mq(1280px) {
-      font-size: 110%;
-      left: 370px;
-      bottom: 36px;
+        font-size: 110%;
+        left: 370px;
+        bottom: 36px;
     }
     @include mq(1366px) {
-      font-size: 110%;
-      left: 400px;
-      bottom: 35px;
+        font-size: 110%;
+        left: 400px;
+        bottom: 35px;
     }
     @include mq(1440px) {
-      font-size: 120%;
-      left: 430px;
-      bottom: 35px;
+        font-size: 120%;
+        left: 430px;
+        bottom: 35px;
     }
     @include mq(1920px) {
-      font-size: 140%;
-      left: 580px;
-      bottom: 40px;
+        font-size: 140%;
+        left: 580px;
+        bottom: 40px;
     }
-  }
+}
 
 .text-box {
-  position: relative;
-  top: 45%;
-  text-align: left;
-  }
+    position: relative;
+    top: 45%;
+    text-align: left;
+}
 
 .quote-text-body {
-  padding: 20px;
-  margin: 0px;
-}  
+    padding: 20px;
+    margin: 0px;
+}
+
 //Join us Testimonial
-
 .image-wrapper-quote {
-  height: 50vw;
-  width: 50vw;
-  border-radius: 50%;
-  overflow: hidden;
-  margin-left: auto;
-  margin-right: auto;
-
-  @include mq($from: desktop) {
-    height: 20vw;
-    width: 20vw;
-  }
-
-  img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-}
-
-@keyframes hover{
-  0% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(8px);
-  }
-  75% {
-    transform: translateY(-8px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
-
-.team-one-container, .team-two-container, .team-three-container {
-  width: 75%;
-  max-height: auto;
-  overflow: visible;
-  padding-top:spacing(2);
-  text-align: center;
-  padding-bottom: spacing(5);
-
-  @include mq($until: 1024px) {
-    margin: 0 auto;
-    width: 100%;
-    overflow-y: visible;
-    overflow-x: visible;
-
-    &:hover {
-      overflow-y: scroll;
-      position: relative;
-      cursor: pointer;
-    }
-  }
-
-  @include mq($from: desktop) {
-    width: 33.3%;
-    overflow-y: hidden;
-    overflow-x: hidden;
-    max-height: 60vh;
-  }
-
-  &:hover {
-    svg {
-      animation-name: hover;
-      animation-duration: 1s;
-      animation-fill-mode: forwards;
-      animation-iteration-count: infinite;
-      animation-timing-function: linear;
-
-      &.noanimate {
-        animation: unset;
-      }
-    }
-  }
-
-  svg {
-    max-width: 40px;
-    height:auto;
-    margin-top: spacing(3);
-    margin-bottom: spacing(3);
-
-    &.noanimate {
-      path {
-        fill: $darkBlue;
-      }
-    }
-  }
-
-  h2, p {
-    margin: 0;
-    line-height: 1;
-    font-size: map-get($font-scale, 1);
-  }
-
-  p {
-    font-size: map-get($font-scale, small);
-    line-height: 1.2;
-    padding-left: spacing(8);
-    padding-right: spacing(8);
-    margin-top: spacing(1);
-
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 0);
-    }
-  }
-
-  h2.teamsTitle {
-    font-size: map-get($font-scale, bigpar);
-  }
-
-  h2 {
-    font-size: map-get($font-scale, 1);
-  }
-
-  .team-image-wrapper {
-    height: 42vw;
-    width: 42vw;
+    height: 50vw;
+    width: 50vw;
     border-radius: 50%;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
-    margin-top: spacing(3);
-    margin-bottom: spacing(3);
-
     @include mq($from: desktop) {
-      height: 12vw;
-      width: 12vw;
+        height: 20vw;
+        width: 20vw;
     }
-
     img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
-  }
 }
 
-.team-one-card, .team-two-card, .team-three-card {
-  width: 350px;
-  margin: 0 auto;
-  transform: translateZ(0);
-  -webkit-transform: translateZ(0);
-
-  @include mq($until: 1024px) {
-    margin: 0 auto;
-    width: 90%;
-    overflow-y: visible;
-    overflow-x: visible;
-
-    &:hover {
-      overflow-y: scroll;
-      position: relative;
-      cursor: pointer;
+@keyframes hover {
+    0% {
+        transform: translateY(0px);
     }
-  }
-
-
-  @include mq($from: desktop) {
-    overflow-y: hidden;
-    overflow-x: hidden;
-    max-height: 65vh;
-
-    &:hover {
-        overflow-y: scroll;
-        position: relative;
-        cursor: pointer;
+    50% {
+        transform: translateY(8px);
     }
-  }
+    75% {
+        transform: translateY(-8px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
 
-  .text-box {
-    left: 0px;
-    right: 40px;
-  }
-
-  h2, p {
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
+.team-one-container,
+.team-two-container,
+.team-three-container {
+    width: 75%;
+    max-height: auto;
+    overflow: visible;
+    padding-top: spacing(2);
     text-align: center;
-  }
+    padding-bottom: spacing(5);
+    @include mq($until: 1024px) {
+        margin: 0 auto;
+        width: 100%;
+        overflow-y: visible;
+        overflow-x: visible;
+        &:hover {
+            overflow-y: scroll;
+            position: relative;
+            cursor: pointer;
+        }
+    }
+    @include mq($from: desktop) {
+        width: 33.3%;
+        overflow-y: hidden;
+        overflow-x: hidden;
+        max-height: 60vh;
+    }
+    &:hover {
+        svg {
+            animation-name: hover;
+            animation-duration: 1s;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            &.noanimate {
+                animation: unset;
+            }
+        }
+    }
+    svg {
+        max-width: 40px;
+        height: auto;
+        margin-top: spacing(3);
+        margin-bottom: spacing(3);
+        &.noanimate {
+            path {
+                fill: $darkBlue;
+            }
+        }
+    }
+    h2,
+    p {
+        margin: 0;
+        line-height: 1;
+        font-size: map-get($font-scale, 1);
+    }
+    p {
+        font-size: map-get($font-scale, small);
+        line-height: 1.2;
+        padding-left: spacing(8);
+        padding-right: spacing(8);
+        margin-top: spacing(1);
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 0);
+        }
+    }
+    h2.teamsTitle {
+        font-size: map-get($font-scale, bigpar);
+    }
+    h2 {
+        font-size: map-get($font-scale, 1);
+    }
+    .team-image-wrapper {
+        height: 42vw;
+        width: 42vw;
+        border-radius: 50%;
+        overflow: hidden;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: spacing(3);
+        margin-bottom: spacing(3);
+        @include mq($from: desktop) {
+            height: 12vw;
+            width: 12vw;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}
 
-  svg {
-    display: block;
-    position: relative;
+.team-one-card,
+.team-two-card,
+.team-three-card {
+    width: 350px;
     margin: 0 auto;
-    padding-top: calc(50% - 100px);
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translate(0, -50%);
-  }
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    @include mq($until: 1024px) {
+        margin: 0 auto;
+        width: 90%;
+        overflow-y: visible;
+        overflow-x: visible;
+        &:hover {
+            overflow-y: scroll;
+            position: relative;
+            cursor: pointer;
+        }
+    }
+    @include mq($from: desktop) {
+        overflow-y: hidden;
+        overflow-x: hidden;
+        max-height: 65vh;
+        &:hover {
+            overflow-y: scroll;
+            position: relative;
+            cursor: pointer;
+        }
+    }
+    .text-box {
+        left: 0px;
+        right: 40px;
+    }
+    h2,
+    p {
+        margin-left: 50px;
+        margin-right: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+    }
+    svg {
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        padding-top: calc(50% - 100px);
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translate(0, -50%);
+    }
 }
 
 .what-we-do {
-  .center-container {
-    margin-top: 35px;
-    position: relative;
-    padding-top: 10px;
-    padding-bottom: 100px;
-
-    @include mq($from: desktop) {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      padding-top: 0;
+    .center-container {
+        margin-top: 35px;
+        position: relative;
+        padding-top: 10px;
+        padding-bottom: 100px;
+        @include mq($from: desktop) {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            padding-top: 0;
+        }
     }
-  }
-  h2 {
-    padding-left: 30px;
-    margin-top: 35px;
-
-    .dot {
-      width: 30px;
-      height: 30px;
-      background-color: $darkBlue;
-      border-radius: 50%;
-      display: inline-block;
-      margin-left: -30px;
-      margin-right: 19px;
-
-      @include mq($from: desktop) {
-        margin-left: -49px;
-        margin-right: 19px;
-      }
+    h2 {
+        padding-left: 30px;
+        margin-top: 35px;
+        .dot {
+            width: 30px;
+            height: 30px;
+            background-color: $darkBlue;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: -30px;
+            margin-right: 19px;
+            @include mq($from: desktop) {
+                margin-left: -49px;
+                margin-right: 19px;
+            }
+        }
     }
-  }
 }
 
 .body-text {
-  position: relative;
-  padding-left: 50px;
-  box-sizing: border-box;
-  max-width: 90%;
-
-  @include mq($from: desktop) {
-    padding-left: 30px;
-  }
-
-  .line {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 10px;
-    width: 10px;
-    background-color: $darkBlue;
-
+    position: relative;
+    padding-left: 50px;
+    box-sizing: border-box;
+    max-width: 90%;
     @include mq($from: desktop) {
-      left: -10px;
+        padding-left: 30px;
     }
-  }
+    .line {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 10px;
+        width: 10px;
+        background-color: $darkBlue;
+        @include mq($from: desktop) {
+            left: -10px;
+        }
+    }
 }
 
-
 .sectionWrapper {
-  padding-bottom: spacing(2);
+    padding-bottom: spacing(2);
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-
     @include mq($from: desktop) {
-      flex-direction: row;
-      margin-top: 35px;
+        flex-direction: row;
+        margin-top: 35px;
     }
-
     h3 {
-      font-size: map-get($font-scale, 4);
-      line-height: 1;
-      font-weight: 400;
-
-      @include mq($from: desktop) {
-        font-size: map-get($font-scale, 5);
-      }
-
-      @include mq($from: wide) {
-        font-size: map-get($font-scale, 10);
-      }
+        font-size: map-get($font-scale, 4);
+        line-height: 1;
+        font-weight: 400;
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 5);
+        }
+        @include mq($from: wide) {
+            font-size: map-get($font-scale, 10);
+        }
     }
 }
-
 
 .t-rescources-wrapper {
-  .report-cover {
-    width: 100%;
-    background-color: $blue;
-    margin-right: 1%;
-    box-sizing: border-box;
-    padding: 10px;
-    min-height: 400px;
-    padding-bottom: 10px;
-    position: relative;
-    margin-bottom: 20px;
-    transition: transform 0.2s ease-in-out;
-
-    &.display {
-      display: block !important;
+    .report-cover {
+        width: 100%;
+        background-color: $blue;
+        margin-right: 1%;
+        box-sizing: border-box;
+        padding: 10px;
+        min-height: 400px;
+        padding-bottom: 10px;
+        position: relative;
+        margin-bottom: 20px;
+        transition: transform 0.2s ease-in-out;
+        &.display {
+            display: block !important;
+        }
+        &:hover {
+            transform: scale(1.02);
+        }
+        a {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+        }
+        .one,
+        .two,
+        .three,
+        .four {
+            display: none;
+        }
+        &:nth-child(1) {
+            .one {
+                display: block;
+                width: 55%;
+            }
+        }
+        &:nth-child(5n + 5) {
+            .one {
+                display: block;
+                width: 55%;
+            }
+        }
+        &:nth-child(2) {
+            background-color: $yellow;
+            .two {
+                display: inline-block;
+                width: 70%;
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        &:nth-child(6n + 6) {
+            background-color: $yellow;
+            .two {
+                display: block;
+                width: 70%;
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        &:nth-child(3) {
+            background-color: $pink;
+            .three {
+                display: inline-block;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 40%;
+                padding-bottom: -50px;
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        &:nth-child(7n + 7) {
+            background-color: $pink;
+            .three {
+                display: block;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 40%;
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        &:nth-child(4) {
+            background-color: $green;
+            .four {
+                display: block;
+                left: 50%;
+                bottom: 22%;
+                transform: translate(-50%, -50%);
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        &:nth-child(8n+8) {
+            background-color: $green;
+            .four {
+                display: block;
+                left: 50%;
+                bottom: 22%;
+                transform: translate(-50%, -50%);
+            }
+            h2,
+            h3 {
+                color: $darkBlue;
+            }
+        }
+        @include mq($from: desktop) {
+            width: 24%;
+        }
     }
-
-    &:hover {
-      transform: scale(1.02);
+    // Reports SVG
+    svg {
+        position: absolute;
+        bottom: spacing(2);
+        width: 80%;
+        height: auto;
     }
-
-    a {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      z-index: 100;
+    img {
+        position: absolute;
+        bottom: spacing(2);
+        width: 90%;
+        height: auto;
     }
-
-    .one, .two, .three, .four {
-      display: none;
+    h2,
+    h3 {
+        color: $pink;
+        margin-bottom: 0;
+        font-size: map-get($font-scale, 2);
+        line-height: 1;
     }
-
-    &:nth-child(1) {
-      .one {
-        display: block;
-        width: 55%;
-      }
-    }
-
-    &:nth-child(5n + 5) {
-      .one {
-        display: block;
-        width: 55%;
-      }
-    }
-
-    &:nth-child(2) {
-      background-color: $yellow;
-
-      .two {
-        display: inline-block;
-        width: 70%;
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    &:nth-child(6n + 6) {
-      background-color: $yellow;
-
-      .two {
-        display: block;
-        width: 70%;
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    &:nth-child(3) {
-      background-color: $pink;
-
-      .three {
-        display: inline-block;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 40%;
-        padding-bottom: -50px;
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    &:nth-child(7n + 7) {
-      background-color: $pink;
-
-      .three {
-        display: block;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 40%;
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    &:nth-child(4) {
-      background-color: $green;
-
-      .four {
-        display: block;
-        left: 50%;
-        bottom: 22%;
-        transform: translate(-50%, -50%);
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    &:nth-child(8n+8) {
-      background-color: $green;
-
-      .four {
-        display: block;
-        left: 50%;
-        bottom: 22%;
-        transform: translate(-50%, -50%);
-      }
-
-      h2, h3 {
-        color: $darkBlue;
-      }
-    }
-
-    @include mq($from: desktop) {
-      width: 24%;
+    h3 {
+        margin-bottom: spacing(2);
+        font-weight: 200;
+        margin-top: spacing(2);
     }
 }
 
-// Reports SVG
-
-    svg {
-      position: absolute;
-      bottom: spacing(2);
-      width: 80%;
-      height: auto;
-    }
-
-    img {
-      position: absolute;
-      bottom: spacing(2);
-      width: 90%;
-      height: auto;
-    }
-
-    h2, h3 {
-      color: $pink;
-      margin-bottom: 0;
-      font-size: map-get($font-scale, 2);
-      line-height: 1;
-    }
-
-    h3 {
-      margin-bottom: spacing(2);
-      font-weight: 200;
-      margin-top: spacing(2);
-    }
-
-    
-  }
-  .report-image, {
+.report-image,
+{
     width: 100px;
     height: auto;
     align-items: center
-  }
+}
 
-
-
-@keyframes impact{
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-  75% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0);
-  }
+@keyframes impact {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    75% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
 }
 
 @keyframes opacity {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.3;
-  }
-  100% {
-    opacity: 1;
-  }
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.3;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 .impact-header {
-  svg {
-    width: 100%;
-    height: auto;
-    position: absolute;
-    bottom: 0;
-
-    path {
-      animation-name: opacity;
-      animation-fill-mode: forwards;
-      animation-iteration-count: infinite;
-      animation-timing-function: linear;
-      animation-duration: 8s;
+    svg {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        path {
+            animation-name: opacity;
+            animation-fill-mode: forwards;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            animation-duration: 8s;
+        }
+        circle {
+            will-change: transform;
+            &:nth-child(2n+2) {
+                animation-name: impact;
+                animation-fill-mode: forwards;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                animation-duration: 3s;
+            }
+            &:nth-child(2) {
+                animation-name: impact;
+                animation-fill-mode: forwards;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                animation-duration: 10s;
+                animation-delay: 1s;
+            }
+            &:nth-child(3n+3) {
+                animation-name: impact;
+                animation-fill-mode: forwards;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                animation-duration: 6s;
+                animation-delay: 2s;
+            }
+            &:nth-child(6n+6) {
+                animation-name: impact;
+                animation-fill-mode: forwards;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+                animation-duration: 5s;
+                animation-delay: 1s;
+            }
+        }
     }
-
-    circle {
-      will-change: transform;
-
-      &:nth-child(2n+2) {
-        animation-name: impact;
-        animation-fill-mode: forwards;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-        animation-duration: 3s;
-      }
-
-      &:nth-child(2) {
-        animation-name: impact;
-        animation-fill-mode: forwards;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-        animation-duration: 10s;
-        animation-delay: 1s;
-      }
-
-      &:nth-child(3n+3) {
-        animation-name: impact;
-        animation-fill-mode: forwards;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-        animation-duration: 6s;
-        animation-delay: 2s;
-      }
-
-      &:nth-child(6n+6) {
-        animation-name: impact;
-        animation-fill-mode: forwards;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-        animation-duration: 5s;
-        animation-delay: 1s;
-      }
-    }
-  }
 }
 
-
-
-
 .about-us-lines {
-  width: 100%;
-
-  @include mq($from: desktop) {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-  }
-
-  .dot-wrapper {
-    &:nth-child(1) {
-      @include mq($from: desktop) {
-        display: none;
-      }
-      @include mq($from: wide) {
-        display: flex;
-      }
+    width: 100%;
+    @include mq($from: desktop) {
+        position: absolute;
+        bottom: 0;
+        left: 0;
     }
-  }
-
-  .dot {
-    background-color: $lightBlue;
-  }
-
-  .line {
-    background-color: $lightBlue;
-  }
+    .dot-wrapper {
+        &:nth-child(1) {
+            @include mq($from: desktop) {
+                display: none;
+            }
+            @include mq($from: wide) {
+                display: flex;
+            }
+        }
+    }
+    .dot {
+        background-color: $lightBlue;
+    }
+    .line {
+        background-color: $lightBlue;
+    }
 }
 
 .numbers {
-  padding-bottom: 20px;
-  text-align: center;
-
-  @include mq($from: desktop) {
-    padding-bottom: 0;
-    text-align: left;
-    padding-top: 0 !important;
-  }
-
-  h2 {
-    font-size: map-get($font-scale, 4);
-    margin: 0;
-    font-weight: 400;
-
+    padding-bottom: 20px;
+    text-align: center;
     @include mq($from: desktop) {
-      font-size: map-get($font-scale, 4);
+        padding-bottom: 0;
+        text-align: left;
+        padding-top: 0 !important;
     }
-
-    @include mq($from: wide) {
-      font-size: map-get($font-scale, 4);
+    h2 {
+        font-size: map-get($font-scale, 4);
+        margin: 0;
+        font-weight: 400;
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 4);
+        }
+        @include mq($from: wide) {
+            font-size: map-get($font-scale, 4);
+        }
+        span {
+            font-size: map-get($font-scale, 2);
+            display: block;
+            margin-bottom: 10px;
+            @include mq($from: desktop) {
+                font-size: map-get($font-scale, bigpar);
+            }
+            @include mq($from: wide) {
+                font-size: map-get($font-scale, 2);
+            }
+            @include mq($from: desktop) {
+                display: inline-block;
+                margin-bottom: 0;
+            }
+        }
     }
-
-    span {
-      font-size: map-get($font-scale, 2);
-      display: block;
-      margin-bottom: 10px;
-
-      @include mq($from: desktop) {
-        font-size: map-get($font-scale, bigpar);
-      }
-
-      @include mq($from: wide) {
-        font-size: map-get($font-scale, 2);
-      }
-
-      @include mq($from: desktop) {
-        display: inline-block;
-        margin-bottom: 0;
-      }
-    }
-  }
 }
 
 .impact-data {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -60%);
-  text-align: center;
-
-  @include mq($until: tablet) {
-    width: 90%;
-  }
-
-  h1 {
-    color: $lightBlue;
-    font-size: 15vw;
-    font-weight: 100;
-
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 12);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    text-align: center;
+    @include mq($until: tablet) {
+        width: 90%;
     }
-  }
-
-  h2 {
-    font-weight: 600;
-  }
-
-  h2, h3 {
-    color: $lightBlue;
-    font-size: map-get($font-scale, 1);
-    margin: 0;
-  }
+    h1 {
+        color: $lightBlue;
+        font-size: 15vw;
+        font-weight: 100;
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 12);
+        }
+    }
+    h2 {
+        font-weight: 600;
+    }
+    h2,
+    h3 {
+        color: $lightBlue;
+        font-size: map-get($font-scale, 1);
+        margin: 0;
+    }
 }
 
 .t-data-wrapper {
-
-  h1 {
-    font-size: 15vw;
-    font-weight: 100;
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 5);
+    h1 {
+        font-size: 15vw;
+        font-weight: 100;
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 5);
+        }
+        @include mq($from: wide) {
+            font-size: map-get($font-scale, data);
+        }
+        &:nth-child(1) {
+            margin-top: spacing(1);
+        }
+        &:nth-child(2) {
+            margin-top: spacing(1);
+        }
+        &:nth-child(3) {
+            margin-top: spacing(1);
+        }
     }
-
-    @include mq($from: wide) {
-      font-size: map-get($font-scale, data);
+    .flex {
+        margin-bottom: spacing(2);
+        div {
+            min-width: 33%;
+            border-left: 1px solid $darkBlue;
+            h1 {
+                margin-left: 5px;
+            }
+            h2 {
+                margin-left: 10px;
+                margin-bottom: 0;
+            }
+        }
     }
-
-    &:nth-child(1) {
-      margin-top: spacing(1);
+    h2 {
+        font-size: map-get($font-scale, 1);
+        margin: 0;
+        margin-bottom: spacing(2);
+        width: 75%;
+        margin-left: 0;
+        padding-left: 0;
     }
-
-    &:nth-child(2) {
-      margin-top: spacing(1);
-    }
-    &:nth-child(3) {
-      margin-top: spacing(1);
-    }
-  }
-
-  .flex {
-    margin-bottom: spacing(2);
-    div {
-      min-width: 33%;
-      border-left: 1px solid $darkBlue;
-
-      h1 {
-        margin-left: 5px;
-      }
-
-      h2 {
-        margin-left: 10px;
-        margin-bottom: 0;
-      }
-    }
-  }
-
-  h2{
-    font-size: map-get($font-scale, 1);
-    margin: 0;
-    margin-bottom: spacing(2);
-    width: 75%;
-    margin-left: 0;
-    padding-left: 0;
-  }
 }
-
 
 .story-list {
-  padding-bottom: 18px;
-  position: sticky;
-  top: 70px;
-  background-color: $white;
-  border-bottom: 1px solid $darkBlue;
-  z-index: 100;
-
-  a {
-    color: #999;
-  }
-  
-  a:hover, a:focus {
-    color: $darkBlue;
-    text-decoration: none;
-
-  @include mq($from: desktop) {
-    font-size: 20px;
-  }
-}
-
+    padding-bottom: 18px;
+    position: sticky;
+    top: 70px;
+    background-color: $white;
+    border-bottom: 1px solid $darkBlue;
+    z-index: 100;
+    a {
+        color: #999;
+    }
+    a:hover,
+    a:focus {
+        color: $darkBlue;
+        text-decoration: none;
+        @include mq($from: desktop) {
+            font-size: 20px;
+        }
+    }
 }
 
 .success_story_h2 {
-  font-size: 18px;
-  max-width: 100%;
-  margin-bottom: spacing(4);
-
-  @include mq($from: desktop) {
-    font-size: 20px;
-  }
-
-  @include mq($from: wide) {
-    font-size: 27px;
-  }
+    font-size: 18px;
+    max-width: 100%;
+    margin-bottom: spacing(4);
+    @include mq($from: desktop) {
+        font-size: 20px;
+    }
+    @include mq($from: wide) {
+        font-size: 27px;
+    }
 }
 
 .success-story-wrapper {
-  position: relative;
-  border-bottom: 1px solid $darkBlue;
-  padding-bottom: spacing(6);
-
-  ul, ol {
-    margin: 0;
-    margin-left: 15px;
-    margin-bottom: 10px;
-  }
-
-  h1, h2, p, ul, ol {
-    max-width: 100%;
-  }
-
-  h1 {
-    font-size: map-get($font-scale, 3);
-    margin-bottom: spacing(4);
-
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 4);
+    position: relative;
+    border-bottom: 1px solid $darkBlue;
+    padding-bottom: spacing(6);
+    ul,
+    ol {
+        margin: 0;
+        margin-left: 15px;
+        margin-bottom: 10px;
     }
-  }
-
-
-  p {
-    font-size: map-get($font-scale, 0.8);
-
-    strong {
-      display: block;
+    h1,
+    h2,
+    p,
+    ul,
+    ol {
+        max-width: 100%;
     }
-  }
-
+    h1 {
+        font-size: map-get($font-scale, 3);
+        margin-bottom: spacing(4);
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 4);
+        }
+    }
+    p {
+        font-size: map-get($font-scale, 0.8);
+        strong {
+            display: block;
+        }
+    }
 }
 
-
 // Privacy Policy Page 
-
-
-
 .impact__description-wrapper {
-  padding-right: 8%;
-  box-sizing: border-box;
-
-  @include mq($from: desktop) {
-    width: 50%;
-  }
-
-  h5 {
-    font-size: map-get($font-scale, 1);
-    line-height: 1.2;
-    margin-top: spacing(-2);
-
+    padding-right: 8%;
+    box-sizing: border-box;
     @include mq($from: desktop) {
-      font-size: map-get($font-scale, bigpar);
+        width: 50%;
     }
-
-    @include mq($from: wide) {
-      font-size: map-get($font-scale, 2);
+    h5 {
+        font-size: map-get($font-scale, 1);
+        line-height: 1.2;
+        margin-top: spacing(-2);
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, bigpar);
+        }
+        @include mq($from: wide) {
+            font-size: map-get($font-scale, 2);
+        }
     }
-  }
-
-  p {
-    font-size: map-get($font-scale, 0.7);
-    line-height: 1.2;
-    @include mq($from: desktop) {
-      font-size: map-get($font-scale, 1);
+    p {
+        font-size: map-get($font-scale, 0.7);
+        line-height: 1.2;
+        @include mq($from: desktop) {
+            font-size: map-get($font-scale, 1);
+        }
+        @include mq($from: wide) {
+            font-size: map-get($font-scale, 1.2);
+        }
     }
-
-    @include mq($from: wide) {
-      font-size: map-get($font-scale, 1.2);
-    }
-  }
 }
 
 .journal {
-  padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .journal-wrapper {
-  flex-wrap: wrap;
-  margin-top: spacing(4);
-
-  .t-journal {
-    background-color: $white;
-    padding: 10px;
-    width: calc(100% - 20px);
-    margin-right: 1%;
-    margin-bottom: 13px;
-
-    @include mq($from: desktop) {
-      width: 22%;
+    flex-wrap: wrap;
+    margin-top: spacing(4);
+    .t-journal {
+        background-color: $white;
+        padding: 10px;
+        width: calc(100% - 20px);
+        margin-right: 1%;
+        margin-bottom: 13px;
+        @include mq($from: desktop) {
+            width: 22%;
+        }
+        .t-journal-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-top: 50px;
+            background-color: $lightBlue;
+        }
     }
-
-    .t-journal-image {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      overflow: hidden;
-      margin-top: 50px;
-      background-color: $lightBlue;
-    }
-  }
 }
 
 // Jobs
-
 .jobs-wrapper {
-  box-sizing: border-box;
-
-  .grid {
-    display: grid;
-    gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
-    margin: 0;
-    padding: 0;
-    position: relative;
-
-    @include mq($until: mobile) {
-        grid-template-columns: repeat(1, 1fr);
-      }
-
-    @include mq($until: tablet) {
-        grid-template-columns: repeat(1, 1fr);
-      }
-
-    @include mq($from: tablet, $and: '(orientation: landscape)') {
-        grid-template-columns: repeat(3, 1fr);
-      }
-
-    @include mq(1024px) {
-        grid-template-columns: repeat(3, 1fr);
+    box-sizing: border-box;
+    .grid {
+        display: grid;
+        gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
+        margin: 0;
+        padding: 0;
+        position: relative;
+        @include mq($until: mobile) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+        @include mq($until: tablet) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+        @include mq($from: tablet, $and: '(orientation: landscape)') {
+            grid-template-columns: repeat(3, 1fr);
+        }
+        @include mq(1024px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+        @include mq(1300px) {
+            grid-template-columns: repeat(4, 1fr);
+        }
+        @include mq(tablet, desktop) {
+            grid-template-columns: repeat(2, 1fr);
+        }
     }
-
-    @include mq(1300px) {
-        grid-template-columns: repeat(4, 1fr);
-      }
-
-    @include mq(tablet, desktop) {
-        grid-template-columns: repeat(2, 1fr);
-        
-      }
-  }
 }
 
 .jobs {
-  .job {
-    width: 100%;
-    margin-bottom: 22px;
-    padding: 10px;
-    box-sizing: border-box;
-    transition: transform ease-in-out 0.2s;
-
-    h3 {
-      padding: 50px 0;
-      font-size: map-get($font-scale, 2);
-      pointer-events: none;
-      line-height: 1;
-      margin: 0;
-
-      @include mq($from: mobile) {
-        font-size: map-get($font-scale, 1);
-      }
-
-      @include mq($from: desktop) {
-        font-size: map-get($font-scale, 2);
-      }
-
-      @include mq($from: wide) {
-        font-size: map-get($font-scale, 2);
-      }
-
-      &.location {
-        position: absolute;
-        left: 0; 
-        right: 0; 
-        margin-left: auto; 
-        margin-right: auto; 
-        opacity: 0.5;
-        bottom: 0;
-        text-align: center;
-        line-height: 1;
-        font-size: map-get($font-scale, 0);
-      }
+    .job {
+        width: 100%;
+        margin-bottom: 22px;
+        padding: 10px;
+        box-sizing: border-box;
+        transition: transform ease-in-out 0.2s;
+        h3 {
+            padding: 50px 0;
+            font-size: map-get($font-scale, 2);
+            pointer-events: none;
+            line-height: 1;
+            margin: 0;
+            @include mq($from: mobile) {
+                font-size: map-get($font-scale, 1);
+            }
+            @include mq($from: desktop) {
+                font-size: map-get($font-scale, 2);
+            }
+            @include mq($from: wide) {
+                font-size: map-get($font-scale, 2);
+            }
+            &.location {
+                position: absolute;
+                left: 0;
+                right: 0;
+                margin-left: auto;
+                margin-right: auto;
+                opacity: 0.5;
+                bottom: 0;
+                text-align: center;
+                line-height: 1;
+                font-size: map-get($font-scale, 0);
+            }
+        }
     }
-  }
-
-  h1 {
-    font-size: map-get($font-scale, 5);
-  }
+    h1 {
+        font-size: map-get($font-scale, 5);
+    }
 }
 
 // The flip card container 
 .flip-card {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0;
-  width: 240px;
-  height: 300px;
-  perspective: 1000px; 
-
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 240px;
+    height: 300px;
+    perspective: 1000px;
 }
 
 // This container positions the front and back side 
 .flip-card-inner {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
 }
 
 // Horizontal flip when mouses is over the flip box container
 .flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
+    transform: rotateY(180deg);
 }
 
 // Positions the front and back side 
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    /* Safari */
+    backface-visibility: hidden;
 }
 
 .flip-card-front {
-  background-color: $white;
-  color: $darkBlue;
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
+    background-color: $white;
+    color: $darkBlue;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .flip-card-back {
-  padding-top: 10px;
-  background-color: $white;
-  color: $darkBlue;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: left;
-  transform: rotateY(180deg);
+    padding-top: 10px;
+    background-color: $white;
+    color: $darkBlue;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    transform: rotateY(180deg);
 }
 
 .jobs {
-  .job {
-    width: 100%;
-    margin-bottom: 22px;
-    padding: 10px;
-    box-sizing: border-box;
-    transition: transform ease-in-out 0.2s;
-
-    @include mq($from: desktop) {
-      width: 24%;
-      margin-right: 1%;
+    .job {
+        width: 100%;
+        margin-bottom: 22px;
+        padding: 10px;
+        box-sizing: border-box;
+        transition: transform ease-in-out 0.2s;
+        @include mq($from: desktop) {
+            width: 24%;
+            margin-right: 1%;
+        }
+        h3 {
+            padding: 50px 0;
+            font-size: map-get($font-scale, 2);
+            pointer-events: none;
+            line-height: 1;
+            margin: 0;
+            @include mq($from: mobile) {
+                font-size: map-get($font-scale, 1);
+            }
+            @include mq($from: desktop) {
+                font-size: map-get($font-scale, 2);
+            }
+            @include mq($from: wide) {
+                font-size: map-get($font-scale, 2);
+            }
+            &.location {
+                position: absolute;
+                left: 0;
+                right: 0;
+                margin-left: auto;
+                margin-right: auto;
+                opacity: 0.5;
+                bottom: 0;
+                text-align: center;
+                line-height: 1;
+                font-size: map-get($font-scale, 0);
+            }
+        }
     }
-    
-    h3 {
-      padding: 50px 0;
-      font-size: map-get($font-scale, 2);
-      pointer-events: none;
-      line-height: 1;
-      margin: 0;
-
-      @include mq($from: mobile) {
-        font-size: map-get($font-scale, 1);
-      }
-
-      @include mq($from: desktop) {
-        font-size: map-get($font-scale, 2);
-      }
-
-      @include mq($from: wide) {
-        font-size: map-get($font-scale, 2);
-      }
-
-      &.location {
-        position: absolute;
-        left: 0; 
-        right: 0; 
-        margin-left: auto; 
-        margin-right: auto; 
-        opacity: 0.5;
-        bottom: 0;
-        text-align: center;
-        line-height: 1;
-        font-size: map-get($font-scale, 0);
-      }
+    h1 {
+        font-size: map-get($font-scale, 5);
     }
-  }
-
-  h1 {
-    font-size: map-get($font-scale, 5);
-  }
 }
 
 // The flip card container 
 .flip-card {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0;
-  width: 240px;
-  height: 300px;
-  perspective: 1000px; 
-
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    width: 240px;
+    height: 300px;
+    perspective: 1000px;
 }
 
 // This container positions the front and back side 
 .flip-card-inner {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
 }
 
 // Horizontal flip when mouses is over the flip box container
 .flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
+    transform: rotateY(180deg);
 }
 
 // Positions the front and back side
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    /* Safari */
+    backface-visibility: hidden;
 }
 
 .flip-card-front {
-  background-color: $white;
-  color: $darkBlue;
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
+    background-color: $white;
+    color: $darkBlue;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .flip-card-back {
-  padding-top: 10px;
-  background-color: $white;
-  color: $darkBlue;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: left;
-  transform: rotateY(180deg);
+    padding-top: 10px;
+    background-color: $white;
+    color: $darkBlue;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    transform: rotateY(180deg);
 }
 
 @keyframes height {
-  0% {
-    top: 8px;
-    bottom: 36px;
-  }
-  50% {
-    top: 8px;
-    bottom: -24px;
-  }
-  100% {
-    top: 88px;
-    bottom: -24px;
-  }
+    0% {
+        top: 8px;
+        bottom: 36px;
+    }
+    50% {
+        top: 8px;
+        bottom: -24px;
+    }
+    100% {
+        top: 88px;
+        bottom: -24px;
+    }
 }
 
 .safeguarding {
-  p {
-    position: relative;
-
-    &:before {
-      height: 20px;
-      width: 20px;
-      background-color: $blue;
-      border-radius: 50%;
-      content: '';
-      display: block;
-      float: left;
-      margin-left: 0px;
-      margin-right: 10px;
-      margin-top: 6px;
-      margin-bottom: 20px;
-      position: relative;
-      z-index: 10;
-
-      @include mq($from: desktop) {
-        margin-left: -30px;
-        margin-bottom: 0;
-      }
+    p {
+        position: relative;
+        &:before {
+            height: 20px;
+            width: 20px;
+            background-color: $blue;
+            border-radius: 50%;
+            content: '';
+            display: block;
+            float: left;
+            margin-left: 0px;
+            margin-right: 10px;
+            margin-top: 6px;
+            margin-bottom: 20px;
+            position: relative;
+            z-index: 10;
+            @include mq($from: desktop) {
+                margin-left: -30px;
+                margin-bottom: 0;
+            }
+        }
+        &:after {
+            position: absolute;
+            top: 8px;
+            bottom: 36px;
+            width: 8px;
+            background-color: $pink;
+            content: '';
+            display: block;
+            left: 6px;
+            z-index: 0;
+            animation-name: height;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-fill-mode: forwards;
+            @include mq($from: desktop) {
+                left: -24px;
+            }
+        }
+        &:nth-child(2) {
+            &:after {
+                animation-delay: 1s;
+            }
+        }
+        &:nth-child(3) {
+            &:after {
+                display: none;
+            }
+        }
     }
-    &:after {
-      position: absolute;
-      top: 8px;
-      bottom: 36px;
-      width: 8px;
-      background-color: $pink;
-      content: '';
-      display: block;
-      left: 6px;
-      z-index: 0;
-      animation-name: height;
-      animation-duration: 2s;
-      animation-iteration-count: infinite;
-      animation-fill-mode: forwards;
-
-      @include mq($from: desktop) {
-        left: -24px;
-      }
-    }
-
-    &:nth-child(2) {
-      &:after {
-        animation-delay: 1s;
-      }
-    }
-
-    &:nth-child(3) {
-      &:after {
-        display: none;
-      }
-    }
-  }
 }
 
 .contact-form {
-  padding-bottom: spacing(4);
-  width: 100%;
-
-  @include mq($from: desktop) {
-    width: 45%;
-  }
-
-  input {
-    display: block;
-    width: 92%;
-    max-width: 600px;
-    padding: 10px;
-    font-family: $base-font-family;
-  }
-  textarea {
-    display: block;
-    width: 92%;
-    max-width: 600px;
-    padding: 10px;
-    font-family: $base-font-family;
-    margin-bottom: spacing(2);
-  }
+    padding-bottom: spacing(4);
+    width: 100%;
+    @include mq($from: desktop) {
+        width: 45%;
+    }
+    input {
+        display: block;
+        width: 92%;
+        max-width: 600px;
+        padding: 10px;
+        font-family: $base-font-family;
+    }
+    textarea {
+        display: block;
+        width: 92%;
+        max-width: 600px;
+        padding: 10px;
+        font-family: $base-font-family;
+        margin-bottom: spacing(2);
+    }
 }
 
 //Footer
 .footer__logo {
-  text-align: center;
-  max-width: 100%;
+    text-align: center;
+    max-width: 100%;
 }
 
-
 .addresses {
-  width: 100%;
-
-  @include mq($from: desktop) {
-    width: 50%;
-    margin-left: auto;
-  }
-
-  h2 {
-    display: block;
     width: 100%;
-    margin-bottom: 30px;
-  }
-
-  p {
-    max-width: 90%;
-  }
-
-  .address-wrapper {
     @include mq($from: desktop) {
-      column-count: 2;
-      column-fill: balance;
-      max-height: 600px;
+        width: 50%;
+        margin-left: auto;
     }
-  }
-  .addresses-section-container {
-    border-bottom: solid .3px $darkBlue;
-    margin: 20px 0;
-  }
+    h2 {
+        display: block;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    p {
+        max-width: 90%;
+    }
+    .address-wrapper {
+        @include mq($from: desktop) {
+            column-count: 2;
+            column-fill: balance;
+            max-height: 600px;
+        }
+    }
+    .addresses-section-container {
+        border-bottom: solid .3px $darkBlue;
+        margin: 20px 0;
+    }
 }
 
 .contact_banner__h3 {
-  width: 100%;
-  display: block;
-  padding-top: 50px;
-  text-align: center;
+    width: 100%;
+    display: block;
+    padding-top: 50px;
+    text-align: center;
 }
 
 // report cover
-
 .filters {
-  max-width: fit-content;
-  display: flex;
-  margin-bottom: 20px;
-
-  .filter {
-    border: 1px solid $darkBlue;
-    margin-right: 10px;
-    padding: 8px;
-    cursor: pointer;
-
-    &:hover {
-      background-color: $darkBlue;
-      color: $pink;
+    max-width: fit-content;
+    display: flex;
+    margin-bottom: 20px;
+    .filter {
+        border: 1px solid $darkBlue;
+        margin-right: 10px;
+        padding: 8px;
+        cursor: pointer;
+        &:hover {
+            background-color: $darkBlue;
+            color: $pink;
+        }
     }
-  }
 }
-
 
 //arrows for carousel
 .fp-controlArrow {
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTS0xLjg5ODg4ZS0wNiAyMi41Qy0xLjM1NTk2ZS0wNiAxMC4wNzk1IDEwLjA3OTUgOS4zNjc4N2UtMDcgMjIuNSAxLjQ3OTdlLTA2QzM0LjkyMDQgMi4wMjI2MmUtMDYgNDUgMTAuMDc5NSA0NSAyMi41QzQ1IDM0LjkyMDUgMzQuOTM1NCA0NSAyMi41IDQ1QzEwLjA3OTUgNDUgLTIuNDQyNDVlLTA2IDM0LjkzNTQgLTEuODk4ODhlLTA2IDIyLjVaIiBmaWxsPSIjMkM0NDlDIi8+CjxwYXRoIGQ9Ik0yNSAxNkwxOCAyM0wyNSAzMCIgc3Ryb2tlPSIjRjlEN0RGIiBzdHJva2Utd2lkdGg9IjMiLz4KPC9zdmc+Cg==");
-  width: 40px !important;
-  height: 40px;
-  border: none;
-  background-size: 100%;
-
-  &.fp-next {
-    transform: rotate(180deg);
-  }
-
-  @include mq($until: tablet) {
-    top: auto;
-    bottom: spacing(2);
-  }
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDUiIGhlaWdodD0iNDUiIHZpZXdCb3g9IjAgMCA0NSA0NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTS0xLjg5ODg4ZS0wNiAyMi41Qy0xLjM1NTk2ZS0wNiAxMC4wNzk1IDEwLjA3OTUgOS4zNjc4N2UtMDcgMjIuNSAxLjQ3OTdlLTA2QzM0LjkyMDQgMi4wMjI2MmUtMDYgNDUgMTAuMDc5NSA0NSAyMi41QzQ1IDM0LjkyMDUgMzQuOTM1NCA0NSAyMi41IDQ1QzEwLjA3OTUgNDUgLTIuNDQyNDVlLTA2IDM0LjkzNTQgLTEuODk4ODhlLTA2IDIyLjVaIiBmaWxsPSIjMkM0NDlDIi8+CjxwYXRoIGQ9Ik0yNSAxNkwxOCAyM0wyNSAzMCIgc3Ryb2tlPSIjRjlEN0RGIiBzdHJva2Utd2lkdGg9IjMiLz4KPC9zdmc+Cg==");
+    width: 40px !important;
+    height: 40px;
+    border: none;
+    background-size: 100%;
+    &.fp-next {
+        transform: rotate(180deg);
+    }
+    @include mq($until: tablet) {
+        top: auto;
+        bottom: spacing(2);
+    }
 }
 
 .cookies-banner {
-  background-color: $darkBlue;
-  padding-top: 16px;
-  padding-bottom: 16px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  z-index: 100;
-  transition: transform ease-in-out 0.5s;
-  transform: translateY(100%);
-  transition-delay: 1s;
-
-  &.display {
-    transform: translateY(0);
-  }
-
-  span {
-    display: block;
-    border: 1px solid $pink;
-    padding-left: 6px;
-    padding-right: 6px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    margin-top: 10px;
-    width: max-content;
-
-    @include mq($from: desktop) {
-      display: inline-block;
-      float: right;
-      margin-top: 0;
+    background-color: $darkBlue;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+    transition: transform ease-in-out 0.5s;
+    transform: translateY(100%);
+    transition-delay: 1s;
+    &.display {
+        transform: translateY(0);
     }
-
-    &:hover {
-      background-color: $pink;
-      color: $blue;
+    span {
+        display: block;
+        border: 1px solid $pink;
+        padding-left: 6px;
+        padding-right: 6px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        margin-top: 10px;
+        width: max-content;
+        @include mq($from: desktop) {
+            display: inline-block;
+            float: right;
+            margin-top: 0;
+        }
+        &:hover {
+            background-color: $pink;
+            color: $blue;
+        }
     }
-  }
-
-  p {
-    color: $white;
-  }
-
-  a {
-    color: $pink;
-  }
+    p {
+        color: $white;
+    }
+    a {
+        color: $pink;
+    }
 }
-
