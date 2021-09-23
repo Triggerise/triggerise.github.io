@@ -5,11 +5,11 @@
       <div class="filter" data-click="report-cover">All</div>
       <div class="filter" data-click="AnnualReport">Annual Reports</div>
       <div class="filter" data-click="FinancialReport">Financial Reports</div>
+      <div class="filter" data-click="ANBIStatus">ANBI Status</div>
     </div>
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
     {% assign reports = annualReports | concat: financialReports | sort: "title" %}
-
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
         <div class="report-cover {{report.filter}}">
@@ -24,7 +24,14 @@
           </div>
         </div>
       {% endfor %}
-      </div>
+      {% assign anbis = site.anbi-status %}
+      {% for anbi in anbis%}
+        <div class="report-cover anbi-cover {{anbi.filter}} ">
+          <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" ></a>
+            <h2>{{anbi.label}}</h2>
+            <h3>{{anbi.title}}</h3>
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>

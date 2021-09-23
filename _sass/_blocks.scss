@@ -1828,7 +1828,7 @@ blockquote:after {
       }
     }
 
-    &:nth-child(8n+8) {
+    &:nth-child(8n + 8) {
       background-color: $green;
 
       .four {
@@ -1842,7 +1842,7 @@ blockquote:after {
         color: $darkBlue;
       }
     }
-
+    
     @include mq($from: desktop) {
       width: 24%;
     }
@@ -1885,6 +1885,25 @@ blockquote:after {
     align-items: center
   }
 
+// report cover
+
+.filters {
+  max-width: fit-content;
+  display: flex;
+  margin-bottom: 20px;
+
+  .filter {
+    border: 1px solid $darkBlue;
+    margin-right: 10px;
+    padding: 8px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $darkBlue;
+      color: $pink;
+    }
+  }
+}
 
 
 @keyframes impact{
@@ -2142,7 +2161,7 @@ blockquote:after {
   a {
     color: #999;
   }
-  
+
   a:hover, a:focus {
     color: $darkBlue;
     text-decoration: none;
@@ -2204,9 +2223,7 @@ blockquote:after {
 }
 
 
-// Privacy Policy Page 
-
-
+// Privacy Policy Page
 
 .impact__description-wrapper {
   padding-right: 8%;
@@ -2663,25 +2680,8 @@ blockquote:after {
   text-align: center;
 }
 
-// report cover
 
-.filters {
-  max-width: fit-content;
-  display: flex;
-  margin-bottom: 20px;
 
-  .filter {
-    border: 1px solid $darkBlue;
-    margin-right: 10px;
-    padding: 8px;
-    cursor: pointer;
-
-    &:hover {
-      background-color: $darkBlue;
-      color: $pink;
-    }
-  }
-}
 
 
 //arrows for carousel
