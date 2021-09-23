@@ -229,6 +229,10 @@ function classLists() {
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
 
+function showAnbi() {
+  var anbi = document.getElementById("anbi-cover");
+  anbi.classList.remove('hidden');
+  }
 
 var filtersCheck = document.querySelectorAll('.filter');
 function hideReports(reports) {
@@ -237,6 +241,7 @@ function hideReports(reports) {
     item.style.display = "none";
   });
 }
+
 function filters(){
   var allReports = Array.from(document.querySelectorAll('.report-cover'))
   hideReports(allReports);
@@ -250,7 +255,7 @@ function filters(){
       console.log(selected);
       selected.forEach(s => {
         s.classList.add('display')
-      })  
+      }) 
     });
   });
 }

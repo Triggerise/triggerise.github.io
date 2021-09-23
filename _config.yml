@@ -2,6 +2,9 @@
 title: Triggerise
 timezone: UTC
 collections:
+  anbi-status:
+    title: ANBI Status
+    output: true
   annual-reports:
     title: Annual Reports
     output: true
@@ -38,4 +41,10 @@ defaults:
   values:
     label: Financial Report
     filter: FinancialReport
+- scope:
+    path: ''
+    type: anbi-status
+  values:
+    label: ANBI Status
+    filter: ANBIStatus
 permalink: pretty
