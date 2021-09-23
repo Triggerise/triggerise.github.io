@@ -52,20 +52,6 @@ Jobs:
     your tech skills & knowledge.  Read on to find out more about our Backend Engineer
     position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
-- Job Title: Data Engineer
-  Location: Porto, Portugal
-  Job Description: Do you have an affinity for Data?  Are you able to use tools to
-    interpret and analyze data?  Sounds like you could be our next data engineer,
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
-- Job Title: Financial Controller
-  Location: Amsterdam, The Netherlands
-  Job Description: "Are you an analytical, result orientated professional looking
-    to take your finance career to the next level? Would you be excited to gain international
-    exposure while being part of the team responsible for the business’s complete
-    Financial consolidation? Read on to learn more about our Financial Controller
-    vacancy! \n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
@@ -86,34 +72,19 @@ Jobs:
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? If so, Triggerise could be the place for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
-- Job Title: Front end / Web Engineer
+- Job Title: Frontend / Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
     have experience within the front end space, developing and enhancing websites
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Backend Java Developer
+- Job Title: Backend Java Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
     Do you want to be a part of an innovative team who use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
-- Job Title: Assistant Controller
-  Location: Amsterdam, The Netherlands
-  Job Description: "Are you an analytical, result orientated professional looking
-    to take your finance career to the next level? Would you be excited to gain international
-    exposure while being part of the team responsible for the business’s complete
-    Financial consolidation? Read on to learn more about our Assitant Controller vacancy!
-    \n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=120
-- Job Title: Health & Education Expert Lead
-  Location: 'Global '
-  Job Description: 'Do you possess strategic leadership experience in health as well
-    as education and employability? Are you passionate about the strengthening and
-    expansion of health systems? If so, read on to hear more about the Health & Education
-    Expert Lead position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=127&source=aWQ9MjM%3D
 - Job Title: DevOps Engineer
   Location: Cape Town, Western Cape
   Job Description: Do you have experience building, testing & maintaining tools that
@@ -127,44 +98,6 @@ Jobs:
     strategies across Triggerise’s global markets for all service quality assurance
     for providers? '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=165&source=aWQ9MjM%3D
-- Job Title: Risk Management Auditor
-  Location: Nairobi, Kenya
-  Job Description: Are you detail orientated and analytical in your approach? Do you
-    enjoy developing processes and have a passion for risk management? Read on to
-    hear more about our Risk Auditor role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=111&source=aWQ9MjM%3D
-- Job Title: Project Manager
-  Location: Boucle de Mouhoun, Burkina Faso
-  Job Description: Are you a great communicator and problem solver? Have you worked
-    with multi-functional teams and successfully executed entire projects to a high
-    standard? If so, this role might be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=131&source=aWQ9MjM%3D
-- Job Title: Community Manager
-  Location: Global
-  Job Description: Do you have a fine eye for detail? Are you highly organized and
-    passionate about the employee experience within the workplace? If so, read on
-    to find out more about the Community Manager role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=136&source=aWQ9MjM%3D
-- Job Title: Learning and Development Lead
-  Location: Global
-  Job Description: Can you help us help our people grow? Do you know how to design
-    effective training and onboarding programmes? If so, read on to find out more
-    about our Recruitment Lead role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=141&source=aWQ9MjM%3D
-- Job Title: County Programme Manager
-  Location: Mombasa, Kenya
-  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
-    you like to contribute to Triggerise growth and footprint?  This is the role for
-    you!  Each quarter, Triggerise expands into new geographies, and we are looking
-    for someone with a tech-savvy background to help us to do so.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
-- Job Title: Data Engineering Team Lead
-  Location: Porto, Portugal
-  Job Description: Do you consider yourself an expert in all things data, and have
-    some experience leading a team?  You’re not afraid of complex data sets and tools,
-    actually you thrive most when working with them!  Sounds like you’re a fit for
-    the Data Team Lead position.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=153
 - Job Title: Marketing and Communications Manager
   Location: Addis Ababa, Ethiopia
   Job Description: 'Are you ready to use your marketing expertise to make an impact?
@@ -199,32 +132,12 @@ Jobs:
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
 - Job Title: Data Analyst
-  Location: Global
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation and data modelling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
-- Job Title: Data Analyst
   Location: Nairobi, Kenya
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
     data analysis, visualisation and data modelling techniques to provide insights
     and identify trends in projects that will make an impact? If so, you could be
     our next Data Analyst.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
-- Job Title: Viva Partnership Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you a dynamic professional who thrives most when engaging with
-    people of all levels up to government?  Are you a natural communicator with the
-    ability to work across teams, and bring people together? If so, read on to find
-    out more about The Viva Partnership Manager role.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=164
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=159&source=aWQ9MjM%3D
 - Job Title: Technical Lead Education & Employability
   Location: Addis, Ethiopia
   Job Description: Do you have experience, and in depth knowledge within the field
@@ -243,13 +156,44 @@ Jobs:
   Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
 
 '
-- Job Title: Software Engineering Team Lead
-  Location: Porto, Portugal
+- Job Title: Frontend Engineering Team Lead
+  Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
     and a particular focus on Front End Engineering? Do you want to be a part of an
     innovative team who use their technical skills to make a positive impact? Then
     this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=169
+- Job Title: Principal Java Engineer
+  Location: Global
+  Job Description: Would you consider yourself an expert in the Java engineering space?
+    Would you enjoy forming a part of an innovative team who use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=173&source=aWQ9MjM%3D
+- Job Title: Principal Scala Engineer
+  Location: Global
+  Job Description: Would you consider yourself an expert in the Scala engineering
+    space? Would you enjoy forming a part of an innovative team who use their technical
+    skills to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=174&source=aWQ9MjM%3D
+- Job Title: Storyteller
+  Location: Global
+  Job Description: Are you able to creatively tell a brand’s story through written
+    content? Would you enjoy creating intriguing content with a focus on impact creation?
+    If so, read on to find out more about the Storyteller position at Triggerise!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
+- Job Title: Strategic Growth Lead
+  Location: Global
+  Job Description: 'Are you a seasoned marketing professional driven to design and
+    implement successful global campaigns that drive brand growth? Do you feel that
+    you could increase community adaptation to our platform? Read on because this
+    role could be for you! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=154&source=aWQ9MjM%3D
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join

@@ -13,7 +13,7 @@
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
         <div class="report-cover {{report.filter}}">
-          <a href="{{report.file}}" target="_blank" rel="noopener noreferrer" ></a>
+          <a href="{{report.file}}" aria-label="pdf-report" target="_blank" rel="noopener noreferrer" ></a>
           <h2>{{report.label}}</h2>
           <h3>{{report.title}}</h3>
           <div class="report-image">
