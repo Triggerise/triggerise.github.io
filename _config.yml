@@ -2,14 +2,14 @@
 title: Triggerise
 timezone: UTC
 collections:
+  anbi-status:
+    title: ANBI Status
+    output: true
   annual-reports:
     title: Annual Reports
     output: true
   financial-reports:
     title: Financial Reports
-    output: true
-  anbi-status:
-    title: ANBI Status
     output: true
   posts:
     title: Posts
