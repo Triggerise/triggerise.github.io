@@ -221,6 +221,10 @@ function classLists() {
     document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
 
+function showAnbi() {
+  var anbi = document.getElementById("anbi-cover");
+  anbi.classList.remove('hidden');
+  }
 
 var filtersCheck = document.querySelectorAll('.filter');
 

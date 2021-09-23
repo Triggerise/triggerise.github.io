@@ -52,12 +52,6 @@ Jobs:
     your tech skills & knowledge.  Read on to find out more about our Backend Engineer
     position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
-- Job Title: Data Engineer
-  Location: Porto, Portugal
-  Job Description: Do you have an affinity for Data?  Are you able to use tools to
-    interpret and analyze data?  Sounds like you could be our next data engineer,
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=74
 - Job Title: Mobile Engineer
   Location: Global
   Job Description: Do you have experience creating and maintaining software that enables
@@ -78,14 +72,14 @@ Jobs:
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? If so, Triggerise could be the place for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=166&source=aWQ9MjM%3D
-- Job Title: Front end / Web Engineer
+- Job Title: Frontend / Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
     have experience within the front end space, developing and enhancing websites
     and mobile applications?  If you thrive most when you are a creating user-friendly
     solutions, with a greater impact in mind, then this could be the role for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
-- Job Title: Backend Java Developer
+- Job Title: Backend Java Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
     Do you want to be a part of an innovative team who use their technical skills
@@ -104,19 +98,6 @@ Jobs:
     strategies across Triggerise’s global markets for all service quality assurance
     for providers? '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=165&source=aWQ9MjM%3D
-- Job Title: Risk Management Auditor
-  Location: Nairobi, Kenya
-  Job Description: Are you detail orientated and analytical in your approach? Do you
-    enjoy developing processes and have a passion for risk management? Read on to
-    hear more about our Risk Auditor role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=111&source=aWQ9MjM%3D
-- Job Title: County Programme Manager
-  Location: Mombasa, Kenya
-  Job Description: Are you looking for an ever-changing, and evolving working environment?  Would
-    you like to contribute to Triggerise growth and footprint?  This is the role for
-    you!  Each quarter, Triggerise expands into new geographies, and we are looking
-    for someone with a tech-savvy background to help us to do so.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=144&source=aWQ9MjM%3D
 - Job Title: Marketing and Communications Manager
   Location: Addis Ababa, Ethiopia
   Job Description: 'Are you ready to use your marketing expertise to make an impact?
@@ -151,26 +132,12 @@ Jobs:
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
 - Job Title: Data Analyst
-  Location: Global
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation and data modelling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
-- Job Title: Data Analyst
   Location: Nairobi, Kenya
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
     data analysis, visualisation and data modelling techniques to provide insights
     and identify trends in projects that will make an impact? If so, you could be
     our next Data Analyst.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=160&source=aWQ9MjM%3D
-- Job Title: Viva Partnership Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you a dynamic professional who thrives most when engaging with
-    people of all levels up to government?  Are you a natural communicator with the
-    ability to work across teams, and bring people together? If so, read on to find
-    out more about The Viva Partnership Manager role.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=164
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=159&source=aWQ9MjM%3D
 - Job Title: Technical Lead Education & Employability
   Location: Addis, Ethiopia
   Job Description: Do you have experience, and in depth knowledge within the field
@@ -189,8 +156,8 @@ Jobs:
   Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
 
 '
-- Job Title: Front End Engineering Team Lead
-  Location: Porto, Portugal
+- Job Title: Frontend Engineering Team Lead
+  Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
     and a particular focus on Front End Engineering? Do you want to be a part of an
     innovative team who use their technical skills to make a positive impact? Then
@@ -211,7 +178,7 @@ Jobs:
 - Job Title: Storyteller
   Location: Global
   Job Description: Are you able to creatively tell a brand’s story through written
-    content? Would enjoy creating intriguing content with a focus on impact creation?
+    content? Would you enjoy creating intriguing content with a focus on impact creation?
     If so, read on to find out more about the Storyteller position at Triggerise!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
 - Job Title: Strategic Growth Lead
