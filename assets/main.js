@@ -308,6 +308,15 @@ function init(){
 
 //Includes Jobs.html
 
+var $ = jQuery;
+
 $('.card-flip').hover( function () {
   $('.uk-card').toggleClass('flipped');
+});
+
+//Anchor Tags
+var anchors = document.querySelectorAll('a');
+anchors.forEach((a) => {
+  a.setAttribute('target', '__blank');
+  a.setAttribute('rel', 'noopener noreferrer');
 });
