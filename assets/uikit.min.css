@@ -1,162 +1,123 @@
-/* ========================================================================
-Component: Grid
- ========================================================================== */
 .uk-grid {
-  display: flex;
-  /* 1 */
-  flex-wrap: wrap;
-  /* 2 */
-  margin: 0;
-  padding: 0;
-  list-style: none;
+    display: flex;
+    /* 1 */
+    flex-wrap: wrap;
+    /* 2 */
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
-.uk-grid > * {
-  margin: 0;
-}
-/*
- * Remove margin from the last-child
- */
-.uk-grid > * > :last-child {
-  margin-bottom: 0;
-}
-/* Gutter
- ========================================================================== */
-/*
- * Default
- */
-/* Horizontal */
-.uk-grid {
-  margin-left: -30px;
-}
-.uk-grid > * {
-  padding-left: 30px;
-}
-
-/* Desktop and bigger */
-@media (min-width: 1200px) {
-  /* Horizontal */
-  .uk-grid {
-    margin-left: -40px;
-  }
   .uk-grid > * {
+    margin: 0;
+}
+  .uk-grid > * > :last-child {
+    margin-bottom: 0;
+}
+
+.uk-grid {
+    margin-left: -30px;
+}
+  .uk-grid > * {
+    padding-left: 30px;
+}
+
+  /* Desktop and bigger */
+@media (min-width: 1200px) {
+    /* Horizontal */
+.uk-grid {
+    margin-left: -40px;
+    }
+.uk-grid > * {
     padding-left: 40px;
-  }
+    }
 
 }
-/*
- * Collapse
- */
-/* Horizontal */
+
 .uk-grid-collapse,
 .uk-grid-column-collapse {
-  margin-left: 0;
+    margin-left: 0;
 }
-.uk-grid-collapse > *,
-.uk-grid-column-collapse > * {
-  padding-left: 0;
+  .uk-grid-collapse > *,
+  .uk-grid-column-collapse > * {
+    padding-left: 0;
 }
 
-/* Match child of a grid cell
- ========================================================================== */
 .uk-grid-match > *,
 .uk-grid-item-match {
-  display: flex;
-  /* 1 */
-  flex-wrap: wrap;
+    display: flex;
+    /* 1 */
+    flex-wrap: wrap;
 }
+
 .uk-grid-match > * > :not([class*='uk-width']),
 .uk-grid-item-match > :not([class*='uk-width']) {
-  /* 2 */
-  box-sizing: border-box;
-  width: 100%;
-  /* 3 */
-  flex: auto;
+    /* 2 */
+    box-sizing: border-box;
+    width: 100%;
+    /* 3 */
+    flex: auto;
 }
 
-/* ========================================================================
-Component: Card
- ========================================================================== */
 .uk-card {
-  position: relative;
-  box-sizing: border-box;
-  transition: box-shadow 0.1s ease-in-out;
-}
-/* Sections
- ========================================================================== */
-.uk-card-body {
-  display: flow-root;
-  padding: 30px 30px;
+    position: relative;
+    box-sizing: border-box;
+    transition: box-shadow 0.1s ease-in-out;
 }
 
-/* Desktop and bigger */
-@media (min-width: 1200px) {
-  .uk-card-body {
-    padding: 40px 40px;
-  }
+.uk-card-body {
+    display: flow-root;
+    padding: 30px 30px;
 }
-/*
- * Remove margin from the last-child
- */
+
+  /* Desktop and bigger */
+@media (min-width: 1200px) {
+    .uk-card-body {
+    padding: 40px 40px;
+    }
+}
+
 .uk-card-body > :last-child,
 .uk-card-header > :last-child,
 .uk-card-footer > :last-child {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 
-/* ========================================================================
-Component: Leader
- ========================================================================== */
+
 :root {
-  --uk-leader-fill-content: .;
-}
-/* ========================================================================
-Component: Width
- ========================================================================== */
-/* Equal child widths
- ========================================================================== */
-[class*='uk-child-width'] > * {
-  box-sizing: border-box;
-  width: 100%;
-}
-/* Phone landscape and bigger */
-@media (min-width: 640px) {
-  .uk-child-width-1-2\@s > * {
-    width: 50%;
-  }
+    --uk-leader-fill-content: .;
 }
 
-/* ========================================================================
-Component: Cover
- ========================================================================== */
-/* Container
- ========================================================================== */
+[class*='uk-child-width'] > * {
+    box-sizing: border-box;
+    width: 100%;
+}
+  /* Phone landscape and bigger */
+@media (min-width: 640px) {
+    .uk-child-width-1-2\@s > * {
+    width: 50%;
+    }
+}
 
 .uk-cover-container {
-  /* 1 */
-  overflow: hidden;
-  /* 2 */
-  position: relative;
+    /* 1 */
+    overflow: hidden;
+    /* 2 */
+    position: relative;
 }
 
-/* ========================================================================
-Component: Flex
- ========================================================================== */
-/* Phone landscape and bigger */
+  /* Phone landscape and bigger */
 @media (min-width: 640px) {
-  .uk-flex-last\@s {
+    .uk-flex-last\@s {
     order: 99;
-  }
+    }
 }
 
-/* ========================================================================
-Component: Margin
- ========================================================================== */
 .uk-margin {
-  margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 * + .uk-margin {
-  margin-top: 20px !important;
+    margin-top: 20px !important;
 }
 .uk-margin-remove {
-  margin: 0 !important;
+    margin: 0 !important;
 }
