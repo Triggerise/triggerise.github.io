@@ -2450,10 +2450,9 @@ blockquote:after {
     width: 100%;
     z-index: 100;
     transition: transform ease-in-out 0.5s;
-    transform: translateY(100%);
     transition-delay: 1s;
     &.display {
-        transform: translateY(0);
+        transform: translateY(100%);
     }
     span {
         display: block;
