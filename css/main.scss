@@ -1,15 +1,12 @@
 ---
 ---
-
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "mq",
-        "colours",
-        "type",
-        "mxvar",
-        "base",
-        "layout",
-        "blocks",
-        "syntax-highlighting",
-        "map"
-;
+@import "mq",
+"colours",
+"type",
+"mxvar",
+"base",
+"layout",
+"blocks",
+"syntax-highlighting",
+"map";
