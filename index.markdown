@@ -294,7 +294,7 @@ CTA-Block:
   CTA Link: "/contact/"
   CTA-Two: Join us
   CTA-Two-Link: "/join-us/"
-  CTA-Image: "/uploads/Triggerise_CTA_footer.png"
+  CTA-Image: "/uploads/Triggerise_CTA_footer.webp"
   CTA-Image-two: "/uploads/Mark_triggerise_animate.gif"
 Our-Model-Link: "/what-we-do"
 layout: home
