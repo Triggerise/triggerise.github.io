@@ -2,7 +2,7 @@
 title: What we do
 date: 2020-07-09 17:29:00 Z
 Title: Big ambitions | Better futures
-Splash-image: "/uploads/photo-1531123414780-f74242c2b052.jpeg"
+Splash-image: "/uploads/lady_laughing.webp"
 Supporting-title: Making big impact possible
 Description: "### Young people across Africa and India are using our Tiko platform
   to make positive life decisions. We connect our members' needs to existing local
@@ -14,7 +14,7 @@ Description: "### Young people across Africa and India are using our Tiko platfo
   to foster long-lasting healthy behaviours. Currently we connect primarily adolescent
   girls and young mothers to a variety of sexual and reproductive health (SRH) services
   and antenatal care (ANC) from local providers."
-Supporting-image: "/uploads/TRIGGERISE%20KIBERA%20139.jpg"
+Supporting-image: "/uploads/TRIGGERISE-KIBERA-139.webp"
 What-section-one-title: Thriving Ecosystems | Big impact
 What-section-one-description: "Tiko connects across supply and demand, building networks
   of donors, local services and communities to deliver joined-up health services on
@@ -55,9 +55,8 @@ Summary-title: Our model
 Summarty-text: Our Tiko model delivers a new way to collaborate, a better way to motivate
   young people and a more efficient way to manage programmes. All this means more
   impact at scale and at a lower cost. We trigger change, for good.
-Supporting-two-Image: "/uploads/1088809.jpg"
-Support-three-Image: "/uploads/GettyImages-1159160676.jpg"
+Supporting-two-Image: "/uploads/lady_with_mobile_phone.webp"
+Support-three-Image: "/uploads/lady_in_sari.webp"
 layout: whatwedo
 ---
-
 

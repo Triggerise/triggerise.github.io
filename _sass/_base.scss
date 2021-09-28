@@ -98,28 +98,10 @@ img {
 }
 
 /**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
-}
-
-/**
  * Lists
  */
 ul, ol {
     margin-left: $spacing-unit;
-}
-
-li {
-    > ul,
-    > ol {
-        margin-bottom: 0;
-    }
 }
 
 /**
@@ -165,17 +147,6 @@ blockquote {
 /**
  * Code formatting
  */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
-}
-
-code {
-    padding: 1px 5px;
-}
 
 pre {
     padding: 8px 12px;
