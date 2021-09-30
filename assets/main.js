@@ -238,24 +238,24 @@ function hideReports(reports) {
 }
 
 function filters(){
-  var allReports = Array.from(document.querySelectorAll('.report-cover'))
+  var allReports = Array.from(document.querySelectorAll('.report-cover'));
   hideReports(allReports);
   var initialReports = allReports.slice(0, 4);
   initialReports.forEach( e  => e.classList.add('display'));
-  filtersCheck.forEach(f =>{
+  filtersCheck.forEach(f => {
     f.addEventListener('click', function(){
       hideReports(allReports)
       var data = this.dataset.click;
-      var selected = document.querySelectorAll('.report-cover.' + data);
+      var selected = document.querySelectorAll('.' + data);
       console.log(selected);
       selected.forEach(s => {
-        s.classList.add('display')
+        s.classList.add('display');
       });
     });
   });
 }
 
-//Policy Select 
+//Policy Select
 
 var selectedPolicy = document.querySelectorAll('.link');
 

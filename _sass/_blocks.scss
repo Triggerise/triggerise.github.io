@@ -458,9 +458,6 @@
 .full {
     position: relative;
     min-height: 60vh;
-    @include mq($from: desktop) {
-        min-height: 90vh;
-    }
     .t_one_layout {
         font-size: 35px;
     }
