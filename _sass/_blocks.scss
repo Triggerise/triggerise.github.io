@@ -690,6 +690,175 @@ a.active-policy.policy-link {
 .wrapper policy-plan {
     max-width: 1000px;
 }
+
+.ecoSystem {
+    height: auto;
+    .ecosystem-map {
+        position: relative;
+        height: 290px;
+        max-height: 90vh;
+        margin-left: auto;
+        margin-right: auto;
+        overflow: hidden;
+        @include mq($from: desktop) {
+            height: 430px;
+            margin-top: spacing(4);
+        }
+        @include mq($from: wide) {
+            height: 600px;
+        }
+        svg {
+            position: absolute;
+            top: 0;
+            width: 160%;
+            height: auto;
+            left: 50%;
+            transform: translateX(-50%);
+            @include mq($from: desktop) {
+                height: auto;
+                width: 80%;
+            }
+        }
+    }
+    svg {
+        display: block;
+        opacity: 0;
+    }
+    h3 {
+        text-align: center;
+        font-size: map-get($font-scale, 3);
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: spacing(3);
+        @include mq($from: desktop) {
+            width: 80%;
+        }
+    }
+    .key {
+        width: 100%;
+        border-top: 1px solid $darkBlue;
+        display: flex;
+        margin-top: spacing(3);
+        padding-top: spacing(1);
+        padding-bottom: spacing(5);
+        flex-direction: column;
+        position: sticky;
+        top: 0;
+        @include mq($from: desktop) {
+            flex-direction: column;
+            padding-bottom: spacing(10);
+            position: absolute;
+            top: 90px;
+            width: 210px;
+        }
+        ul {
+            list-style: none;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            @include mq($from: desktop) {
+                flex-direction: column;
+            }
+            &.line-key {
+                li {
+                    color: $darkBlue;
+                    &:before {
+                        background-color: $blue;
+                        border-radius: 0;
+                        width: 40px;
+                    }
+                    &:nth-child(2) {
+                        &:before {
+                            background-color: transparent;
+                            border-bottom: 6px dashed $blue;
+                            border-top: 6px dashed $blue;
+                            height: 0px
+                        }
+                    }
+                }
+            }
+        }
+        li {
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+            margin-right: 10px;
+            &:before {
+                width: 12px;
+                height: 12px;
+                background-color: $darkBlue;
+                display: inline-block;
+                content: '';
+                margin-right: 2px;
+                border-radius: 50%;
+            }
+            &:nth-child(2) {
+                color: $pink;
+                &:before {
+                    background-color: $pink;
+                }
+            }
+            &:nth-child(3) {
+                color: $yellow;
+                &:before {
+                    background-color: $yellow;
+                }
+            }
+            &:nth-child(4) {
+                color: $orange;
+                &:before {
+                    background-color: $orange;
+                }
+            }
+            &:nth-child(5) {
+                color: $green;
+                &:before {
+                    background-color: $green;
+                }
+            }
+            &:nth-child(6) {
+                color: $lightBlue;
+                &:before {
+                    background-color: $lightBlue;
+                }
+            }
+        }
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@for $i from 1 through 9 {
+    .ecoSystem .ecosystem-map.display svg:nth-child(#{$i}) {
+        animation-name: fadeIn;
+        animation-duration: 0.5s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: 1;
+        animation-delay: $i * 0.75s;
+    }
+}
+
+.ecosystem-map svg.dash {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    transition-delay: 5.5s;
+}
+
+.ecoSystem .ecosystem-map.display svg.dash {
+    opacity: 1;
+    animation: dash 9s linear;
+    animation-iteration-count: infinite;
+    z-index: -1;
+}
+
 .center {
     position: relative;
     h2 {
@@ -805,7 +974,8 @@ a.active-policy.policy-link {
     padding-bottom: 0;
 }
 
-//Join Us Text
+
+//Join Us Text 
 blockquote {
     border: none;
     color: $darkBlue;
@@ -1471,6 +1641,7 @@ blockquote:after {
             width: 24%;
         }
     }
+  
     // Reports SVG
     svg {
         position: absolute;
@@ -1580,7 +1751,6 @@ blockquote:after {
             }
         }
     }
-    
   }
   .report-image, {
     width: 100px;
