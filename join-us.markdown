@@ -194,6 +194,34 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Programme Lead
+  Location: Nairobi, Kenya
+  Job Description: "Would you like to work together with a supportive and young-spirited
+    team to make an impact in this world? Are you looking for a long-term secured
+    job opportunity that gives you a safe and stable environment to grow in? Then
+    you might love working with us! Read more about our open position as Programme
+    Lead.\n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
+- Job Title: M&E Specialist
+  Location: Nairobi, Kenya
+  Job Description: Are you an analytical individual who pays close attention to detail?  Do
+    you understand how best to ensure that our data can be collected, processed &
+    analyzed in order to make evidence-driven decisions? Continue reading to find
+    out more about our M&E Specialist role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=175
+- Job Title: M&E Specialist
+  Location: Addis Ababa, Ethiopia
+  Job Description: Are you an analytical individual who pays close attention to detail?  Do
+    you understand how best to ensure that our data can be collected, processed &
+    analyzed in order to make evidence-driven decisions? Continue reading to find
+    out more about our M&E Specialist role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=196
+- Job Title: Customer Support Officer
+  Location: Porto, Portugal
+  Job Description: Do you have experience in troubleshooting and solving urgent technical
+    issues with great efficiency? Do you have a good eye for detail and know how to
+    prioritise? Continue reading, this might be your next job!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=104
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
