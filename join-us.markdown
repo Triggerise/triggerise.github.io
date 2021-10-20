@@ -59,7 +59,7 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Frontend / Web Engineer
+- Job Title: Web Engineer
   Location: Global
   Job Description: We have an open position for a Front End / Web Engineer! Do you
     have experience within the front end space, developing and enhancing websites
@@ -118,13 +118,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
-- Job Title: Data Analyst
-  Location: Nairobi, Kenya
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation and data modelling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=159&source=aWQ9MjM%3D
 - Job Title: Technical Lead Education & Employability
   Location: Addis, Ethiopia
   Job Description: Do you have experience, and in depth knowledge within the field
@@ -143,7 +136,7 @@ Jobs:
   Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
 
 '
-- Job Title: Frontend Engineering Team Lead
+- Job Title: Web Engineering Team Lead
   Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
     and a particular focus on Front End Engineering? Do you want to be a part of an
@@ -168,13 +161,6 @@ Jobs:
     content? Would you enjoy creating intriguing content with a focus on impact creation?
     If so, read on to find out more about the Storyteller position at Triggerise!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
-- Job Title: Strategic Growth Lead
-  Location: Global
-  Job Description: 'Are you a seasoned marketing professional driven to design and
-    implement successful global campaigns that drive brand growth? Do you feel that
-    you could increase community adaptation to our platform? Read on because this
-    role could be for you! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=154&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Nairobi, Kenya
   Job Description: "Would you like to work together with a supportive and young-spirited
