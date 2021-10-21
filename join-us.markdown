@@ -118,7 +118,7 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
-- Job Title: Technical Lead Education & Employability
+- Job Title: Project Manager with a focus on Employability.
   Location: Addis, Ethiopia
   Job Description: Do you have experience, and in depth knowledge within the field
     of Education and Employability?  Are you looking to help guide operations to have
