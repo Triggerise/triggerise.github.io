@@ -1,6 +1,3 @@
-console.log('Welcome to Triggerise');
-console.log('Built by Umbrella Studios');
-
 //utils
 function elementInViewport(el) {
   var top = el.offsetTop;
@@ -42,11 +39,9 @@ function loadJSON(path, success, error) {
 
 //counter
 window.onload = function() {
-
   loadJSON("https://oblivion.movercado.org/api/metrics/website", function(data) {
 
   //api
-  console.log(data);
   var homepage = data.global.active_rafikis;
   var userTotal = data.global.active_rafikis;
   var servicesTotal = data.global.number_of_services;
@@ -56,9 +51,9 @@ window.onload = function() {
   var milesTotal = data.global.tiko_miles;
 
   //not in API
-  var serviceUptake = 91;
-  var repeatBehaviour = 6;
-  var providerRatings = 87;
+  var serviceUptake = data?.conversion_rate?.[0]?.size || 0;
+  var repeatBehaviour = data?.repeat_visit?.[0]?.size || 0;
+  var providerRatings = data?.top_business?.[0]?.size || 0;
 
   var home = document.querySelector('#countup');
   var impactTotal = document.querySelector('#total-users');
