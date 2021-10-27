@@ -98,12 +98,6 @@ Jobs:
     enjoy developing processes and have a passion for risk management? Read more to
     find out about our Risk Management Auditor position.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=163
-- Job Title: Grants Writer
-  Location: Global
-  Job Description: Are you able to write in a persuasive and professional way? Would
-    you enjoy writing proposals for projects that have the potential to bring about
-    long-term positive change within underserved communities?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=167&source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Uganda, Kampala
   Job Description: Have you developed procedures that ensure world-class services
@@ -118,7 +112,7 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
-- Job Title: Technical Lead Education & Employability
+- Job Title: Project Manager with a focus on Employability
   Location: Addis, Ethiopia
   Job Description: Do you have experience, and in depth knowledge within the field
     of Education and Employability?  Are you looking to help guide operations to have
