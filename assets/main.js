@@ -1,6 +1,3 @@
-console.log('Welcome to Triggerise');
-console.log('Built by Umbrella Studios');
-
 //utils
 function elementInViewport(el) {
   var top = el.offsetTop;
@@ -20,7 +17,7 @@ function elementInViewport(el) {
     (top + height) <= (window.pageYOffset + window.innerHeight) &&
     (left + width) <= (window.pageXOffset + window.innerWidth)
   );
-};
+}
 
 function loadJSON(path, success, error) {
     var xhr = new XMLHttpRequest();
@@ -42,23 +39,21 @@ function loadJSON(path, success, error) {
 
 //counter
 window.onload = function() {
-
   loadJSON("https://oblivion.movercado.org/api/metrics/website", function(data) {
 
   //api
-  console.log(data);
   var homepage = data.global.active_rafikis;
   var userTotal = data.global.active_rafikis;
   var servicesTotal = data.global.number_of_services;
-  var partnersTotal = data.ecosystems[0].size;
-  var partnersTotalIndia = data.ecosystems[1].size;
-  var partnersTotalEthiopia = data.ecosystems[2].size;
+  const partnersTotalKenya = data?.ecosystems?.find(obj => obj.country === 'Kenya')?.size;
+  const partnersTotalIndia = data?.ecosystems?.find(obj => obj.country === 'India')?.size;
+  const partnersTotalEthiopia = data?.ecosystems?.find(obj => obj.country === 'Ethiopia')?.size;
   var milesTotal = data.global.tiko_miles;
 
   //not in API
-  var serviceUptake = 91;
-  var repeatBehaviour = 6;
-  var providerRatings = 87;
+  let serviceUptake = data?.conversion_rate?.[0]?.size || 0;
+  let repeatBehaviour = data?.repeat_visit?.[0]?.size || 0;
+  let providerRatings = data?.top_business?.[0]?.size || 0;
 
   var home = document.querySelector('#countup');
   var impactTotal = document.querySelector('#total-users');
@@ -70,6 +65,24 @@ window.onload = function() {
   var serviceUptakeSelect = document.querySelector('#serviceUptake');
   var repeatBehaviourSelect = document.querySelector('#repeatBehaviour');
   var providerRatingsSelect = document.querySelector('#providerRatings');
+  let serviceUptakeTitle = document.querySelector('#serviceUptakeTitle');
+  let repeatBehaviourTitle = document.querySelector('#repeatBehaviourTitle');
+  let providerRatingsTitle = document.querySelector('#providerRatingsTitle');
+
+  if(serviceUptake === 0){
+    serviceUptake = 91;
+    serviceUptakeTitle.textContent = "of our members enrolled in Kenya visited a provider in the month of July 2020";
+  }
+
+  if(repeatBehaviour === 0){
+    repeatBehaviour = 6;
+    repeatBehaviourTitle.textContent = "of our members in Kenya who took a service were repeat users in the month of July 2020";
+  }
+
+  if(providerRatings === 0){
+    providerRatings = 87;
+    providerRatingsTitle.textContent = "of all our providers in Kenya in the month of July 2020 were rated 5 stars";
+  }
 
   ///THIS NEEDS REFACTOR
 
@@ -95,7 +108,7 @@ window.onload = function() {
 
     if(partners && !partners.classList.contains('counted')){
         partners.classList.add('counted');
-        var countUp = new CountUp('partnersKenya', 0, partnersTotal);
+        var countUp = new CountUp('partnersKenya', 0, partnersTotalKenya);
         countUp.start();
     }
 
