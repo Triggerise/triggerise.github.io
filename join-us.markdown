@@ -92,12 +92,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Risk Management Auditor
-  Location: Addis Ababa, Ethiopia
-  Job Description: Are you detail orientated and analytical in your approach? Do you
-    enjoy developing processes and have a passion for risk management? Read more to
-    find out about our Risk Management Auditor position.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=163
 - Job Title: Service Quality Specialist
   Location: Uganda, Kampala
   Job Description: Have you developed procedures that ensure world-class services
@@ -120,16 +114,6 @@ Jobs:
     Lead, you help steer and advise the best way to create impact within Education
     & Employability, read on to find out more.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=170
-- Job Title: Technical Lead Mental Health
-  Location: Mombasa, Kenya
-  Job Description: Do you have experience, and in depth knowledge within the field
-    of Mental Health?  Are you looking to help guide operations to have maximise the
-    impact we're able to have across this domain?  In the role of Technical Lead,
-    you help steer and advise the best way to create impact across the Mental Health
-    space, read on to find out more.
-  Link: 'https://triggerise.bamboohr.com/jobs/view.php?id=171
-
-'
 - Job Title: Web Engineering Team Lead
   Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
@@ -149,12 +133,6 @@ Jobs:
     space? Would you enjoy forming a part of an innovative team who use their technical
     skills to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=174&source=aWQ9MjM%3D
-- Job Title: Storyteller
-  Location: Global
-  Job Description: Are you able to creatively tell a brand’s story through written
-    content? Would you enjoy creating intriguing content with a focus on impact creation?
-    If so, read on to find out more about the Storyteller position at Triggerise!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=168&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Nairobi, Kenya
   Job Description: "Would you like to work together with a supportive and young-spirited
