@@ -26,19 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Java Engineering Team Lead
-  Location: Global
-  Job Description: Are you a problem-solver with a background in software development?
-    Do you want to be a part of an innovative team who use their technical skills
-    to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=130&source=aWQ9MjM%3D
-- Job Title: Scala Engineering Team Lead
-  Location: Global
-  Job Description: 'You’ve gained experience in the software development space, and
-    want to continue working on innovative projects, whilst making an impact with
-    your tech skills & knowledge.  Read on to find out more about our Scala Engineering
-    Team Lead position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=129&source=aWQ9MjM%3D
 - Job Title: 'Account Manager '
   Location: Addis Ababa, Ethiopia
   Job Description: 'Are you the person that can assure we create impact in Ethiopia
@@ -141,20 +128,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: M&E Specialist
-  Location: Nairobi, Kenya
-  Job Description: Are you an analytical individual who pays close attention to detail?  Do
-    you understand how best to ensure that our data can be collected, processed &
-    analyzed in order to make evidence-driven decisions? Continue reading to find
-    out more about our M&E Specialist role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=175
-- Job Title: M&E Specialist
-  Location: Addis Ababa, Ethiopia
-  Job Description: Are you an analytical individual who pays close attention to detail?  Do
-    you understand how best to ensure that our data can be collected, processed &
-    analyzed in order to make evidence-driven decisions? Continue reading to find
-    out more about our M&E Specialist role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=196
 - Job Title: Customer Support Officer
   Location: Porto, Portugal
   Job Description: Do you have experience in troubleshooting and solving urgent technical
