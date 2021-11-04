@@ -509,16 +509,6 @@
     }
 }
 
-//classList
-.centered-data {
-    @include mq($from: desktop) {
-        position: absolute;
-        top: 50%;
-        left: 0;
-        transform: translateY(-50%);
-    }
-}
-
 @keyframes dash {
     to {
         stroke-dashoffset: -200;
@@ -972,7 +962,7 @@ a.active-policy.policy-link {
 }
 
 
-//Join Us Text 
+//Join Us Text
 blockquote {
     border: none;
     color: $darkBlue;
@@ -1084,7 +1074,7 @@ blockquote:before {
     justify-content: center;
 }
 
-//Join Us Text 
+//Join Us Text
 blockquote {
     border: none;
     color: $darkBlue;
@@ -1442,16 +1432,9 @@ blockquote:after {
 
 .what-we-do {
     .center-container {
-        margin-top: 35px;
         position: relative;
         padding-top: 10px;
-        padding-bottom: 100px;
-        @include mq($from: desktop) {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            padding-top: 0;
-        }
+        padding-bottom: 35px;
     }
     h2 {
         padding-left: 30px;
@@ -2024,7 +2007,7 @@ blockquote:after {
     }
 }
 
-// Privacy Policy Page 
+// Privacy Policy Page
 .impact__description-wrapper {
     padding-right: 8%;
     box-sizing: border-box;
@@ -2153,7 +2136,7 @@ blockquote:after {
     }
 }
 
-// The flip card container 
+// The flip card container
 .flip-card {
     display: flex;
     margin-left: auto;
@@ -2164,7 +2147,7 @@ blockquote:after {
     perspective: 1000px;
 }
 
-// This container positions the front and back side 
+// This container positions the front and back side
 .flip-card-inner {
     position: absolute;
     width: 100%;
@@ -2179,7 +2162,7 @@ blockquote:after {
     transform: rotateY(180deg);
 }
 
-// Positions the front and back side 
+// Positions the front and back side
 .flip-card-front,
 .flip-card-back {
     position: absolute;
@@ -2253,7 +2236,7 @@ blockquote:after {
     }
 }
 
-// The flip card container 
+// The flip card container
 .flip-card {
     display: flex;
     margin-left: auto;
