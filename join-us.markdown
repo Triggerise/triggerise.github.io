@@ -46,13 +46,6 @@ Jobs:
     a positive impact with tech?  Read on to find out more about our Mobile Developer
     position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Web Engineer
-  Location: Global
-  Job Description: We have an open position for a Front End / Web Engineer! Do you
-    have experience within the front end space, developing and enhancing websites
-    and mobile applications?  If you thrive most when you are a creating user-friendly
-    solutions, with a greater impact in mind, then this could be the role for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=57
 - Job Title: Backend Java Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
@@ -128,12 +121,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: Customer Support Officer
-  Location: Porto, Portugal
-  Job Description: Do you have experience in troubleshooting and solving urgent technical
-    issues with great efficiency? Do you have a good eye for detail and know how to
-    prioritise? Continue reading, this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=104
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
