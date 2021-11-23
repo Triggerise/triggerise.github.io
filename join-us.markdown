@@ -114,13 +114,21 @@ Jobs:
     skills to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=174&source=aWQ9MjM%3D
 - Job Title: Programme Lead
-  Location: Global
+  Location: Ethiopia
   Job Description: "Would you like to work together with a supportive and young-spirited
     team to make an impact in this world? Are you looking for a long-term secured
     job opportunity that gives you a safe and stable environment to grow in? Then
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
+- Job Title: 'Programme Lead (French Speaking) '
+  Location: Global
+  Job Description: Would you like to work together with a supportive and young-spirited
+    team to make an impact in this world? Are you looking for a long-term secured
+    job opportunity that gives you a safe and stable environment to grow in? Then
+    you might love working with us! Read more about our open position as Programme
+    Lead.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=211&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
