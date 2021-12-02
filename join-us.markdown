@@ -26,12 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: 'Account Manager '
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Are you the person that can assure we create impact in Ethiopia
-    ? Are you able to operate at a strategic level? If so, read on to find out more
-    about the Account Manager role!  '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=132&source=aWQ9MjM%3D
 - Job Title: Backend Scala Engineer
   Location: Global
   Job Description: 'You’ve gained experience in the software development space, and
@@ -86,14 +80,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
-- Job Title: Project Manager with a focus on Employability
-  Location: Addis, Ethiopia
-  Job Description: Do you have experience, and in depth knowledge within the field
-    of Education and Employability?  Are you looking to help guide operations to have
-    maximise the impact we're able to have across this domain?  In the role of Technical
-    Lead, you help steer and advise the best way to create impact within Education
-    & Employability, read on to find out more.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=170
 - Job Title: Web Engineering Team Lead
   Location: Portugal
   Job Description: Are you a problem-solver with a background in software development
@@ -121,8 +107,8 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: 'Programme Lead (French Speaking) '
-  Location: Global
+- Job Title: Programme Lead
+  Location: Kenya
   Job Description: Would you like to work together with a supportive and young-spirited
     team to make an impact in this world? Are you looking for a long-term secured
     job opportunity that gives you a safe and stable environment to grow in? Then
