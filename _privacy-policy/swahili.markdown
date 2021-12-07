@@ -224,7 +224,7 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   kutoleewa vitambulishi (habari zilizo tolewa vitambulishi zinaweza wekwa) ama ziharibiwe
   kwa usalama.\n\n**SEHEMU YA NANE- HAKI ZAKO**\n\nChini ya GDPR, unahaki kadhaa kulingana
   na habari zako za kibinafsi (kama ilivyotajwa hapo chini). Haki hizi zote zinaweza
-  kutumika kwa kuwasiliana nasi kwa <privacy@triggerise.org>.\n\n**Haki ya kutoa ruhusa**:
+  kutumika kwa kuwasiliana nasi kwa <privacy@triggerise.org>.\n\n**Haki ya kutoa ruhusa:**
   una haki ya kuondoa ruhusa yako wakati wowote kwa kuwasiliana nasi kutumia barua
   pepe kwa anwani ifuatayo:<privacy@triggerise.org> ama kwa kutuma ujumbe mfupi kwa
   namba zozote fupi ambazo tunatumia kwa nchi ambazo tunafanya kazi. Kwa kuondoa ruhusa
