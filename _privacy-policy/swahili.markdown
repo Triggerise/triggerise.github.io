@@ -1,7 +1,6 @@
 ---
 title: Swahili
 date: 2021-04-18 00:00:00 Z
-layout: simple
 file: "/privacy-policy/swahili.markdown"
 description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri na
   data ya kibinafsi ni ya muhimu kwa Triggerise stitching na wahusika wake <sup>1</sup>
@@ -227,9 +226,9 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   na habari zako za kibinafsi (kama ilivyotajwa hapo chini). Haki hizi zote zinaweza
   kutumika kwa kuwasiliana nasi kwa <privacy@triggerise.org>.\n\n**Haki ya kutoa ruhusa**:
   una haki ya kuondoa ruhusa yako wakati wowote kwa kuwasiliana nasi kutumia barua
-  pepe kwa anwani ifuatayo**:** <privacy@triggerise.org> ama kwa kutuma ujumbe mfupi
-  kwa namba zozote fupi ambazo tunatumia kwa nchi ambazo tunafanya kazi. Kwa kuondoa
-  ruhusa yako, uhalali wa mchakato kwa msingi wa ruhusa hadi pale ambapo unatoka hautaathirika.**
+  pepe kwa anwani ifuatayo:<privacy@triggerise.org> ama kwa kutuma ujumbe mfupi kwa
+  namba zozote fupi ambazo tunatumia kwa nchi ambazo tunafanya kazi. Kwa kuondoa ruhusa
+  yako, uhalali wa mchakato kwa msingi wa ruhusa hadi pale ambapo unatoka hautaathirika.
   \n\n**Haki ya kupinga:** una haki ya kupinga chini ya sharia za Makala ya 21 DSGVO.
   Utapata habari Zaidi hapo chini:\n\n**Haki ya kukataa iwapo mchakato una msingi
   wa mvuto wa kisheria:** kama mhusika wa data, una haki ya kupinga kwa madai yanayohusika
@@ -246,7 +245,7 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   hiyo isipokuwa kama kuchakata ni kwa muhimu kutekeleza jukumu ambalo lina maslahi
   ya umma, ama kukomesha kuchakata inaweza fanya kutowezekana ama kuzuia kupata makusudi
   ya takwimu na kuendelea kuchakata ni muhimu kwa kutekeleza makusudi ya takwimu.\n\n**Haki
-  ya kukataa masoko ya moja kwa moja**:  habari zako za kibinafsi zikichakatwa kwa
+  ya kukataa masoko ya moja kwa moja:**  habari zako za kibinafsi zikichakatwa kwa
   makusudi ya masoko ya moja kwa moja, una haki ya kukataa wakati wowote kuchakatwa
   kwa habari zako za kibinafsi kwa masoko kama hayo, imbayo inahusu kuficha hadi ambapo
   inahusiana na masoko ya moja kwa moja kama hayo. Ukipinga mchakato kwa masoko ya
@@ -321,5 +320,6 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   na iwapo sawa, utajulishwa kwa ujumbe mfupi, barua pepe ama taarifa nyingine. Kwa
   hivyo tunakupa moyo uipitie mara kwa mara ili uwe na ufahamu jinsi tunavyosindika
   habari zako."
+layout: simple
 ---
 
