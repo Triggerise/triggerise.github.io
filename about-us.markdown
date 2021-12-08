@@ -3,7 +3,7 @@ title: About us
 date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
-- Number: 135
+- Number: 160
   Text: brilliant people strong
 - Number: 25
   Text: 'cities we call home '
@@ -156,6 +156,11 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
   Image: "/uploads/Victoria.jpg"
+- Name: Siham
+  Role: Administration Officer
+  Location: Addis Ababa, Ethiopia
+  LinkedIn: 
+  Image: "/uploads/Siham-7d6c7a.jpg"
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
