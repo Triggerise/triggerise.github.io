@@ -87,18 +87,6 @@ Jobs:
     innovative team who use their technical skills to make a positive impact? Then
     this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=169
-- Job Title: Principal Java Engineer
-  Location: Global
-  Job Description: Would you consider yourself an expert in the Java engineering space?
-    Would you enjoy forming a part of an innovative team who use their technical skills
-    to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=173&source=aWQ9MjM%3D
-- Job Title: Principal Scala Engineer
-  Location: Global
-  Job Description: Would you consider yourself an expert in the Scala engineering
-    space? Would you enjoy forming a part of an innovative team who use their technical
-    skills to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=174&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Ethiopia
   Job Description: "Would you like to work together with a supportive and young-spirited
