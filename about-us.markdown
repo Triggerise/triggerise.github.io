@@ -3,7 +3,7 @@ title: About us
 date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
-- Number: 135
+- Number: 160
   Text: brilliant people strong
 - Number: 25
   Text: 'cities we call home '
@@ -96,6 +96,21 @@ Our People:
   Location: Addis Ababa, Ethiopia
   LinkedIn: https://www.linkedin.com/in/lidya-mulat-82829a83/
   Image: "/uploads/Trig_profiles_lydia.webp"
+- Name: Siphesihle
+  Role: Platform Marketing Director
+  Location: Johannesburg, South Africa
+  LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
+  Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
+- Name: Marylou
+  Role: Strategy Manager
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
+  Image: "/uploads/Trig_profiles_marylou.webp"
+- Name: Phakamani
+  Role: Product Manager
+  Location: Johannesburg, South Africa
+  LinkedIn: https://www.linkedin.com/in/phakamani-m-359a3947/
+  Image: "/uploads/PK-77cc28.jpg"
 - Name: Nelson
   Role: Chief Technology Officer
   Location: Cape Town, South Africa
@@ -106,56 +121,46 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
   Image: "/uploads/Trig_profiles_jesse.webp"
-- Name: Asgar
-  Role: Project Manager
-  Location: Jaipur, India
-  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
-  Image: "/uploads/Trig_profiles_asgar.webp"
 - Name: Nathalie-Ann
   Role: Programme Director
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
   Image: "/uploads/Trig_profiles_nathalie.webp"
-- Name: Marylou
-  Role: Strategy Manager
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
-  Image: "/uploads/Trig_profiles_marylou.webp"
-- Name: Roxy
-  Role: Global Recruiter
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
-  Image: "/uploads/Trig_profiles_roxy.webp"
-- Name: Thera
-  Role: Chief People Officer
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://linkedin.com/in/theraengels
-  Image: "/uploads/Trig_profiles_thera.webp"
-- Name: Kristy
-  Role: Finance Manager
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
-  Image: "/uploads/Kristy%202.jpg"
-- Name: Phakamani
-  Role: Product Manager
-  Location: Johannesburg, South Africa
-  LinkedIn: https://www.linkedin.com/in/phakamani-m-359a3947/
-  Image: "/uploads/PK-77cc28.jpg"
 - Name: Joana
   Role: Quality Assurance Lead
   Location: Porto, Portugal
   LinkedIn: https://www.linkedin.com/in/joanafaraujo/
   Image: "/uploads/Joana%20Ar.png"
-- Name: Siphesihle
-  Role: Platform Marketing Director
-  Location: Johannesburg, South Africa
-  LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
-  Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
 - Name: Vickie
   Role: Field Operations Lead
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
   Image: "/uploads/Victoria.jpg"
+- Name: Kristy
+  Role: Finance Manager
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
+  Image: "/uploads/Kristy%202.jpg"
+- Name: Asgar
+  Role: Project Manager
+  Location: Jaipur, India
+  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
+  Image: "/uploads/Trig_profiles_asgar.webp"
+- Name: Roxy
+  Role: Global Recruiter
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
+  Image: "/uploads/Trig_profiles_roxy.webp"
+- Name: Siham
+  Role: Administration Officer
+  Location: Addis Ababa, Ethiopia
+  LinkedIn: 
+  Image: "/uploads/Siham-7d6c7a.jpg"
+- Name: Thera
+  Role: Chief People Officer
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://linkedin.com/in/theraengels
+  Image: "/uploads/Trig_profiles_thera.webp"
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
