@@ -52,5 +52,14 @@
     }
     gtag('js', new Date());
 
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied'
+    });
+
     gtag('config', 'UA-162682789-1');
+
+    dataLayer.push({
+      'event': 'default_consent'
+    });
 </script>

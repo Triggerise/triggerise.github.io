@@ -2455,15 +2455,14 @@ blockquote:after {
     span {
         display: block;
         border: 1px solid $pink;
-        padding-left: 6px;
-        padding-right: 6px;
-        padding-top: 6px;
-        padding-bottom: 6px;
+        padding: 6px;
         margin-top: 10px;
         width: max-content;
+        min-width: 116px;
+        text-align: center;
+        cursor: pointer;
         @include mq($from: desktop) {
             display: inline-block;
-            float: right;
             margin-top: 0;
         }
         &:hover {
@@ -2471,10 +2470,25 @@ blockquote:after {
             color: $blue;
         }
     }
+    div {
+         color: $white;
+     }
     p {
-        color: $white;
+        margin: 0;
     }
     a {
         color: $pink;
+    }
+    .wrapper{
+        display: flex;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+        @include mq($until: tablet) {
+            flex-direction: column;
+        }
+        div {
+            display: flex;
+        }
     }
 }

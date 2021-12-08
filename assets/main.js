@@ -290,19 +290,25 @@ window.addEventListener('hashchange', displayPolicy);
 
 
 var myStorage = window.localStorage;
-console.log(myStorage);
-var cookies = myStorage.getItem('cookies');
-var cookiesButton = document.querySelector('.cookies-button');
+const cookies = myStorage.getItem('cookiesSeen');
+let cookiesButtonAccept = document.querySelector('.cookies-button-accept');
+let cookiesButtonDeny = document.querySelector('.cookies-button-deny');
 var cookiesBanner = document.querySelector('.cookies-banner');
-cookiesButton.addEventListener('click', function(){
-  localStorage.setItem('cookies', 'True');
+cookiesButtonAccept.addEventListener('click', function(){
+  localStorage.setItem('cookiesSeen', 'True');
+  cookiesBanner.classList.remove('display');
+  // Enable GA
+    gtag('consent', 'update', {
+      'ad_storage': 'granted',
+      'analytics_storage': 'granted'
+    });
+});
+cookiesButtonDeny.addEventListener('click', function(){
+  localStorage.setItem('cookiesSeen', 'True');
   cookiesBanner.classList.remove('display');
 });
-if(cookies) {
-  console.log('cookies seen');
-} else {
+if(!cookies) {
   cookiesBanner.classList.add('display');
-  console.log('cookies not seen');
 }
 
 
