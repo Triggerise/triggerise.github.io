@@ -226,7 +226,7 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   na habari zako za kibinafsi (kama ilivyotajwa hapo chini). Haki hizi zote zinaweza
   kutumika kwa kuwasiliana nasi kwa <privacy@triggerise.org>.\n\n**Haki ya kutoa ruhusa:**
   una haki ya kuondoa ruhusa yako wakati wowote kwa kuwasiliana nasi kutumia barua
-  pepe kwa anwani ifuatayo:<privacy@triggerise.org> ama kwa kutuma ujumbe mfupi kwa
+  pepe kwa anwani ifuatayo: <privacy@triggerise.org> ama kwa kutuma ujumbe mfupi kwa
   namba zozote fupi ambazo tunatumia kwa nchi ambazo tunafanya kazi. Kwa kuondoa ruhusa
   yako, uhalali wa mchakato kwa msingi wa ruhusa hadi pale ambapo unatoka hautaathirika.
   \n\n**Haki ya kupinga:** una haki ya kupinga chini ya sharia za Makala ya 21 DSGVO.
