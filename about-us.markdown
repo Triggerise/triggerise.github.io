@@ -136,6 +136,26 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
   Image: "/uploads/Kristy%202.jpg"
+- Name: Phakamani
+  Role: Product Manager
+  Location: Johannesburg, South Africa
+  LinkedIn: https://www.linkedin.com/in/phakamani-m-359a3947/
+  Image: "/uploads/PK-77cc28.jpg"
+- Name: Joana
+  Role: Quality Assurance Lead
+  Location: Porto, Portugal
+  LinkedIn: https://www.linkedin.com/in/joanafaraujo/
+  Image: "/uploads/Joana%20Ar.png"
+- Name: Siphesihle
+  Role: Platform Marketing Director
+  Location: Johannesburg, South Africa
+  LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
+  Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
+- Name: Vickie
+  Role: Field Operations Lead
+  Location: Nairobi, Kenya
+  LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
+  Image: "/uploads/Victoria.jpg"
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
