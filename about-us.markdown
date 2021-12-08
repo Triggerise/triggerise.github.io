@@ -101,11 +101,6 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
-- Name: Maria
-  Role: Programme Advisor
-  Location: Yaounde, Cameroon
-  LinkedIn: https://www.linkedin.com/in/maria-g-ndzelen-ba086116/
-  Image: "/uploads/Trig_profiles_maria.webp"
 - Name: Jesse
   Role: Country Director – Kenya
   Location: Nairobi, Kenya
@@ -131,16 +126,16 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
   Image: "/uploads/Trig_profiles_roxy.webp"
-- Name: Sam
-  Role: Programme Lead
-  Location: New York, USA
-  LinkedIn: https://www.linkedin.com/in/samuel-lewin-70711489/
-  Image: "/uploads/Trig_profiles_sam.webp\n"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_thera.webp"
+- Name: Kristy
+  Role: Finance Manager
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
+  Image: "/uploads/Kristy%202.jpg"
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
