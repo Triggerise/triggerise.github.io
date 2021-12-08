@@ -136,31 +136,31 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
   Image: "/uploads/Victoria.jpg"
-- Name: Kristy
-  Role: Finance Manager
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
-  Image: "/uploads/Kristy%202.jpg"
-- Name: Asgar
-  Role: Project Manager
-  Location: Jaipur, India
-  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
-  Image: "/uploads/Trig_profiles_asgar.webp"
 - Name: Roxy
   Role: Global Recruiter
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
   Image: "/uploads/Trig_profiles_roxy.webp"
-- Name: Siham
-  Role: Administration Officer
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: 
-  Image: "/uploads/Siham-7d6c7a.jpg"
+- Name: Asgar
+  Role: Project Manager
+  Location: Jaipur, India
+  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
+  Image: "/uploads/Trig_profiles_asgar.webp"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_thera.webp"
+- Name: Siham
+  Role: Administration Officer
+  Location: Addis Ababa, Ethiopia
+  LinkedIn: 
+  Image: "/uploads/Siham-7d6c7a.jpg"
+- Name: Kristy
+  Role: Finance Manager
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
+  Image: "/uploads/Kristy%202.jpg"
 Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
   only collect user data that is given with consent and use it to improve our product.
   \n\nWe never sell personal information, this includes metadata. \n"
