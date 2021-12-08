@@ -9,7 +9,7 @@ Numbers:
   Text: 'cities we call home '
 - Number: 10
   Text: different mother tongues
-- Number: 6
+- Number: 7
   Text: years of making change for good
 - Number: 1
   Text: shared goal
