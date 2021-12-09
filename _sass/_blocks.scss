@@ -2439,11 +2439,18 @@ blockquote:after {
 }
 // ---- Cookies ---- //
 /* The switch - the box around the slider */
+.cookies-status-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .cookies-client-switch {
     position: relative;
     display: inline-block;
     width: 60px;
     height: 34px;
+    margin-right: 15px;
   }
   
   /* Hide default HTML checkbox */
