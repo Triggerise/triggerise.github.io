@@ -12,6 +12,6 @@ description: |-
 
   **Which Cookies do we use?**
   We use third-party analytics services, Google Analytics, to collect information about your use of our website and enable us to improve our website accordingly. Google Analytics uses cookies and similar technologies to collect information about the use of our website and to report website trends to us, without identifying individuals to us. Google Analytics provides anonymous statistical information for us. They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located. You can learn about Google’s practices by going to [https://policies.google.com/privacy](https://policies.google.com/privacy/embedded?hl=en-US). We use this information to see the overall patterns of usage on our website, help us record any difficulties you have with our website, and tell us whether our communication efforts are effective.
-layout: simple
+layout: cookies
 ---
 
