@@ -26,33 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Backend Scala Engineer
-  Location: Global
-  Job Description: 'You’ve gained experience in the software development space, and
-    want to continue working on innovative projects, whilst making an impact with
-    your tech skills & knowledge.  Read on to find out more about our Backend Engineer
-    position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=71
-- Job Title: Mobile Engineer
-  Location: Global
-  Job Description: Do you have experience creating and maintaining software that enables
-    mobile apps to function?  Are you looking to utilize your skillset whilst having
-    a positive impact with tech?  Read on to find out more about our Mobile Developer
-    position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=91
-- Job Title: Backend Java Engineer
-  Location: Global
-  Job Description: Are you a problem-solver with a background in software development?
-    Do you want to be a part of an innovative team who use their technical skills
-    to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=101&source=aWQ9MjM%3D
-- Job Title: DevOps Engineer
-  Location: Cape Town, Western Cape
-  Job Description: Do you have experience building, testing & maintaining tools that
-    allow for speedy development of software?  You enjoy working in an Agile way and
-    are excited by the prospect of using technology to create impact.  Read on to
-    find out more to find out about our DevOps Engineer position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=72
 - Job Title: Service Quality Lead
   Location: Global
   Job Description: 'Are you a strategic thinker? Would you love to develop and execute
