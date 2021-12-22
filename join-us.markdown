@@ -82,6 +82,13 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Controller
+  Location: Cape Town, South Africa
+  Job Description: "Would you enjoy supporting our fast growing team in South Africa?
+    \ Are you an expert in all areas of finance where you have been responsible for
+    the end to end finance process?  The role of Controller could be for you! Read
+    below to fnd out more.\n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=214
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
