@@ -1,6 +1,10 @@
 <div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
     <h1 id="jobs">Open positions</h1>
+    <div class="jobs-tracker-link-container">
+    <h4 class="jobs-tracker-link-heading">Show me the money</h4>
+    <p class="jobs-tracker-link-verbiage">Openness is a priority for us, which is why we share our salary brackets for each role right from the start. We respect our people: their time, expertise, and dedication. Before you apply, we invite you to <a href="/salary-tracker" class="jobs-tracker-link">Click Here</a> to view our salary brackets and see what you’d earn at Triggerise.</p>
+    </div>
     <div class="jobs-wrapper">
       <div class="grid">
         {% for job in page.Jobs %}
