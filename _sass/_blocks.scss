@@ -2095,6 +2095,31 @@ blockquote:after {
     }
 }
 
+.jobs-tracker-link-container {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.jobs-tracker-link-heading {
+
+}
+
+.jobs-tracker-link-verbiage {
+
+}
+
+.jobs-tracker-link {
+    background-color: transparent;
+    border-bottom: 1px solid #1D214F;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    color: #1D214F !important;
+    text-decoration: none !important;
+}
+
 .jobs {
     .job {
         width: 100%;
