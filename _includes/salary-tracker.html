@@ -30,14 +30,6 @@
 
             </div>
             {% endif %}
-            <div class="socials-container">
-                <div class="socials">
-                    {% assign social = site.social-icons%}
-                    {%for social in social%}
-                    {{ social.content }}
-                    {% endfor %}
-                </div>
-            </div>
         </div>
         <div class="salary-col">
             <h5 class="salary-tracker-info-label">Select your Country</h5>
@@ -67,7 +59,7 @@
             <h5 class="mt-5 salary-tracker-info-label">Select your Role / Position</h5>
             <select onchange="updatePosition(this.value)" id="salary-tracker-role-picker"
                 class="salary-tracker-role-picker">
-                <option id="salary-role-blank">No positions have been loaded.</option>
+                <option id="salary-role-blank">Please wait while we load the positions.</option>
             </select>
             <h5 class="mt-5 salary-tracker-info-label">Salary Brackets</h5>
             <div class="salary-tracker-bracket-container">
