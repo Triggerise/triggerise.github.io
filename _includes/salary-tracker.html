@@ -1,0 +1,409 @@
+<div class="t-one {{include.colour}} autoHeight salary-tracker padd simple uk-scrollspy">
+    <div class="wrapper salary-tracker-banner-heading">
+        <h3>{{ page.pageTitle }}</h3>
+    </div>
+</div>
+<div class="wrapper uk-scrollspy-inview uk-animation-fade">
+    <div class="salary-row">
+        <div class="salary-col">
+            {% if include.image %}
+            <div class="salary-tracker-hero-img-container">
+                <img src="{{include.image}}" class="salary-tracker-hero-img" alt="Salary Tracker">
+            </div>
+            {% endif %}
+            {% if page.verbiage %}
+            <p class="salary-tracker-verbiage">
+                {{ page.verbiage }}
+            </p>
+            {% endif %}
+            {% if page.leadBack %}
+            <div class="salary-tracker-lead-back-container">
+                <p class="salary-tracker-lead-back-text">
+                    {{ page.leadBack }}
+                    {% if page.leadBackBtnText %}
+                    <a href="{{ page.leadBackLink }}" class="salary-tracker-lead-back-btn">{{ page.leadBackBtnText
+                        }}</a>
+                    {% else %}
+                    <a href="{{ page.leadBackLink }}" class="salary-tracker-lead-back-btn">Click Here</a>
+                    {% endif %}
+                </p>
+
+            </div>
+            {% endif %}
+        </div>
+        <div class="salary-col">
+            <h5 class="salary-tracker-info-label">Select your Country</h5>
+            <div class="salary-tracker-country-list">
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn-active" onclick="updateCountry('ZA')">South
+                        Africa</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('PT')">Portugal</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('ET')">Ethiopia</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('IN')">India</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('NL')">Netherlands</button>
+                </div>
+            </div>
+            <h5 class="mt-5 salary-tracker-info-label">Additional Benefits</h5>
+            <p id="salary-tracker-benefits" class="salary-tracker-country-benefit"></p>
+            <h5 class="mt-5 salary-tracker-info-label">Select your Role / Position</h5>
+            <select onchange="updatePosition(this.value)" id="salary-tracker-role-picker"
+                class="salary-tracker-role-picker">
+                <option id="salary-role-blank">Please wait while we load the positions.</option>
+            </select>
+            <h5 class="mt-5 salary-tracker-info-label">Salary Brackets</h5>
+            <div class="salary-tracker-bracket-container">
+                <div class="salary-tracker-bracket-row">
+                    <div class="salary-tracker-bracket-col">
+                        <p class="salary-tracker-bracket-text">Annual salary</p>
+                    </div>
+                    <div class="salary-tracker-bracket-col">
+                        <p class="salary-tracker-amount-text" id="salary-annual-currency">
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-annual">R</span>
+                            <span class="salary-tracker-bracket-amount" id="salary-annual-amount-low"></span> -
+                            <span class="salary-tracker-bracket-amount" id="salary-annual-amount-high"></span>
+                        </p>
+                    </div>
+                </div>
+                <div class="salary-tracker-bracket-row">
+                    <div class="salary-tracker-bracket-col">
+                        <p class="salary-tracker-bracket-text">Monthly salary</p>
+                    </div>
+                    <div class="salary-tracker-bracket-col">
+                        <p class="salary-tracker-amount-text">
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-monthly">R</span>
+                            <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-low"></span> -
+                            <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-high"></span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+    // Global vars
+    var selectedCountry = "";
+    var selectedPosition = null;
+    var dataArr = [];
+    var selectRoleEle = document.getElementById('salary-tracker-role-picker');
+    var dollarUSLocale = Intl.NumberFormat('en-US');
+
+    // Update the country selection on click
+    // Update the class for the active country button
+    // Clear all previous selection options for position
+    function updateCountry(country) {
+
+        var allCountryBtns = document.querySelectorAll("button");
+        var currencySymbolAnnual = document.getElementById('salary-tracker-currency-annual');
+        var currencySymbolMonthly = document.getElementById('salary-tracker-currency-monthly');
+
+        if (event.srcElement.classList !== undefined) {
+            allCountryBtns.forEach(function (el) {
+                el.classList.remove("salary-tracker-country-btn-active");
+                el.classList.add("salary-tracker-country-btn");
+            });
+            event.srcElement.classList.remove("salary-tracker-country-btn");
+            event.srcElement.classList.add("salary-tracker-country-btn-active");
+        }
+
+        selectedPosition = null;
+        removeSelectOptions(selectRoleEle);
+        switch (country) {
+            case 'ZA':
+                currencySymbolAnnual.innerText = "R";
+                currencySymbolMonthly.innerText = "R";
+                updateData('South Africa', null);
+                break;
+            case 'PT':
+                currencySymbolAnnual.innerText = "€";
+                currencySymbolMonthly.innerText = "€";
+                updateData('Portugal', null);
+                break;
+            case 'ET':
+                currencySymbolAnnual.innerText = "ETB";
+                currencySymbolMonthly.innerText = "ETB";
+                updateData('Ethiopia', null);
+                break;
+            case 'KE':
+                currencySymbolAnnual.innerText = "KES";
+                currencySymbolMonthly.innerText = "KES";
+                updateData('Kenya', null);
+                break;
+            case 'IN':
+                currencySymbolAnnual.innerText = "₹";
+                currencySymbolMonthly.innerText = "₹";
+                updateData('India', null);
+                break;
+            case 'NL':
+                currencySymbolAnnual.innerText = "€";
+                currencySymbolMonthly.innerText = "€";
+                updateData('Netherlands', null);
+                break;
+            default:
+                break;
+        }
+
+    }
+
+    // Update the selected position
+    function updatePosition(position) {
+
+        selectedPosition = position;
+        updateData(null, position);
+
+    }
+
+    // Validate country / role selections
+    // Filter by selected country
+    // Update benefits and salary brackets where applicable
+    // Update selected elements where applicable
+    function updateData(country, position) {
+
+        if (country !== null) {
+            selectedCountry = country;
+        }
+
+        if (position !== null) {
+            selectedPosition = position;
+        }
+
+        var countryArr = dataArr.filter(obj => {
+            return obj.country === selectedCountry
+        });
+
+        if (countryArr[0].positions !== undefined) {
+            var benefitsEle = document.getElementById('salary-tracker-benefits');
+            var annualLowEle = document.getElementById('salary-annual-amount-low');
+            var annualHighEle = document.getElementById('salary-annual-amount-high');
+            var monthlyLowEle = document.getElementById('salary-monthly-amount-low');
+            var monthlyHighEle = document.getElementById('salary-monthly-amount-high');
+
+            if (countryArr[0].benefits !== undefined) {
+                var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
+                benefitsEle.innerText = splitBenefits;
+            } else {
+                benefitsEle.innerText = "";
+            }
+
+            if (selectedPosition === null) {
+                if (countryArr[0].positions[0] !== undefined) {
+                    countryArr[0].positions.forEach(position => {
+                        var opt = document.createElement('option');
+                        opt.value = position.position;
+                        opt.innerHTML = position.position;
+                        selectRoleEle.appendChild(opt);
+                    });
+                    selectItemByValue(document.getElementById('salary-tracker-role-picker'), null);
+                    try {
+                        annualLowEle.innerText = countryArr[0].positions[0].annualLow;
+                        annualHighEle.innerText = countryArr[0].positions[0].annualHigh;
+                        monthlyLowEle.innerText = countryArr[0].positions[0].monthlyLow;
+                        monthlyHighEle.innerText = countryArr[0].positions[0].monthlyHigh;
+                    } catch (err) {
+                        annualLowEle.innerText = 0;
+                        annualHighEle.innerText = 0;
+                        monthlyLowEle.innerText = 0;
+                        monthlyHighEle.innerText = 0;
+                    }
+                }
+            } else {
+                var positionArr = countryArr[0].positions.find(function (el) {
+                    return el.position === selectedPosition;
+                });
+                if (positionArr) {
+                    try {
+                        annualLowEle.innerText = positionArr.annualLow;
+                        annualHighEle.innerText = positionArr.annualHigh;
+                        monthlyLowEle.innerText = positionArr.monthlyLow;
+                        monthlyHighEle.innerText = positionArr.monthlyHigh;
+                    } catch (err) {
+                        annualLowEle.innerText = 0;
+                        annualHighEle.innerText = 0;
+                        monthlyLowEle.innerText = 0;
+                        monthlyHighEle.innerText = 0;
+                    }
+                }
+            }
+        }
+    }
+
+    // Main launch function
+    // Define the doc url and execute fetch promise
+    // Parse the returned data into a formatted/friendly array
+    // Remove the 'no positions loaded' selection option for positions
+    // Update the data
+    function main() {
+
+        var url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSr_TpN5LWs9ejhbmttNHfqG25LLi9rPKHPE3wYvovXwNNXSxcFsDSEBSEsEf-9MNfwFTKjLPh1FTLL/pub?output=csv";
+        var processedData = [];
+        makeRequest('GET', url)
+            .then(function (data) {
+                csvParse(data).forEach(element => {
+                    let formattedCountry = escapeRegExp(element.Country);
+                    let formattedArray = [{ country: formattedCountry, positions: [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow }], benefits: element.Benefits }];
+                    element.Country = formattedCountry;
+                    if (dataArr.length <= 0) {
+                        dataArr = formattedArray;
+                        dataArr = dataArr.flat();
+                    } else {
+                        let countryFound = countryExists(formattedCountry, dataArr);
+                        if (!countryFound) {
+                            dataArr.push(formattedArray);
+                            dataArr = dataArr.flat();
+                        } else {
+                            let positionFound = positionExists(formattedCountry, element.Position, dataArr);
+                            if (!positionFound) {
+                                let formattedPositionArray = [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow }];
+                                var countryArr = dataArr.filter(obj => {
+                                    return obj.country === formattedCountry
+                                });
+                                countryArr[0].positions.push(formattedPositionArray);
+                                countryArr[0].positions = countryArr[0].positions.flat()
+
+                            }
+                        }
+                    }
+                });
+                removeSelectOptions(selectRoleEle)
+                updateData('South Africa', null);
+            })
+            .catch(function (err) {
+                console.error('An error occured!', err);
+            });
+
+    }
+
+    /*** Helpers - Start ***/
+
+    // Set an option as selected from a given element and value
+    function selectItemByValue(elmnt, value) {
+
+        for (var i = 0; i < elmnt.options.length; i++) {
+            if (value === null) {
+                elmnt.selectedIndex = 0;
+                break;
+            } else {
+                if (elmnt.options[i].value === value) {
+                    elmnt.selectedIndex = i;
+                    break;
+                }
+            }
+        }
+
+    }
+
+    // Remove select options from a given element
+    function removeSelectOptions(elmnt) {
+
+        var i, L = selectRoleEle.options.length - 1;
+        for (i = L; i >= 0; i--) {
+            selectRoleEle.remove(i);
+        }
+
+    }
+
+    // Make an XHR request with given params
+    function makeRequest(method, url) {
+
+        return new Promise(function (resolve, reject) {
+            var xhr = new XMLHttpRequest();
+            xhr.open(method, url);
+            xhr.onload = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    resolve(xhr.responseText);
+                } else {
+                    reject({
+                        status: this.status,
+                        statusText: xhr.statusText
+                    });
+                }
+            };
+            xhr.onerror = function () {
+                reject({
+                    status: this.status,
+                    statusText: xhr.statusText
+                });
+            };
+            xhr.send();
+        });
+
+    }
+
+    // Parse and format the csv into an array
+    function csvParse(csv) {
+
+        var lines = csv.split("\n");
+        var lines = csv.split("\r");
+        var result = [];
+        var headers = lines[0].split(",");
+
+        for (var i = 1; i < lines.length; i++) {
+            var obj = {};
+            var currentline = lines[i].split(",");
+
+            for (var j = 0; j < headers.length; j++) {
+                obj[headers[j]] = currentline[j];
+            }
+
+            result.push(obj);
+        }
+
+        return result;
+
+    }
+
+    // Clean any unexpected special character from the csv import
+    function escapeRegExp(input) {
+
+        return input.replace(/[^a-zA-Z ]/g, "");
+
+    }
+
+    // Check if a country exists within an array
+    function countryExists(check, array) {
+
+        return array.some(function (el) {
+            return el.country === check;
+        });
+
+    }
+
+    // Check that the position exists within a given array against a selected country
+    function positionExists(countryCheck, positionCheck, array) {
+
+        if (countryExists(countryCheck, array)) {
+            var checkArr = array.filter(obj => {
+                return obj.country === countryCheck
+            });
+            return checkArr.some(function (el) {
+                return el.position === positionCheck;
+            });
+        } else {
+            return false;
+        }
+
+    }
+
+    /*** Helpers - End ***/
+
+    // Execute main on successful DOM load
+    $(document).ready(function () {
+
+        main();
+        $("#salary-tracker-role-picker").select2();
+
+    });
+
+</script>

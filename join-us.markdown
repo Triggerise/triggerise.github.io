@@ -26,12 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Service Quality Lead
-  Location: Global
-  Job Description: 'Are you a strategic thinker? Would you love to develop and execute
-    strategies across Triggerise’s global markets for all service quality assurance
-    for providers? '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=165&source=aWQ9MjM%3D
 - Job Title: Marketing and Communications Manager
   Location: Addis Ababa, Ethiopia
   Job Description: 'Are you ready to use your marketing expertise to make an impact?
@@ -39,27 +33,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
-- Job Title: Service Quality Specialist
-  Location: Uganda, Kampala
-  Job Description: Have you developed procedures that ensure world-class services
-    are offered to customers around the globe? Do you have a great eye for detail
-    and experience in the health services sector? Read on because this role could
-    be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=162&source=aWQ9MjM%3D
-- Job Title: Service Quality Specialist
-  Location: Addis Ababa, Ethiopia
-  Job Description: Have you developed procedures that ensure world-class services
-    are offered to customers around the globe? Do you have a great eye for detail
-    and experience in the health services sector? Read on because this role could
-    be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=161&source=aWQ9MjM%3D
-- Job Title: Web Engineering Team Lead
-  Location: Portugal
-  Job Description: Are you a problem-solver with a background in software development
-    and a particular focus on Front End Engineering? Do you want to be a part of an
-    innovative team who use their technical skills to make a positive impact? Then
-    this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=169
 - Job Title: Programme Lead
   Location: Ethiopia
   Job Description: "Would you like to work together with a supportive and young-spirited
@@ -76,6 +49,37 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=211&source=aWQ9MjM%3D
+- Job Title: Experiment Officer
+  Location: Machakos, Kenya
+  Job Description: We’re looking for an Experiment Officer who will discover, nurture
+    and accelerate Innovation within Triggerise.  Are you heavily involved in executing
+    new innovation projects with a focus on the Users perspective, focusing on an
+    agile approach in order to react quickly to changes?  Read on to find out more
+    about our role of Experiment Officer.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=229&source=aWQ9MjM%3D
+- Job Title: Innovation Project Manager
+  Location: Johannesburg, South Africa
+  Job Description: Calling all Innovation Project Managers!  Have you been responsible
+    for projects from design to delivery and execution of prototypes and beyond?  Are
+    you a curious, business minded individual, seeking an opportunity where you can
+    hypothesise new ideas and think strategically, in order to steer the innovation
+    projects throughout Triggerise.  Continue to read more about the role of Innovation
+    Project Manager.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MjM%3D
+- Job Title: IT Support Team Lead
+  Location: Porto, Portugal
+  Job Description: Do you have experience in leading, overseeing, and prioritising
+    the work of the IT Support Team? Are you a natural problem-solver abled to troubleshoot
+    and escalate any issues which may arise?  Sounds like the role of IT Support Team
+    Lead could be for you! Read on to find out more!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=219&source=aWQ9MjM%3D
+- Job Title: Information Security Officer
+  Location: Johannesburg, South Africa
+  Job Description: Do you have experience in keeping IT systems as well as Data Security?
+    Are you great at risk assessments and planning in order to mitigate risks?  Sounds
+    like the Information Security Officer could be the role for you!  Read on to find
+    out more.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=218&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best

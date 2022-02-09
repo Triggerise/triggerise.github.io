@@ -2095,6 +2095,31 @@ blockquote:after {
     }
 }
 
+.jobs-tracker-link-container {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.jobs-tracker-link-heading {
+
+}
+
+.jobs-tracker-link-verbiage {
+
+}
+
+.jobs-tracker-link {
+    background-color: transparent;
+    border-bottom: 1px solid #1D214F;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    color: #1D214F !important;
+    text-decoration: none !important;
+}
+
 .jobs {
     .job {
         width: 100%;
@@ -2560,5 +2585,163 @@ blockquote:after {
         div {
             display: flex;
         }
+    }
+}
+
+/***
+Salary Tracker
+***/
+.salary-tracker {
+    display: flex;
+    align-items: center;
+}
+
+.salary-tracker-banner-heading h3 {
+    color: #FFF;
+    font-size: 90px;
+}
+
+.salary-tracker-hero-img-container {
+    height: 250px;
+    width: 100%;
+}
+
+.salary-tracker-hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.salary-tracker-verbiage {
+    border: 1px solid #1D214F;
+    min-height: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: justify;
+    text-justify: auto;
+}
+
+.socials-container {
+    position: absolute;
+    bottom: 0;
+}
+
+.salary-row {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 5%;
+}
+
+.salary-col {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    flex: 0 0 47.5%;
+    position: relative;
+}
+
+.salary-tracker-country-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.salary-tracker-country-benefit {
+    padding: 10px;
+    border: 1px solid #1D214F;
+    height: 200px;
+    font-size: 18px;
+}
+
+.salary-tracker-role-picker {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #1D214F;
+}
+
+.salary-tracker-country-btn-container {
+    flex-grow: 1;
+    margin: .1em;
+}
+
+.salary-tracker-country-btn-active {
+    border: 0;
+    border-top: 1px solid #1D214F;
+    background-color: #1D214F;
+    color: #FFF;
+    padding: 6px 15px 8px;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 0;
+    min-height: 50px;
+    width: 100%;
+}
+
+.salary-tracker-country-btn {
+    background-color: transparent;
+    color: #1D214F;
+    border-top: 1px solid #1D214F;
+    border-bottom: 1px solid #1D214F;
+    border-left: 1px solid #1D214F;
+    border-right: 1px solid #1D214F;
+    padding: 6px 15px 8px;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 0;
+    min-height: 50px;
+    width: 100%;
+}
+
+.salary-tracker-info-label {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.salary-tracker-bracket-row {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 5%;
+}
+
+.salary-tracker-bracket-col {
+    flex: 0 0 47.5%;
+}
+
+.salary-tracker-bracket-text {
+    padding: 10px;
+    border: 1px solid #1D214F;
+}
+
+.salary-tracker-amount-text {
+    padding: 10px;
+    border-bottom: 1px solid #1D214F;
+}
+
+.salary-tracker-lead-back-btn {
+    background-color: transparent;
+    border-bottom: 1px solid #1D214F;
+    font-family: "Stabil Grotesk", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    color: #1D214F !important;
+    text-decoration: none !important;
+}
+
+.mt-5 {
+    margin-top: 2rem;
+}
+
+@media only screen and (max-width: 1024px) {
+    .salary-col {
+        flex: 0 0 100%;
+    }
+
+    .socials-container {
+        position: relative;
     }
 }
