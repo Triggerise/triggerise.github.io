@@ -101,6 +101,16 @@ Our People:
   Location: Johannesburg, South Africa
   LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
   Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
+- Name: Nathalie-Ann
+  Role: Programme Director
+  Location: Nairobi, Kenya
+  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
+  Image: "/uploads/Trig_profiles_nathalie.webp"
+- Name: Hameline Chimuka
+  Role: Chief Finance Officer
+  Location: Cape Town, South Africa
+  LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
+  Image: "/uploads/HC%20Photo.jpeg"
 - Name: Marylou
   Role: Strategy Manager
   Location: Amsterdam, The Netherlands
@@ -121,11 +131,6 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
   Image: "/uploads/Trig_profiles_jesse.webp"
-- Name: Nathalie-Ann
-  Role: Programme Director
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
-  Image: "/uploads/Trig_profiles_nathalie.webp"
 - Name: Joana
   Role: Quality Assurance Lead
   Location: Porto, Portugal
