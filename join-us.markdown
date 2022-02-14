@@ -51,27 +51,22 @@ Jobs:
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=211&source=aWQ9MjM%3D
 - Job Title: Experiment Officer
   Location: Machakos, Kenya
-  Job Description: We’re looking for an Experiment Officer who will discover, nurture
-    and accelerate Innovation within Triggerise.  Are you heavily involved in executing
-    new innovation projects with a focus on the Users perspective, focusing on an
-    agile approach in order to react quickly to changes?  Read on to find out more
-    about our role of Experiment Officer.
+  Job Description: Are you heavily involved in executing new innovation projects with
+    a focus on the Users perspective, focusing on an agile approach in order to react
+    quickly to changes? Read on to find out more about our role of Experiment Officer.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=229&source=aWQ9MjM%3D
 - Job Title: Innovation Project Manager
   Location: Johannesburg, South Africa
   Job Description: Calling all Innovation Project Managers!  Have you been responsible
-    for projects from design to delivery and execution of prototypes and beyond?  Are
-    you a curious, business minded individual, seeking an opportunity where you can
-    hypothesise new ideas and think strategically, in order to steer the innovation
-    projects throughout Triggerise.  Continue to read more about the role of Innovation
-    Project Manager.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MjM%3D
+    for projects from design to delivery and execution of prototypes and beyond? Read
+    on to find out more about the role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MTQ%3D
 - Job Title: IT Support Team Lead
   Location: Porto, Portugal
   Job Description: Do you have experience in leading, overseeing, and prioritising
     the work of the IT Support Team? Are you a natural problem-solver abled to troubleshoot
     and escalate any issues which may arise?  Sounds like the role of IT Support Team
-    Lead could be for you! Read on to find out more!
+    Lead could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=219&source=aWQ9MjM%3D
 - Job Title: Information Security Officer
   Location: Johannesburg, South Africa
