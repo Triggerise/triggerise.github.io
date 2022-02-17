@@ -105,7 +105,7 @@
     var selectRoleEle = document.getElementById('salary-tracker-role-picker');
     var selectDepartmentEle = document.getElementById('salary-tracker-department-picker');
     var departmentList = ['N/A'];
-    
+
     // Update the country selection on click
     // Update the class for the active country button
     // Clear all previous selection options for position
@@ -246,51 +246,53 @@
             return obj.country === selectedCountry
         });
 
-        // Load values into Positions and Department Dropdowns
-        updateSelectOptions(updateOption);
+        if (countryArr[0] !== undefined) {
+            // Load values into Positions and Department Dropdowns
+            updateSelectOptions(updateOption);
 
-        // Proccess only if the country has positions
-        if (countryArr[0].positions !== undefined) {
+            // Proccess only if the country has positions
+            if (countryArr[0].positions !== undefined) {
 
-            // Populate the benefits for the selected country
-            var benefitsEle = document.getElementById('salary-tracker-benefits');
-            if (countryArr[0].benefits !== undefined) {
-                var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
-                benefitsEle.innerText = splitBenefits;
-            } else {
-                benefitsEle.innerText = "";
-            }
-
-            // Check selected position and update salary brackets
-            if (selectedPosition === null) {
-                if (countryArr[0].positions[0] !== undefined) {
-                    selectItemByValue(document.getElementById('salary-tracker-role-picker'), null);
-                    try {
-                        if (selectedDepartment === null || selectedDepartment === 'N/A') {
-                            updatePositionValues(countryArr[0].positions[0].annualLow, countryArr[0].positions[0].annualHigh, countryArr[0].positions[0].monthlyLow, countryArr[0].positions[0].monthlyHigh);
-                        } else {
-                            var firstPositionInDepartment = countryArr[0].positions.find(function (el) {
-                                return el.department === selectedDepartment;
-                            });
-                            if (firstPositionInDepartment !== undefined) {
-                                updatePositionValues(firstPositionInDepartment.annualLow, firstPositionInDepartment.annualHigh, firstPositionInDepartment.monthlyLow, firstPositionInDepartment.monthlyHigh);
-                            } else {
-                                updatePositionValues(0, 0, 0, 0);
-                            }
-                        }
-                    } catch (err) {
-                        updatePositionValues(0, 0, 0, 0);
-                    }
+                // Populate the benefits for the selected country
+                var benefitsEle = document.getElementById('salary-tracker-benefits');
+                if (countryArr[0].benefits !== undefined) {
+                    var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
+                    benefitsEle.innerText = splitBenefits;
+                } else {
+                    benefitsEle.innerText = "";
                 }
-            } else {
-                var positionArr = countryArr[0].positions.find(function (el) {
-                    return el.position === selectedPosition;
-                });
-                if (positionArr) {
-                    try {
-                        updatePositionValues(positionArr.annualLow, positionArr.annualHigh, positionArr.monthlyLow, positionArr.monthlyHigh);
-                    } catch (err) {
-                        updatePositionValues(0, 0, 0, 0);
+
+                // Check selected position and update salary brackets
+                if (selectedPosition === null) {
+                    if (countryArr[0].positions[0] !== undefined) {
+                        selectItemByValue(document.getElementById('salary-tracker-role-picker'), null);
+                        try {
+                            if (selectedDepartment === null || selectedDepartment === 'N/A') {
+                                updatePositionValues(countryArr[0].positions[0].annualLow, countryArr[0].positions[0].annualHigh, countryArr[0].positions[0].monthlyLow, countryArr[0].positions[0].monthlyHigh);
+                            } else {
+                                var firstPositionInDepartment = countryArr[0].positions.find(function (el) {
+                                    return el.department === selectedDepartment;
+                                });
+                                if (firstPositionInDepartment !== undefined) {
+                                    updatePositionValues(firstPositionInDepartment.annualLow, firstPositionInDepartment.annualHigh, firstPositionInDepartment.monthlyLow, firstPositionInDepartment.monthlyHigh);
+                                } else {
+                                    updatePositionValues(0, 0, 0, 0);
+                                }
+                            }
+                        } catch (err) {
+                            updatePositionValues(0, 0, 0, 0);
+                        }
+                    }
+                } else {
+                    var positionArr = countryArr[0].positions.find(function (el) {
+                        return el.position === selectedPosition;
+                    });
+                    if (positionArr) {
+                        try {
+                            updatePositionValues(positionArr.annualLow, positionArr.annualHigh, positionArr.monthlyLow, positionArr.monthlyHigh);
+                        } catch (err) {
+                            updatePositionValues(0, 0, 0, 0);
+                        }
                     }
                 }
             }
@@ -344,20 +346,25 @@
                     }
                 });
 
-                removeSelectOptions(selectRoleEle);
-                removeSelectOptions(selectDepartmentEle);
+                if (dataArr.length >= 1) {
+                    try {
 
-                if (departmentList.length >= 1) {
-                    departmentList.forEach(department => {
-                        var departmentOpt = document.createElement('option');
-                        departmentOpt.value = department;
-                        departmentOpt.innerHTML = department;
-                        selectDepartmentEle.appendChild(departmentOpt);
-                    });
+                        removeSelectOptions(selectRoleEle);
+                        removeSelectOptions(selectDepartmentEle);
+
+                        if (departmentList.length >= 1) {
+                            departmentList.forEach(department => {
+                                var departmentOpt = document.createElement('option');
+                                departmentOpt.value = department;
+                                departmentOpt.innerHTML = department;
+                                selectDepartmentEle.appendChild(departmentOpt);
+                            });
+                        }
+                        updateData('South Africa', null, null, 2);
+                    } catch (err) {
+                        console.error(err);
+                    }
                 }
-
-                updateData('South Africa', null, null, 2);
-
             })
             .catch(function (err) {
                 console.error('An error occured!', err);
