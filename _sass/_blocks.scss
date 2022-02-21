@@ -2100,14 +2100,41 @@ blockquote:after {
     margin-bottom: 25px;
     padding-left: 10px;
     padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 96%;
+}
+
+.jobs-tracker-link-half-blue {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    height: 200px;
+    padding: 35px;
+    background: #1D214F;
+    color: #FFF;
+}
+
+.jobs-tracker-link-half-white {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    height: 200px;
+    padding: 35px;
+    background: #FFF;
 }
 
 .jobs-tracker-link-heading {
-
+    margin: auto;
+    font-size: 25px;
 }
 
 .jobs-tracker-link-verbiage {
-
+    margin: auto;
+    font-size: 18px;
 }
 
 .jobs-tracker-link {
@@ -2614,7 +2641,6 @@ Salary Tracker
 
 .salary-tracker-verbiage {
     border: 1px solid #1D214F;
-    min-height: 200px;
     padding: 10px;
     margin-top: 10px;
     text-align: justify;
@@ -2737,6 +2763,11 @@ Salary Tracker
 }
 
 @media only screen and (max-width: 1024px) {
+    .jobs-tracker-link-container {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
     .salary-col {
         flex: 0 0 100%;
     }

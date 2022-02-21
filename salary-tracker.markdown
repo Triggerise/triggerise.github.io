@@ -2,14 +2,9 @@
 date: 2022-01-17 17:30:00 Z
 pageTitle: Salary Tracker
 Splash-image: "/uploads/join_image.webp"
-verbiage: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
-  an unknown printer took a galley of type and scrambled it to make a type specimen
-  book. It has survived not only five centuries, but also the leap into electronic
-  typesetting, remaining essentially unchanged. It was popularised in the 1960s with
-  the release of Letraset sheets containing Lorem Ipsum passages, and more recently
-  with desktop publishing software like Aldus PageMaker including versions of Lorem
-  Ipsum.
+verbiage: "We’re honest, even when it comes to salaries. This is why we share our salary brackets for each role right from the start. At Triggerise, each person is paid according to their ability, experience, location, and role. We respect your time as a candidate, so feel free to explore our salary brackets and see for yourself what you’d get paid at Triggerise. 
+<br><br>
+In addition to your salary and local benefits, all our people enjoy <b>unlimited leave</b> and a <b>personal development budget</b>. Our <b>home office packages</b> set you up to enjoy the freedom of <b>working from wherever you want to.</b>"
 leadBack: 'To see which roles we’re currently looking to fill, '
 leadBackBtnText: Click Here
 leadBackLink: "/join-us#jobs"
