@@ -35,23 +35,23 @@
             <h5 class="salary-tracker-info-label">Select your Country</h5>
             <div class="salary-tracker-country-list">
                 <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn-active" onclick="updateCountry('ZA')">South
-                        Africa</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('PT')">Portugal</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('ET')">Ethiopia</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
+                    <button class="salary-tracker-country-btn-active" onclick="updateCountry('ET')">Ethiopia</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn" onclick="updateCountry('IN')">India</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn" onclick="updateCountry('NL')">Netherlands</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('PT')">Portugal</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('ZA')">South
+                        Africa</button>
                 </div>
             </div>
             <h5 class="mt-5 salary-tracker-info-label">Additional Benefits</h5>
@@ -73,7 +73,7 @@
                     </div>
                     <div class="salary-tracker-bracket-col">
                         <p class="salary-tracker-amount-text" id="salary-annual-currency">
-                            <span class="salary-tracker-currency" id="salary-tracker-currency-annual">R</span>
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-annual">€</span>
                             <span class="salary-tracker-bracket-amount" id="salary-annual-amount-low"></span> -
                             <span class="salary-tracker-bracket-amount" id="salary-annual-amount-high"></span>
                         </p>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="salary-tracker-bracket-col">
                         <p class="salary-tracker-amount-text">
-                            <span class="salary-tracker-currency" id="salary-tracker-currency-monthly">R</span>
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-monthly">€</span>
                             <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-low"></span> -
                             <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-high"></span>
                         </p>
@@ -151,8 +151,8 @@
                 updateData('Portugal', null, null, 2);
                 break;
             case 'ET':
-                currencySymbolAnnual.innerText = "ETB";
-                currencySymbolMonthly.innerText = "ETB";
+                currencySymbolAnnual.innerText = "€";
+                currencySymbolMonthly.innerText = "€";
                 updateData('Ethiopia', null, null, 2);
                 break;
             case 'KE':
@@ -360,7 +360,13 @@
                                 selectDepartmentEle.appendChild(departmentOpt);
                             });
                         }
-                        updateData('South Africa', null, null, 2);
+
+                        dataArr = dataArr.sort((a, b) => a.country.toLowerCase() > b.country.toLowerCase() ? 1 : -1);
+                        dataArr.forEach(arr => {
+                            arr.positions = arr.positions.sort((a, b) => a.position.toLowerCase() > b.position.toLowerCase() ? 1 : -1)
+                        });
+
+                        updateData('Ethiopia', null, null, 2);
                     } catch (err) {
                         console.error(err);
                     }
