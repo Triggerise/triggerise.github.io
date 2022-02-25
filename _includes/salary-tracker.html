@@ -35,30 +35,34 @@
             <h5 class="salary-tracker-info-label">Select your Country</h5>
             <div class="salary-tracker-country-list">
                 <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn-active" onclick="updateCountry('ZA')">South
-                        Africa</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('PT')">Portugal</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('ET')">Ethiopia</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
+                    <button class="salary-tracker-country-btn-active" onclick="updateCountry('ET')">Ethiopia</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn" onclick="updateCountry('IN')">India</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn" onclick="updateCountry('NL')">Netherlands</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('PT')">Portugal</button>
+                </div>
+                <div class="salary-tracker-country-btn-container">
+                    <button class="salary-tracker-country-btn" onclick="updateCountry('ZA')">South
+                        Africa</button>
                 </div>
             </div>
             <h5 class="mt-5 salary-tracker-info-label">Additional Benefits</h5>
             <p id="salary-tracker-benefits" class="salary-tracker-country-benefit"></p>
+            <h5 class="mt-5 salary-tracker-info-label">Filter by Department</h5>
+            <select onchange="updateDepartment(this.value)" id="salary-tracker-department-picker"
+                class="salary-tracker-picker">
+                <option id="salary-department-blank">Please wait while we load the positions.</option>
+            </select>
             <h5 class="mt-5 salary-tracker-info-label">Select your Role / Position</h5>
-            <select onchange="updatePosition(this.value)" id="salary-tracker-role-picker"
-                class="salary-tracker-role-picker">
+            <select onchange="updatePosition(this.value)" id="salary-tracker-role-picker" class="salary-tracker-picker">
                 <option id="salary-role-blank">Please wait while we load the positions.</option>
             </select>
             <h5 class="mt-5 salary-tracker-info-label">Salary Brackets</h5>
@@ -69,7 +73,7 @@
                     </div>
                     <div class="salary-tracker-bracket-col">
                         <p class="salary-tracker-amount-text" id="salary-annual-currency">
-                            <span class="salary-tracker-currency" id="salary-tracker-currency-annual">R</span>
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-annual">€</span>
                             <span class="salary-tracker-bracket-amount" id="salary-annual-amount-low"></span> -
                             <span class="salary-tracker-bracket-amount" id="salary-annual-amount-high"></span>
                         </p>
@@ -81,7 +85,7 @@
                     </div>
                     <div class="salary-tracker-bracket-col">
                         <p class="salary-tracker-amount-text">
-                            <span class="salary-tracker-currency" id="salary-tracker-currency-monthly">R</span>
+                            <span class="salary-tracker-currency" id="salary-tracker-currency-monthly">€</span>
                             <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-low"></span> -
                             <span class="salary-tracker-bracket-amount" id="salary-monthly-amount-high"></span>
                         </p>
@@ -96,9 +100,11 @@
     // Global vars
     var selectedCountry = "";
     var selectedPosition = null;
+    var selectedDepartment = null;
     var dataArr = [];
     var selectRoleEle = document.getElementById('salary-tracker-role-picker');
-    var dollarUSLocale = Intl.NumberFormat('en-US');
+    var selectDepartmentEle = document.getElementById('salary-tracker-department-picker');
+    var departmentList = ['N/A'];
 
     // Update the country selection on click
     // Update the class for the active country button
@@ -118,38 +124,51 @@
             event.srcElement.classList.add("salary-tracker-country-btn-active");
         }
 
-        selectedPosition = null;
         removeSelectOptions(selectRoleEle);
+        removeSelectOptions(selectDepartmentEle);
+
+        selectedPosition = null;
+        selectedDepartment = null;
+
+        if (departmentList.length >= 1) {
+            departmentList.forEach(department => {
+                var departmentOpt = document.createElement('option');
+                departmentOpt.value = department;
+                departmentOpt.innerHTML = department;
+                selectDepartmentEle.appendChild(departmentOpt);
+            });
+        }
+
         switch (country) {
             case 'ZA':
                 currencySymbolAnnual.innerText = "R";
                 currencySymbolMonthly.innerText = "R";
-                updateData('South Africa', null);
+                updateData('South Africa', null, null, 2);
                 break;
             case 'PT':
                 currencySymbolAnnual.innerText = "€";
                 currencySymbolMonthly.innerText = "€";
-                updateData('Portugal', null);
+                updateData('Portugal', null, null, 2);
                 break;
             case 'ET':
-                currencySymbolAnnual.innerText = "ETB";
-                currencySymbolMonthly.innerText = "ETB";
-                updateData('Ethiopia', null);
+                currencySymbolAnnual.innerText = "€";
+                currencySymbolMonthly.innerText = "€";
+                updateData('Ethiopia', null, null, 2);
                 break;
             case 'KE':
                 currencySymbolAnnual.innerText = "KES";
                 currencySymbolMonthly.innerText = "KES";
-                updateData('Kenya', null);
+                updateData('Kenya', null, null, 2);
                 break;
             case 'IN':
                 currencySymbolAnnual.innerText = "₹";
                 currencySymbolMonthly.innerText = "₹";
-                updateData('India', null);
+                updateData('India', null, null, 2);
                 break;
             case 'NL':
                 currencySymbolAnnual.innerText = "€";
                 currencySymbolMonthly.innerText = "€";
-                updateData('Netherlands', null);
+                updateData('Netherlands', null, null, 2);
                 break;
             default:
                 break;
@@ -161,16 +180,55 @@
     function updatePosition(position) {
 
         selectedPosition = position;
-        updateData(null, position);
+        updateData(null, position, null, 1);
 
+    }
+
+    // Update the selected department
+    function updateDepartment(department) {
+
+        selectedDepartment = department;
+        updateData(null, null, department, 0);
+
+    }
+
+    // Populate select options for Roles and Departments
+    // This also acts as a filter for Roles based on selected department
+    // Update option can have 4 values - 0: Department was updated; 1: Position was updated; 2: Reset positions; null: don't do anything 
+    function updateSelectOptions(updateOption) {
+        var countryArr = dataArr.filter(obj => {
+            return obj.country === selectedCountry;
+        });
+        if (updateOption === 0) {
+            removeSelectOptions(selectRoleEle);
+            selectedPosition = null;
+        }
+
+        if (countryArr[0].positions[0] !== undefined) {
+            countryArr[0].positions.forEach(position => {
+                var positionOpt = document.createElement('option');
+                if (selectedDepartment !== null && selectedDepartment !== 'N/A' && updateOption === 0) {
+                    if (position.department === selectedDepartment) {
+                        positionOpt.value = position.position;
+                        positionOpt.innerHTML = position.position;
+                        selectRoleEle.appendChild(positionOpt);
+                    }
+                } else if (updateOption === 2 || selectedDepartment === 'N/A' || selectedDepartment === null) {
+                    positionOpt.value = position.position;
+                    positionOpt.innerHTML = position.position;
+                    selectRoleEle.appendChild(positionOpt);
+                }
+            });
+        }
     }
 
     // Validate country / role selections
     // Filter by selected country
     // Update benefits and salary brackets where applicable
     // Update selected elements where applicable
-    function updateData(country, position) {
+    function updateData(country, position, department, updateOption) {
 
+        // Fill filter global vars 
         if (country !== null) {
             selectedCountry = country;
         }
@@ -179,60 +237,62 @@
             selectedPosition = position;
         }
 
+        if (department !== null) {
+            selectedDepartment = department;
+        }
+
+        // Filter by selected Country
         var countryArr = dataArr.filter(obj => {
             return obj.country === selectedCountry
         });
 
-        if (countryArr[0].positions !== undefined) {
-            var benefitsEle = document.getElementById('salary-tracker-benefits');
-            var annualLowEle = document.getElementById('salary-annual-amount-low');
-            var annualHighEle = document.getElementById('salary-annual-amount-high');
-            var monthlyLowEle = document.getElementById('salary-monthly-amount-low');
-            var monthlyHighEle = document.getElementById('salary-monthly-amount-high');
+        if (countryArr[0] !== undefined) {
+            // Load values into Positions and Department Dropdowns
+            updateSelectOptions(updateOption);
 
-            if (countryArr[0].benefits !== undefined) {
-                var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
-                benefitsEle.innerText = splitBenefits;
-            } else {
-                benefitsEle.innerText = "";
-            }
+            // Proccess only if the country has positions
+            if (countryArr[0].positions !== undefined) {
 
-            if (selectedPosition === null) {
-                if (countryArr[0].positions[0] !== undefined) {
-                    countryArr[0].positions.forEach(position => {
-                        var opt = document.createElement('option');
-                        opt.value = position.position;
-                        opt.innerHTML = position.position;
-                        selectRoleEle.appendChild(opt);
-                    });
-                    selectItemByValue(document.getElementById('salary-tracker-role-picker'), null);
-                    try {
-                        annualLowEle.innerText = countryArr[0].positions[0].annualLow;
-                        annualHighEle.innerText = countryArr[0].positions[0].annualHigh;
-                        monthlyLowEle.innerText = countryArr[0].positions[0].monthlyLow;
-                        monthlyHighEle.innerText = countryArr[0].positions[0].monthlyHigh;
-                    } catch (err) {
-                        annualLowEle.innerText = 0;
-                        annualHighEle.innerText = 0;
-                        monthlyLowEle.innerText = 0;
-                        monthlyHighEle.innerText = 0;
-                    }
+                // Populate the benefits for the selected country
+                var benefitsEle = document.getElementById('salary-tracker-benefits');
+                if (countryArr[0].benefits !== undefined) {
+                    var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
+                    benefitsEle.innerText = splitBenefits;
+                } else {
+                    benefitsEle.innerText = "";
                 }
-            } else {
-                var positionArr = countryArr[0].positions.find(function (el) {
-                    return el.position === selectedPosition;
-                });
-                if (positionArr) {
-                    try {
-                        annualLowEle.innerText = positionArr.annualLow;
-                        annualHighEle.innerText = positionArr.annualHigh;
-                        monthlyLowEle.innerText = positionArr.monthlyLow;
-                        monthlyHighEle.innerText = positionArr.monthlyHigh;
-                    } catch (err) {
-                        annualLowEle.innerText = 0;
-                        annualHighEle.innerText = 0;
-                        monthlyLowEle.innerText = 0;
-                        monthlyHighEle.innerText = 0;
+
+                // Check selected position and update salary brackets
+                if (selectedPosition === null) {
+                    if (countryArr[0].positions[0] !== undefined) {
+                        selectItemByValue(document.getElementById('salary-tracker-role-picker'), null);
+                        try {
+                            if (selectedDepartment === null || selectedDepartment === 'N/A') {
+                                updatePositionValues(countryArr[0].positions[0].annualLow, countryArr[0].positions[0].annualHigh, countryArr[0].positions[0].monthlyLow, countryArr[0].positions[0].monthlyHigh);
+                            } else {
+                                var firstPositionInDepartment = countryArr[0].positions.find(function (el) {
+                                    return el.department === selectedDepartment;
+                                });
+                                if (firstPositionInDepartment !== undefined) {
+                                    updatePositionValues(firstPositionInDepartment.annualLow, firstPositionInDepartment.annualHigh, firstPositionInDepartment.monthlyLow, firstPositionInDepartment.monthlyHigh);
+                                } else {
+                                    updatePositionValues(0, 0, 0, 0);
+                                }
+                            }
+                        } catch (err) {
+                            updatePositionValues(0, 0, 0, 0);
+                        }
+                    }
+                } else {
+                    var positionArr = countryArr[0].positions.find(function (el) {
+                        return el.position === selectedPosition;
+                    });
+                    if (positionArr) {
+                        try {
+                            updatePositionValues(positionArr.annualLow, positionArr.annualHigh, positionArr.monthlyLow, positionArr.monthlyHigh);
+                        } catch (err) {
+                            updatePositionValues(0, 0, 0, 0);
+                        }
                     }
                 }
             }
@@ -248,36 +308,69 @@
 
         var url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSr_TpN5LWs9ejhbmttNHfqG25LLi9rPKHPE3wYvovXwNNXSxcFsDSEBSEsEf-9MNfwFTKjLPh1FTLL/pub?output=csv";
         var processedData = [];
+
         makeRequest('GET', url)
             .then(function (data) {
                 csvParse(data).forEach(element => {
-                    let formattedCountry = escapeRegExp(element.Country);
-                    let formattedArray = [{ country: formattedCountry, positions: [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow }], benefits: element.Benefits }];
+
+                    var formattedCountry = escapeRegExp(element.Country);
+                    var formattedArray = [{ country: formattedCountry, positions: [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow, department: element.Department }], benefits: element.Benefits }];
+
                     element.Country = formattedCountry;
+
+                    if (element.Department !== undefined && element.Department !== "") {
+                        if (!departmentList.includes(element.Department)) {
+                            departmentList.push(element.Department);
+                        }
+                    }
                     if (dataArr.length <= 0) {
                         dataArr = formattedArray;
                         dataArr = dataArr.flat();
                     } else {
-                        let countryFound = countryExists(formattedCountry, dataArr);
+
+                        var countryFound = countryExists(formattedCountry, dataArr);
                         if (!countryFound) {
                             dataArr.push(formattedArray);
                             dataArr = dataArr.flat();
                         } else {
-                            let positionFound = positionExists(formattedCountry, element.Position, dataArr);
+                            var positionFound = positionExists(formattedCountry, element.Position, dataArr);
                             if (!positionFound) {
-                                let formattedPositionArray = [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow }];
+                                var formattedPositionArray = [{ position: element.Position, monthlyHigh: element.MonthlyHigh, monthlyLow: element.MonthlyLow, annualHigh: element.AnnualHigh, annualLow: element.AnnualLow, department: element.Department }];
                                 var countryArr = dataArr.filter(obj => {
                                     return obj.country === formattedCountry
                                 });
                                 countryArr[0].positions.push(formattedPositionArray);
                                 countryArr[0].positions = countryArr[0].positions.flat()
-
                             }
                         }
                     }
                 });
-                removeSelectOptions(selectRoleEle)
-                updateData('South Africa', null);
+
+                if (dataArr.length >= 1) {
+                    try {
+
+                        removeSelectOptions(selectRoleEle);
+                        removeSelectOptions(selectDepartmentEle);
+
+                        if (departmentList.length >= 1) {
+                            departmentList.forEach(department => {
+                                var departmentOpt = document.createElement('option');
+                                departmentOpt.value = department;
+                                departmentOpt.innerHTML = department;
+                                selectDepartmentEle.appendChild(departmentOpt);
+                            });
+                        }
+
+                        dataArr = dataArr.sort((a, b) => a.country.toLowerCase() > b.country.toLowerCase() ? 1 : -1);
+                        dataArr.forEach(arr => {
+                            arr.positions = arr.positions.sort((a, b) => a.position.toLowerCase() > b.position.toLowerCase() ? 1 : -1)
+                        });
+
+                        updateData('Ethiopia', null, null, 2);
+                    } catch (err) {
+                        console.error(err);
+                    }
+                }
             })
             .catch(function (err) {
                 console.error('An error occured!', err);
@@ -286,6 +379,19 @@
     }
 
     /*** Helpers - Start ***/
+
+    // Re-usable updater for salary bracket values
+    function updatePositionValues(annualLow, annualHigh, monthlyLow, monthlyHigh) {
+        var annualLowEle = document.getElementById('salary-annual-amount-low');
+        var annualHighEle = document.getElementById('salary-annual-amount-high');
+        var monthlyLowEle = document.getElementById('salary-monthly-amount-low');
+        var monthlyHighEle = document.getElementById('salary-monthly-amount-high');
+
+        annualLowEle.innerText = annualLow;
+        annualHighEle.innerText = annualHigh;
+        monthlyLowEle.innerText = monthlyLow;
+        monthlyHighEle.innerText = monthlyHigh;
+    }
 
     // Set an option as selected from a given element and value
     function selectItemByValue(elmnt, value) {
@@ -307,9 +413,9 @@
     // Remove select options from a given element
     function removeSelectOptions(elmnt) {
 
-        var i, L = selectRoleEle.options.length - 1;
+        var i, L = elmnt.options.length - 1;
         for (i = L; i >= 0; i--) {
-            selectRoleEle.remove(i);
+            elmnt.remove(i);
         }
 
     }
@@ -403,6 +509,7 @@
 
         main();
         $("#salary-tracker-role-picker").select2();
+        $("#salary-tracker-department-picker").select2();
 
     });
 

@@ -26,13 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Marketing and Communications Manager
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=146&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Ethiopia
   Job Description: "Would you like to work together with a supportive and young-spirited
@@ -75,6 +68,18 @@ Jobs:
     like the Information Security Officer could be the role for you!  Read on to find
     out more.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=218&source=aWQ9MjM%3D
+- Job Title: Data Engineer
+  Location: Porto, Portugal
+  Job Description: Do you have an affinity for Data?  Are you able to use tools to
+    interpret and analyze data?  Sounds like you could be our next data engineer,
+    read on to find out more!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=224&source=aWQ9MjM%3D
+- Job Title: Ecosystem Launcher
+  Location: Bahir Dar, Ethiopia
+  Job Description: "Are you able to identify potential opportunities and set up new
+    ecosystems? Would you enjoy mapping markets and building relationships? Continue
+    reading to find out more about our Ecosystem Launcher role! \n\n"
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=233&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
