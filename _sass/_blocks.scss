@@ -2776,3 +2776,40 @@ Salary Tracker
         position: relative;
     }
 }
+.contact_banner {
+    height: 15vh !important;
+    min-height: 15vh !important;
+}
+
+.contact_banner > .contact_wrapper {
+    display: block !important;
+}
+
+.contact_banner .t-two {
+    flex: 0 0 100% !important;
+    min-height: 15vh !important;
+    display: flex;
+}
+
+.contact_banner .dot-wrapper {
+    width: 100% !important;
+    align-items: center;
+    margin: auto;
+}
+
+.contact_banner .dot-wrapper .line {
+    margin-top: 0 !important;
+    background-color: $lightBlue;
+}
+
+.contact_banner .dot-wrapper .dot {
+    margin-top: 0 !important;
+    background-color: $lightBlue;
+}
+
+.contact_banner .contact_banner__h3 {
+    padding: 0 !important;
+    font-size: 55px !important;
+    width: 100% !important;
+    color: $lightBlue;
+}
