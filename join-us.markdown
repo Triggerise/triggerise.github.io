@@ -46,7 +46,7 @@ Jobs:
     for projects from design to delivery and execution of prototypes and beyond? Read
     on to find out more about the role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MTQ%3D
-- Job Title: Director MERL
+- Job Title: MERL Director
   Location: Global
   Job Description: Do you have vast experience across the M&E space, coupled with
     significant experience in statistics, qualitative and quantitative research and
