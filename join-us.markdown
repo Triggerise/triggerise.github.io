@@ -46,6 +46,20 @@ Jobs:
     for projects from design to delivery and execution of prototypes and beyond? Read
     on to find out more about the role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MTQ%3D
+- Job Title: Director MERL
+  Location: Global
+  Job Description: Do you have vast experience across the M&E space, coupled with
+    significant experience in statistics, qualitative and quantitative research and
+    managing multi-functional teams? Do you know the ins and outs of MERL and are
+    you an expert in this area?  If this sounds like you, read below to find out more.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=235&source=aWQ9MjM%3D
+- Job Title: Service Quality Specialist
+  Location: Nairobi, Kenya
+  Job Description: Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Do you have a great eye for detail
+    and experience in the health services sector? Read on because this role could
+    be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
