@@ -1,11 +1,19 @@
-<div class="t-one {{include.colour}} {{include.classList}}" {%if include.data=='false' %} uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" {% endif %}>
-    <div class="wrapper">
+<div class="contact_banner t-one {{include.colour}} {{include.classList}}" {%if include.data=='false' %}
+    uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" {% endif %}>
+    <div class="wrapper contact_wrapper">
         {% if include.sectionTitle %}
-        <h3 class="text-colour-{{include.textColor}} t-one__title_wrapper t_one_layout contact_banner__h3">{{include.sectionTitle}}</h3>
-        {% endif %} {% if include.description %}
-        <div class="t-one__description-wrapper text-colour-{{include.textColor}}">
-            {{include.description | markdownify}}
+        <div class="t-three-bottom flex uk-scrollspy-inview uk-animation-fade" style="">
+            <div class="t-two left">
+                <div class="dot-wrapper">
+                    <div class="dot"></div>
+                    <div class="line"></div>
+                    <h3 class="text-colour-{{include.textColor}} t-one__title_wrapper t_one_layout contact_banner__h3">
+                        {{include.sectionTitle}}</h3>
+                    <div class="line"></div>
+                    <div class="dot"></div>
+                </div>
+            </div>
+            {% endif %}
         </div>
-        {% endif %}
     </div>
 </div>

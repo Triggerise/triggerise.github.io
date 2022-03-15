@@ -111,20 +111,13 @@
 /**
  * Site footer
  */
-.site-footer {
+ .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
 .footer-left {
-h3 {
-    margin-bottom: spacing(3);
-    color: $blue;
-}
-}
-
-.footer-right {
-position: relative;
+    position: relative;
 
 small {
     @include mq($from: desktop){
@@ -132,6 +125,29 @@ small {
     bottom: 0px;
     }
 }
+h3 {
+    margin-bottom: spacing(3);
+    color: $blue;
+}
+}
+
+.footer-right {
+    img {
+        min-width: 50px;
+    }
+    h3 {
+        margin-bottom: spacing(3);
+        color: $blue;
+    }
+    .socials p{
+        margin-left: auto;
+    }
+    .small ul {
+        margin-bottom: 0;
+    }
+    .small ul small:first-child{
+        margin-left: auto;
+    }
 }
 
 .footer-heading {
@@ -195,6 +211,21 @@ small {
 }
 
 @include media-query($on-palm) {
+    .footer-right {
+        .socials p{
+            margin-left: 0;
+        }
+        .small {
+            margin-top: 0;
+        }
+        .small ul {
+            margin-bottom: 0;
+        }
+        .small ul small:first-child{
+            margin-left: 0;
+        }
+    }
+
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));

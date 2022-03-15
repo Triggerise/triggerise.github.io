@@ -34,14 +34,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: Programme Lead
-  Location: Kenya
-  Job Description: Would you like to work together with a supportive and young-spirited
-    team to make an impact in this world? Are you looking for a long-term secured
-    job opportunity that gives you a safe and stable environment to grow in? Then
-    you might love working with us! Read more about our open position as Programme
-    Lead.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=211&source=aWQ9MjM%3D
 - Job Title: Experiment Officer
   Location: Machakos, Kenya
   Job Description: Are you heavily involved in executing new innovation projects with
@@ -54,32 +46,6 @@ Jobs:
     for projects from design to delivery and execution of prototypes and beyond? Read
     on to find out more about the role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MTQ%3D
-- Job Title: IT Support Team Lead
-  Location: Porto, Portugal
-  Job Description: Do you have experience in leading, overseeing, and prioritising
-    the work of the IT Support Team? Are you a natural problem-solver abled to troubleshoot
-    and escalate any issues which may arise?  Sounds like the role of IT Support Team
-    Lead could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=219&source=aWQ9MjM%3D
-- Job Title: Information Security Officer
-  Location: Johannesburg, South Africa
-  Job Description: Do you have experience in keeping IT systems as well as Data Security?
-    Are you great at risk assessments and planning in order to mitigate risks?  Sounds
-    like the Information Security Officer could be the role for you!  Read on to find
-    out more.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=218&source=aWQ9MjM%3D
-- Job Title: Data Engineer
-  Location: Porto, Portugal
-  Job Description: Do you have an affinity for Data?  Are you able to use tools to
-    interpret and analyze data?  Sounds like you could be our next data engineer,
-    read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=224&source=aWQ9MjM%3D
-- Job Title: Ecosystem Launcher
-  Location: Bahir Dar, Ethiopia
-  Job Description: "Are you able to identify potential opportunities and set up new
-    ecosystems? Would you enjoy mapping markets and building relationships? Continue
-    reading to find out more about our Ecosystem Launcher role! \n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=233&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best

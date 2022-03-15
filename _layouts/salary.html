@@ -5,6 +5,10 @@ layout: default
 {% assign pageTitle = page.pageTitle %}
 {% assign image = page.Splash-image %}
 {% assign bannerText=page.verbiage %}
+{% include contactPolicyBanner.html
+  colour="darkBlue"
+  sectionTitle=pageTitle description=content
+  classList="flexWrapper padd"%}
 {% include salary-tracker.html
   colour="darkBlue"
   titleOne=titleOne
