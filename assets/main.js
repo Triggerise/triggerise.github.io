@@ -493,7 +493,7 @@ function insertReportSVG () {
       'every-first-element',
       'every-second-element',
       'every-third-element',
-      'every-forth-element',
+      'every-fourth-element',
     ];
     var svgCount = 0;
 
