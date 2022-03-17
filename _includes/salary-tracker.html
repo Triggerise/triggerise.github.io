@@ -251,7 +251,7 @@
                 // Populate the benefits for the selected country
                 var benefitsEle = document.getElementById('salary-tracker-benefits');
                 if (countryArr[0].benefits !== undefined) {
-                    var splitBenefits = countryArr[0].benefits.split(' | ').join('\n');
+                    var splitBenefits = countryArr[0].benefits.split('"').join('');
                     benefitsEle.innerText = splitBenefits;
                 } else {
                     benefitsEle.innerText = "";
