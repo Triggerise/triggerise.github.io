@@ -1528,109 +1528,58 @@ blockquote:after {
             display: none;
         }
 
-        &:nth-child(1) {
-            .one {
-            display: block;
-            width: 55%;
-            }
-        }
-
-        &:nth-child(5n + 5) {
-            .one {
-            display: block;
-            width: 55%;
-            }
-        }
-
-        &:nth-child(2) {
-            background-color: $yellow;
-
-            .two {
-            display: inline-block;
-            width: 70%;
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
-        &:nth-child(6n + 6) {
-            background-color: $yellow;
-
-            .two {
-            display: block;
-            width: 70%;
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
-        &:nth-child(3) {
-            background-color: $pink;
-
-            .three {
-            display: inline-block;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 40%;
-            padding-bottom: -50px;
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
-        &:nth-child(7n + 7) {
-            background-color: $pink;
-
-            .three {
-            display: block;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 40%;
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
-        &:nth-child(4) {
-            background-color: $green;
-
-            .four {
-            display: block;
-            left: 50%;
-            bottom: 22%;
-            transform: translate(-50%, -50%);
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
-        &:nth-child(8n + 8) {
-            background-color: $green;
-
-            .four {
-            display: block;
-            left: 50%;
-            bottom: 22%;
-            transform: translate(-50%, -50%);
-            }
-
-            h2, h3 {
-            color: $darkBlue;
-            }
-        }
-
         @include mq($from: desktop) {
             width: 24%;
+        }
+    }
+
+    .every-first-element {
+        .one {
+        display: block;
+        width: 55%;
+        }
+    }
+    
+    .every-second-element {
+        background-color: $yellow !important;
+    
+        .two {
+            display: block;
+            width: 70%;
+        }
+    
+        h2, h3 {
+            color: $darkBlue;
+        }
+    }
+    
+    .every-third-element {
+        background-color: $pink !important;
+    
+        .three {
+            display: block;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 40%;
+        }
+    
+        h2, h3 {
+            color: $darkBlue;
+        }
+    }
+    
+    .every-forth-element {
+        background-color: $green !important;
+    
+        .four {
+            display: block;
+            left: 50%;
+            bottom: 22%;
+            transform: translate(-50%, -50%);
+        }
+    
+        h2, h3 {
+            color: $darkBlue;
         }
     }
 
@@ -1664,9 +1613,9 @@ blockquote:after {
         }
 }
         .report-image {
-        width: 100px;
-        height: auto;
-        align-items: center
+            width: 100px;
+            height: auto;
+            align-items: center
         }
   // report cover
     .filters {
@@ -2677,6 +2626,7 @@ Salary Tracker
     border: 1px solid #1D214F;
     height: 200px;
     font-size: 18px;
+    overflow-y: auto;
 }
 
 .salary-tracker-picker {
@@ -2763,6 +2713,10 @@ Salary Tracker
 }
 
 @media only screen and (max-width: 1024px) {
+    .salary-tracker-bracket-col {
+        flex: 0 0 100%;
+    }
+    
     .jobs-tracker-link-container {
         flex-direction: column;
         flex-wrap: wrap;
