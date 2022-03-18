@@ -1,4 +1,5 @@
-<div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+<div class="t-one {{include.colour}} {{include.classList}}"
+  uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
     <h2>Reports & resources</h2>
     <div class="filters">
@@ -9,25 +10,18 @@
     </div>
     {% assign annualReports = site.annual-reports %}
     {% assign financialReports = site.financial-reports %}
-    {% assign reports = annualReports | concat: financialReports | sort: "title" %}
+    {% assign ANBIs = site.anbi-status %}
+    {% assign reports = annualReports | concat: financialReports | concat: ANBIs | sort: "title" %}
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
-        <div class="report-cover {{report.filter}}">
-          <a href="{{report.file}}" aria-label="pdf-report" target="_blank" rel="noopener noreferrer" ></a>
-          <h2>{{report.label}}</h2>
-          <h3>{{report.title}}</h3>
-          <div class="report-image"></div>
-        </div>
+      <div class="report-cover {{report.filter}}">
+        <a href="{{report.file}}" aria-label="pdf-report" target="_blank" rel="noopener noreferrer"></a>
+        <h2>{{report.label}}</h2>
+        <h3>{{report.title}}</h3>
+        <div class="report-image"></div>
+      </div>
       {% endfor %}
-      {% assign anbis = site.anbi-status %}
-      {% for anbi in anbis%}
-        <div class="report-cover anbi-cover {{anbi.filter}} ">
-          <a href="{{anbi.file}}" target="_blank" rel="noopener noreferrer" ></a>
-            <h2>{{anbi.label}}</h2>
-            <h3>{{anbi.title}}</h3>
-            <div class="report-image"></div>
-        </div>
-      {% endfor %}
+
     </div>
   </div>
 </div>
