@@ -1,7 +1,7 @@
 ---
 date: 2022-01-17 17:30:00 Z
 pageTitle: Salary Tracker
-Splash-image: "/uploads/join_image.webp"
+Splash-image: "/uploads/Mark03.gif"
 verbiage: We’re honest, even when it comes to salaries. This is why we share our salary
   brackets for each role right from the start. At Triggerise, each person is paid
   according to their ability, experience, location, and role. We respect your time

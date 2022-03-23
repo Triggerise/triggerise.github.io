@@ -323,10 +323,10 @@ function deleteAllCookies(ourCookies) {
       for (var k in theirCookies) {
         if (item.name === k) {
           if (item.priority === 0) {
-            document.cookie = item.name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            document.cookie = item.name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
           }
         } else {
-          document.cookie = k +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+          document.cookie = k + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
         }
       };
     });
@@ -336,7 +336,7 @@ function deleteAllCookies(ourCookies) {
 }
 // Either set or remove cookies / local storage
 function updateCookies(consent, ourCookies, cookiesButtonStatus, cookiesTextStatus) {
-  if(consent) {
+  if (consent) {
     localStorage.setItem('cookiesSeen', 'True');
     localStorage.setItem('cookiesConsentGiven', 'True');
     // Enable GA
@@ -354,10 +354,10 @@ function updateCookies(consent, ourCookies, cookiesButtonStatus, cookiesTextStat
 }
 // Update the values of the cookies slider button and text
 function updateCookieButtonStatus(value, cookiesButtonStatus, cookiesTextStatus) {
-  if(value) {
-    if(cookiesButtonStatus) {
+  if (value) {
+    if (cookiesButtonStatus) {
       cookiesButtonStatus.checked = true;
-      if(cookiesTextStatus) {
+      if (cookiesTextStatus) {
         if (cookiesTextStatus.innerText) {
           cookiesTextStatus.innerText = 'accepted';
         } else {
@@ -366,9 +366,9 @@ function updateCookieButtonStatus(value, cookiesButtonStatus, cookiesTextStatus)
       }
     }
   } else {
-    if(cookiesButtonStatus) {
+    if (cookiesButtonStatus) {
       cookiesButtonStatus.checked = false;
-      if(cookiesTextStatus) {
+      if (cookiesTextStatus) {
         if (cookiesTextStatus.innerText) {
           cookiesTextStatus.innerText = 'rejected';
         } else {
@@ -411,7 +411,7 @@ function initializeCookies() {
   var comparedCookies = compareCookies(ourCookies);
   var cookiesButtonStatus = document.getElementById('cookies-client-button');
   var cookiesTextStatus = document.getElementById('cookies-client-status');
-  
+
   if (viewedCookies === 'False' || !viewedCookies) {
     showCookieBanner(cookiesBanner, cookiesButtonAccept, cookiesButtonDeny, ourCookies, cookiesButtonStatus, cookiesTextStatus);
   } else if (viewedCookies === 'True' && consentGiven === 'True' && !comparedCookies) {
@@ -421,14 +421,14 @@ function initializeCookies() {
   }
   // Slider button on the cookies page
   // This is the functionality implemented for the client, so that they may change their decision on Cookie preference
-  if(cookiesButtonStatus) {
-    if(consentGiven === 'True') {
+  if (cookiesButtonStatus) {
+    if (consentGiven === 'True') {
       updateCookieButtonStatus(true, cookiesButtonStatus, cookiesTextStatus);
     } else {
       updateCookieButtonStatus(false, cookiesButtonStatus, cookiesTextStatus);
     }
     cookiesButtonStatus.addEventListener('change', function (event) {
-      if(event.target.checked) {
+      if (event.target.checked) {
         updateCookies(true, ourCookies);
         updateCookieButtonStatus(true, cookiesButtonStatus, cookiesTextStatus);
       } else {
@@ -436,7 +436,7 @@ function initializeCookies() {
         updateCookieButtonStatus(false, cookiesButtonStatus, cookiesTextStatus);
       }
     });
- 
+
   }
 }
 
@@ -456,6 +456,7 @@ function init() {
   // Initialize the cookie process
   try {
     initializeCookies();
+    insertReportSVG();
   } catch (err) {
     console.log(err);
   }
@@ -472,3 +473,48 @@ anchors.forEach((a) => {
   a.setAttribute('target', '__blank');
   a.setAttribute('rel', 'noopener noreferrer');
 });
+
+// Insert SVGs and Classes for report covers on the about page
+function insertReportSVG () {
+    
+  // Find all elements tagged with the report-cover class
+  var reports = document.getElementsByClassName("report-cover");
+
+  // Loop through elements and attach an svg and class in a set of 4, and then reset the counter on the 5th|11th|etc set
+  if(reports.length >= 1) {
+
+    var svgArray = [
+      '<svg class="one" width="286" height="185" viewBox="0 0 286 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 92.5C0 143.562 41.438 185 92.5 185S185 143.562 185 92.5 143.623 0 92.5 0C41.438 0 0 41.377 0 92.5z" fill="#1D214F"/><path d="M205 144.5c0 22.357 18.143 40.5 40.5 40.5s40.5-18.143 40.5-40.5-18.116-40.5-40.5-40.5c-22.357 0-40.5 18.116-40.5 40.5zM258 40.5c0 6.9-5.6 12.5-12.5 12.5S233 47.4 233 40.5 238.591 28 245.5 28c6.9 0 12.5 5.592 12.5 12.5z" fill="#FDDE5A"/></svg>',
+      '<svg class="two" width="298" height="185" viewBox="0 0 298 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M92.5 185C41.438 185 0 143.562 0 92.5h185c0 51.062-41.438 92.5-92.5 92.5z" fill="#2C449C"/><path d="M205.5 0C256.562 0 298 41.438 298 92.5H113C113 41.438 154.438 0 205.5 0z" fill="#742F8D"/></svg>',
+      '<svg class="three" width="197" height="207" viewBox="0 0 197 207" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 108.5C6 159.562 47.438 201 98.5 201s92.5-41.438 92.5-92.5M191 98.5C191 47.438 149.562 6 98.5 6S6 47.438 6 98.5" stroke="#742F8D" stroke-width="12"/><path d="M44 103.5c0 30.085 24.415 54.5 54.5 54.5s54.5-24.415 54.5-54.5S128.621 49 98.5 49C68.415 49 44 73.379 44 103.5z" fill="#FDDE5A"/></svg>',
+      '<svg class="four" width="292" height="35" viewBox="0 0 292 35" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 17.5C0 27.16 7.84 35 17.5 35S35 27.16 35 17.5 27.172 0 17.5 0C7.84 0 0 7.828 0 17.5zM257 17.5c0 9.66 7.84 17.5 17.5 17.5S292 27.16 292 17.5 284.172 0 274.5 0C264.84 0 257 7.828 257 17.5z" fill="#F9CC17"/><path fill="#2C449C" d="M42 11h206v13H42z"/></svg>'
+    ];
+    var classArray = [
+      'every-first-element',
+      'every-second-element',
+      'every-third-element',
+      'every-fourth-element',
+    ];
+    var svgCount = 0;
+
+    for (var i = 0; i < reports.length; i++) {
+
+      var reportImageContainer = reports[i].querySelector('.report-image');
+
+      if (svgCount >= 4) {
+        svgCount = 0;
+      }
+
+      reports[i].classList.add(classArray[svgCount]);
+      
+      if (reportImageContainer) {
+        reportImageContainer.innerHTML = svgArray[svgCount];
+      }
+
+      svgCount += 1;
+  
+    }
+
+  }
+
+}
