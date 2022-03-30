@@ -194,15 +194,20 @@
         var countryArr = dataArr.filter(obj => {
             return obj.country === selectedCountry;
         });
+        var setSelectedPosition = false;
+
         if (updateOption === 0) {
             removeSelectOptions(selectRoleEle);
             selectedPosition = null;
+        } else if (updateOption === 1) {
+            removeSelectOptions(selectRoleEle);
+            setSelectedPosition = true;
         }
 
         if (countryArr[0].positions[0] !== undefined) {
             countryArr[0].positions.forEach(position => {
                 var positionOpt = document.createElement('option');
-                if (selectedDepartment !== null && selectedDepartment !== 'N/A' && updateOption === 0) {
+                if (selectedDepartment !== null && selectedDepartment !== 'N/A' && (updateOption === 0 || updateOption === 1)) {
                     if (position.department === selectedDepartment) {
                         positionOpt.value = position.position;
                         positionOpt.innerHTML = position.position;
@@ -212,8 +217,11 @@
                     positionOpt.value = position.position;
                     positionOpt.innerHTML = position.position;
                     selectRoleEle.appendChild(positionOpt);
-                }
+                } 
             });
+            if(setSelectedPosition) {
+                selectRoleEle.value = selectedPosition;
+            }
         }
     }
 
