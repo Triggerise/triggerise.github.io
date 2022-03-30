@@ -470,52 +470,41 @@ function fetchMediumPosts() {
     .then((data) => {
       const res = data.items;
       const posts = res.filter(item => item.categories.length > 0)
-      function toText(node) {
-        let tag = document.createElement('div')
-        tag.innerHTML = node
-        node = tag.innerText
-        return node
-      }
+      var output = '';
+      var newsSlider = document.getElementById('news-slider');
 
-      function shortenText(text, startingPoint, maxLength) {
-        return text.length > maxLength ?
-          text.slice(startingPoint, maxLength) :
-          text
-      }
-
-      let output = '';
       posts.forEach((item) => {
         output += `
          <div class="news__post">
-               <img src="${item.thumbnail}" class="news__topImg"></img>
-               <div class="news__content">
-                  <div class="news_preview">
-                     <h2 class="news__title">${shortenText(item.title, 0, 30) + '...'}</h2>
-                     <p class="news__intro">${'...' + shortenText(toText(item.content), 60, 300) + '...'}</p>
-                  </div>
-                  <hr>
-                  <div class="news__info">
-                    <a target="_blank" href="${item.link}">
-                      <button class="news__read_more">Read More</button>
-                    </a>
-                    <div class="news__info_bottom_container">
-                     <span class="news__author">${item.author}</span>
-                     <span class="news__date">${shortenText(item.pubDate, 0, 10)}</span>
-                    </div>
-                  </div>
-               </div>
+            <div class="news__post_img" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('${item.thumbnail}')">
+              <div class="news__preview">
+                <div class="news__info_bottom_container">
+                  <span class="news__author">${item.author}</span>
+                  <span class="news__date">${item.pubDate}</span>
+                </div>
+                <h3 class="news__title">${item.title}</h3>
+              </div>
+            </div>
+            <div class="news__content">
+              <a target="_blank" href="${item.link}">
+                <button class="news__read_more">Read More</button>
+              </a>
+            </div>
          </div>`
       })
-      let newsSlider = document.getElementById('news-slider');
+      
       if(newsSlider) {
         newsSlider.innerHTML = output;
       }
+
     })
     .catch((error) => {
-      let newsSliderEmpty = document.getElementById('news-empty');
+      var newsSliderEmpty = document.getElementById('news-empty');
+
       if(newsSliderEmpty) {
         newsSliderEmpty.innerHTML = `<h4 class="news__error_text">Something went wrong while loading the posts, please try again.</h4>`;
       }
+
       console.log('Error: ', error);
     });
 }
