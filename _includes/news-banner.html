@@ -1,34 +1,31 @@
 <div class="t-two-half flex full {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
-    <div class="t-two-title-float">
-      {% if include.titleOne %}
-        <div class="wrapper flex">
-        <h1 class="text-colour-{{include.textColor}}">{{include.titleOne}} <span class="dot"></span></h1>
-        <span class="line"></span>
-        <h1 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.titleTwo}}</h1>
+  <div class="t-two-title-float">
+    {% if include.titleOne %}
+      <div class="wrapper flex">
+      <h1 class="text-colour-{{include.textColor}}">{{include.titleOne}}</h1>
+      </div>
+    {% endif %}
+  </div>
+  <div class="t-half left">
+    <div class="inner-wrapper">
+      {% if include.subTitle %}
+      <div class="center-container">
+        <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitle }}</h2>
+      {% endif %}
+      {% if include.sub %}
+        <div class="body-text text-colour-{{include.textColor}}">
+        <span class="line"></span>  {{include.sub | markdownify }}
         </div>
       {% endif %}
-    </div>
-    <div class="t-half left">
-      <div class="inner-wrapper">
-        {% if include.subTitle %}
-        <div class="center-container">
-          <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitle }}</h2>
-        {% endif %}
-        {% if include.sub %}
-          <div class="body-text text-colour-{{include.textColor}}">
-          <span class="line"></span>  {{include.sub | markdownify }}
-          </div>
-        {% endif %}
-        {% if include.subTitleSplit %}
-          <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitleSplit}}</h2>
-        </div>
-        {% endif %}
+      {% if include.subTitleSplit %}
+        <h2 class="text-colour-{{include.textColor}}"><span class="dot"></span>{{include.subTitleSplit}}</h2>
       </div>
-    </div>
-    <div class="t-half image news__banner_image">
-      {% if include.image %}
-        <img src="{{include.image}}" alt="portrait of young woman">
       {% endif %}
     </div>
   </div>
-  
+  <div class="t-half image">
+    {% if include.image %}
+      <img src="{{include.image}}" alt="portrait of young woman">
+    {% endif %}
+  </div>
+</div>
