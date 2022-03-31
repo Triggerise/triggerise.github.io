@@ -1,0 +1,21 @@
+<div class="t-one {{include.colour}} {{include.classList}}" {%if include.data==false
+  %}uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100" {% endif %}>
+  <div class="wrapper auto-top">
+    {% if include.sectionTitle %}
+    <h3 class="text-colour-{{include.textColor}} t_one_layout">{{include.sectionTitle}}</h3>
+    {% endif %}
+    {% if include.diagram %}
+    <div class="t-one__diagram-wrapper">
+      {{include.diagram}}
+    </div>
+    {% endif %}
+    {% if include.description %}
+    <div class="description-wrapper t-one__description-wrapper text-colour-{{include.textColor}}">
+      {{include.description | markdownify}}
+      {% if include.buttonClass %}
+      <a href="{{include.buttonLink}}"><button class="button-colour-{{include.buttonClass}}">Dig Deeper</button></a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</div>
