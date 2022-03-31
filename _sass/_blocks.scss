@@ -2713,13 +2713,10 @@ Salary Tracker
     margin-top: 2rem;
 }
 
-@media (min-width: 61.25em) {
-    .description-wrapper {
-        position: absolute;
-        bottom: calc(6px * 15) !important;
-    }
+.t_title {
+    position: absolute;
+    bottom: 75%;
 }
-
 
 .auto-top {
     margin-top: auto;
