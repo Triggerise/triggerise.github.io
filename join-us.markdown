@@ -34,12 +34,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: Experiment Officer
-  Location: Machakos, Kenya
-  Job Description: Are you heavily involved in executing new innovation projects with
-    a focus on the Users perspective, focusing on an agile approach in order to react
-    quickly to changes? Read on to find out more about our role of Experiment Officer.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=229&source=aWQ9MjM%3D
 - Job Title: Innovation Project Manager
   Location: Johannesburg, South Africa
   Job Description: Calling all Innovation Project Managers!  Have you been responsible
