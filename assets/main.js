@@ -540,7 +540,6 @@ function fetchMediumPosts() {
               <div class="news__preview">
                 <div class="news__info_bottom_container">
                   <span class="news__author">${item.author}</span>
-                  <span class="news__date">${item.pubDate}</span>
                 </div>
                 <h3 class="news__title">${item.title}</h3>
               </div>

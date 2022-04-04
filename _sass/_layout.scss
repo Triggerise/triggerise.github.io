@@ -490,5 +490,13 @@ h3 {
         &__intro {
             height: auto;
         }
+        &__post_img {
+            height: 300px;
+            background-size: 100% 300px;
+        }
+    }
+    .news__slider {
+        grid-gap: 50px;
+        gap: 50px;
     }
 }
