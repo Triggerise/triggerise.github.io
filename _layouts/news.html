@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign title = page.Title | split: "|" %}
+{% assign titleOne = title[0] %}
+{% assign titleTwo = title[1] %}
+{% assign image = page.Splash-image %}
+% assign headerTitleOne = page.headerTitleOne %}
+% assign headerDescriptionOne = page.headerDescriptionOne %}
+{% include news-banner.html
+    colour="darkBlue"
+    titleOne=titleOne
+    titleTwo=titleTwo
+    textColor="lightBlue"
+    image=image
+    classList="news__padd centerTitle"
+  %}
+{% include news-medium.html %}
