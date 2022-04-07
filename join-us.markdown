@@ -34,12 +34,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: Innovation Project Manager
-  Location: Johannesburg, South Africa
-  Job Description: Calling all Innovation Project Managers!  Have you been responsible
-    for projects from design to delivery and execution of prototypes and beyond? Read
-    on to find out more about the role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=228&source=aWQ9MTQ%3D
 - Job Title: MERL Director
   Location: Global
   Job Description: Do you have vast experience across the M&E space, coupled with
@@ -54,6 +48,37 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
+- Job Title: Customer Support Officer
+  Location: Nairobi, Kenya
+  Job Description: Do you have experience in troubleshooting and solving urgent technical
+    issues with great efficiency? Do you have a good eye for detail and know how to
+    prioritize? Continue reading, this might be your next job!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=226&source=aWQ9MjM%3D
+- Job Title: Product Owner
+  Location: Nairobi, Kenya
+  Job Description: Do you enjoy connecting the dots, and building the bridge between
+    the user's needs, and the work the development team is doing?  Are you able to
+    develop a vision of what a product should look like?  Sounds like you are a fit
+    for the Product Owner position!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=239&source=aWQ9MjM%3D
+- Job Title: Budgeting & Reporting Specialist
+  Location: Global
+  Job Description: Are you very analytical and have a great eye for detail? Are you
+    an expert in the budgeting process?
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=240&source=aWQ9MjM%3D
+- Job Title: Accountant
+  Location: Addis Ababa, Ethiopia
+  Job Description: Do you have an eye for detail and a passion for numbers? Are you
+    looking for your next career opportunity to contribute to the growth and success
+    of an international finance department?
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=241&source=aWQ9MjM%3D
+- Job Title: Government Liaison Officer
+  Location: Nairobi, Kenya
+  Job Description: Do you have experience managing government relations at national
+    and county level (specifically across Nairobi, Kisumu and Mombasa?)  Are you a
+    great communicator with the ability to ensure Triggerise voice is heard at the
+    right levels?
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=245&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
