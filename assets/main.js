@@ -151,6 +151,66 @@ window.onload = function () {
   });
 };
 
+var slideIndex = 0;
+showSlides();
+
+// Auto play slider on the Home page
+var autoPlaySlider = setInterval(function () {
+  showSlides(slideIndex += 1);
+}, 5000);
+
+// Toggle to next slide on the Home page
+function nextSlide() {
+  continueAutoPlay = false;
+  showSlides(slideIndex += 1);
+}
+
+// Toggle to selected slide on the Home page
+function currentSlide(n) {
+  clearInterval(autoPlaySlider);
+  showSlides(slideIndex = n);
+}
+
+// Toggle to previous slide on the Home page
+function prevSlide() {
+  clearInterval(autoPlaySlider);
+  showSlides(slideIndex -= 1);
+}
+
+// Toggle slides on the Home page
+function showSlides(n) {
+
+  var slides = document.getElementsByClassName("slidr");
+  var dots = document.getElementsByClassName('dot-slidr');
+
+  if (n >= 3) {
+    slideIndex = 0;
+  } else if (n <= -1) {
+    slideIndex = 2;
+  }
+
+  if (slides) {
+    document.querySelectorAll('.slidr').forEach(function (ele, key) {
+      if (slideIndex !== key) {
+        ele.style.display = "none";
+      } else {
+        ele.style.display = "block";
+      }
+    });
+  }
+
+  if(dots) {
+    document.querySelectorAll('.dot-slidr').forEach(function (ele, key) {
+      if (slideIndex !== key) {
+        ele.classList.remove('dot-slidr-active');
+      } else {
+        ele.classList.add('dot-slidr-active');
+      }
+    });
+  }
+
+}
+
 //carousel
 var myFullpage = new fullpage('#fullpage', {
   //Navigation
@@ -457,10 +517,56 @@ function init() {
   try {
     initializeCookies();
     insertReportSVG();
+    fetchMediumPosts();
   } catch (err) {
     console.log(err);
   }
 } init();
+
+// Fetch Medium posts from RSS and convert to JSON
+function fetchMediumPosts() {
+  fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@Triggerise')
+    .then((res) => res.json())
+    .then((data) => {
+      const res = data.items;
+      const posts = res.filter(item => item.categories.length > 0)
+      var output = '';
+      var newsSlider = document.getElementById('news-slider');
+
+      posts.forEach((item) => {
+        output += `
+         <div class="news__post">
+            <div class="news__post_img" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('${item.thumbnail}')">
+              <div class="news__preview">
+                <div class="news__info_bottom_container">
+                  <span class="news__author">${item.author}</span>
+                </div>
+                <h3 class="news__title">${item.title}</h3>
+              </div>
+            </div>
+            <div class="news__content">
+              <a target="_blank" href="${item.link}">
+                <button class="news__read_more">Read More</button>
+              </a>
+            </div>
+         </div>`
+      })
+      
+      if(newsSlider) {
+        newsSlider.innerHTML = output;
+      }
+
+    })
+    .catch((error) => {
+      var newsSliderEmpty = document.getElementById('news-empty');
+
+      if(newsSliderEmpty) {
+        newsSliderEmpty.innerHTML = `<h4 class="news__error_text">Something went wrong while loading the posts, please try again.</h4>`;
+      }
+
+      console.log('Error: ', error);
+    });
+}
 
 //Includes Jobs.html
 var $ = jQuery;

@@ -1,0 +1,19 @@
+<div class="{{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+  <div class="wrapper">
+    <div class="news">
+      {% if include.header %}
+      <div class="news__header">
+        {% if include.headerTitleOne %}
+        <h2 class="news__header2">{% include.headerTitleOne %}</h2>
+        {% endif %}
+        {% if include.headerDescriptionOne %}
+        <span>{% include.headerDescriptionOne %}</span>
+        {% endif %}
+      </div>
+      {% endif %}
+      <div id="news-slider" class="news__slider">
+        <div class="news__empty" id="news-empty"></div>
+      </div>
+    </div>
+  </div>
+</div>
