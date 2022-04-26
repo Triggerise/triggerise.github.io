@@ -398,10 +398,18 @@
         // Convert the text to a float
         // Round the salary either up or down
         // Add spaces to the salary to have the same appearance as currency without actually converting it to a currency
-        annualLowEle.innerText = numberWithSpaces( Math.round( parseFloat(annualLow.replace(/\s/g, '') ) ) );
-        annualHighEle.innerText = numberWithSpaces( Math.round( parseFloat(annualHigh.replace(/\s/g, '') ) ) );
-        monthlyLowEle.innerText = numberWithSpaces( Math.round( parseFloat(monthlyLow.replace(/\s/g, '') ) ) );
-        monthlyHighEle.innerText = numberWithSpaces( Math.round( parseFloat(monthlyHigh.replace(/\s/g, '') ) ) );
+        try {
+            annualLowEle.innerText = numberWithSpaces(Math.round(parseFloat(annualLow.replace(/\s/g, ''))));
+            annualHighEle.innerText = numberWithSpaces(Math.round(parseFloat(annualHigh.replace(/\s/g, ''))));
+            monthlyLowEle.innerText = numberWithSpaces(Math.round(parseFloat(monthlyLow.replace(/\s/g, ''))));
+            monthlyHighEle.innerText = numberWithSpaces(Math.round(parseFloat(monthlyHigh.replace(/\s/g, ''))));
+        } catch (err) {
+            annualLowEle.innerText = annualLow;
+            annualHighEle.innerText = annualHigh;
+            monthlyLowEle.innerText = monthlyLow;
+            monthlyHighEle.innerText = monthlyHigh;
+        }
+
     }
 
     // Set an option as selected from a given element and value
