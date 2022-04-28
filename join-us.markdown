@@ -79,6 +79,44 @@ Jobs:
     great communicator with the ability to ensure Triggerise voice is heard at the
     right levels?
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=245&source=aWQ9MjM%3D
+- Job Title: DevOps Team Lead
+  Location: Global
+  Job Description: 'Do you have experience leading a team to build, test & maintain
+    tools that allow for speedy development of software? Would you enjoy working in
+    an Agile way and are excited by the prospect of using technology to create impact. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
+- Job Title: Field Operations Manager (Contract)
+  Location: Nairobi, Kenya
+  Job Description: Are you able to drive high performance while managing teams? Would
+    you be excited to implement field operations successfully? Read on because the
+    Field Operations Performance Manager role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=247&source=aWQ9MjM%3D
+- Job Title: Ecosystem Trainer
+  Location: Kisii, Kenya
+  Job Description: Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and it's offers?
+    Continue reading to find out more about our Ecosystem Trainer role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=249&source=aWQ9MjM%3D
+- Job Title: Ecosystem Supporter
+  Location: Kisumu, Kenya
+  Job Description: Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=251&source=aWQ9MjM%3D
+- Job Title: External Communication and Public Relations Lead
+  Location: Global
+  Job Description: Are you ready to use your expertise to establish an impeccable
+    reputation for Triggerise and ensure that our brand gains visibility across the
+    right channels? Read on to hear more about the External Communications and Public
+    Relations lead role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=253&source=aWQ9MjM%3D
+- Job Title: Marketing & Communications Manager
+  Location: Uganda, Kampala
+  Job Description: 'Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    manager! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=254&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
