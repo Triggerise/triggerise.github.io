@@ -61,11 +61,6 @@ Jobs:
     develop a vision of what a product should look like?  Sounds like you are a fit
     for the Product Owner position!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=239&source=aWQ9MjM%3D
-- Job Title: Budgeting & Reporting Specialist
-  Location: Global
-  Job Description: Are you very analytical and have a great eye for detail? Are you
-    an expert in the budgeting process?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=240&source=aWQ9MjM%3D
 - Job Title: Accountant
   Location: Addis Ababa, Ethiopia
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
@@ -117,6 +112,13 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=254&source=aWQ9MjM%3D
+- Job Title: Chief Operating Officer
+  Location: Global
+  Job Description: 'How would you feel about taking an organization from impacting
+    500 000 annually  to 2 million youth across Africa and India within the next 3
+    years? Are you up to the challenge? Read on to hear more about the role of COO
+    at Triggerise! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
