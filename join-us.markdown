@@ -26,6 +26,13 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
+- Job Title: Chief Operating Officer
+  Location: Global
+  Job Description: 'How would you feel about taking an organization from impacting
+    500 000 annually  to 2 million youth across Africa and India within the next 3
+    years? Are you up to the challenge? Read on to hear more about the role of COO
+    at Triggerise! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Ethiopia
   Job Description: "Would you like to work together with a supportive and young-spirited
@@ -48,12 +55,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
-- Job Title: Customer Support Officer
-  Location: Nairobi, Kenya
-  Job Description: Do you have experience in troubleshooting and solving urgent technical
-    issues with great efficiency? Do you have a good eye for detail and know how to
-    prioritize? Continue reading, this might be your next job!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=226&source=aWQ9MjM%3D
 - Job Title: Product Owner
   Location: Nairobi, Kenya
   Job Description: Do you enjoy connecting the dots, and building the bridge between
@@ -80,12 +81,6 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: Field Operations Manager (Contract)
-  Location: Nairobi, Kenya
-  Job Description: Are you able to drive high performance while managing teams? Would
-    you be excited to implement field operations successfully? Read on because the
-    Field Operations Performance Manager role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=247&source=aWQ9MjM%3D
 - Job Title: Ecosystem Trainer
   Location: Kisii, Kenya
   Job Description: Would you enjoy working with different actors in the Triggerise
@@ -112,13 +107,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=254&source=aWQ9MjM%3D
-- Job Title: Chief Operating Officer
-  Location: Global
-  Job Description: 'How would you feel about taking an organization from impacting
-    500 000 annually  to 2 million youth across Africa and India within the next 3
-    years? Are you up to the challenge? Read on to hear more about the role of COO
-    at Triggerise! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
