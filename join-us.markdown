@@ -113,6 +113,20 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Data Protection Officer
+  Location: Global
+  Job Description: Do you have practical experience within the data protection space?
+    Would you be able to bring a fresh perspective to managing data privacy risks,
+    while providing advice and oversight across all aspects of data privacy?  Read
+    more to find out about the role of Data Protection Officer.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=243
+- Job Title: Research Lead
+  Location: Addis Ababa, Ethiopia
+  Job Description: Do you have experience designing, executing and implementing research
+    projects? Would you enjoy using your quantitative and qualitative research skills
+    to provide country oversight in all areas of research?  Read more to find out
+    about the position of Research Lead.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=244
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
