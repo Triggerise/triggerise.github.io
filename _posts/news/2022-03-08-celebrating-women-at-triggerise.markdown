@@ -1,7 +1,7 @@
 ---
 title: Celebrating Women at Triggerise
 date: 2022-03-08 10:17:00 Z
-permalink: news/celebrating-women
+permalink: "/news/celebrating-women"
 categories:
 - Triggerise
 tags:
