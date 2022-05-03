@@ -1,0 +1,28 @@
+<div class="wrapper uk-scrollspy-inview uk-animation-fade">
+    <div class="post__container">
+        {% if page.title %}
+        <div class="post__heading mt-5">
+            <h2 class="post__title"><b>{{ page.title }}</b></h2>
+        </div>
+        {% endif %}
+        {% if page.heroImage %}
+        <div class="mt-5">
+            <img class="post__hero-image" src="{{ page.heroImage }}" />
+        </div>
+        {% endif %}
+        {% if page.postContent %}
+        <div class="mt-5">
+            <span class="post__content">
+                {{ page.postContent }}
+            </span>
+        </div>
+        {% endif %}
+        {% if page.author %}
+        <div class="mt-5">
+            <div class="post__divider"></div>
+            <p class="post__author mt-5">By {{ page.author }}</p>
+            <p class="post__date">{{ page.date| date: "%-d %B %Y" }}</p>
+        </div>
+        {% endif %}
+    </div>
+</div>

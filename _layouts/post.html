@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% assign pageTitle = 'News' %}
+{% assign title = page.title %}
+{% assign heroImage = page.heroImage %}
+{% assign postContent = page.postContent %}
+{% assign author = page.author %}
+{% include contactPolicyBanner.html
+colour="darkBlue"
+sectionTitle=pageTitle description=content
+classList="flexWrapper padd"%}
+{% include single-post.html
+colour="darkBlue"
+titleOne=titleOne
+titleTwo=titleTwo
+textColor="lightBlue"
+image=image
+classList="padd centerTitle"
+%}

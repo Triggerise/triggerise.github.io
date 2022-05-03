@@ -11,8 +11,25 @@
         {% endif %}
       </div>
       {% endif %}
-      <div id="news-slider" class="news__slider">
-        <div class="news__empty" id="news-empty"></div>
+      <div id="" class="news__slider">
+        {% for post in site.posts %}
+        <div class="news__post">
+          <div class="news__post_img"
+            style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('{{ post.heroImage }}')">
+            <div class="news__preview">
+              <div class="news__info_bottom_container">
+                <span class="news__author">{{ post.author }}</span>
+              </div>
+              <h3 class="news__title">{{ post.title }}</h3>
+            </div>
+          </div>
+          <div class="news__content">
+            <a target="_blank" href="{{ post.url }}">
+              <button class="news__read_more">Read More</button>
+            </a>
+          </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
