@@ -55,13 +55,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
-- Job Title: Product Owner
-  Location: Nairobi, Kenya
-  Job Description: Do you enjoy connecting the dots, and building the bridge between
-    the user's needs, and the work the development team is doing?  Are you able to
-    develop a vision of what a product should look like?  Sounds like you are a fit
-    for the Product Owner position!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=239&source=aWQ9MjM%3D
 - Job Title: Accountant
   Location: Addis Ababa, Ethiopia
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
@@ -107,12 +100,6 @@ Jobs:
     strategy focused on value creation? You could be our next Marketing and Communications
     manager! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=254&source=aWQ9MjM%3D
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
@@ -127,6 +114,12 @@ Jobs:
     to provide country oversight in all areas of research?  Read more to find out
     about the position of Research Lead.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=244
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
