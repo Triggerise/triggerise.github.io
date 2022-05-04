@@ -19,7 +19,7 @@
                     <a href="{{ page.leadBackLink }}" class="salary-tracker-lead-back-btn">{{ page.leadBackBtnText
                         }}</a>
                     {% else %}
-                    <a href="{{ page.leadBackLink }}" class="salary-tracker-lead-back-btn">Click Here</a>
+                    <a href="{{ page.leadBackLink }}" class="salary-tracker-lead-back-btn">Click here</a>
                     {% endif %}
                 </p>
 
@@ -27,7 +27,7 @@
             {% endif %}
         </div>
         <div class="salary-col">
-            <h5 class="salary-tracker-info-label">Select your Country</h5>
+            <h5 class="salary-tracker-info-label">Select your country</h5>
             <div class="salary-tracker-country-list">
                 <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn-active" onclick="updateCountry('ET')">Ethiopia</button>
@@ -49,18 +49,18 @@
                         Africa</button>
                 </div>
             </div>
-            <h5 class="mt-5 salary-tracker-info-label">Additional Benefits</h5>
+            <h5 class="mt-5 salary-tracker-info-label">Additional benefits</h5>
             <p id="salary-tracker-benefits" class="salary-tracker-country-benefit"></p>
-            <h5 class="mt-5 salary-tracker-info-label">Filter by Department</h5>
+            <h5 class="mt-5 salary-tracker-info-label">Filter by department</h5>
             <select onchange="updateDepartment(this.value)" id="salary-tracker-department-picker"
                 class="salary-tracker-picker">
                 <option id="salary-department-blank">Please wait while we load the positions.</option>
             </select>
-            <h5 class="mt-5 salary-tracker-info-label">Select your Role / Position</h5>
+            <h5 class="mt-5 salary-tracker-info-label">Select your role / position</h5>
             <select onchange="updatePosition(this.value)" id="salary-tracker-role-picker" class="salary-tracker-picker">
                 <option id="salary-role-blank">Please wait while we load the positions.</option>
             </select>
-            <h5 class="mt-5 salary-tracker-info-label">Salary Brackets</h5>
+            <h5 class="mt-5 salary-tracker-info-label">Salary brackets</h5>
             <div class="salary-tracker-bracket-container">
                 <div class="salary-tracker-bracket-row">
                     <div class="salary-tracker-bracket-col">
@@ -217,9 +217,9 @@
                     positionOpt.value = position.position;
                     positionOpt.innerHTML = position.position;
                     selectRoleEle.appendChild(positionOpt);
-                } 
+                }
             });
-            if(setSelectedPosition) {
+            if (setSelectedPosition) {
                 selectRoleEle.value = selectedPosition;
             }
         }
@@ -381,6 +381,10 @@
 
     }
 
+    function numberWithSpaces(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+    }
+
     /*** Helpers - Start ***/
 
     // Re-usable updater for salary bracket values
@@ -390,10 +394,22 @@
         var monthlyLowEle = document.getElementById('salary-monthly-amount-low');
         var monthlyHighEle = document.getElementById('salary-monthly-amount-high');
 
-        annualLowEle.innerText = annualLow;
-        annualHighEle.innerText = annualHigh;
-        monthlyLowEle.innerText = monthlyLow;
-        monthlyHighEle.innerText = monthlyHigh;
+        // Remove white space from salary text
+        // Convert the text to a float
+        // Round the salary either up or down
+        // Add spaces to the salary to have the same appearance as currency without actually converting it to a currency
+        try {
+            annualLowEle.innerText = numberWithSpaces(Math.round(parseFloat(annualLow.replace(/\s/g, ''))));
+            annualHighEle.innerText = numberWithSpaces(Math.round(parseFloat(annualHigh.replace(/\s/g, ''))));
+            monthlyLowEle.innerText = numberWithSpaces(Math.round(parseFloat(monthlyLow.replace(/\s/g, ''))));
+            monthlyHighEle.innerText = numberWithSpaces(Math.round(parseFloat(monthlyHigh.replace(/\s/g, ''))));
+        } catch (err) {
+            annualLowEle.innerText = annualLow;
+            annualHighEle.innerText = annualHigh;
+            monthlyLowEle.innerText = monthlyLow;
+            monthlyHighEle.innerText = monthlyHigh;
+        }
+
     }
 
     // Set an option as selected from a given element and value
