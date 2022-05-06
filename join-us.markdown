@@ -41,13 +41,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: MERL Director
-  Location: Global
-  Job Description: Do you have vast experience across the M&E space, coupled with
-    significant experience in statistics, qualitative and quantitative research and
-    managing multi-functional teams? Do you know the ins and outs of MERL and are
-    you an expert in this area?  If this sounds like you, read below to find out more.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=235&source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Nairobi, Kenya
   Job Description: Have you developed procedures that ensure world-class services
