@@ -113,6 +113,12 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: 'Ecosystem Trainer '
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
+    Continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=259
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
