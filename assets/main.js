@@ -199,7 +199,7 @@ function showSlides(n) {
     });
   }
 
-  if(dots) {
+  if (dots) {
     document.querySelectorAll('.dot-slidr').forEach(function (ele, key) {
       if (slideIndex !== key) {
         ele.classList.remove('dot-slidr-active');
@@ -517,6 +517,7 @@ function init() {
   try {
     initializeCookies();
     insertReportSVG();
+    bootstrapChartData();
   } catch (err) {
     console.log(err);
   }
@@ -535,13 +536,13 @@ anchors.forEach((a) => {
 });
 
 // Insert SVGs and Classes for report covers on the about page
-function insertReportSVG () {
-    
+function insertReportSVG() {
+
   // Find all elements tagged with the report-cover class
   var reports = document.getElementsByClassName("report-cover");
 
   // Loop through elements and attach an svg and class in a set of 4, and then reset the counter on the 5th|11th|etc set
-  if(reports.length >= 1) {
+  if (reports.length >= 1) {
 
     var svgArray = [
       '<svg class="one" width="286" height="185" viewBox="0 0 286 185" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 92.5C0 143.562 41.438 185 92.5 185S185 143.562 185 92.5 143.623 0 92.5 0C41.438 0 0 41.377 0 92.5z" fill="#1D214F"/><path d="M205 144.5c0 22.357 18.143 40.5 40.5 40.5s40.5-18.143 40.5-40.5-18.116-40.5-40.5-40.5c-22.357 0-40.5 18.116-40.5 40.5zM258 40.5c0 6.9-5.6 12.5-12.5 12.5S233 47.4 233 40.5 238.591 28 245.5 28c6.9 0 12.5 5.592 12.5 12.5z" fill="#FDDE5A"/></svg>',
@@ -566,15 +567,69 @@ function insertReportSVG () {
       }
 
       reports[i].classList.add(classArray[svgCount]);
-      
+
       if (reportImageContainer) {
         reportImageContainer.innerHTML = svgArray[svgCount];
       }
 
       svgCount += 1;
-  
+
     }
 
   }
 
 }
+
+//---- DIB Charts Start ----//
+function loadChartData(labels, data, type, element) {
+
+  const config = {
+    type: type,
+    data: data,
+    options: {
+      maintainAspectRatio: false,
+      responsive: true,
+      plugins: {
+        legend: {
+          display: false
+        },
+        tooltips: {
+          enabled: false
+        }
+      }
+    }
+  };
+
+  new Chart(
+    document.getElementById(element),
+    config
+  );
+
+}
+function bootstrapChartData() {
+
+  const labels = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+  ];
+
+  const data = {
+    labels: labels,
+    datasets: [{
+      label: 'Dataset 1',
+      backgroundColor: '#1D214F',
+      borderColor: '#FDDE5A',
+      data: [0, 10, 5, 2, 20, 30, 45],
+    }]
+  };
+
+  loadChartData(labels, data, 'doughnut', 'impact-chart-1');
+  loadChartData(labels, data, 'pie', 'impact-chart-2');
+  loadChartData(labels, data, 'line', 'impact-chart-3');
+  loadChartData(labels, data, 'bar', 'impact-chart-4');
+}
+//---- DIB Charts End ----//

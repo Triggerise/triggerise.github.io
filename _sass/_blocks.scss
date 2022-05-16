@@ -1787,7 +1787,7 @@ blockquote:after {
     }
 
     .every-second-element {
-        background-color: $yellow !important;
+        background-color: $yellow  !important;
 
         .two {
             display: block;
@@ -1801,7 +1801,7 @@ blockquote:after {
     }
 
     .every-third-element {
-        background-color: $pink !important;
+        background-color: $pink  !important;
 
         .three {
             display: block;
@@ -1817,7 +1817,7 @@ blockquote:after {
     }
 
     .every-fourth-element {
-        background-color: $green !important;
+        background-color: $green  !important;
 
         .four {
             display: block;
@@ -1979,10 +1979,10 @@ blockquote:after {
 }
 
 .report-image,
-    {
-    width: 100px;
-    height: auto;
-    align-items: center
+{
+width: 100px;
+height: auto;
+align-items: center
 }
 
 // report cover
@@ -3177,6 +3177,7 @@ Salary Tracker
     .socials-container {
         position: relative;
     }
+
     .contact_banner__h3 {
         font-size: 40px !important;
     }
@@ -3218,4 +3219,262 @@ Salary Tracker
     font-size: 55px;
     width: 100% !important;
     color: $lightBlue;
+}
+
+.impact-bond__header_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.impact-bond__descriptors {
+    margin-top: 55px;
+    text-align: center;
+
+    h1 {
+        font-size: 75px;
+        font-weight: 400;
+        color: $lightBlue;
+        font-weight: 100;
+    }
+
+    h3 {
+        color: $lightBlue;
+        font-size: map-get($font-scale, 1);
+        margin: 0;
+    }
+
+    @media only screen and (max-width: 1024px) {
+        h1 {
+            font-size: 55px;
+        }
+    }
+}
+
+.impact-bond__structure_container {
+    display: grid;
+
+    @media only screen and (max-width: 1024px) {
+        height: auto;
+        grid-template-columns: repeat(1, 1fr);
+        
+        .impact-bond__structure_image {
+            height: 100%;
+        }
+
+        .impact-bond__structure_left {
+            padding: 1rem;
+        }
+    }
+
+    @media only screen and (min-width: 1025px) {
+        min-height: 100vh;
+        
+        .impact-bond__structure_image {
+            height: 50%;
+        }
+
+        .impact-bond__structure_left {
+            padding: 4rem;
+        }
+
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .impact-bond__structure_left {
+        background-color: $darkBlue;
+        text-align: left;
+
+        h1 {
+            color: $lightBlue;
+            font-size: 55px;
+            font-weight: 400;
+            text-align: left;
+        }
+
+        span {
+            color: $lightBlue;
+            text-align: left;
+            font-size: 20px;
+        }
+    }
+
+    .impact-bond__structure_right {
+        display: flex;
+
+        .impact-bond__structure_image {
+            width: 100%;
+            object-fit: fill;
+            margin-top: auto;
+            margin-bottom: auto;
+        }
+    }
+
+}
+
+.impact-bond__metric_container {
+    display: grid;
+
+    @media only screen and (max-width: 1024px) {
+        height: auto;
+
+        grid-template-columns: repeat(1, 1fr);
+
+        .impact-bond__metric_right {
+            grid-row: 1;
+            padding: 1rem;
+        }
+
+        .impact-bond__metric_left {
+            grid-template-columns: 4fr 4fr 4fr 4fr;
+            padding: 0;
+        }
+    }
+
+    @media only screen and (min-width: 1025px) {
+        min-height: 100vh;
+
+        grid-template-columns: repeat(2, 1fr);
+
+        .impact-bond__metric_right {
+            padding: 4rem;
+        }
+
+        .impact-bond__metric_left {
+            padding: 4rem;
+            grid-template-columns: repeat(2, 2fr);
+        }
+    }
+
+    .impact-bond__metric_left {
+        display: grid;
+        overflow: auto;
+    }
+
+    .impact-bond__metric_chart_container {
+        padding: 1rem;
+    }
+
+    .impact-bond__metric_right {
+        background-color: $yellow;
+        text-align: left;
+
+        h1 {
+            color: $darkBlue;
+            font-weight: 400;
+            font-size: 55px;
+            text-align: left;
+        }
+
+        span {
+            color: $darkBlue;
+            text-align: left;
+            font-size: 20px;
+        }
+    }
+}
+
+.impact-bond__partner_container {
+    display: grid;
+
+    @media only screen and (max-width: 1024px) {
+        height: auto;
+
+        .impact-bond__partner_left_first {
+            padding: 1rem;
+        }
+        .impact-bond__partner_right {
+            padding: 1rem;
+        }
+
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    @media only screen and (min-width: 1025px) {
+        min-height: 100vh;
+        .impact-bond__partner_left_first {
+            padding: 4rem;
+        }
+        .impact-bond__partner_right {
+            padding: 4rem;
+        }
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .impact-bond__partner_left {
+        background-color: $green;
+        text-align: left;
+        display: grid;
+        grid-auto-flow: row;
+        grid-template-rows: 50% 50%;
+
+        h1 {
+            color: $darkBlue;
+            font-weight: 400;
+            font-size: 55px;
+            text-align: left;
+        }
+
+        h2 {
+            color: $darkBlue;
+            font-size: map-get($font-scale, 1);
+            margin: 0;
+        }
+
+        .impact-bond__partner_left_first {
+        }
+
+        .impact-bond__partner_left_second {
+            img {
+                height: 100%;
+                width: 100%;
+            }
+        }
+
+    }
+
+    .impact-bond__partner_right {
+        background-color: $pink;
+
+        h1 {
+            color: $darkBlue;
+            font-weight: 400;
+            font-size: 55px;
+        }
+
+        span {
+            color: $darkBlue;
+            font-size: 20px;
+        }
+    }
+}
+
+.impact-bond__news_container {
+
+    @media only screen and (max-width: 1024px) {
+        padding: 1rem;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    @media only screen and (min-width: 1025px) {
+        padding: 4rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    h1 {
+        font-size: 55px;
+        font-weight: 400;
+        color: $darkBlue;
+    }
+
+    h2 {
+        font-size: 20px;
+        color: $darkBlue;
+    }
+
+    .news__slider_view_all {
+        button {
+            width: 100%;
+        }
+    }
 }
