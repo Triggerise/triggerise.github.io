@@ -3257,7 +3257,7 @@ Salary Tracker
     @media only screen and (max-width: 1024px) {
         height: auto;
         grid-template-columns: repeat(1, 1fr);
-        
+
         .impact-bond__structure_image {
             height: 100%;
         }
@@ -3269,7 +3269,7 @@ Salary Tracker
 
     @media only screen and (min-width: 1025px) {
         min-height: 100vh;
-        
+
         .impact-bond__structure_image {
             height: 50%;
         }
@@ -3383,6 +3383,7 @@ Salary Tracker
         .impact-bond__partner_left_first {
             padding: 1rem;
         }
+
         .impact-bond__partner_right {
             padding: 1rem;
         }
@@ -3392,12 +3393,15 @@ Salary Tracker
 
     @media only screen and (min-width: 1025px) {
         min-height: 100vh;
+
         .impact-bond__partner_left_first {
             padding: 4rem;
         }
+
         .impact-bond__partner_right {
             padding: 4rem;
         }
+
         grid-template-columns: repeat(2, 1fr);
     }
 
@@ -3421,8 +3425,7 @@ Salary Tracker
             margin: 0;
         }
 
-        .impact-bond__partner_left_first {
-        }
+        .impact-bond__partner_left_first {}
 
         .impact-bond__partner_left_second {
             img {
@@ -3458,7 +3461,37 @@ Salary Tracker
 
     @media only screen and (min-width: 1025px) {
         padding: 4rem;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    h1 {
+        font-size: 55px;
+        font-weight: 400;
+        color: $darkBlue;
+    }
+
+    h2 {
+        font-size: 20px;
+        color: $darkBlue;
+    }
+
+    .news__slider_view_all {
+        button {
+            width: 100%;
+        }
+    }
+}
+
+.impact-bond__social_container {
+
+    @media only screen and (max-width: 1024px) {
+        padding: 1rem;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    @media only screen and (min-width: 1025px) {
+        padding: 4rem;
+        grid-template-columns: repeat(3, 1fr);
     }
 
     h1 {
