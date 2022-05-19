@@ -6,7 +6,7 @@ categories:
 - Triggerise
 tags:
 - Triggerise
-author: Stef Martin
+author: Triggerise
 heroImage: "/uploads/1_1c75eLyLJvxa2TRba3Eakw.png"
 postContent: |-
   <p>Every year, International Women’s Day dawns with fresh hope for the sisters, friends, and mothers around the world. There is no country where women don’t face some kind of challenge in their everyday lives, but there is also no country where there isn’t some kind of action being taken to face those challenges. In our work every single day, girls and women are at the forefront of all our actions. From each line of code written and every cent raised springs a shared goal: improving the lives of women and those around them.</p>
