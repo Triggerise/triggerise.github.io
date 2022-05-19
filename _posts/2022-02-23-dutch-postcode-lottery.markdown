@@ -2,7 +2,7 @@
 title: The Dutch Postcode Lottery awards €1.5m to Triggerise in new grant
 date: 2022-02-23 10:17:00 Z
 permalink: "/news/dutch-postcode-lottery"
-author: Stef Martin
+author: Triggerise
 heroImage: "/uploads/1_Z2L-8wXZvFGoZtVgvXn3JA.jpeg"
 postContent: "<p>We are delighted to share that the Dutch Postcode Lottery (Nationale
   Postcode Loterij) has awarded a €1.5m grant to Triggerise for us to continue and
