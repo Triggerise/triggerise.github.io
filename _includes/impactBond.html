@@ -1,0 +1,116 @@
+<div class="impact-bond__header_container t-one {{include.colour}} {{include.classList}}"
+  uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+  <div class="wrapper">
+    <div class="impact-bond__descriptors">
+      <h1>{{page.Splash-Number-Title}}</h1>
+      <h3>{{page.Splash-Number-description}}</h3>
+    </div>
+  </div>
+  <svg width="1440" height="685" viewBox="0 0 1440 685" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="a" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="685">
+      <path fill="#C4C4C4" d="M0 0h1440v685H0z" />
+    </mask>
+    <g mask="url(#a)">
+      <path
+        d="M197.458 618.347l9.5-16.455-281.458-162.5-9.5 16.455 281.458 162.5zM557.01 480.718l-8.207-17.136-293.112 140.395 8.208 17.136L557.01 480.718zM917.675 584.832l6.313-17.92-306.535-107.987-6.313 17.921 306.535 107.986zM1214.02 341.694l-13.34-13.527-231.382 228.229 13.342 13.526 231.38-228.228z"
+        fill="#D0DEED" />
+      <circle cx="491.345" cy="627.345" r="22" transform="rotate(-25.594 491.345 627.345)" fill="#D0DEED" />
+      <circle cx="866.06" cy="457.06" r="22" transform="rotate(19.406 866.06 457.06)" fill="#D0DEED" />
+      <circle cx="1214.11" cy="629.112" r="22" transform="rotate(-44.607 1214.11 629.112)" fill="#D0DEED" />
+      <circle cx="230.537" cy="627.053" r="22" transform="rotate(30 230.537 627.053)" fill="#D8A0C8" />
+      <circle cx="582.885" cy="458.345" r="22" transform="rotate(-25.594 582.885 458.345)" fill="#D8A0C8" />
+      <circle cx="951.791" cy="587.309" r="22" transform="rotate(19.406 951.791 587.309)" fill="#D8A0C8" />
+      <circle cx="196.646" cy="394.646" r="22" transform="rotate(35.065 196.646 394.646)" fill="#D0DEED" />
+      <circle cx="1292.65" cy="62.646" r="22" transform="rotate(35.065 1292.65 62.646)" fill="#D8A0C8" />
+      <path d="M1582.53 241.206l-4.12-18.546-317.25 70.589 4.13 18.546 317.24-70.589z" fill="#D0DEED" />
+      <circle cx="1229.92" cy="310.154" r="22" transform="rotate(51.469 1229.92 310.154)" fill="#D8A0C8" />
+    </g>
+  </svg>
+</div>
+<div class="impact-bond__structure_container">
+  <div class="impact-bond__structure_left">
+    <h1>{{page.structureTitle}}</h1>
+    <span>{{ page.structureDescription }}</span>
+  </div>
+  <div class="impact-bond__structure_right">
+    {% if page.structureImg %}
+    <img src="{{site.baseurl}}/uploads/{{page.structureImg}}" class="impact-bond__structure_image" />
+    {% endif %}
+  </div>
+</div>
+<div class="impact-bond__metric_container">
+  <div class="impact-bond__metric_left">
+    <div class="impact-bond__metric_chart_container">
+      <canvas id="impact-chart-1"></canvas>
+    </div>
+    <div class="impact-bond__metric_chart_container">
+      <canvas id="impact-chart-2"></canvas>
+    </div>
+    <div class="impact-bond__metric_chart_container">
+      <canvas id="impact-chart-3"></canvas>
+    </div>
+    <div class="impact-bond__metric_chart_container">
+      <canvas id="impact-chart-4"></canvas>
+    </div>
+  </div>
+  <div class="impact-bond__metric_right">
+    <h1>{{page.metricTitle}}</h1>
+    <span>{{ page.metricDescription }}</span>
+    {% if page.metricButtonText %}
+    <br><br>
+    <a href="/contact">
+      <button class="btn btn-primary">{{ page.metricButtonText }}</button>
+    </a>
+    {% endif %}
+  </div>
+</div>
+<div class="impact-bond__partner_container">
+  <div class="impact-bond__partner_left">
+    <div class="impact-bond__partner_left_first">
+      <h1>{{ page.partnerTitle }}</h1>
+      <h2>{{ page.partnerDescription }}</h2>
+    </div>
+    <div class="impact-bond__partner_left_second">
+      <img src="/uploads/Mark03-a60be9.gif" alt="Triggerise Dots">
+    </div>
+  </div>
+  <div class="impact-bond__partner_right">
+    <h1>{{ page.partner1ContentTitle }}</h1>
+    <span>{{ page.partner1Content }}</span>
+  </div>
+</div>
+<div class="impact-bond__news_container">
+  <h1>{{ page.newsTitle }}</h1>
+  <h2>{{ page.newsDescription }}</h2>
+  <div id="" class="news__slider_impact">
+    {% for post in site.posts %}
+    {% if post.categories contains 'Triggerise' %}
+    <div class="news__post">
+      <div class="news__post_img"
+        style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('{{ post.heroImage }}')">
+        <div class="news__preview">
+          <div class="news__info_bottom_container">
+            <span class="news__author">{{ post.author }}</span>
+          </div>
+          <h3 class="news__title">{{ post.title }}</h3>
+        </div>
+      </div>
+      <div class="news__content">
+        <a target="_blank" href="{{ post.url }}">
+          <button class="news__read_more">Read More</button>
+        </a>
+      </div>
+    </div>
+    <div class="news__post">
+      <a class="twitter-timeline" data-height="500" data-theme="light"
+        href="https://twitter.com/triggerise?ref_src=twsrc%5Etfw"></a>
+    </div>
+    <div class="news__post">
+      <iframe src='https://widgets.sociablekit.com/linkedin-page-posts/iframe/80691' frameborder='0' width='100%' height='500'></iframe>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>

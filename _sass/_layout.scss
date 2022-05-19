@@ -383,6 +383,34 @@ h3 {
             grid-template-columns: repeat(2, 1fr);
         }
     }
+    &__slider_impact{
+        padding: 0;
+        display: grid;
+        grid-gap: 25px;
+        gap: 25px;
+        grid-auto-rows: minmax(100px, auto);
+        margin: 0;
+        padding: 0;
+        position: relative;
+        @include mq($until: mobile) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+        @include mq($until: tablet) {
+            grid-template-columns: repeat(1, 1fr);
+        }
+        @include mq($from: tablet, $and: '(orientation: landscape)') {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        @include mq(1024px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        @include mq(1300px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+        @include mq(tablet, desktop) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
     &__post {
         width: 100%;
         -webkit-box-shadow: 9px 9px 20px 0px rgba(0,0,0, .4);

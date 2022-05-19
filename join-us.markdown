@@ -48,12 +48,7 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
-- Job Title: Accountant
-  Location: Addis Ababa, Ethiopia
-  Job Description: Do you have an eye for detail and a passion for numbers? Are you
-    looking for your next career opportunity to contribute to the growth and success
-    of an international finance department?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=241&source=aWQ9MjM%3D
+- 
 - Job Title: Government Liaison Officer
   Location: Nairobi, Kenya
   Job Description: Do you have experience managing government relations at national
@@ -113,6 +108,12 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: 'Ecosystem Trainer '
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
+    Continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=259
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join

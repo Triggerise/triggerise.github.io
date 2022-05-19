@@ -21,6 +21,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
   <meta property="og:image" content="/uploads/triggerise_OG-a70ed5.jpg" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <meta http-equiv="Content-Security-Policy" content="default-src 'self';
     script-src 'self'
         https://cdn.jsdelivr.net/npm/countup@1.8.2/dist/countUp.min.js
@@ -29,19 +30,26 @@
         https://www.pagespeed-mod.com/v1/taa
         https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js
         https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+        platform.linkedin.com
+        platform.twitter.com
+        cdn.syndication.twimg.com
+        widgets.sociablekit.com
+        unpkg.com
          'unsafe-inline' ;
     style-src 'self'
             https://rawgit.com
             https://cdn.jsdelivr.net
             https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css
-            https://api.rss2json.com/v1/api.json
+            platform.twitter.com
+            ton.twimg.com
+            sociablekit.com
             'unsafe-inline';
     object-src 'none';
     base-uri 'self';
-    connect-src 'self' https://api.rss2json.com/v1/api.json https://oblivion.movercado.org https://www.google-analytics.com https://docs.google.com *.googleusercontent.com;
+    connect-src 'self' https://oblivion.movercado.org https://www.google-analytics.com https://docs.google.com *.googleusercontent.com;
     font-src 'self';
-    frame-src 'self' https://www.youtube.com ;
-    img-src 'self' data: https://www.google-analytics.com https://cdn-images-1.medium.com/ https://medium.com
+    frame-src 'self' https://www.youtube.com platform.twitter.com widgets.sociablekit.com;
+    img-src 'self' data: https://www.google-analytics.com pbs.twimg.com abs.twimg.com ton.twimg.com platform.twitter.com syndication.twitter.com sociablekit.com
     https://cdn.jsdelivr.net;
     manifest-src 'self';
     media-src 'self' ;
