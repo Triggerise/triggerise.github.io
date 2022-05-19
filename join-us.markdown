@@ -48,7 +48,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
-- 
 - Job Title: Government Liaison Officer
   Location: Nairobi, Kenya
   Job Description: Do you have experience managing government relations at national
