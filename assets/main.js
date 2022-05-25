@@ -39,7 +39,7 @@ function loadJSON(path, success, error) {
 
 //counter
 window.onload = function () {
-  loadJSON("https://oblivion.movercado.org/api/metrics/website", function (data) {
+  loadJSON("https://oblivion-api.tikoplatform.org/api/metrics/website", function (data) {
 
     //api
     var homepage = data.global.active_rafikis;
