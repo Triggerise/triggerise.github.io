@@ -45,6 +45,6 @@ defaults:
     path: ''
     type: anbi-status
   values:
-    label: ANBI Status
+    label: ANBI Publication
     filter: ANBIStatus
 permalink: pretty
