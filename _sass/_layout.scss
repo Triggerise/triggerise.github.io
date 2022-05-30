@@ -510,6 +510,14 @@ h3 {
     }
 }
 
+.news__wrapper {
+    max-width: -webkit-calc(1300px - (30px * 2));
+    max-width: calc(1300px - (30px * 2));
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 @media only screen and (max-width: 1024px) {
     .news {
         &__title {
@@ -527,6 +535,10 @@ h3 {
         grid-gap: 50px;
         gap: 50px;
     }
+
+    .news__wrapper {
+        width: 90%;
+    }
 }
 
 .post__hero-image {
@@ -539,7 +551,9 @@ h3 {
 .post__content {
     p{
       word-spacing: .1rem;  
-      font-size: 22px;
+      font-size: 20px;
+      text-rendering: optimizeLegibility; 
+      word-break: normal;
     }
 }
 
