@@ -116,21 +116,11 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/maryloukupfer/
   Image: "/uploads/Trig_profiles_marylou.webp"
-- Name: Phakamani
-  Role: Product Manager
-  Location: Johannesburg, South Africa
-  LinkedIn: https://www.linkedin.com/in/phakamani-m-359a3947/
-  Image: "/uploads/PK-77cc28.jpg"
 - Name: Nelson
   Role: Chief Technology Officer
   Location: Cape Town, South Africa
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
-- Name: Jesse
-  Role: Country Director – Kenya
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/dr-jesse-njunguru-059909120/
-  Image: "/uploads/Trig_profiles_jesse.webp"
 - Name: Joana
   Role: Quality Assurance Lead
   Location: Porto, Portugal
@@ -146,11 +136,6 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
   Image: "/uploads/Trig_profiles_roxy.webp"
-- Name: Asgar
-  Role: Project Manager
-  Location: Jaipur, India
-  LinkedIn: https://www.linkedin.com/in/asgar-ali-070b64141
-  Image: "/uploads/Trig_profiles_asgar.webp"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
