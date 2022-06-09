@@ -41,13 +41,6 @@ Jobs:
     you might love working with us! Read more about our open position as Programme
     Lead.\n\n"
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
-- Job Title: Service Quality Specialist
-  Location: Nairobi, Kenya
-  Job Description: Have you developed procedures that ensure world-class services
-    are offered to customers around the globe? Do you have a great eye for detail
-    and experience in the health services sector? Read on because this role could
-    be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=236&source=aWQ9MjM%3D
 - Job Title: Government Liaison Officer
   Location: Nairobi, Kenya
   Job Description: Do you have experience managing government relations at national
@@ -67,12 +60,6 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it's offers?
     Continue reading to find out more about our Ecosystem Trainer role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=249&source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
-  Location: Kisumu, Kenya
-  Job Description: Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=251&source=aWQ9MjM%3D
 - Job Title: External Communication and Public Relations Lead
   Location: Global
   Job Description: Are you ready to use your expertise to establish an impeccable
@@ -80,13 +67,6 @@ Jobs:
     right channels? Read on to hear more about the External Communications and Public
     Relations lead role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=253&source=aWQ9MjM%3D
-- Job Title: Marketing & Communications Manager
-  Location: Uganda, Kampala
-  Job Description: 'Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    manager! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=254&source=aWQ9MjM%3D
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
@@ -113,12 +93,6 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=260&source=aWQ9MjM%3D
-- Job Title: Grants and Compliance Manager
-  Location: Global
-  Job Description: 'Are you experienced in dealing with financial budgeting, donor
-    grant reporting & compliance? Do you want to develop budgets for new business
-    opportunities? '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=261&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Nairobi, Kenya
   Job Description: Would you like to work together with a supportive and young-spirited
