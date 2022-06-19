@@ -1,16 +1,31 @@
-<div class="t-one {{include.colour}} {{include.classList}}" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+<div class="t-one {{include.colour}} {{include.classList}}"
+  uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
   <div class="wrapper">
-    <div class="story-list">
-      {% for story in page.Success-stories %}
-        <span><a href="#{{story.Project | slugify}}">{{story.Project}}</a> /</span>
-      {% endfor %}
-    </div>
-    {% for story in page.Success-stories %}
-      <div id="{{story.Project | slugify}}" class="success-story-wrapper">
-        <h1>{{story.Title}}</h1>
-        <h2 class="success_story_h2">{{story.['Intro text']}}</h2>
-        {{story.Body | markdownify }}
-      </div>
-    {% endfor %}
+    <section class="success__section">
+      <nav>
+        {% for story in page.Success-stories %}
+          {% if forloop.first %}
+            <a class="tab active">{{story.Project}}</a>
+          {% else %}
+            <a class="tab">{{story.Project}}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+      <section class="content">
+        {% for story in page.Success-stories %}
+          {% if forloop.first %}
+            <div class="active tab-content">
+          {% else %}
+            <div class="tab-content">
+          {% endif %}
+              <div id="{{story.Project | slugify}}" class="success-story-wrapper">
+                <h1>{{story.Title}}</h1>
+                <h2 class="success_story_h2">{{story.['Intro text']}}</h2>
+                {{story.Body | markdownify }}
+              </div>
+            </div>
+        {% endfor %}
+      </section>
+    </section>
   </div>
 </div>

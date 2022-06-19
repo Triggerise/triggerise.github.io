@@ -570,3 +570,50 @@ h3 {
 .post__date {
     font-size: 18px;
 }
+
+.success__section {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  nav .tab {
+    width: 100%;
+    padding: 20px;
+    align-self: center;
+    text-align: center;
+    color: currentColor;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 17px;
+  }
+
+  nav .tab:first-of-type {
+    border-top-left-radius: 10px;
+  }
+
+  nav .tab:last-of-type {
+    border-top-right-radius: 10px;
+  }
+
+  nav .tab.active {
+    background: $darkBlue;
+    color: $grey-color-light
+  }
+
+  .content {
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+  }
+
+  .content .tab-content {
+    display: none;
+  }
+
+  .content .tab-content.active {
+    display: block;
+  }
+}

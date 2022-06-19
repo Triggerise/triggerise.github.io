@@ -517,6 +517,7 @@ function init() {
   try {
     initializeCookies();
     insertReportSVG();
+    initializeTestimonialTabs();
     bootstrapChartData();
   } catch (err) {
     console.log(err);
@@ -633,3 +634,21 @@ function bootstrapChartData() {
   loadChartData(labels, data, 'bar', 'impact-chart-4');
 }
 //---- DIB Charts End ----//
+
+//---- Success Section Start ----//
+function initializeTestimonialTabs () {
+  const success = document.querySelector('.success__section');
+  const tabs = [...success.querySelectorAll('nav .tab')];
+  const content = [...success.querySelectorAll('.content .tab-content')];
+
+  tabs.forEach(tab => tab.addEventListener('click', (e) => {
+    for (p of content) p.classList.remove('active');
+    for (tab of tabs) tab.classList.remove('active');
+    const index = tabs.indexOf(e.target);
+    if (index != -1) {
+      e.target.classList.add('active');
+      content[index].classList.add('active');
+    }
+  }));
+}
+//---- Success Section End ----//
