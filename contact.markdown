@@ -31,16 +31,6 @@ AddressesRow2:
     Nairobi, Kenya
 
     [hellokenya@triggerise.org](mailto:hellokenya@triggerise.org)
-AddressesRow3:
-- Address: |-
-    **Triggerise India**
-
-    Awfis Space Solutions,
-    L-29, 1 Floor, Outer Circle,
-    Connaught Place,
-    New Delhi, India
-
-    [helloindia@triggerise.org](mailto:helloindia@triggerise.org)
 - Address: |-
     **Triggerise South Africa**
 

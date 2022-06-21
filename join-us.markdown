@@ -29,7 +29,7 @@ Jobs:
 - Job Title: Chief Operating Officer
   Location: Global
   Job Description: 'How would you feel about taking an organization from impacting
-    500 000 annually  to 2 million youth across Africa and India within the next 3
+    500 000 annually  to 2 million youth across Africa within the next 3
     years? Are you up to the challenge? Read on to hear more about the role of COO
     at Triggerise! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
