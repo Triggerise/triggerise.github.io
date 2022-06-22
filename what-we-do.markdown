@@ -4,16 +4,16 @@ date: 2020-07-09 17:29:00 Z
 Title: Big ambitions | Better futures
 Splash-image: "/uploads/lady_laughing.webp"
 Supporting-title: Making big impact possible
-Description: "### Young people across Africa are using our Tiko platform
-  to make positive life decisions. We connect our members' needs to existing local
-  providers, by building ecosystems of local health services, community organisations
-  and micro-entrepreneurs. With this diversity of actors we’re able to create impact
-  at scale.  \n\nPowered by behavioural economics, we use nudge tools including reminders,
-  follow-ups, subsidies and instant rewards to motivate our members. From manicures
-  to contraceptives, Tiko offers a broad range of wellbeing products and services
-  to foster long-lasting healthy behaviours. Currently we connect primarily adolescent
-  girls and young mothers to a variety of sexual and reproductive health (SRH) services
-  and antenatal care (ANC) from local providers."
+Description: "### Young people across Africa are using our Tiko platform to make positive
+  life decisions. We connect our members' needs to existing local providers, by building
+  ecosystems of local health services, community organisations and micro-entrepreneurs.
+  With this diversity of actors we’re able to create impact at scale.  \n\nPowered
+  by behavioural economics, we use nudge tools including reminders, follow-ups, subsidies
+  and instant rewards to motivate our members. From manicures to contraceptives, Tiko
+  offers a broad range of wellbeing products and services to foster long-lasting healthy
+  behaviours. Currently we connect primarily adolescent girls and young mothers to
+  a variety of sexual and reproductive health (SRH) services and antenatal care (ANC)
+  from local providers."
 Supporting-image: "/uploads/TRIGGERISE-KIBERA-139.webp"
 What-section-one-title: Thriving Ecosystems | Big impact
 What-section-one-description: "Tiko connects across supply and demand, building networks
