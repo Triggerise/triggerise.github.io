@@ -237,6 +237,45 @@ function scroll() {
   });
 }
 
+function onToolTip(event) {
+  console.log(event);
+}
+
+// Add new toggle for map tooltips - The package does not support mobile on press || There has been an open issue on the package since 2020.
+function toggleMapTooltips() {
+  let hovering = false;
+  $('.svgMap-country').on('click tap touchstart', function (event) {
+    event.preventDefault();
+    if(!hovering) {
+      $('.svgMap-tooltip').css("display", "block");
+    }
+  });
+
+  $(document).click(function (e) {
+    e.preventDefault();
+    if(!hovering) {
+      $('.svgMap-tooltip').css("display", "none");
+      hovering = false;
+    }
+  });
+
+  $('.svgMap-country').mouseenter(function (event) {
+    event.preventDefault();
+    $('.svgMap-tooltip').css("display", "block");
+    showTooltip = true;
+    hovering = true;
+  });
+
+  $('.svgMap-country').mouseleave(function (event) {
+    event.preventDefault();
+    if (hovering) {
+      $('.svgMap-tooltip').css("display", "none");
+      showTooltip = false;
+      hovering = false;
+    }
+  });
+}
+
 var worldMapCheck = document.querySelector('#svgMap');
 function worldMap() {
   new svgMap({
@@ -254,7 +293,7 @@ function worldMap() {
       applyData: '',
       values: {
         CM: {
-          '': 'Operational since 2018, we are connecting young girls in the Far North and Eastern regions of Cameroon with SRH services. Funded by Cordaid, we have built an ecosystem of 36 service providers in Cameroon.'
+          '': 'Operational since 2018, we are connecting young girls in the Far North and Eastern regions of Cameroon with SRH services. Funded by Cordaid, we have built an ecosystem of 36 service providers in Cameroon.',
         },
         ET: {
           '': 'Operational since 2016, we are connecting young girls in Addis Ababa and Afar regions of Ethiopia with SRH services. Funded by Rutgers and Embassy of Netherlands, Ethiopia, we have built an ecosystem of 77 service providers in Ethiopia. Since 2017, we also have an office in Addis Ababa that supports the regional operations.'
@@ -286,9 +325,10 @@ function worldMap() {
       }
     }
   });
+  toggleMapTooltips();
 }
+
 function classLists() {
-  console.log('countries')
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
   document.querySelector('#svgMap-map-country-ZA').classList.add('office');
   document.querySelector('#svgMap-map-country-NL').classList.add('office');
@@ -636,7 +676,7 @@ function bootstrapChartData() {
 //---- DIB Charts End ----//
 
 //---- Success Section Start ----//
-function initializeTestimonialTabs () {
+function initializeTestimonialTabs() {
   const success = document.querySelector('.success__section');
   const tabs = [...success.querySelectorAll('nav .tab')];
   const content = [...success.querySelectorAll('.content .tab-content')];
