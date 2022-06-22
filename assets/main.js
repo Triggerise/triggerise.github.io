@@ -298,9 +298,6 @@ function worldMap() {
         ET: {
           '': 'Operational since 2016, we are connecting young girls in Addis Ababa and Afar regions of Ethiopia with SRH services. Funded by Rutgers and Embassy of Netherlands, Ethiopia, we have built an ecosystem of 77 service providers in Ethiopia. Since 2017, we also have an office in Addis Ababa that supports the regional operations.'
         },
-        IN: {
-          '': 'Operational since 2015, we are connecting young girls &amp; mothers in Delhi, Rajasthan and Uttar Pradesh states of India with SRH &amp; ANC services. Funded by the Ministry of Foreign Affairs of the Netherlands and Grand Challenges Canada, we have built an ecosystem of 228 service providers in India. Since 2015, we also have an office in New Delhi that supports the regional operations.'
-        },
         KE: {
           '': 'Operational since 2015, we are connecting young girls in over 15 counties of Kenya with SRH services. Funded by the Children’s Investment Fund Foundation and Ministry of Foreign Affairs of the Netherlands, we have built an ecosystem of 551 service providers in Kenya. Since 2015, our Nairobi office has been providing support to operations in Burkina Faso, Cameroon, Democratic Republic of Congo and Kenya.'
         },
@@ -337,7 +334,6 @@ function classLists() {
   document.querySelector('#svgMap-map-country-UG').classList.add('project');
   document.querySelector('#svgMap-map-country-BF').classList.add('project');
   document.querySelector('#svgMap-map-country-KE').classList.add('operation-office');
-  document.querySelector('#svgMap-map-country-IN').classList.add('operation-office');
   document.querySelector('#svgMap-map-country-ET').classList.add('operation-office');
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
