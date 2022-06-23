@@ -20,14 +20,17 @@ AddressesRow1:
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
 AddressesRow2:
+- Address: |-
+    **Triggerise Ethiopia**
 
 
-- Address: "**Triggerise Ethiopia**\n\n\n
-Bole Medhanialem, Cameroon street\n
-Impress Building, 1st floor\n
-Office number 101C\n
-Addis Ababa, Ethiopia\n\n\n
-[helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)"
+     Bole Medhanialem, Cameroon street
+     Impress Building, 1st floor
+     Office number 101C
+     Addis Ababa, Ethiopia
+
+
+     [helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)
 - Address: |-
     **Triggerise Kenya**
 
