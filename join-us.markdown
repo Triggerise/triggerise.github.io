@@ -53,12 +53,6 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Kisii, Kenya
-  Job Description: Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it's offers?
-    Continue reading to find out more about our Ecosystem Trainer role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=249&source=aWQ9MjM%3D
 - Job Title: External Communication and Public Relations Lead
   Location: Global
   Job Description: Are you ready to use your expertise to establish an impeccable
