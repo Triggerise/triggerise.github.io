@@ -237,6 +237,45 @@ function scroll() {
   });
 }
 
+function onToolTip(event) {
+  console.log(event);
+}
+
+// Add new toggle for map tooltips - The package does not support mobile on press || There has been an open issue on the package since 2020.
+function toggleMapTooltips() {
+  let hovering = false;
+  $('.svgMap-country').on('click tap touchstart', function (event) {
+    event.preventDefault();
+    if(!hovering) {
+      $('.svgMap-tooltip').css("display", "block");
+    }
+  });
+
+  $(document).click(function (e) {
+    e.preventDefault();
+    if(!hovering) {
+      $('.svgMap-tooltip').css("display", "none");
+      hovering = false;
+    }
+  });
+
+  $('.svgMap-country').mouseenter(function (event) {
+    event.preventDefault();
+    $('.svgMap-tooltip').css("display", "block");
+    showTooltip = true;
+    hovering = true;
+  });
+
+  $('.svgMap-country').mouseleave(function (event) {
+    event.preventDefault();
+    if (hovering) {
+      $('.svgMap-tooltip').css("display", "none");
+      showTooltip = false;
+      hovering = false;
+    }
+  });
+}
+
 var worldMapCheck = document.querySelector('#svgMap');
 function worldMap() {
   new svgMap({
@@ -254,13 +293,10 @@ function worldMap() {
       applyData: '',
       values: {
         CM: {
-          '': 'Operational since 2018, we are connecting young girls in the Far North and Eastern regions of Cameroon with SRH services. Funded by Cordaid, we have built an ecosystem of 36 service providers in Cameroon.'
+          '': 'Operational since 2018, we are connecting young girls in the Far North and Eastern regions of Cameroon with SRH services. Funded by Cordaid, we have built an ecosystem of 36 service providers in Cameroon.',
         },
         ET: {
           '': 'Operational since 2016, we are connecting young girls in Addis Ababa and Afar regions of Ethiopia with SRH services. Funded by Rutgers and Embassy of Netherlands, Ethiopia, we have built an ecosystem of 77 service providers in Ethiopia. Since 2017, we also have an office in Addis Ababa that supports the regional operations.'
-        },
-        IN: {
-          '': 'Operational since 2015, we are connecting young girls &amp; mothers in Delhi, Rajasthan and Uttar Pradesh states of India with SRH &amp; ANC services. Funded by the Ministry of Foreign Affairs of the Netherlands and Grand Challenges Canada, we have built an ecosystem of 228 service providers in India. Since 2015, we also have an office in New Delhi that supports the regional operations.'
         },
         KE: {
           '': 'Operational since 2015, we are connecting young girls in over 15 counties of Kenya with SRH services. Funded by the Children’s Investment Fund Foundation and Ministry of Foreign Affairs of the Netherlands, we have built an ecosystem of 551 service providers in Kenya. Since 2015, our Nairobi office has been providing support to operations in Burkina Faso, Cameroon, Democratic Republic of Congo and Kenya.'
@@ -286,9 +322,10 @@ function worldMap() {
       }
     }
   });
+  toggleMapTooltips();
 }
+
 function classLists() {
-  console.log('countries')
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
   document.querySelector('#svgMap-map-country-ZA').classList.add('office');
   document.querySelector('#svgMap-map-country-NL').classList.add('office');
@@ -297,7 +334,6 @@ function classLists() {
   document.querySelector('#svgMap-map-country-UG').classList.add('project');
   document.querySelector('#svgMap-map-country-BF').classList.add('project');
   document.querySelector('#svgMap-map-country-KE').classList.add('operation-office');
-  document.querySelector('#svgMap-map-country-IN').classList.add('operation-office');
   document.querySelector('#svgMap-map-country-ET').classList.add('operation-office');
   document.querySelector('#svgMap-map-country-CM').classList.add('operation');
 }
@@ -636,7 +672,7 @@ function bootstrapChartData() {
 //---- DIB Charts End ----//
 
 //---- Success Section Start ----//
-function initializeTestimonialTabs () {
+function initializeTestimonialTabs() {
   const success = document.querySelector('.success__section');
   const tabs = [...success.querySelectorAll('nav .tab')];
   const content = [...success.querySelectorAll('.content .tab-content')];

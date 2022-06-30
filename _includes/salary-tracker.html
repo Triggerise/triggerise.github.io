@@ -33,9 +33,6 @@
                     <button class="salary-tracker-country-btn-active" onclick="updateCountry('ET')">Ethiopia</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
-                    <button class="salary-tracker-country-btn" onclick="updateCountry('IN')">India</button>
-                </div>
-                <div class="salary-tracker-country-btn-container">
                     <button class="salary-tracker-country-btn" onclick="updateCountry('KE')">Kenya</button>
                 </div>
                 <div class="salary-tracker-country-btn-container">
@@ -154,11 +151,6 @@
                 currencySymbolAnnual.innerText = "KES";
                 currencySymbolMonthly.innerText = "KES";
                 updateData('Kenya', null, null, 2);
-                break;
-            case 'IN':
-                currencySymbolAnnual.innerText = "₹";
-                currencySymbolMonthly.innerText = "₹";
-                updateData('India', null, null, 2);
                 break;
             case 'NL':
                 currencySymbolAnnual.innerText = "€";

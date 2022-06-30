@@ -29,9 +29,8 @@ Jobs:
 - Job Title: Chief Operating Officer
   Location: Global
   Job Description: 'How would you feel about taking an organization from impacting
-    500 000 annually  to 2 million youth across Africa and India within the next 3
-    years? Are you up to the challenge? Read on to hear more about the role of COO
-    at Triggerise! '
+    500 000 annually  to 2 million youth across Africa within the next 3 years? Are
+    you up to the challenge? Read on to hear more about the role of COO at Triggerise! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
 - Job Title: Programme Lead
   Location: Ethiopia
@@ -54,12 +53,6 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Kisii, Kenya
-  Job Description: Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it's offers?
-    Continue reading to find out more about our Ecosystem Trainer role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=249&source=aWQ9MjM%3D
 - Job Title: External Communication and Public Relations Lead
   Location: Global
   Job Description: Are you ready to use your expertise to establish an impeccable
@@ -93,12 +86,6 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=260&source=aWQ9MjM%3D
-- Job Title: Programme Lead
-  Location: Nairobi, Kenya
-  Job Description: Would you like to work together with a supportive and young-spirited
-    team to make an impact in this world? Are you looking for a long-term secured
-    job opportunity that gives you a safe and stable environment to grow in?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=262&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
