@@ -252,7 +252,6 @@ function toggleMapTooltips() {
   });
 
   $(document).click(function (e) {
-    e.preventDefault();
     if(!hovering) {
       $('.svgMap-tooltip').css("display", "none");
       hovering = false;
