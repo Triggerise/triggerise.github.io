@@ -32,14 +32,6 @@ Jobs:
     500 000 annually  to 2 million youth across Africa within the next 3 years? Are
     you up to the challenge? Read on to hear more about the role of COO at Triggerise! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
-- Job Title: Programme Lead
-  Location: Ethiopia
-  Job Description: "Would you like to work together with a supportive and young-spirited
-    team to make an impact in this world? Are you looking for a long-term secured
-    job opportunity that gives you a safe and stable environment to grow in? Then
-    you might love working with us! Read more about our open position as Programme
-    Lead.\n\n"
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=198
 - Job Title: Government Liaison Officer
   Location: Nairobi, Kenya
   Job Description: Do you have experience managing government relations at national
