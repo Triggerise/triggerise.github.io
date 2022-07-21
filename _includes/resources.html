@@ -14,7 +14,8 @@
     {% assign reports = annualReports | concat: financialReports | concat: ANBIs | sort: "title" %}
     <div class="t-rescources-wrapper flex">
       {% for report in reports reversed %}
-      <div onclick="window.open('{{report.file}}')" class="report-cover {{report.filter}}">
+      <div class="report-cover {{report.filter}}">
+        <a href="{{report.file}}" aria-label="pdf-report" target="__blank" rel="noopener noreferrer"></a>
         <h2>{{report.label}}</h2>
         <h3>{{report.title}}</h3>
         <div class="report-image"></div>
