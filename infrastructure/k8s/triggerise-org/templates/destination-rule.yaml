@@ -1,0 +1,13 @@
+{{- if .Values.istio.enabled }}
+apiVersion: networking.istio.io/v1alpha3
+kind: DestinationRule
+metadata:
+  name: "{{.Release.Name}}"
+  labels:
+    {{- include "labels" . | nindent 4 }}
+spec:
+  host: "{{.Release.Name}}"
+  trafficPolicy:
+    loadBalancer:
+      simple: LEAST_CONN
+{{- end }}

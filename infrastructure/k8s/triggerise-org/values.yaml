@@ -1,0 +1,35 @@
+image:
+  repository: 387002922338.dkr.ecr.eu-west-1.amazonaws.com/tiko/triggerise-org
+  tag: latest
+  pullPolicy: "Always"
+service:
+  internalPort: 80
+  type: ClusterIP
+  externalPort: 80
+livenessProbe:
+  enabled: true
+  path: /
+resources:
+  requests:
+    cpu: 100m
+    memory: 256Mi
+  limits:
+    cpu: 200m
+    memory: 256Mi
+hpa:
+  minReplicas: 1
+  maxReplicas: 2
+  targetCPU: 70
+ingress:
+  enabled: true
+  annotations:
+    kubernetes.io/ingress.class: nginx-internal
+  hosts:
+    - name: triggerise.dev.tikoplatform.org
+      secret: tiko-org
+istio:
+  enabled: false
+  virtualService:
+    enabled: false
+    hostname: triggerise.dev.tikoplatform.org
+    gateway: istio/external-gateway
