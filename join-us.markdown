@@ -32,26 +32,18 @@ Jobs:
     500 000 annually  to 2 million youth across Africa within the next 3 years? Are
     you up to the challenge? Read on to hear more about the role of COO at Triggerise! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
-- Job Title: Government Liaison Officer
-  Location: Nairobi, Kenya
-  Job Description: Do you have experience managing government relations at national
-    and county level (specifically across Nairobi, Kisumu and Mombasa?)  Are you a
-    great communicator with the ability to ensure Triggerise voice is heard at the
-    right levels?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=245&source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: External Communication and Public Relations Lead
+- Job Title: Java Backend Engineer
   Location: Global
-  Job Description: Are you ready to use your expertise to establish an impeccable
-    reputation for Triggerise and ensure that our brand gains visibility across the
-    right channels? Read on to hear more about the External Communications and Public
-    Relations lead role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=253&source=aWQ9MjM%3D
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team that uses its technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=274&source=aWQ9MjM%3D
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
@@ -72,12 +64,6 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=259
-- Job Title: Ecosystem Supporter
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=260&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
