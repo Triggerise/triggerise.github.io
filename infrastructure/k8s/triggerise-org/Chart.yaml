@@ -1,0 +1,10 @@
+name: triggerise-org
+home: https://github.com/triggerise/triggerise.github.io
+version: 0.0.1
+apiVersion: v2
+description: Triggerise Landing Page
+sources:
+  - https://github.com/triggerise/triggerise.github.io
+maintainers:
+  - name: team-web
+    email: web-engineers@triggerise.org
