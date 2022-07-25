@@ -18,7 +18,7 @@
                     <ul>
                         {% for link in site.data.navigation.footer-links %}
                         <small>
-                            <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                            <li><a target="__blank" href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
                         </small>
                         {% endfor %}
                     </ul>
