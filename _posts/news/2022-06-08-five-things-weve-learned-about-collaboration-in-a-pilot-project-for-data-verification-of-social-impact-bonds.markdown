@@ -7,7 +7,7 @@ categories:
 - Triggerise
 - Frontier Technologies Hub
 author: Triggerise
-heroImage: "/uploads/1_Gs6rYJEV0G9zapuhfXktBQ.jpeg"
+heroImage: "/uploads/1_Gs6rYJEV0G9zapuhfXktBQ.webp"
 postContent: |-
   <p><q>Tech can do anything, so what does it need to do for the people it serves?</q> This is a personal philosophy of Nelson Nogueira, our CTO. Through this invitation, we are encouraged to leave our egos at the door and approach our daily work with our users at the centre of everything we do.</p>
 
