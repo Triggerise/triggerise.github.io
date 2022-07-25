@@ -6,7 +6,7 @@ permalink: "/news/championing-the-worlds-first-adolescent-sexual-reproductive-he
 categories:
 - Triggerise
 author: Triggerise
-heroImage: "/uploads/1_c0zvRoyBXsPESTkBkmNY1Q.jpeg"
+heroImage: "/uploads/1_c0zvRoyBXsPESTkBkmNY1Q.webp"
 postContent: |-
   <small style="width: 100%; text-align: center">This $7 million grant will tap into resources from both private and public investors to finance the provision of quality adolescent and youth-friendly sexual and reproductive health services</small>
   <br></br>

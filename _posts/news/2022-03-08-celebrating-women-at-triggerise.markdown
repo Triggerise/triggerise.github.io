@@ -7,7 +7,7 @@ categories:
 tags:
 - Triggerise
 author: Triggerise
-heroImage: "/uploads/1_1c75eLyLJvxa2TRba3Eakw.png"
+heroImage: "/uploads/1_1c75eLyLJvxa2TRba3Eakw.webp"
 postContent: |-
   <p>Every year, International Women’s Day dawns with fresh hope for the sisters, friends, and mothers around the world. There is no country where women don’t face some kind of challenge in their everyday lives, but there is also no country where there isn’t some kind of action being taken to face those challenges. In our work every single day, girls and women are at the forefront of all our actions. From each line of code written and every cent raised springs a shared goal: improving the lives of women and those around them.</p>
   <p>Our monthly Friday “after-work drinks” (a bit tricky to coordinate across all our time zones when one person’s 4pm is someone else’s lunchtime) were dedicated to celebrating all the women in our own team. We spent the time sharing and listening to different perspectives on what it means to be a woman, illustrating and discussing the many strengths of women, diving into quotes immortalised by women, and rounded up with reflecting on what had been shared in the broader session and various breakout rooms.</p>
