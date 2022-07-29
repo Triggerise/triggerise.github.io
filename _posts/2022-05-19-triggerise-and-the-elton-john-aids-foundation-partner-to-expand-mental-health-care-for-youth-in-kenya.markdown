@@ -7,7 +7,7 @@ categories:
 - Triggerise
 - EJAF
 author: Triggerise
-heroImage: "/uploads/1_3EYRTxK4siKvQlcuxzbgAg.jpeg"
+heroImage: "/uploads/1_3EYRTxK4siKvQlcuxzbgAg.webp"
 postContent: |-
   <p>Triggerise is pleased to announce a new partnership with the <a href="https://www.eltonjohnaidsfoundation.org/" target="_blank">Elton John AIDS Foundation </a>(EJAF) to empower young people in Kenya to take control of their mental and physical health on their own terms. The $1 million grant from EJAF will ensure all Triggerise-associated clinics in Mombasa, Kenya provide mental health screening and services (ranging from individual and group counselling to trauma-based care) over the next three years. These crucial mental health offerings will be fully integrated with Triggerise’s pre-existing sexual and reproductive health (SRH) services for young people between the ages of 15 and 24.</p>
 

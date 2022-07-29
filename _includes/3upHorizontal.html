@@ -63,12 +63,12 @@
         {% if include.flexList == 'reverse' %}</div>{% endif %}
       {% endif %}
       {% if include.image %}
-        <img src="{{include.image}}" alt="two girls looking at a mobile phone">
+        <img src="{{include.image}}" alt="two girls looking at a mobile phone" title="two girls looking at a mobile phone">
       {% endif %}
     </div>
     <div class="t-one {{include.colourThree}} {{include.classList}} {% if include.flexList != 'reverse' %}right{% endif %} {% if include.flexList == 'reverse' %}left{% endif %}">
       {% if include.imageTwo %}
-        <img src="{{include.imageTwo}}" alt="woman with umbrella standing with a girl">
+        <img src="{{include.imageTwo}}" alt="woman with umbrella standing with a girl" title="woman with umbrella standing with a girl">
       {% endif %}
       {% if include.numbers %}
         {% for number in include.numbers %}

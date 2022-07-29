@@ -26,12 +26,6 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
-- Job Title: Chief Operating Officer
-  Location: Global
-  Job Description: 'How would you feel about taking an organization from impacting
-    500 000 annually  to 2 million youth across Africa within the next 3 years? Are
-    you up to the challenge? Read on to hear more about the role of COO at Triggerise! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=257&source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
@@ -64,6 +58,22 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=259
+- Job Title: Office Management Team Lead
+  Location: Cape Town/Johannesburg, South Africa
+  Job Description: Can you create order in chaos and do you enjoy making sure everyone
+    has what they need? We are looking for someone that can build and globalize our
+    administrative processes, helping to tie our community of people together at the
+    same time. If this sounds like you then you might be the right person for the
+    Office Management Team Lead role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=275&source=aWQ9MjM%3D
+- Job Title: Partnership Manager
+  Location: Kisumu, Kenya
+  Job Description: Do you have practical experience managing political and other relations
+    in order to ensure an organisation can smoothly carry out implementation?  You
+    thrive the most when communicating with stakeholders of all levels, and are able
+    to represent Triggerise in the best way.  Sounds like you might be suitable for
+    our Partnership Manager position? Read on to find out more!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
