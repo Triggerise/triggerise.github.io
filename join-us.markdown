@@ -74,6 +74,12 @@ Jobs:
     to represent Triggerise in the best way.  Sounds like you might be suitable for
     our Partnership Manager position? Read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
+- Job Title: Grants Writer
+  Location: 'South Africa '
+  Job Description: Are you able to write in a persuasive and professional way? Would
+    you enjoy writing proposals for projects that have the potential to bring about
+    long-term positive change within underserved communities?
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=276&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
