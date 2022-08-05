@@ -80,6 +80,35 @@ Jobs:
     you enjoy writing proposals for projects that have the potential to bring about
     long-term positive change within underserved communities?
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=276&source=aWQ9MjM%3D
+- Job Title: Data Analyst
+  Location: Global
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualisation, and data modelling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=279&source=aWQ9MjM%3D
+- Job Title: Data Analyst (Maternity Cover)
+  Location: Kenya
+  Job Description: Are you an analytical and data-driven person? This will be a 4-month
+    maternity cover position where you will use data analysis, visualization, and
+    data modelling techniques to provide insight, identify trends to recommend action
+    for the Insights team, and assist operational departments in the successful execution
+    of their programmes.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=281&source=aWQ9MjM%3D
+- Job Title: Data Analyst Team Lead
+  Location: Kenya, Ethiopia, or South Africa
+  Job Description: Would you enjoy strategizing and leading a team that is capable
+    of using data analysis, visualization, and data modeling techniques to provide
+    insights into projects that will make an impact globally? If so, you could be
+    our next Data Analyst Team Lead!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=282&source=aWQ9MjM%3D
+- Job Title: Scala Backend Engineer
+  Location: Global
+  Job Description: 'You’ve gained experience in the software development space, and
+    want to continue working on innovative projects, whilst making an impact with
+    your tech skills & knowledge. Read on to find out more about our Scala Backend
+    Engineer position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=280&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
