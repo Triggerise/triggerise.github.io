@@ -32,6 +32,13 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
+- Job Title: Scala Backend Engineer
+  Location: Global
+  Job Description: 'You’ve gained experience in the software development space, and
+    want to continue working on innovative projects, whilst making an impact with
+    your tech skills & knowledge. Read on to find out more about our Scala Backend
+    Engineer position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=280&source=aWQ9MjM%3D
 - Job Title: Java Backend Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
@@ -52,12 +59,6 @@ Jobs:
     to provide country oversight in all areas of research?  Read more to find out
     about the position of Research Lead.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=244
-- Job Title: 'Ecosystem Trainer '
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
-    Continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=259
 - Job Title: Office Management Team Lead
   Location: Cape Town/Johannesburg, South Africa
   Job Description: Can you create order in chaos and do you enjoy making sure everyone
@@ -102,13 +103,6 @@ Jobs:
     insights into projects that will make an impact globally? If so, you could be
     our next Data Analyst Team Lead!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=282&source=aWQ9MjM%3D
-- Job Title: Scala Backend Engineer
-  Location: Global
-  Job Description: 'You’ve gained experience in the software development space, and
-    want to continue working on innovative projects, whilst making an impact with
-    your tech skills & knowledge. Read on to find out more about our Scala Backend
-    Engineer position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=280&source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
