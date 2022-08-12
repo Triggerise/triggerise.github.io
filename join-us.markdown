@@ -52,13 +52,6 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy?  Read
     more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=243
-- Job Title: Research Lead
-  Location: Addis Ababa, Ethiopia
-  Job Description: Do you have experience designing, executing and implementing research
-    projects? Would you enjoy using your quantitative and qualitative research skills
-    to provide country oversight in all areas of research?  Read more to find out
-    about the position of Research Lead.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=244
 - Job Title: Office Management Team Lead
   Location: Cape Town/Johannesburg, South Africa
   Job Description: Can you create order in chaos and do you enjoy making sure everyone
