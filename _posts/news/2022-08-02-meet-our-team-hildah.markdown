@@ -5,7 +5,7 @@ permalink: "/news/meet-our-team-hildah"
 categories:
 - Triggerise
 author: Triggerise
-heroImage: "/uploads/1_logTQfG4WXh9zA2qK7vqAA.png"
+heroImage: "/uploads/03-MEET-our-team_Blog-Hildah-E.webp"
 postContent: |-
   <p>Fresh off the starting blocks, Hildah Essendi has been with us for less than two months. The team had been eagerly anticipating her arrival, and she’s taken up her position at the helm of the Monitoring, Evaluation, Research and Learning (MERL) team.</p>
 
