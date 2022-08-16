@@ -11,10 +11,10 @@ tags:
 - impact bonds
 - data verification
 - innovation
+author: Triggerise
+heroImage: 
 layout: post
 ---
-
-![adeolu-eletu-unRkg2jH1j0-unsplash.jpg](/uploads/adeolu-eletu-unRkg2jH1j0-unsplash.jpg)
 
 Our [collaborative exploration](https://medium.com/frontier-technologies-hub/five-things-weve-learned-about-collaboration-in-a-pilot-project-for-data-verification-of-social-5a808157a4d5) with [Networking HIV & AIDS Community of Southern Africa](https://www.nacosa.org.za/) (NACOSA) and other partners is well underway. In our reflective processing that goes alongside the sprints, we’re writing regular blog posts to update our audience with learnings as we go.
 
