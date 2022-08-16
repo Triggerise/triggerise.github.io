@@ -5,7 +5,7 @@ permalink: "/news/meet-our-team-faith"
 categories:
 - Triggerise
 author: Triggerise
-heroImage: "/uploads/1_4OrUtqKMIpKYIbS-1UzOEg.webp"
+heroImage: "/uploads/03-MEET-our-team_Blog-Faith-M.webp"
 postContent: |-
   <p><b>Meet the team: Faith, Nairobi</b></p>
   <br></br>
