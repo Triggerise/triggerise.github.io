@@ -12,7 +12,7 @@ tags:
 - data verification
 - innovation
 author: Triggerise
-heroImage: 
+heroImage: "/uploads/adeolu-eletu-unRkg2jH1j0-unsplash.jpg"
 layout: post
 ---
 
