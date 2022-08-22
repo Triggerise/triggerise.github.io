@@ -3,7 +3,6 @@
   <div class="wrapper">
     <div class="impact-bond__descriptors">
       <h1>{{page.Splash-Number-Title}}</h1>
-      <h3>{{page.Splash-Number-description}}</h3>
     </div>
   </div>
   <svg width="1440" height="685" viewBox="0 0 1440 685" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -29,54 +28,78 @@
 </div>
 <div class="impact-bond__structure_container">
   <div class="impact-bond__structure_left">
-    <h1>{{page.structureTitle}}</h1>
-    <span>{{ page.structureDescription }}</span>
+    <h1>{{ page.structurePillarTitle }}</h1>
+    <span>{{ page.structureLeadingDescription }}</span>
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{page.structureTitle}}</h3>
+      <span>{{ page.structureDescription }}</span>
+    </div>
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{page.structureTitleTwo}}</h3>
+      <span>{{ page.structureDescriptionTwo }}</span>
+    </div>
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{page.structureTitleThree}}</h3>
+      <span>{{ page.structureDescriptionThree }}</span>
+    </div>
   </div>
   <div class="impact-bond__structure_right">
     {% if page.structureImg %}
-    <img src="{{site.baseurl}}/uploads/{{page.structureImg}}" class="impact-bond__structure_image" alt="impact bond structure" title="impact bond structure" />
+    <img src="{{site.baseurl}}/uploads/{{page.structureImg}}" class="impact-bond__structure_image"
+      alt="impact bond structure" title="impact bond structure" />
     {% endif %}
   </div>
 </div>
 <div class="impact-bond__metric_container">
   <div class="impact-bond__metric_left">
-    <div class="impact-bond__metric_chart_container">
-      <canvas id="impact-chart-1"></canvas>
-    </div>
-    <div class="impact-bond__metric_chart_container">
-      <canvas id="impact-chart-2"></canvas>
-    </div>
-    <div class="impact-bond__metric_chart_container">
-      <canvas id="impact-chart-3"></canvas>
-    </div>
-    <div class="impact-bond__metric_chart_container">
-      <canvas id="impact-chart-4"></canvas>
-    </div>
   </div>
   <div class="impact-bond__metric_right">
-    <h1>{{page.metricTitle}}</h1>
+    <h1>{{ page.metricPillarTitle }}</h1>
+    <h3>{{page.metricTitle}}</h3>
     <span>{{ page.metricDescription }}</span>
-    {% if page.metricButtonText %}
-    <br><br>
-    <a href="/contact">
-      <button class="btn btn-primary">{{ page.metricButtonText }}</button>
-    </a>
-    {% endif %}
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{page.metricTitleTwo}}</h3>
+      <span>{{ page.metricDescriptionTwo }}</span>
+    </div>
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{page.metricTitleThree}}</h3>
+      <span>{{ page.metricDescriptionThree }}</span>
+    </div>
+  </div>
+</div>
+<div class="impact-bond__description_container">
+  <div class="impact-bond__partner_right">
+    <h1>{{ page.partnerContentLeadingTitle }}</h1>
+    <div class="impact-bond-structure-subcontainer">
+      <h3>{{ page.partnerContentTitle }}</h3>
+      <span>{{ page.partnerContentDescription }}</span>
+    </div>
+    <div class="impact-bond-structure-subcontainer">
+      <h1>{{ page.partnerContentLeadingTitleTwo }}</h1>
+      <h3>{{ page.partnerContentTitleTwo }}</h3>
+      <span>{{ page.partnerContentDescriptionTwo }}</span>
+    </div>
   </div>
 </div>
 <div class="impact-bond__partner_container">
   <div class="impact-bond__partner_left">
     <div class="impact-bond__partner_left_first">
       <h1>{{ page.partnerTitle }}</h1>
-      <h2>{{ page.partnerDescription }}</h2>
-    </div>
-    <div class="impact-bond__partner_left_second">
-      <img src="/uploads/Mark03-a60be9.gif" alt="Triggerise Dots" title="Triggerise Dots">
+      <span>{{ page.partnerDescription }}</span>
+      <div class="impact-bond-structure-subcontainer">
+        <h3>{{ page.partnerTitleTwo }}</h3>
+        <span>{{ page.partnerDescriptionTwo }}</span>
+      </div>
+      {% if page.partnerContactButton %}
+      <br><br>
+      <a href="/contact">
+        <button class="btn btn-primary">{{ page.partnerContactButton }}</button>
+      </a>
+      {% endif %}
     </div>
   </div>
   <div class="impact-bond__partner_right">
-    <h1>{{ page.partner1ContentTitle }}</h1>
-    <span>{{ page.partner1Content }}</span>
+    <img src="/uploads/Mark03-a60be9.gif" alt="Triggerise Dots" title="Triggerise Dots">
   </div>
 </div>
 <div class="impact-bond__news_container">
