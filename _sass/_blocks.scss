@@ -3251,6 +3251,10 @@ Salary Tracker
     }
 }
 
+.impact-bond-structure-subcontainer {
+    margin-top: 4rem;
+}
+
 .impact-bond__structure_container {
     display: grid;
 
@@ -3287,9 +3291,18 @@ Salary Tracker
 
         h1 {
             color: $lightBlue;
-            font-size: 55px;
+            font-size: 35px;
+            font-weight: 600;
+            text-align: left;
+            margin-bottom: 4rem;
+        }
+
+        h3 {
+            color: $lightBlue;
+            font-size: 25px;
             font-weight: 400;
             text-align: left;
+            font-style: italic;
         }
 
         span {
@@ -3304,9 +3317,8 @@ Salary Tracker
 
         .impact-bond__structure_image {
             width: 100%;
-            object-fit: fill;
-            margin-top: auto;
-            margin-bottom: auto;
+            height: 100%;
+            object-fit: cover;
         }
     }
 
@@ -3326,8 +3338,12 @@ Salary Tracker
         }
 
         .impact-bond__metric_left {
-            grid-template-columns: 4fr 4fr 4fr 4fr;
             padding: 0;
+            & img {
+                height: 100%;
+                width: 100%;
+                object-fit: fill;
+            }
         }
     }
 
@@ -3341,14 +3357,16 @@ Salary Tracker
         }
 
         .impact-bond__metric_left {
-            padding: 4rem;
-            grid-template-columns: repeat(2, 2fr);
         }
     }
 
     .impact-bond__metric_left {
-        display: grid;
-        overflow: auto;
+        height: 100%;
+        & > img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
     }
 
     .impact-bond__metric_chart_container {
@@ -3361,9 +3379,18 @@ Salary Tracker
 
         h1 {
             color: $darkBlue;
-            font-weight: 400;
-            font-size: 55px;
+            font-weight: 600;
+            font-size: 35px;
             text-align: left;
+            margin-bottom: 4rem;
+        }
+
+        h3 {
+            color: $darkBlue;
+            font-weight: 400;
+            font-size: 25px;
+            text-align: left;
+            font-style: italic;
         }
 
         span {
@@ -3371,6 +3398,46 @@ Salary Tracker
             text-align: left;
             font-size: 20px;
         }
+    }
+}
+
+.impact-bond__description_container {
+    background-color: $pink;
+
+    @media only screen and (max-width: 1024px) {
+        .impact-bond__partner_right {
+            padding: 1rem;
+        }
+    }
+
+    @media only screen and (min-width: 1025px) {
+        .impact-bond__partner_right {
+            padding: 4rem;
+        }
+    }
+    .impact-bond__partner_right {
+        h1 {
+            color: $darkBlue;
+            font-size: 35px;
+            font-weight: 600;
+            text-align: left;
+            margin-bottom: 4rem;
+        }
+
+        h3 {
+            color: $darkBlue;
+            font-size: 25px;
+            font-weight: 400;
+            text-align: left;
+            font-style: italic;
+        }
+
+        span {
+            color: $darkBlue;
+            text-align: left;
+            font-size: 20px;
+        }
+
     }
 }
 
@@ -3384,70 +3451,52 @@ Salary Tracker
             padding: 1rem;
         }
 
-        .impact-bond__partner_right {
-            padding: 1rem;
-        }
-
         grid-template-columns: repeat(1, 1fr);
     }
 
     @media only screen and (min-width: 1025px) {
-        min-height: 100vh;
 
         .impact-bond__partner_left_first {
             padding: 4rem;
         }
 
-        .impact-bond__partner_right {
-            padding: 4rem;
-        }
-
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .impact-bond__partner_left {
         background-color: $green;
         text-align: left;
-        display: grid;
-        grid-auto-flow: row;
-        grid-template-rows: 50% 50%;
+        position: relative;
+        grid-column: 1 / span 2;
 
         h1 {
             color: $darkBlue;
-            font-weight: 400;
-            font-size: 55px;
+            font-size: 35px;
+            font-weight: 600;
             text-align: left;
+            margin-bottom: 4rem;
         }
 
-        h2 {
+        h3 {
             color: $darkBlue;
-            font-size: map-get($font-scale, 1);
-            margin: 0;
-        }
-
-        .impact-bond__partner_left_first {}
-
-        .impact-bond__partner_left_second {
-            img {
-                height: 100%;
-                width: 100%;
-            }
-        }
-
-    }
-
-    .impact-bond__partner_right {
-        background-color: $pink;
-
-        h1 {
-            color: $darkBlue;
+            font-size: 25px;
             font-weight: 400;
-            font-size: 55px;
+            text-align: left;
+            font-style: italic;
         }
 
         span {
             color: $darkBlue;
+            text-align: left;
             font-size: 20px;
+        }
+    }
+
+    .impact-bond__partner_right {
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
         }
     }
 }
