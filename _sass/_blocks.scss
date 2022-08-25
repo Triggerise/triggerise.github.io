@@ -3338,8 +3338,12 @@ Salary Tracker
         }
 
         .impact-bond__metric_left {
-            grid-template-columns: 4fr 4fr 4fr 4fr;
             padding: 0;
+            & img {
+                height: 100%;
+                width: 100%;
+                object-fit: fill;
+            }
         }
     }
 
@@ -3353,14 +3357,16 @@ Salary Tracker
         }
 
         .impact-bond__metric_left {
-            padding: 4rem;
-            grid-template-columns: repeat(2, 2fr);
         }
     }
 
     .impact-bond__metric_left {
-        display: grid;
-        overflow: auto;
+        height: 100%;
+        & > img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
     }
 
     .impact-bond__metric_chart_container {

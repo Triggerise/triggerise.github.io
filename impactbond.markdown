@@ -21,6 +21,7 @@ structureDescriptionThree: We are revolutionising how health services are being 
   to adolescent girls, putting the power back into the hands of girls and giving them
   real choice in where and how to seek services.
 structureImg: 1_3EYRTxK4siKvQlcuxzbgAg.webp
+metricLeadingImage: 'CIFF-Triggerise-113.webp'
 metricPillarTitle: Why Tiko?
 metricTitle: Half a million girls have already chosen Tiko. Help millions more choose
   us too.
