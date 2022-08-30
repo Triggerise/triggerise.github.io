@@ -17,14 +17,6 @@ Values:
 - Name: We pioneer
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
-Testimonial-two:
-- Image: "/uploads/Trig_testimonial_roxy.webp"
-  Quote: '"I joined Triggerise to have the opportunity to work with global colleagues,
-    and directly impact the growth of the business.  To know that my work is creating
-    such a positive impact is awesome! The culture and the people here are great,
-    and there’s a real opportunity to develop yourself in an environment where your
-    input is listened to and valued." '
-  Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
 - Job Title: Country Director (Ethiopia)
   Location: Addis Ababa, Ethiopia
