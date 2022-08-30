@@ -122,7 +122,7 @@ Our People:
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
 - Name: Joana
-  Role: Quality Assurance Lead
+  Role: Product Manager
   Location: Porto, Portugal
   LinkedIn: https://www.linkedin.com/in/joanafaraujo/
   Image: "/uploads/Joana%20Ar.png"
@@ -131,11 +131,6 @@ Our People:
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
   Image: "/uploads/Victoria.jpg"
-- Name: Roxy
-  Role: Global Recruiter
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/roxanne-h-80ba8911a
-  Image: "/uploads/Trig_profiles_roxy.webp"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
