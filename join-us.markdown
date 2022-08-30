@@ -26,6 +26,12 @@ Testimonial-two:
     input is listened to and valued." '
   Name: Roxy Hotchkiss | Global Recruiter, Amsterdam
 Jobs:
+- Job Title: Country Director (Ethiopia)
+  Location: Addis Ababa, Ethiopia
+  Job Description: Do you have what it takes to lead a country? We are looking for
+    a senior manager with experience in Public Health or Sexual & Reproductive Health
+    to join our global team as the Country Director for Ethiopia.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=284&source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
@@ -45,6 +51,12 @@ Jobs:
     Do you want to be a part of an innovative team that uses its technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=274&source=aWQ9MjM%3D
+- Job Title: Quality Assurance Engineer
+  Location: Portugal
+  Job Description: 'Have you gained experience in the software space and want to continue
+    working on innovative projects whilst making an impact with your tech skills &
+    knowledge? Read on to find out more about our QA Engineer position! '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=270&source=aWQ9MjM%3D
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
@@ -68,12 +80,6 @@ Jobs:
     to represent Triggerise in the best way.  Sounds like you might be suitable for
     our Partnership Manager position? Read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
-- Job Title: Grants Writer
-  Location: 'South Africa '
-  Job Description: Are you able to write in a persuasive and professional way? Would
-    you enjoy writing proposals for projects that have the potential to bring about
-    long-term positive change within underserved communities?
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=276&source=aWQ9MjM%3D
 - Job Title: Data Analyst
   Location: Global
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
