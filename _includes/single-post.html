@@ -16,6 +16,12 @@
                 {{ page.postContent }}
             </span>
         </div>
+        {% else if page %}
+        <div class="mt-5">
+            <span class="post__content">
+                {{ page }}
+            </span>
+        </div>
         {% endif %}
         {% if page.author %}
         <div class="mt-5">
