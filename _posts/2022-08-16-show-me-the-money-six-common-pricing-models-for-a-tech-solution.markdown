@@ -58,7 +58,7 @@ We have noticed that there is a real need for donors and funders to have simple,
 
 A pricing model must be simple, predictable, and transparent for the payer:
 
-**Simple. **We believe that a simpler pricing model will be easier for the payer to “sell” to the other players of the impact bond and/or the donor. A complicated pricing model (with multiple pricing variables like users, data storage capacity, or features) requires additional analysis to map out each potential scenario for the future
+**Simple.** We believe that a simpler pricing model will be easier for the payer to “sell” to the other players of the impact bond and/or the donor. A complicated pricing model (with multiple pricing variables like users, data storage capacity, or features) requires additional analysis to map out each potential scenario for the future
 **Predictable.** Not all surprises are fun. The predictability of software and related maintenance costs is going to be a critical factor for the payer who will almost always be bound by a pre-set budget
 **Transparent.** Accessibility of data within the chosen model will be key in building trust in a solution. In the case that a pricing model is usage-based, it is important that the usage metrics are trackable by the solution, available in real-time, and supported by details that can be made available to the payer
 
