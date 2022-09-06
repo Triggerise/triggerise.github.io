@@ -58,14 +58,15 @@ We have noticed that there is a real need for donors and funders to have simple,
 
 A pricing model must be simple, predictable, and transparent for the payer:
 
-**Simple. **We believe that a simpler pricing model will be easier for the payer to “sell” to the other players of the impact bond and/or the donor. A complicated pricing model (with multiple pricing variables like users, data storage capacity, or features) requires additional analysis to map out each potential scenario for the future
+**Simple.** We believe that a simpler pricing model will be easier for the payer to “sell” to the other players of the impact bond and/or the donor. A complicated pricing model (with multiple pricing variables like users, data storage capacity, or features) requires additional analysis to map out each potential scenario for the future
 **Predictable.** Not all surprises are fun. The predictability of software and related maintenance costs is going to be a critical factor for the payer who will almost always be bound by a pre-set budget
 **Transparent.** Accessibility of data within the chosen model will be key in building trust in a solution. In the case that a pricing model is usage-based, it is important that the usage metrics are trackable by the solution, available in real-time, and supported by details that can be made available to the payer
 
 **Six common pricing models: their merits and limitations**
+
 In light of the need for simple, predictable, and transparent costing for technology solutions, we have spent some time in this sprint reflecting on pricing models. We’ll outline six common ones and explore their pros and cons. It’s also possible to combine a number of pricing models to tailor one. For example, one could choose a flat fee for the use of the technology with variable costs pulled out so they can be properly budgeted based on a specific project’s requirements — stay with us, as we get into all the nitty gritty below. Our outline is based on work by Gartner, an information technology (IT) research and consultancy company.
 
-**Charging a flat rate**
+**1. Charging a flat rate**
 Charging a flat rate is a simple solution that saves time by being easy to buy and quick to understand. However, most impact bonds are long-term commitments and a flat rate solution can be difficult to upsell as project requirements and needs change. We don’t need quick and easy solutions, but nuanced and innovative ones.
 
 **2. Charging per registered or active user**
