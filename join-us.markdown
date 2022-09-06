@@ -94,12 +94,6 @@ Jobs:
     insights into projects that will make an impact globally? If so, you could be
     our next Data Analyst Team Lead!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=282&source=aWQ9MjM%3D
-- Job Title: Open Applications
-  Location: Global
-  Job Description: 'Interested in creating a better world by bringing out the best
-    in people? Click on the button below to send in your CV and we will get in touch
-    with you. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 - Job Title: Research Lead
   Location: Nairobi/Mombasa, Kenya
   Job Description: Do you have experience designing, executing and implementing research
@@ -119,6 +113,12 @@ Jobs:
     in connecting and supporting various people within an organization? Read more
     to find out about our role as a Field Operations Lead in Ethiopia.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=285&source=aWQ9MjM%3D
+- Job Title: Open Applications
+  Location: Global
+  Job Description: 'Interested in creating a better world by bringing out the best
+    in people? Click on the button below to send in your CV and we will get in touch
+    with you. '
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
