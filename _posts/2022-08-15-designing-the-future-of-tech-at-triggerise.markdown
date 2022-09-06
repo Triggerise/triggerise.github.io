@@ -9,16 +9,16 @@ tags:
 - tech team
 - team building
 - Tiko
+author: Triggerise
+heroImage: "/uploads/0W0A7964%20(1).jpg"
 layout: post
 ---
 
-![0W0A7964 (1).jpg](/uploads/0W0A7964%20(1).jpg)
+**Reflections from [Nelson Nogueira](https://www.linkedin.com/in/nognelson/), our Chief Technical Officer**
 
-*Reflections from [Nelson Nogueira](https://www.linkedin.com/in/nognelson/), our Chief Technical Officer*
+*Triggerise is growing and changing, which means that our tech needs to evolve too. Along with that, the structure and composition of our Tech team also needs to transform. We caught up with Nelson Nogueira, our CTO, for his perspective on our trajectory.*
 
-*Triggerise is growing and changing, which means that our tech needs to evolve too. Along with that, the structure and composition of our Tech team also needs to transform. We caught up with Nelson Nogueira, our CTO, for his perspective on our trajectory.
-
-**Over to you, Nelson.***
+***Over to you, Nelson.***
 
 Since 2020, our tech department has doubled, so there’s been a lot for all of us to learn about examining, establishing, and maintaining effective systems of working together. In the midst of that, we introduced Java in addition to Scala (programming languages) and faced the ongoing challenge of moving away from our existing software (Movercado) and towards our new Tiko platform.
 
