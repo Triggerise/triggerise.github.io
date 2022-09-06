@@ -63,6 +63,7 @@ A pricing model must be simple, predictable, and transparent for the payer:
 **Transparent.** Accessibility of data within the chosen model will be key in building trust in a solution. In the case that a pricing model is usage-based, it is important that the usage metrics are trackable by the solution, available in real-time, and supported by details that can be made available to the payer
 
 **Six common pricing models: their merits and limitations**
+
 In light of the need for simple, predictable, and transparent costing for technology solutions, we have spent some time in this sprint reflecting on pricing models. We’ll outline six common ones and explore their pros and cons. It’s also possible to combine a number of pricing models to tailor one. For example, one could choose a flat fee for the use of the technology with variable costs pulled out so they can be properly budgeted based on a specific project’s requirements — stay with us, as we get into all the nitty gritty below. Our outline is based on work by Gartner, an information technology (IT) research and consultancy company.
 
 **1. Charging a flat rate**
