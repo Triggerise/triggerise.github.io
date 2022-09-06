@@ -1,6 +1,6 @@
 ---
 title: 'Show me the money: six common pricing models for a tech solution'
-date: 2022-08-16 14:03:00 Z
+date: 2022-08-12 14:03:00 Z
 permalink: "/news/six-common-pricing-models"
 categories:
 - News
