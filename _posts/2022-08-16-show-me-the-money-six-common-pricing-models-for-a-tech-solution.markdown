@@ -65,7 +65,7 @@ A pricing model must be simple, predictable, and transparent for the payer:
 **Six common pricing models: their merits and limitations**
 In light of the need for simple, predictable, and transparent costing for technology solutions, we have spent some time in this sprint reflecting on pricing models. We’ll outline six common ones and explore their pros and cons. It’s also possible to combine a number of pricing models to tailor one. For example, one could choose a flat fee for the use of the technology with variable costs pulled out so they can be properly budgeted based on a specific project’s requirements — stay with us, as we get into all the nitty gritty below. Our outline is based on work by Gartner, an information technology (IT) research and consultancy company.
 
-**Charging a flat rate**
+**1. Charging a flat rate**
 Charging a flat rate is a simple solution that saves time by being easy to buy and quick to understand. However, most impact bonds are long-term commitments and a flat rate solution can be difficult to upsell as project requirements and needs change. We don’t need quick and easy solutions, but nuanced and innovative ones.
 
 **2. Charging per registered or active user**
