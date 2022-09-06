@@ -72,13 +72,6 @@ Jobs:
     to represent Triggerise in the best way.  Sounds like you might be suitable for
     our Partnership Manager position? Read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
-- Job Title: Data Analyst
-  Location: Global
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation, and data modelling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=279&source=aWQ9MjM%3D
 - Job Title: Data Analyst (Maternity Cover)
   Location: Kenya
   Job Description: Are you an analytical and data-driven person? This will be a 4-month
@@ -87,13 +80,6 @@ Jobs:
     for the Insights team, and assist operational departments in the successful execution
     of their programmes.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=281&source=aWQ9MjM%3D
-- Job Title: Data Analyst Team Lead
-  Location: Kenya, Ethiopia, or South Africa
-  Job Description: Would you enjoy strategizing and leading a team that is capable
-    of using data analysis, visualization, and data modeling techniques to provide
-    insights into projects that will make an impact globally? If so, you could be
-    our next Data Analyst Team Lead!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=282&source=aWQ9MjM%3D
 - Job Title: Research Lead
   Location: Nairobi/Mombasa, Kenya
   Job Description: Do you have experience designing, executing and implementing research
