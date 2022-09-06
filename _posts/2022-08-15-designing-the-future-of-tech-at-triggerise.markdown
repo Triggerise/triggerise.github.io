@@ -1,7 +1,7 @@
 ---
 title: Designing the future of tech at Triggerise
 date: 2022-08-15 12:27:00 Z
-permalink: "/news/designing-the-future-of-tech-triggerise"
+permalink: "/news/designing-the-future-of-tech-at-triggerise"
 categories:
 - News
 tags:
