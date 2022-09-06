@@ -100,6 +100,25 @@ Jobs:
     in people? Click on the button below to send in your CV and we will get in touch
     with you. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=38
+- Job Title: Research Lead
+  Location: Nairobi/Mombasa, Kenya
+  Job Description: Do you have experience designing, executing and implementing research
+    projects? Would you enjoy using your quantitative and qualitative research skills
+    to provide country oversight in all areas of research? Read more to find out about
+    the position of Research Lead in Kenya.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=286&source=aWQ9MjM%3D
+- Job Title: Field Operations Lead (KE)
+  Location: Mombasa, Kenya
+  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and supporting various people within an organization? Read more
+    to find out about our role as a Field Operations Lead in Kenya.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=288&source=aWQ9MjM%3D
+- Job Title: Field Operations Lead (ET)
+  Location: Addis Ababa, Ethiopia
+  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and supporting various people within an organization? Read more
+    to find out about our role as a Field Operations Lead in Ethiopia.
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=285&source=aWQ9MjM%3D
 Values animation image: "/uploads/Mark05-a40558.gif"
 Field name: 
 layout: join
