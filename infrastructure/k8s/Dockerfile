@@ -18,4 +18,4 @@ FROM nginx:latest
 
 WORKDIR /usr/share/nginx/html
 
-COPY --from=build /srv/jekyll/_site .
+ONBUILD COPY --from=build /srv/jekyll/_site .
