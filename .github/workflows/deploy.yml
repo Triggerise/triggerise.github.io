@@ -18,6 +18,7 @@ jobs:
     runs-on: triggerise-io
     env:
       DOCKER_TAG: ${{github.sha}}
+      DOCKER_BUILDKIT: "1"
     steps:
 
       - uses: actions/checkout@v3
