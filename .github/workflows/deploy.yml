@@ -34,9 +34,7 @@ jobs:
     env:
       DOCKER_TAG: ${{github.sha}}
     steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{secrets.TIKO_MACHINE_USER_PAT}}
+      - uses: actions/checkout@v3
 
       - name: Update Helm Chart Image Tag
         run: |
