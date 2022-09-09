@@ -56,14 +56,6 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy?  Read
     more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=243
-- Job Title: Office Management Team Lead
-  Location: Cape Town/Johannesburg, South Africa
-  Job Description: Can you create order in chaos and do you enjoy making sure everyone
-    has what they need? We are looking for someone that can build and globalize our
-    administrative processes, helping to tie our community of people together at the
-    same time. If this sounds like you then you might be the right person for the
-    Office Management Team Lead role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=275&source=aWQ9MjM%3D
 - Job Title: Partnership Manager
   Location: Kisumu, Kenya
   Job Description: Do you have practical experience managing political and other relations
@@ -72,6 +64,13 @@ Jobs:
     to represent Triggerise in the best way.  Sounds like you might be suitable for
     our Partnership Manager position? Read on to find out more!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
+- Job Title: M&E Specialist
+  Location: Nairobi, Kenya
+  Job Description: Are you an analytical individual who pays close attention to detail?  Do
+    you understand how best to ensure that our data can be collected, processed &
+    analyzed in order to make evidence-driven decisions? Continue reading to find
+    out more about our M&E Specialist role!
+  Link: https://triggerise.bamboohr.com/jobs/view.php?id=287&source=aWQ9MjM%3D
 - Job Title: Data Analyst (Maternity Cover)
   Location: Kenya
   Job Description: Are you an analytical and data-driven person? This will be a 4-month
