@@ -1,0 +1,47 @@
+name: K8S Deploy
+
+on:
+  workflow_dispatch:
+    inputs:
+  push:
+    branches: [ develop ]
+    paths-ignore:
+      - 'infrastructure/k8s/**'
+
+concurrency: 
+  group: ${{ github.ref }}
+
+jobs:
+
+  build:
+    timeout-minutes: 20
+    runs-on: triggerise-io
+    env:
+      DOCKER_TAG: ${{github.sha}}
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Build dev image
+        run: |
+          sudo apt update && sudo apt install -y amazon-ecr-credential-helper
+          docker build -t 387002922338.dkr.ecr.eu-west-1.amazonaws.com/tiko/triggerise-org:$DOCKER_TAG . -f infrastructure/k8s/Dockerfile
+          docker push 387002922338.dkr.ecr.eu-west-1.amazonaws.com/tiko/triggerise-org:$DOCKER_TAG
+
+  update-helm-chart:
+    runs-on: triggerise-io
+    needs: build
+    env:
+      DOCKER_TAG: ${{github.sha}}
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update Helm Chart Image Tag
+        run: |
+          yq e -i ".image.tag = \"$DOCKER_TAG\"" infrastructure/k8s/triggerise-org/values.yaml
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: tiko-dude
+          committer_email: devops@triggerise.org
+          message: 'update docker image tag'

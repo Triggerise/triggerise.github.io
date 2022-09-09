@@ -1,6 +1,6 @@
 ---
 title: 'Meet our Team: André Dias, Engineering Manager'
-date: 2022-08-16 10:47:00 Z
+date: 2022-08-10 10:47:00 Z
 permalink: "/news/meet-our-team-andré-dias-engineering-manager"
 categories:
 - Triggerise
