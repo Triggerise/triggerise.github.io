@@ -49,14 +49,14 @@ AddressesRow3:
     Cape Town, South Africa
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
--- Address: |-
-    **Triggerise World**
+"-- Address": |-
+  **Triggerise World**
 
-    The Internet,
-    7ddf32e17a6ac5ce04a8ecbf782ca509
-    (if you found this, we're hiring Engineers, send your CV)
+  The Internet,
+  7ddf32e17a6ac5ce04a8ecbf782ca509
+  (if you found this, we're hiring Engineers, send your CV)
 
-    [hello@triggerise.org](mailto:hello@triggerise.org)
+  [hello@triggerise.org](mailto:hello@triggerise.org)
 layout: simple
 ---
 
