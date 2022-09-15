@@ -40,6 +40,7 @@ AddressesRow2:
     Nairobi, Kenya
 
     [hellokenya@triggerise.org](mailto:hellokenya@triggerise.org)
+AddressesRow3:
 - Address: |-
     **Triggerise South Africa**
 
