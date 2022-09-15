@@ -53,7 +53,7 @@ AddressesRow3:
     **Tr1gg3r1s3**
 
     7ddf32e17a6ac5ce04a8ecbf782ca509,
-    The Internet\n
+    The Internet
     (if you found this, we're hiring Engineers, send your CV)
 
     [hello@triggerise.org](mailto:nelson@triggerise.org)
