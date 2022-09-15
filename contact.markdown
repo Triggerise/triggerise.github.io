@@ -15,8 +15,8 @@ AddressesRow1:
 - Address: |-
     **Triggerise Labs**
 
-    Rua de Vilar 235, 7 dto,
-    Porto, Portugal
+    Rua do General Torres 1162D, 3 Andar,
+    4400-164 Vila Nova de Gaia
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
 AddressesRow2:
@@ -40,6 +40,7 @@ AddressesRow2:
     Nairobi, Kenya
 
     [hellokenya@triggerise.org](mailto:hellokenya@triggerise.org)
+AddressesRow3:
 - Address: |-
     **Triggerise South Africa**
 
@@ -48,6 +49,14 @@ AddressesRow2:
     Cape Town, South Africa
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
+- Address: |-
+    **Tr1gg3r1s3**
+
+    7ddf32e17a6ac5ce04a8ecbf782ca509,
+    The Internet
+    (if you found this, we're hiring Engineers, send your CV)
+
+    [hello@triggerise.org](mailto:nelson@triggerise.org)
 layout: simple
 ---
 
