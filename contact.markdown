@@ -49,7 +49,7 @@ AddressesRow3:
     Cape Town, South Africa
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
-"-- Address": |-
+- Address: |-
   **Triggerise World**
 
   The Internet,
