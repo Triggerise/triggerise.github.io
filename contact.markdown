@@ -15,8 +15,8 @@ AddressesRow1:
 - Address: |-
     **Triggerise Labs**
 
-    Rua de Vilar 235, 7 dto,
-    Porto, Portugal
+    Rua do General Torres 1162D, 3 Andar
+    4400-164 Vila Nova de Gaia
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
 AddressesRow2:
