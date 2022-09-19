@@ -182,6 +182,77 @@ function insertReportSVG() {
     }
 
 }
+function initializeTeamSections() {
+    $('#team-section-one').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        lazyLoad: 'ondemand',
+        dots: true,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
+    $('#team-section-two').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        lazyLoad: 'ondemand',
+        dots: true,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
+    $('#team-section-three').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        arrows: true,
+        lazyLoad: 'ondemand',
+        dots: true,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    arrows: true,
+                    slidesToShow: 1
+                }
+            }
+        ]
+    });
+}
 // ---- About End ---- //
 function initAbout() {
 
@@ -219,6 +290,8 @@ function initAbout() {
                 console.error(err);
             }
         }
+
+        initializeTeamSections();
     });
 
 } initAbout();
