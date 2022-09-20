@@ -4,10 +4,10 @@ date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
 - Number: 160
-  Text: brilliant people strong
-- Number: 25
+  Text: 'brilliant strong people '
+- Number: 14
   Text: 'cities we call home '
-- Number: 10
+- Number: "+10"
   Text: different mother tongues
 - Number: 7
   Text: years of making change for good
