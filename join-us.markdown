@@ -71,14 +71,6 @@ Jobs:
     analyzed in order to make evidence-driven decisions? Continue reading to find
     out more about our M&E Specialist role!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=287&source=aWQ9MjM%3D
-- Job Title: Data Analyst (Maternity Cover)
-  Location: Kenya
-  Job Description: Are you an analytical and data-driven person? This will be a 4-month
-    maternity cover position where you will use data analysis, visualization, and
-    data modelling techniques to provide insight, identify trends to recommend action
-    for the Insights team, and assist operational departments in the successful execution
-    of their programmes.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=281&source=aWQ9MjM%3D
 - Job Title: Research Lead
   Location: Nairobi/Mombasa, Kenya
   Job Description: Do you have experience designing, executing and implementing research
@@ -98,6 +90,19 @@ Jobs:
     in connecting and supporting various people within an organization? Read more
     to find out about our role as a Field Operations Lead in Ethiopia.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=285&source=aWQ9MjM%3D
+- Job Title: Data Analyst
+  Location: South Africa
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualisation, and data modeling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst!
+  Link: https://triggerise.bamboohr.com/careers/290?source=aWQ9MjM%3D
+- Job Title: Ecosystem Supporter
+  Location: Addis Ababa, Ethiopia
+  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role! '
+  Link: 
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
