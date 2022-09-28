@@ -41,7 +41,11 @@
 
         <div class="address-wrapper addresses-section-container">
         {% for Address in page.AddressesRow3 %}
-            <div class="">
+            <div class=""
+                 {% if Address.EasterEgg %}
+                 style="visibility: hidden;"
+                 {% endif %}
+                 >
                 {{Address.Address | markdownify }}
             </div>
         {% endfor %}
