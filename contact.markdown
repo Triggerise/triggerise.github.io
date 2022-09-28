@@ -57,7 +57,7 @@ AddressesRow3:
     (if you found this, we're hiring Engineers, send your CV)
 
     [hello@triggerise.org](mailto:nelson@triggerise.org)
-  easterEgg: true
+  EasterEgg: true
 layout: simple
 ---
 
