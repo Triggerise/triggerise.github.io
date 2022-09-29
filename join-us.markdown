@@ -56,21 +56,6 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy?  Read
     more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=243
-- Job Title: Partnership Manager
-  Location: Kisumu, Kenya
-  Job Description: Do you have practical experience managing political and other relations
-    in order to ensure an organisation can smoothly carry out implementation?  You
-    thrive the most when communicating with stakeholders of all levels, and are able
-    to represent Triggerise in the best way.  Sounds like you might be suitable for
-    our Partnership Manager position? Read on to find out more!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=268&source=aWQ9MjM%3D
-- Job Title: M&E Specialist
-  Location: Nairobi, Kenya
-  Job Description: Are you an analytical individual who pays close attention to detail?  Do
-    you understand how best to ensure that our data can be collected, processed &
-    analyzed in order to make evidence-driven decisions? Continue reading to find
-    out more about our M&E Specialist role!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=287&source=aWQ9MjM%3D
 - Job Title: Research Lead
   Location: Nairobi/Mombasa, Kenya
   Job Description: Do you have experience designing, executing and implementing research
@@ -84,12 +69,6 @@ Jobs:
     in connecting and supporting various people within an organization? Read more
     to find out about our role as a Field Operations Lead in Kenya.
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=288&source=aWQ9MjM%3D
-- Job Title: Field Operations Lead (ET)
-  Location: Addis Ababa, Ethiopia
-  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
-    in connecting and supporting various people within an organization? Read more
-    to find out about our role as a Field Operations Lead in Ethiopia.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=285&source=aWQ9MjM%3D
 - Job Title: Data Analyst
   Location: South Africa
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
