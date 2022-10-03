@@ -11,7 +11,7 @@ tags:
 - Kenya
 - SRH
 author: Triggerise
-heroImage: "/uploads/1664776346388.jpg"
+heroImage: "/uploads/Untitled%20design.jpg"
 layout: post
 ---
 
