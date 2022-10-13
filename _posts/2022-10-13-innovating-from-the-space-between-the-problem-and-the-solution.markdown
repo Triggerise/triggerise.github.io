@@ -2,6 +2,7 @@
 title: Innovating from the space between the problem and the solution
 date: 2022-10-13 07:38:00 Z
 permalink: "/news/innovation-sandbox-launch-machakos"
+published: false
 categories:
 - News
 author: Triggerise
