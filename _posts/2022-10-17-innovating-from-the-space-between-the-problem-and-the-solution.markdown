@@ -1,6 +1,5 @@
 ---
-title: 'Innovating from the space between the problem and the solution: The Innovation
-  Sandbox'
+title: Innovating from the space between the problem and the solution
 date: 2022-10-17 09:39:00 Z
 permalink: "/news/innovation-sandbox-launch-machakos"
 categories:
@@ -12,7 +11,7 @@ layout: post
 
 When attempting to innovate, it is easy to fall into the trap of jumping straight to proposing a solution before fully understanding what the problem is. It is, however, very often the gap between the issue and the answer where the real game-changers are found.
 
-The Innovation Sandbox, made possible with funding from our donors the [Children’s Investment Fund Foundation](http://ciff.org/) (CIFF), is designed for rapid experimentation of early-stage ideas in a real-world setting with platform actors and end-users. Historically, it has been a challenge for us to pilot ideas with high levels of uncertainty. The sandbox allows us to take operational, tech and other challenges into a real-world setting and trial them in a controlled environment.
+The Innovation Sandbox is designed for rapid experimentation of early-stage ideas in a real-world setting with platform actors and end-users. Historically, it has been a challenge for us to pilot ideas with high levels of uncertainty. The sandbox allows us to take operational, tech and other challenges into a real-world setting and trial them in a controlled environment.
 
 ![Machakos_2-9e0afd.jpeg](/uploads/Machakos_2-9e0afd.jpeg)
 
@@ -37,4 +36,4 @@ The Innovation Sandbox is about taking intentional steps to tackling problems, a
 \
 The success of the launch event positions us to open the Innovation Sandbox up to external collaborators from mid-2023. Facilitated by us, you can test solutions to development problems in the Triggerise ecosystem real-world setting.
 
-Find out more: [hello@triggerise.org](http://mailto:hello@triggerise.org)
+Find out more: [hello@triggerise.org](mailto:hello@triggerise.org)
