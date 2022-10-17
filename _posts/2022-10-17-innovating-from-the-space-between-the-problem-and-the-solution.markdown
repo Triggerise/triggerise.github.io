@@ -1,6 +1,5 @@
 ---
-title: 'Innovating from the space between the problem and the solution: The Innovation
-  Sandbox'
+title: Innovating from the space between the problem and the solution
 date: 2022-10-17 09:39:00 Z
 permalink: "/news/innovation-sandbox-launch-machakos"
 categories:
@@ -37,4 +36,4 @@ The Innovation Sandbox is about taking intentional steps to tackling problems, a
 \
 The success of the launch event positions us to open the Innovation Sandbox up to external collaborators from mid-2023. Facilitated by us, you can test solutions to development problems in the Triggerise ecosystem real-world setting.
 
-Find out more: [hello@triggerise.org](http://mailto:hello@triggerise.org)
+Find out more: [hello@triggerise.org](mailto:hello@triggerise.org)
