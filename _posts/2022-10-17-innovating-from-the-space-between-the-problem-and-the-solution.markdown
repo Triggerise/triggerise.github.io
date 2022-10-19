@@ -5,7 +5,7 @@ permalink: "/news/innovation-sandbox-launch-machakos"
 categories:
 - News
 author: Triggerise
-heroImage: "/uploads/V3-Linkeding_BANNER-Clinic.jpg"
+heroImage: "/uploads/V1-Linkeding_POST-Clinic.jpg"
 layout: post
 ---
 
@@ -13,11 +13,11 @@ When attempting to innovate, it’s easy to fall into the trap of jumping straig
 
 The sandbox is designed for rapid experimentation of early-stage ideas in a real-world setting. Our platform actors, including pharmacies, clinics, community mobilisers and the girls, boys, women and men who use our platforms are all involved. Historically, it’s been a challenge for us to pilot ideas with high levels of uncertainty in the  midst of  implementation. The sandbox allows us to take operational, technological and other challenges into a real-world setting and trial them in a controlled environment before introducing them into our operations.
 
-![Machakos_2-9e0afd.jpeg](/uploads/Machakos_2-9e0afd.jpeg)
+![IMG_3366.jpg](/uploads/IMG_3366.jpg)
 
-By consciously taking time to explore various facets of a problem before coming up with a solution, we can meaningfully connect theories and data insights to real life. To achieve this, rather than building a full product, we start with a prototype concept or a minimum viable product. This serves to reduce uncertainty and highlight areas for Triggerise to place big bets. 
+By consciously taking time to explore various facets of a problem before coming up with a solution, we can meaningfully connect theories and data insights to real life. To achieve this, rather than building a full product, we start with a prototype concept or a minimum viable product. This serves to reduce uncertainty and highlight areas for Triggerise to place big bets.
 
-The internal launch of the innovation sandbox was held in Nairobi on the 28 and 29 September 2022. For this two-day event, members of our Kenya Field Operations, Product, Support and Engineering teams from South Africa, Portugal and beyond were brought together. 
+The internal launch of the innovation sandbox was held in Nairobi on the 28 and 29 September 2022. For this two-day event, members of our Kenya Field Operations, Product, Support and Engineering teams from South Africa, Portugal and beyond were brought together.
 
 During day one, multi-departmental teams tackled two theoretical challenges, namely ‘how might we get more of our users to visit our providers for services?’ and ‘how might we increase retention and performance of mobilisers on the platform?’ Ideas from more rapid and efficient payment methods, to mobiliser motivation schemes, to testing feedback loops in the app, were suggested as possible improvements.
 
@@ -33,9 +33,8 @@ The biggest learning for many of our team members was the process itself, and th
 
 ![Machakos_6.jpeg](/uploads/Machakos_6.jpeg)
 
-The innovation sandbox is about taking intentional steps to tackling problems, and, through incremental trial and error in controlled environments, finding the big issues that will help us to continuously improve. At Triggerise, we have existing ecosystem infrastructures that are ideal spaces for such innovation. 
+The innovation sandbox is about taking intentional steps to tackling problems, and, through incremental trial and error in controlled environments, finding the big issues that will help us to continuously improve. At Triggerise, we have existing ecosystem infrastructures that are ideal spaces for such innovation.
 
-The success of the launch event positions us to open the innovation sandbox up to external collaborators from mid-2023. Facilitated by us, you can test solutions to development problems in the Triggerise ecosystem real-world setting. 
-
+The success of the launch event positions us to open the innovation sandbox up to external collaborators from mid-2023. Facilitated by us, you can test solutions to development problems in the Triggerise ecosystem real-world setting.
 
 Find out more: [hello@triggerise.org](mailto:hello@triggerise.org)
