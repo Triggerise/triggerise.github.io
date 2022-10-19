@@ -5,7 +5,7 @@ permalink: "/news/innovation-sandbox-launch-machakos"
 categories:
 - News
 author: Triggerise
-heroImage: "/uploads/V1-Linkeding_POST-Clinic.jpg"
+heroImage: "/uploads/00-BANNER-clinic.jpg"
 layout: post
 ---
 
