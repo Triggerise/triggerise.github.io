@@ -75,13 +75,6 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: 
-- Job Title: Marketing & Communications Manager
-  Location: Kenya
-  Job Description: 'Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    Manager! '
-  Link: https://triggerise.bamboohr.com/careers/294?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
