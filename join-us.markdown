@@ -30,13 +30,6 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: Scala Backend Engineer
-  Location: Global
-  Job Description: 'You’ve gained experience in the software development space, and
-    want to continue working on innovative projects, whilst making an impact with
-    your tech skills & knowledge. Read on to find out more about our Scala Backend
-    Engineer position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=280&source=aWQ9MjM%3D
 - Job Title: Java Backend Engineer
   Location: Global
   Job Description: Are you a problem-solver with a background in software development?
@@ -70,12 +63,25 @@ Jobs:
     and identify trends in projects that will make an impact? If so, you could be
     our next Data Analyst!
   Link: https://triggerise.bamboohr.com/careers/290?source=aWQ9MjM%3D
+- Job Title: Ecosystem Trainer
+  Location: Kisumu, Kenya
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and its offers?
+    Continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/292?source=aWQ9MjM%3D
 - Job Title: Ecosystem Supporter
   Location: Addis Ababa, Ethiopia
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: 
+- Job Title: Marketing & Communications Manager
+  Location: Kenya
+  Job Description: 'Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    Manager! '
+  Link: https://triggerise.bamboohr.com/careers/294?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
