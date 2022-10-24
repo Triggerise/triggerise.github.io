@@ -18,12 +18,6 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: Country Director (Ethiopia)
-  Location: Addis Ababa, Ethiopia
-  Job Description: Do you have what it takes to lead a country? We are looking for
-    a senior manager with experience in Public Health or Sexual & Reproductive Health
-    to join our global team as the Country Director for Ethiopia.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=284&source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
@@ -42,13 +36,6 @@ Jobs:
     working on innovative projects whilst making an impact with your tech skills &
     knowledge? Read on to find out more about our QA Engineer position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=270&source=aWQ9MjM%3D
-- Job Title: Data Protection Officer
-  Location: Global
-  Job Description: Do you have practical experience within the data protection space?
-    Would you be able to bring a fresh perspective to managing data privacy risks,
-    while providing advice and oversight across all aspects of data privacy?  Read
-    more to find out about the role of Data Protection Officer.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=243
 - Job Title: Research Lead
   Location: Nairobi/Mombasa, Kenya
   Job Description: Do you have experience designing, executing and implementing research
@@ -75,6 +62,12 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: 
+- Job Title: Accountant
+  Location: Ethiopia/South Africa
+  Job Description: Do you have an eye for detail and a passion for numbers? Are you
+    looking for your next career opportunity to contribute to the growth and success
+    of an international finance department? If so, then this job could be for you!
+  Link: https://triggerise.bamboohr.com/careers/293?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
