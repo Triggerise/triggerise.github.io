@@ -62,6 +62,12 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: 
+- Job Title: Accountant
+  Location: Ethiopia/South Africa
+  Job Description: Do you have an eye for detail and a passion for numbers? Are you
+    looking for your next career opportunity to contribute to the growth and success
+    of an international finance department? If so, then this job could be for you!
+  Link: https://triggerise.bamboohr.com/careers/293?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
