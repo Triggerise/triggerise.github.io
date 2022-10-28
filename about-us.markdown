@@ -9,7 +9,7 @@ Numbers:
   Text: 'cities we call home '
 - Number: "+10"
   Text: different mother tongues
-- Number: 7
+- Number: 8
   Text: years of making change for good
 - Number: 1
   Text: shared goal
@@ -91,11 +91,6 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.webp"
 Our People:
-- Name: Lidya
-  Role: Country Director – Ethiopia
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: https://www.linkedin.com/in/lidya-mulat-82829a83/
-  Image: "/uploads/Trig_profiles_lydia.webp"
 - Name: Siphesihle
   Role: Platform Marketing Director
   Location: Johannesburg, South Africa
