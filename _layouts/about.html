@@ -5,8 +5,6 @@ layout: default
 {% assign title = page.Title %}
 {% assign numbers = page.Numbers %}
 {% assign animation = page['Header animation image'] %}
-{% assign sectionTitle = page.Mission-Title %}
-{% assign ModelDescription = page.Mission-text %}
 {% assign safeTitle = "We safeguard digital human rights" %}
 {% assign safeDescription = page.Safeguarding-text %}
 
@@ -22,14 +20,6 @@ layout: default
   textColor="lightBlue"
   lines="lines"
 %}
-{% include 1up.html
-  colour="white"
-  sectionTitle=sectionTitle
-  diagram=diagram
-  description=ModelDescription
-  textColor="darkBlue"
-  classList="flexWrapper autoHeight"
-%}
 {% include map.html
   colour="darkBlue"
   textColor="darkBlue"
@@ -39,11 +29,6 @@ layout: default
 {% include team.html
   colour="grey"
   textColor="darkBlue"
-%}
-{% include resources.html
-  colour="white"
-  textColor="darkBlue"
-  classList="resources autoHeight"
 %}
 {% include 1up.html
   colour="cream"

@@ -1,9 +1,16 @@
 ---
 title: Home
 date: 2020-07-01 16:20:00 Z
-Header-Text: We connect smart insights and proactive tech to trigger change. For good.
+Header-Text: We use tech to promote access to sexual and reproductive health and wellbeing for young people.
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
+Vision-Title: 'Our Vision'
+Vision-Text: 'A world where all youth have the power to choose where, when, and how they meet their sexual reproductive health needs.'
+Mission-Title: 'Our Mission'
+Mission-Description: '<h3>A next-generation non-profit that is exponentially more efficient at delivering scalable and verified sexual reproductive health impact for sub-Saharan African youth.</h3>
+<h3>Founded in 2014, Triggerise currently works in six sub-Saharan countries. We are rapidly expanding, creating positive impact at scale wherever we go.</h3>
+'
+Mission-Image: '/uploads/TRIGGERISE-KIBERA-139.webp'
 Our-Model:
 - Header: Diverse Ecosystems | Big Impact
   Description: We connect across supply and demand, building an ecosystem of partners,
@@ -300,4 +307,4 @@ Our-Model-Link: "/what-we-do"
 layout: home
 ---
 
-Let’s take on how the world does change
+We are a next-generation non-profit powered by innovative tech
