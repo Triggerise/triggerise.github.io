@@ -159,7 +159,9 @@ function flipSection(container1, container2, box) {
             if (box.parentElement === container1) {
                 container2.appendChild(box);
             } else {
-                container1.appendChild(box);
+                if(box.length > 0) {
+                    container1.appendChild(box);
+                }
             }
         }
     }
@@ -186,6 +188,16 @@ function dibSectionTwo(container1, container2, box, pinDistance) {
     });
 
     const stepsTwo = gsap.utils.toArray(".three_row .extended_three_column .dib_two_right_container");
+    const columns = gsap.utils.toArray("#dib-horizontal-animation .three_column");
+    const arrows = gsap.utils.toArray(".dib-arrow");
+    arrows.forEach((arrow, i) => {
+        $(arrow).css({'transform' : 'rotate(0deg)', 'margin-top': '0px', 'margin-left': 'auto', 'margin-right': 'auto', 'font-size': '35px'});
+    });
+
+    columns.forEach((column, i) => {
+        console.log(column);
+        $(column).css({'flex-wrap' : 'wrap'});
+    });
 
 
     stepsTwo.forEach((step, i) => {
@@ -238,6 +250,16 @@ function dibSectionOne() {
 
     const steps = gsap.utils.toArray(".three_row .three_column .dib_two_left_container, .three_row .dib_two_column .dib_content_column_container");
 
+    const arrows = gsap.utils.toArray(".dib-arrow");
+    arrows.forEach((arrow, i) => {
+        if(i === 0) {
+            $(arrow).css({'transform' : 'rotate(-125deg)', 'margin-top': '100px'});
+        } else if (i === 1) {
+            $(arrow).css({'transform' : 'rotate(-50deg)', 'margin-top': '100px'});
+        } else {
+
+        }
+    });
 
     steps.forEach((step, i) => {
         stepsTimeline.add(() => {
@@ -291,30 +313,18 @@ function whyUsSection() {
         }, i || 0.001);
     });
 
-    const stepsTimelineTwo = gsap.timeline({
-        scrollTrigger: {
-            trigger: '.why-us-row-container .why-us',
-            start: 'top center',
-            end: "bottom top",
-            scrub: true,
-        }
-    });
-
     const stepsTwo = gsap.utils.toArray(".why-us-row-container .why-us .why-content");
 
-
     stepsTwo.forEach((step, i) => {
-        stepsTimelineTwo.add(() => {
+        stepsTimeline.add(() => {
 
-            const forward = stepsTimelineTwo.scrollTrigger.direction > 0,
+            const forward = stepsTimeline.scrollTrigger.direction > 0,
                 inEl = forward ? step : stepsTwo[i - 1],
                 outEl = forward ? stepsTwo[i - 1] : step;
             outEl && gsap.to(outEl, { display: "none", autoAlpha: 0, duration: 0.1, overwrite: true });
             inEl && gsap.to(inEl, { display: "block", autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
         }, i || 0.001);
     });
-
-    stepsTimeline.add(stepsTimelineTwo, 0);
     stepsTimeline.to({}, { duration: 1 });
 }
 
@@ -549,7 +559,5 @@ function initImpactBond() {
             goalsSection();
             ctaSection();
         }
-
-        AOS.init();
     });
 } initImpactBond();

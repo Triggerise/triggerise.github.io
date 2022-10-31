@@ -135,19 +135,17 @@ goals:
   -
      callToAttention : "04"
      content : "SERVE OVER HALF A MILLION GIRLS WITH SRH AND HIV SERVICES AS A DIRECT RESULT OF THE BOND"
-cta: 
+cta:
    -
-      title: "TRANSFORM HOW WE FUND IMPACT, FOR GOOD"
+      title: "TRANSFORM HOW WE FUND IMPACT, FOR GOOD" 
+   -
       content: "Partner with us as we impact half a million girls with the sexual and reproductive health services they deserve."
       runningNumber: "500000"
    -
-      title: "TRANSFORM HOW WE FUND IMPACT, FOR GOOD"
       content: "Put the power of choice in young Kenyans' hands."
    -
-      title: "TRANSFORM HOW WE FUND IMPACT, FOR GOOD"
       content: "Contribute your share of the $15m of outcome funding that we still need."
    -
-      title: "TRANSFORM HOW WE FUND IMPACT, FOR GOOD"
       content: "Connect with us today about how we can ignite transformation in Kenya together."
       socials: true
 layout: impactbond

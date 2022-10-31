@@ -203,11 +203,14 @@
         <div class="three_row" id="dib-horizontal-animation">
           {% for content in dibContent.sectionOne %}
           <div class="three_column">
+            {% if forloop.index == 2 %}
+            <span class="arrow-down dib-arrow">&#8595;</span>
+            {% endif %}
             <div class="dib_content_column_container dib_two_left_container">
               {% if content.middleTitle %}
               <div class="dib_content_middle_content_container dib-margin-bottom">
                 {% if content.icon %}
-                  <img src="{{ content.icon }}" />
+                <img src="{{ content.icon }}" />
                 {% endif %}
                 <h3>{{ content.title }}</h3>
                 <p>{{ content.content }}</p>
@@ -218,13 +221,16 @@
               {% else %}
               <div class="dib_content_middle_content_container dib-margin-top">
                 {% if content.icon %}
-                  <img src="{{ content.icon }}" />
+                <img src="{{ content.icon }}" />
                 {% endif %}
                 <h3>{{ content.title }}</h3>
                 <p>{{ content.content }}</p>
               </div>
               {% endif %}
             </div>
+            {% if forloop.index == 2 %}
+            <span class="arrow-down dib-arrow">&#8595;</span>
+            {% endif %}
           </div>
           {% endfor %}
         </div>
@@ -251,7 +257,7 @@
       <div class="wrapper">
         <div class="two_row">
           <div class="two_column"></div>
-          <div class="two_column">
+          <div class="two_column extended_column">
             {% if whyUsContent.title %}
             <h3>{{ whyUsContent.title }}</h3>
             {% endif %}
@@ -270,9 +276,9 @@
             {% endif %}
             {% if content.content %}
             <div class="two_column extended_column">
-                {% for paragraph in content.content %}
-                <p class="why-content" style="margin-top: 2rem">{{ paragraph }}</p>
-                {% endfor %}
+              {% for paragraph in content.content %}
+              <p class="why-content" style="margin-top: 2rem">{{ paragraph }}</p>
+              {% endfor %}
             </div>
             {% endif %}
             {% endfor %}
@@ -312,12 +318,12 @@
   <div id="cta-pin" class="impact_bond__section_container">
     <div class="section__cream_container">
       <div id="heroSectionFour" class="wrapper cta-container">
+        {% if cta[0].title %}
+            <h3>{{ cta[0].title }}</h3>
+        {% endif %}
         {% for action in cta %}
         <div class="three_row cta">
           <div class="three_column extended_column">
-            {% if action.title %}
-            <h3>{{ action.title }}</h3>
-            {% endif %}
             {% if action.content %}
             <p>{{ action.content }}</p>
             {% endif %}

@@ -3649,6 +3649,10 @@ Salary Tracker
         font-size: 45px;
     }
 
+    .dib-arrow {
+        font-size: 55px;
+    }
+
     .bounce {
         -moz-animation: bounce 2s infinite;
         -webkit-animation: bounce 2s infinite;
@@ -3687,8 +3691,6 @@ Salary Tracker
         .cta {
             position: absolute;
             top: 0;
-            left: 0;
-            right: 0;
             bottom: 0;
             align-items: center;
 
@@ -3699,6 +3701,9 @@ Salary Tracker
         }
 
         h3 {
+            padding: 0;
+            margin: 0;
+            text-align: left;
             font-weight: 600 !important;
         }
     }
@@ -3851,6 +3856,11 @@ Salary Tracker
                     padding: 0;
                     .three_column {
                         margin-bottom: 2rem;
+                        flex-wrap: wrap;
+                        .dib-arrow {
+                            margin-left: auto;
+                            margin-right: auto;
+                        }
                     }
                     .dib_two_right_container {
                         position: relative;
