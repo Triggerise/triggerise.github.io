@@ -68,6 +68,13 @@ Jobs:
     looking for your next career opportunity to contribute to the growth and success
     of an international finance department? If so, then this job could be for you!
   Link: https://triggerise.bamboohr.com/careers/293?source=aWQ9MjM%3D
+- Job Title: Service Quality Specialist
+  Location: Addis Ababa, Ethiopia
+  Job Description: Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Do you have a great eye for detail
+    and experience in the health services sector? Read on because this role could
+    be for you!
+  Link: https://triggerise.bamboohr.com/careers/296?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
