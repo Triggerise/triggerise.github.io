@@ -8,6 +8,18 @@ layout: default
 {% assign safeTitle = "We safeguard digital human rights" %}
 {% assign safeDescription = page.Safeguarding-text %}
 
+{% assign missionDescription = page.Mission-Description %}
+{% assign missionTitle = page.Mission-Title %}
+{% assign missionImage = page.Mission-Image %}
+{% include 3upHorizontal.html padding="padd" body=missionDescription colour="pink" imageTwo=missionImage titleAlt=missionTitle
+colourTwo="lightBlue" colourThree="darkBlue" classList="image whatWeDoImage" flexList="reverse" %}
+{% include map.html
+colour="darkBlue"
+textColor="darkBlue"
+classList="autoHeight map"
+textColor="cream"
+%}
+
 {% include 3upHorizontal.html
   title=title colour="blue"
   colourTwo="darkBlue"
@@ -15,16 +27,9 @@ layout: default
   image=animation
   imageTwo=CTAimageTwo
   classList="image"
-  padding="padd"
   numbers=numbers
   textColor="lightBlue"
   lines="lines"
-%}
-{% include map.html
-  colour="darkBlue"
-  textColor="darkBlue"
-  classList="autoHeight map"
-  textColor="cream"
 %}
 {% include team.html
   colour="grey"

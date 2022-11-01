@@ -1,6 +1,6 @@
 <div class="t-three flex {{include.flexList}} {{include.padding}}">
   <div class="t-three-left {{include.colour}}">
-    <div class="t-one {% if include.flexList != 'reverse' %}left{% endif %} {% if include.flexList == 'reverse' %}right{% endif %}">
+    <div class="t-one {{include.tClassList}} {% if include.flexList != 'reverse' %}left{% endif %} {% if include.flexList == 'reverse' %}right{% endif %}">
       <div class="inner-wrapper">
         {% if include.title %}
           <h1 class="text-colour-{{include.textColor}} t-three-title">{{include.title}}</h1>
@@ -56,7 +56,7 @@
     {% endif %}
   </div>
   <div class="t-three-right">
-    <div class="t-one {{include.colourTwo}} {{include.classList}} {% if include.flexList == 'reverse' %}left{% endif %} {% if include.flexList != 'reverse' %}right{% endif %}">
+    <div class="t-one {{include.tClassList}} {{include.colourTwo}} {{include.classList}} {% if include.flexList == 'reverse' %}left{% endif %} {% if include.flexList != 'reverse' %}right{% endif %}">
       {% if include.titleAlt %}
       {% if include.flexList == 'reverse' %}<div class="inner-wrapper">{% endif %}
         <h1 class="section-title-center">{{include.titleAlt}}</h1>
@@ -66,7 +66,7 @@
         <img src="{{include.image}}" alt="two girls looking at a mobile phone" title="two girls looking at a mobile phone">
       {% endif %}
     </div>
-    <div class="t-one {{include.colourThree}} {{include.classList}} {% if include.flexList != 'reverse' %}right{% endif %} {% if include.flexList == 'reverse' %}left{% endif %}">
+    <div class="t-one {{include.colourThree}} {{include.classList}} {{ include.fClassList }} {% if include.flexList != 'reverse' %}right{% endif %} {% if include.flexList == 'reverse' %}left{% endif %}">
       {% if include.imageTwo %}
         <img src="{{include.imageTwo}}" alt="woman with umbrella standing with a girl" title="woman with umbrella standing with a girl">
       {% endif %}
