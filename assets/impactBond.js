@@ -7,6 +7,18 @@ $.fn.isInViewport = function () {
     return (bottom_of_screen > top_of_element) && (top_of_screen < bottom_of_element);
 };
 
+function shuffleArray(arr, subtraction) {
+    var arr2 = [];
+    while (arr.length > 0) {
+        arr2.push(arr.splice(Math.round(Math.random() * (arr.length - 1)), 1)[0]);
+    }
+    for (let i = 0; i <= subtraction; i++) {
+        var index = Math.floor(Math.random() * arr2.length);
+        arr2.splice(index, 1);
+    }
+    return arr2;
+}
+
 function onVisible(element, callback) {
     new IntersectionObserver((entries, observer) => {
         entries.forEach(entry => {
@@ -145,7 +157,6 @@ function goalsSection() {
 function flipSection(container1, container2, box) {
     gsap.registerPlugin(Flip);
     const state = Flip.getState(box, { props: "" });
-
     if (box) {
         if (box.length > 1) {
             box.forEach((elm) => {
@@ -157,9 +168,11 @@ function flipSection(container1, container2, box) {
             });
         } else {
             if (box.parentElement === container1) {
-                container2.appendChild(box);
+                if (container2) {
+                    container2.appendChild(box);
+                }
             } else {
-                if(box.length > 0) {
+                if (box.length > 0) {
                     container1.appendChild(box);
                 }
             }
@@ -167,8 +180,8 @@ function flipSection(container1, container2, box) {
     }
 
     Flip.from(state, {
-        duration: 1,
-        ease: Sine.easeOut,
+        duration: 2,
+        ease: Sine.linear,
     });
 }
 
@@ -191,12 +204,12 @@ function dibSectionTwo(container1, container2, box, pinDistance) {
     const columns = gsap.utils.toArray("#dib-horizontal-animation .three_column");
     const arrows = gsap.utils.toArray(".dib-arrow");
     arrows.forEach((arrow, i) => {
-        $(arrow).css({'transform' : 'rotate(0deg)', 'margin-top': '0px', 'margin-left': 'auto', 'margin-right': 'auto', 'font-size': '35px'});
+        $(arrow).css({ 'transform': 'rotate(0deg)', 'margin-top': '0px', 'margin-left': 'auto', 'margin-right': 'auto', 'font-size': '35px' });
     });
 
     columns.forEach((column, i) => {
         console.log(column);
-        $(column).css({'flex-wrap' : 'wrap'});
+        $(column).css({ 'flex-wrap': 'wrap' });
     });
 
 
@@ -223,6 +236,7 @@ function dibSectionOne() {
     gsap.set('.extended_three_column .dib_two_right_container', { display: "none" });
     gsap.set('.dib-margin-bottom', { marginBottom: "50%" });
     gsap.set('.dib-margin-top', { marginTop: "100%" });
+    gsap.set('.dib-arrow', { autoAlpha: 0 });
 
     const pinDistance = $('#dib-content-pin').height() ? $('#dib-content-pin').height() : 1000;
 
@@ -252,10 +266,10 @@ function dibSectionOne() {
 
     const arrows = gsap.utils.toArray(".dib-arrow");
     arrows.forEach((arrow, i) => {
-        if(i === 0) {
-            $(arrow).css({'transform' : 'rotate(-125deg)', 'margin-top': '100px'});
+        if (i === 0) {
+            $(arrow).css({ 'transform': 'rotate(-125deg)', 'margin-top': '100px' });
         } else if (i === 1) {
-            $(arrow).css({'transform' : 'rotate(-50deg)', 'margin-top': '100px'});
+            $(arrow).css({ 'transform': 'rotate(-50deg)', 'margin-top': '100px' });
         } else {
 
         }
@@ -269,6 +283,16 @@ function dibSectionOne() {
             outEl && gsap.to(step, { duration: 0.2, overwrite: true, display: "none" });
             inEl && gsap.to(inEl, { duration: 0.2, delay: 0.1, overwrite: true, display: "flex" });
         }, i || 0.001);
+    });
+
+    arrows.forEach((arrow, i) => {
+        stepsTimeline.add(() => {
+            const forward = stepsTimeline.scrollTrigger.direction > 0,
+                inEl = forward ? arrow : arrows[i - 1],
+                outEl = forward ? arrows[i - 1] : arrow;
+            outEl && gsap.to(arrow, { duration: 0.2, overwrite: true, autoAlpha: 0 });
+            inEl && gsap.to(arrows, { duration: 0.2, delay: 0.1, overwrite: true, autoAlpha: 1 });
+        });
     });
 
     stepsTimeline.to({}, { duration: 1 });
@@ -285,7 +309,7 @@ function whyUsSection() {
     ScrollTrigger.create({
         trigger: "#why-us-pin",
         start: "center center",
-        end: "+=" + pinDistance,
+        end: "+=" + (pinDistance + 500),
         pin: "#why-us-pin",
         markers: false,
         id: "why-us"
@@ -308,8 +332,8 @@ function whyUsSection() {
             const forward = stepsTimeline.scrollTrigger.direction > 0,
                 inEl = forward ? step : steps[i - 1],
                 outEl = forward ? steps[i - 1] : step;
-            outEl && gsap.to(outEl, { autoAlpha: 0, duration: 0.1, overwrite: true });
-            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
+            outEl && gsap.to(outEl, { autoAlpha: 0, duration: 0.3, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.3, delay: 0.01, overwrite: true });
         }, i || 0.001);
     });
 
@@ -321,11 +345,11 @@ function whyUsSection() {
             const forward = stepsTimeline.scrollTrigger.direction > 0,
                 inEl = forward ? step : stepsTwo[i - 1],
                 outEl = forward ? stepsTwo[i - 1] : step;
-            outEl && gsap.to(outEl, { display: "none", autoAlpha: 0, duration: 0.1, overwrite: true });
-            inEl && gsap.to(inEl, { display: "block", autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
+            outEl && gsap.to(outEl, { autoAlpha: 0, display: "none", duration: 0.3, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, display: "block", duration: 0.3, delay: 0.01, overwrite: true });
         }, i || 0.001);
     });
-    stepsTimeline.to({}, { duration: 1 });
+    stepsTimeline.to({}, { duration: 5 });
 }
 
 function whyTikoSection() {
@@ -372,69 +396,132 @@ function whyTikoSection() {
     stepsTimeline.to({}, { duration: 1 })
 }
 
-function mapSectionThree() {
+function mapSectionFive() {
 
     gsap.registerPlugin(ScrollTrigger);
+    const pinDistance = $('#map-pin-five').height() ? $('#map-pin-five').height() : 1000;
+    ScrollTrigger.create({
+        trigger: "#map-pin-five",
+        start: "center center",
+        end: "+=" + (pinDistance + 500),
+        pin: "#map-pin-five",
+        markers: false,
+        id: "map-content-box-five"
+    })
+    const boxes = document.querySelectorAll(".slide__image");
+    const t1 = gsap.timeline({
+        scrollTrigger: {
+            trigger: '#map-pin-five',
+            start: "top center",
+            end: (pinDistance + 500),
+            markers: false,
+        },
+        defaults: {
+            duration: 1,
+            opacity: 0,
+            ease: "power2"
+        },
+        onUpdate: function () {
+            /*
+            if(this.progress() === 1) {
+                gsap.set('#map__middle_container', { position: 'absolute', zIndex: 5 });
+                gsap.set('.slide__image_middle', { attr: { src: '/uploads/thought_lines_coloured.webp'} });
+                flipSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'))
+                flipSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'))
+            }
+            */
+        }
+    })
+        .from(boxes[0], { x: "-100vw" })
+        .from(boxes[1], { y: "-100vh" })
+        .from(boxes[2], { x: "100vw" })
+
+}
+
+function mapSectionFour() {
+    gsap.set('.map-content-step-four', { autoAlpha: 0 });
+    gsap.set('#thoughtLineSVG g path', { autoAlpha: 0 });
+    gsap.registerPlugin(ScrollTrigger);
+    const pinDistance = $('#map-pin-four').height() ? $('#map-pin-four').height() : 1000;
+
+    ScrollTrigger.create({
+        trigger: "#map-pin-four",
+        start: "center center",
+        end: "+=" + (pinDistance + 500),
+        pin: "#map-pin-four",
+        markers: false,
+        id: "map-content-box-four",
+    });
+
+    const stepsTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.map-content-box .map-content .map-content-step-four',
+            start: 'top center',
+            end: "+=" + pinDistance,
+            scrub: true,
+        }
+    });
+
+    const steps = gsap.utils.toArray(".map-content-box .map-content-step-four");
+    steps.forEach((step, i) => {
+        stepsTimeline.add(() => {
+
+            const forward = stepsTimeline.scrollTrigger.direction > 0,
+                inEl = forward ? step : steps[i - 1],
+                outEl = forward ? steps[i - 1] : step;
+            outEl && gsap.to(outEl, { autoAlpha: 0, duration: 0.1, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
+        }, i || 0.001);
+    });
+
+    stepsTimeline.to({}, { duration: 1 });
+
+    const thoughtTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.map-content-box .map-content .map-content-step-four',
+            start: 'top center',
+            end: "+=" + pinDistance,
+            scrub: true,
+        }
+    });
+
+    const paths = gsap.utils.toArray('#thoughtLineSVG g path');
+    paths.forEach((path, i) => {
+        thoughtTimeline.add(() => {
+            const forward = thoughtTimeline.scrollTrigger.direction > 0,
+                inEl = forward ? path : paths[i - 1],
+                outEl = forward ? paths[i - 1] : path;
+            outEl && gsap.to(path, { autoAlpha: 0, duration: 0.1, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
+        }, i || 0.001);
+    });
+}
+
+function mapSectionThree() {
+    gsap.set('.map-content-step-three', { autoAlpha: 0 });
+    gsap.registerPlugin(ScrollTrigger);
     const pinDistance = $('#map-pin-three').height() ? $('#map-pin-three').height() : 1000;
+
     ScrollTrigger.create({
         trigger: "#map-pin-three",
         start: "center center",
         end: "+=" + (pinDistance + 500),
         pin: "#map-pin-three",
         markers: false,
-        id: "map-content-box-three"
-    })
-    gsap.utils.toArray(".map__content_three_container").forEach(section => {
-        const boxes = section.querySelectorAll(".slide-image");
-        const t1 = gsap.timeline({
-            scrollTrigger: {
-                trigger: '#map-pin-three',
-                start: "top center",
-                end: pinDistance,
-                markers: false,
-            },
-            defaults: {
-                duration: 1,
-                opacity: 0,
-                ease: "power2"
-            }
-        })
-            .from(boxes[0], { x: "-100vw" })
-            .from(boxes[1], { x: "100vw" })
+        id: "map-content-box-three",
+        onLeaveBack: () => flipSection(document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container svg'))
     });
-}
-
-function mapSectionTwo() {
-    gsap.registerPlugin(ScrollTrigger);
-
-    gsap.set('.map-content-step-two', { autoAlpha: 0 });
-
-    const pinDistance = $('#map-pin-two').height() ? $('#map-pin-two').height() : 1000;
-
-
-    ScrollTrigger.create({
-        trigger: "#map-pin-two",
-        start: "center center",
-        end: "+=" + (pinDistance + 500),
-        pin: "#map-pin-two",
-        markers: false,
-        id: "map-content-box-two"
-    })
-
 
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
-            trigger: '.map-content-box-two .map-content',
+            trigger: '.map-content-box .map-content .map-content-step-three',
             start: 'top center',
             end: "+=" + pinDistance,
             scrub: true,
-            onLeaveBack: () => flipSection(document.querySelector(".map_container_two"), document.querySelector(".map_container"), document.querySelector(".map_container_two svg")),
         }
     });
 
-    const steps = gsap.utils.toArray(".map-content-box-two .map-content-step-two");
-
-
+    const steps = gsap.utils.toArray(".map-content-box .map-content-step-three");
     steps.forEach((step, i) => {
         stepsTimeline.add(() => {
 
@@ -450,6 +537,41 @@ function mapSectionTwo() {
 
 }
 
+function mapSectionTwo() {
+    gsap.set('.map-content-step-two', { autoAlpha: 1 });
+
+    gsap.registerPlugin(ScrollTrigger);
+    const pinDistance = $('#map-pin-two').height() ? $('#map-pin-two').height() : 1000;
+
+    ScrollTrigger.create({
+        trigger: "#map-pin-two",
+        start: "center center",
+        end: "+=" + (pinDistance + 500),
+        pin: "#map-pin-two",
+        markers: false,
+        id: "map-content-box-two",
+        onLeave: () => flipSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')),
+        onLeaveBack: () => flipSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg'))
+    });
+
+    const mapTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: '.map-content-box .map-content .map-content-step-two',
+            start: 'top center',
+            end: "+=" + pinDistance,
+            scrub: true,
+        }
+    });
+
+    const gsapPaths = gsap.utils.toArray('#mapSVG g path');
+    const paths = shuffleArray(gsapPaths, 25);
+    paths.forEach((path, i) => {
+        mapTimeline.add(() => {
+            mapTimeline.to(path, 5, { fill: "#45a590" });
+        });
+    });
+}
+
 function mapSection() {
     gsap.registerPlugin(ScrollTrigger);
 
@@ -457,30 +579,26 @@ function mapSection() {
 
     const pinDistance = $('#map-pin').height() ? $('#map-pin').height() : 1000;
 
-
     ScrollTrigger.create({
         trigger: "#map-pin",
         start: "center center",
         end: "+=" + (pinDistance + 500),
         pin: "#map-pin",
         markers: false,
-        id: "map-content-box"
+        id: "map-content-box",
+        onLeave: () => flipSection(document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container svg'))
     })
-
 
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
-            trigger: '.map-content-box .map-content',
+            trigger: '.map-content-box .map-content .map-content-step',
             start: 'top center',
             end: "+=" + pinDistance,
             scrub: true,
-            onLeave: () => flipSection(document.querySelector(".map_container"), document.querySelector(".map_container_two"), document.querySelector(".map_container svg")),
         }
     });
 
     const steps = gsap.utils.toArray(".map-content-box .map-content-step");
-
-
     steps.forEach((step, i) => {
         stepsTimeline.add(() => {
 
@@ -513,17 +631,17 @@ function firstHeadline() {
         id: "first-headline"
     })
 
-
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
-            trigger: '#first-headline-pin .two_column',
+            trigger: '#first-headline-pin .first_column_one',
             start: 'top center',
             end: "bottom top",
             scrub: true,
+            onLeaveBack: () => flipHeroSection(document.querySelector("#first_headline_image_container"), document.querySelector("#heroSectionOne .wrapper .hero_section_one_svg_container"), document.querySelector("#first_headline_image_container svg")),
         }
     });
 
-    const steps = gsap.utils.toArray("#first-headline-pin .two_column");
+    const steps = gsap.utils.toArray("#first-headline-pin .first_column_one");
 
 
     steps.forEach((step, i) => {
@@ -538,21 +656,115 @@ function firstHeadline() {
     });
 
     stepsTimeline.to({}, { duration: 1 })
+
+    gsap.timeline({
+        scrollTrigger:{
+          trigger: "#first-headline-pin .first_column_two ",
+          scrub:true,
+          start: 'top center',
+          end: "bottom top",
+        }
+      }).to('#dib_heroFourSVG', {
+        rotation:45,
+        duration:1, ease:'none',
+      })
+}
+
+function flipHeroSection(container1, container2, box) {
+    gsap.registerPlugin(Flip);
+    const state = Flip.getState(box, { props: "" });
+    if (box) {
+        if (box.length > 1) {
+            box.forEach((elm) => {
+                if (elm.parentElement === container1) {
+                    container2.appendChild(elm);
+                } else {
+                    container1.appendChild(elm);
+                }
+            });
+        } else {
+            if (box.parentElement === container1) {
+                if (container2) {
+                    container2.appendChild(box);
+                }
+            } else {
+                if (box.length > 0) {
+                    container1.appendChild(box);
+                }
+            }
+        }
+    }
+
+    Flip.from(state, {
+        duration: 2,
+        ease: Sine.ease,
+        onUpdate: function () {
+            if(this.progress() <= 0.5) {
+                gsap.set("#dib_heroTwoSVG", {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroThreeSVG", {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
+                gsap.set('#dib_heroOneSVG', {opacity: 1, display: 'block'});
+            } else if(this.progress() > 0.5 && this.progress() < 0.7) {
+                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroThreeSVG", {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroTwoSVG", {opacity: 1, display: 'block'});
+            } else if (this.progress() >=  0.7 && this.progress() < 1) {
+                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
+                gsap.set('#dib_heroTwoSVG', {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroThreeSVG", {opacity: 1, display: 'block'});
+            } else if (this.progress() === 1) {
+                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
+                gsap.set('#dib_heroTwoSVG', {opacity: 0, display: 'none'});
+                gsap.set('#dib_heroThreeSVG', {opacity: 0, display: 'none'});
+                gsap.set("#dib_heroFourSVG", {opacity: 1, display: 'block'});
+            }
+        }
+    });
+}
+
+function heroOne() {
+    gsap.registerPlugin(ScrollTrigger);
+
+    const pinDistance = $('#hero-one-pin').height() ? $('#hero-one-pin').height() : 1000;
+
+    ScrollTrigger.create({
+        trigger: "#hero-one-pin",
+        start: "center center",
+        end: "+=" + pinDistance,
+        pin: "#hero-one-pin",
+        markers: false,
+        id: "firstSVG"
+    })
+
+    gsap.timeline({
+        scrollTrigger: {
+            trigger: '#dib_heroOneSVG',
+            start: 'top center',
+            end: "+=" + pinDistance,
+            scrub: true,
+            onLeave: () => flipHeroSection(document.querySelector("#heroSectionOne .wrapper .hero_section_one_svg_container"), document.querySelector("#first_headline_image_container"), document.querySelectorAll("#heroSectionOne .wrapper .hero_section_one_svg_container svg")),
+        }
+    });
+
 }
 
 function initImpactBond() {
     window.addEventListener('load', function () {
-
         $(window).on('resize scroll', function (scroll) {
             if (!window.matchMedia("(max-width: 1024px)").matches) {
                 updateMenuLinks();
             }
         });
         if (!window.matchMedia("(max-width: 1024px)").matches) {
+            heroOne();
             firstHeadline();
             mapSection();
             mapSectionTwo();
             mapSectionThree();
+            mapSectionFour();
+            mapSectionFive();
             whyTikoSection();
             dibSectionOne();
             whyUsSection();
