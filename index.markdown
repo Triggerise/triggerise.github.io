@@ -327,30 +327,34 @@ Our-Model:
 UJ-Content:
   headline: 'Here’s how it works:'
   steps:
-    -
-      title: 'Sign Up'
-      content: 'Young people sign up to Tiko through one of our community mobilisers or through a friend; they can use our membership card, SMS, WhatsApp or Telegram'
-      icon: '/uploads/home_uj_one.webp'
-    -
-      title: 'Choose'
-      content: "Platform users choose where to access services from a network of pre-qualified clinics and pharmacies. They can access health services such as short- and long-term contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental health support, sanitary pads and counselling. Users can also benefit from skills-development to support with employment"
-      icon: '/uploads/home_uj_two.webp'
-    -
-      title: 'Afford'
-      content: 'Services from independent providers, public facilities, pharmacies and training centres are free or subsidised'
-      icon: '/uploads/home_uj_four.webp'
-    -
-      title: 'Rate'
-      content: 'Tiko members rate the services they receive, ensuring provider quality and accountability'
-      icon: '/uploads/home_uj_five.webp'
-    -
-      title: 'Be rewarded'
-      content: 'With each rating, Tiko users receive rewards they can exchange in local shops for basic necessities like sanitary pads and stationery'
-      icon: '/uploads/home_uj_six.webp'
-    -
-      title: 'Live healthily'
-      content: 'Through a series of nudges, Tiko prompts users to attend appointments and follow-ups, promoting longer-term positive behaviour change and a cycle of healthy decision-making'
-      icon: '/uploads/home_uj_seven.webp'
+  - title: Sign Up
+    content: Young people sign up to Tiko through one of our community mobilisers
+      or through a friend; they can use our membership card, SMS, WhatsApp or Telegram
+    icon: "/uploads/home_uj_one.webp"
+  - title: Choose
+    content: Platform users choose where to access services from a network of pre-qualified
+      clinics and pharmacies. They can access health services such as short- and long-term
+      contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental
+      health support, sanitary pads and counselling. Users can also benefit from skills-development
+      to support with employment
+    icon: "/uploads/home_uj_two.webp"
+  - title: Afford
+    content: Services from independent providers, public facilities, pharmacies and
+      training centres are free or subsidised
+    icon: "/uploads/home_uj_four.webp"
+  - title: Rate
+    content: Tiko members rate the services they receive, ensuring provider quality
+      and accountability
+    icon: "/uploads/home_uj_five.webp"
+  - title: Be rewarded
+    content: With each rating, Tiko users receive rewards they can exchange in local
+      shops for basic necessities like sanitary pads and stationery
+    icon: "/uploads/home_uj_six.webp"
+  - title: Live healthily
+    content: Through a series of nudges, Tiko prompts users to attend appointments
+      and follow-ups, promoting longer-term positive behaviour change and a cycle
+      of healthy decision-making
+    icon: "/uploads/home_uj_seven.webp"
 Donor-Title: Our donors & partners
 Donor-List:
 - name: EKN
