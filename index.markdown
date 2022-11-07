@@ -5,7 +5,7 @@ Header-Text: We use technology to promote access to sexual reproductive health a
   wellbeing for adolescents and young people
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
-Supporting-two-Image: "/uploads/1_Gs6rYJEV0G9zapuhfXktBQ.webp"
+Supporting-two-Image: "/uploads/CIFF-Triggerise.webp"
 About-section-one-title: We deliver positive health impact at scale | Across six sub-Saharan
   African countries
 About-section-one-description: " <h4>Adolescents and young people use our services
@@ -33,7 +33,7 @@ What-We-Do-Description: "<h3>Adolescents and youth access health and wellbeing s
   of nudges, Tiko prompts users to attend appointments and follow-ups, promoting longer-term
   positive behaviour change and a cycle of healthy decision-making "
 What-We-Do-Image: "/uploads/TRIGGERISE_KIBERA_139.webp"
-What-section-three-title: Agile Programmes | Effective outcomes
+What-section-three-title: Agile programmes | Effective outcomes
 What-section-three-description: "Using the real-time data generated from member interactions,
   user ratings and customer surveys, we measure our impact quantitatively. We evaluate
   how effective our incentives are and gain valuable insights into the behavioural
