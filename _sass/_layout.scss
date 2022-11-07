@@ -776,3 +776,125 @@
     text-align: center;
     margin-top: 2rem;
 }
+
+.donor__header_container {
+    .slick-slide {
+        margin: 10px 10px;
+      }
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    h1 {
+        margin-bottom: 2rem;
+    }
+
+    .donor__container {
+        .donor__card {
+            position: relative;
+            height: 300px;
+            padding: 1rem;
+            box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, .1);
+            color: #fff;
+
+            .donor__card_inner {
+                display: flex;
+                align-items: center;
+                justify-self: center;
+                position: relative;
+                width: 100%;
+                height: 100%;
+                text-align: center;
+                transition: transform 0.8s;
+                transform-style: preserve-3d;
+
+                img {
+                    margin: auto;
+                }
+            }
+
+            .content-overlay {
+                background: $darkBlue;
+                position: absolute;
+                height: 99%;
+                width: 100%;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                opacity: 0;
+                -webkit-transition: all 0.4s ease-in-out 0s;
+                -moz-transition: all 0.4s ease-in-out 0s;
+                transition: all 0.4s ease-in-out 0s;
+                z-index: 2;
+            }
+
+            &:hover .content-overlay {
+                opacity: 1;
+            }
+
+            .content-details {
+                position: absolute;
+                text-align: center;
+                padding-left: 1em;
+                padding-right: 1em;
+                width: 100%;
+                top: 50%;
+                left: 50%;
+                opacity: 0;
+                -webkit-transform: translate(-50%, -50%);
+                -moz-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+                -webkit-transition: all 0.3s ease-in-out 0s;
+                -moz-transition: all 0.3s ease-in-out 0s;
+                transition: all 0.3s ease-in-out 0s;
+            }
+
+            &:hover .content-details {
+                top: 50%;
+                left: 50%;
+                opacity: 1;
+                z-index: 3;
+            }
+
+            .content-details h3 {
+                color: #fff;
+                font-weight: 500;
+                letter-spacing: 0.15em;
+                margin-bottom: 0.5em;
+                text-transform: uppercase;
+            }
+
+            .content-details p {
+                color: #fff;
+                font-size: 0.8em;
+            }
+
+            .fadeIn-bottom {
+                top: 80%;
+            }
+        }
+    }
+
+    @media only screen and (max-width: 1024px) {
+        .donor__container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    @media only screen and (max-width: 768px) {
+        .donor__container {
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+        }
+    }
+}
+
+.homeWhatWeDo {
+    height: auto !important;
+}
+
+.fullHeight3Up {
+    height: 100% !important;
+    max-height: 100% !important;
+}

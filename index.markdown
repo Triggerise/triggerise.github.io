@@ -1,9 +1,61 @@
 ---
-title: Home
+title: About Us
 date: 2020-07-01 16:20:00 Z
-Header-Text: We connect smart insights and proactive tech to trigger change. For good.
+Header-Text: We use technology to promote access to sexual reproductive health and wellbeing for adolescents and young people
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
+Supporting-two-Image: "/uploads/1_Gs6rYJEV0G9zapuhfXktBQ.webp"
+About-section-one-title: We deliver positive health impact at scale | Across six sub-Saharan African countries
+About-section-one-description: "
+<h4>Adolescents and young people use our services to live happier, healthier lives</h4>
+\n\n
+<h4>We make sexual reproductive health and related services accessible to youth</h4>
+\n\n
+<h4>Nudges and rewards promote development of long-term positive behaviours</h4>
+\n\n
+<h4>We partner with local service providers and businesses, boosting economies through our reimbursement and reward schemes</h4>
+\n\n
+<h4>By collecting real-time, verified data and user feedback, we use our instant insights to enhance quality and youth responsiveness</h4>
+
+"
+
+What-We-Do-Title: 'How we do it'
+What-We-Do-Description: "<h3>Adolescents and youth access health and wellbeing services through our digital platform, Tiko Here’s how it works:</h3>
+\n\n\n
+<b>Sign up</b>
+\n\n
+Young people sign up to Tiko through one of our community mobilisers or through a friend; they can use our membership card, SMS, WhatsApp or Telegram
+\n\n\n
+<b>Choose</b>
+\n\n
+Platform users choose where to access services from a network of pre-qualified clinics and pharmacies. They can access health services such as short- and long-term contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental health support, sanitary pads and counselling. Users can also benefit from skills-development to support with employment
+\n\n\n
+<b>Afford</b>
+\n\n
+Services from independent providers, public facilities, pharmacies and training centres are free or subsidised
+\n\n\n
+<b>Rate</b>
+\n\n
+Tiko members rate the services they receive, ensuring provider quality and accountability
+\n\n\n
+<b>Be rewarded</b>
+\n\n
+With each rating, Tiko users receive rewards they can exchange in local shops for basic necessities like sanitary pads and stationery
+\n\n\n
+<b>Live healthily</b>
+\n\n
+Through a series of nudges, Tiko prompts users to attend appointments and follow-ups, promoting longer-term positive behaviour change and a cycle of healthy decision-making
+"
+What-We-Do-Image: '/uploads/TRIGGERISE_KIBERA_139.webp'
+What-section-three-title: Agile Programmes | Effective outcomes
+What-section-three-description: "Using the real-time data generated from member interactions,
+  user ratings and customer surveys, we measure our impact quantitatively. We evaluate
+  how effective our incentives are and gain valuable insights into the behavioural
+  trends of our members. \n\nOur donors have access to our dashboard and have day-to-day
+  visibility of our programmes. It means we can collaborate to increase positive impact
+  at any given time. This gives us agility, offers transparency and delivers trust
+  across the ecosystem, while making our resources more efficient and our work more
+  relevant."
 Our-Model:
 - Header: Diverse Ecosystems | Big Impact
   Description: We connect across supply and demand, building an ecosystem of partners,
@@ -286,18 +338,86 @@ Our-Model:
     2.07 5.085 5.445v.945l-4.815.405c-6.66.495-10.17 3.06-10.17 7.29 0 3.69 2.88 6.075
     7.245 6.075zm1.485-2.745c-2.7 0-4.59-1.44-4.59-3.645 0-2.88 2.25-4.365 6.57-4.725l4.32-.36v1.98c0
     3.96-2.655 6.75-6.3 6.75zM935 137v-20H363v20h572z" fill="#FDDE5A"/></svg>
+UJ-Content:
+  -
+    headline: 'Start Here'
+    howArrow: true
+  -
+    headline: 'I am aware'
+    content: 'I learn about the Triggerise membership programme via a friend, a community mobilizer, social media, or at a community event.'
+    showArrow: true
+  -
+    headline: 'I enroll'
+    content: 'I enroll onto the membership programme, give consent to be contacted and subscribe to a continuous communication'
+    showArrow: true
+  -
+    headline: 'I discover'
+    content: 'Once enrolled, I gain tailored, non-judgemental information and access to a database of peer-rated health and livelihoods service providers via SMS, WhatsApp, or a membership card.'
+  -
+    headline: 'I use'
+    content: 'I access either free or subsidized services from a Triggerise partner clinic, pharmacy or livelihoods service provider and validate it using SMS or via my membership card. The provider is rewarded by Triggerise for the service offered.'
+    showArrow: true
+  -
+    headline: 'I rate & am rewarded'
+    content: 'After verifying receipt of a service. I rate my experience, triggering a reward in the form of loyalty points which I can spend at nearby shops or to access other services on the Triggerise platform.'
+    showArrow: true
+  -
+    headline: 'I refer'
+    content: 'I refer my friends or share testimonials about the services I received. For each of my friends that access the service, I will receive points or miles against my membership.'
+    showArrow: true
+  -
+    headline: 'I spend'
+    content: 'I collect my points and miles and spend them at participating traders in exchange for a product or for a health or livelihoods service from a Triggerise partner.'
+Donor-Title: 'Our donors & partners'
+Donor-List:
+  -
+    name: 'EKN'
+    image: '/uploads/Logo-NL-Embassy.webp'
+    link: 'https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/ethiopia/embassy-addis-ababa/'
+  -
+    name: 'CIFF'
+    image: '/uploads/CIFF logo.webp'
+    link: 'https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/ethiopia/embassy-addis-ababa/'
+  -
+    name: 'EJAF'
+    image: '/uploads/EJAF_Logo.webp'
+    link: 'https://www.eltonjohnaidsfoundation.org/'
+  -
+    name: 'UNFPA'
+    image: '/uploads/UNFPA logo.webp'
+    link: 'https://www.unfpa.org/'
+  -
+    name: 'SAS-P'
+    image: '/uploads/SAS-P logo.webp'
+    link: 'https://www.aham.nl/sas-p/'
+  -
+    name: 'KfW'
+    image: '/uploads/KfW logo.webp'
+    link: 'https://www.kfw-entwicklungsbank.de/International-financing/KfW-Entwicklungsbank/'
+  -
+    name: 'Dutch Postcode Loterij'
+    image: '/uploads/DPL logo.webp'
+    link: 'https://www.postcodeloterij.nl/'
+  -
+    name: 'Planned Parenthood'
+    image: '/uploads/PP logo.webp'
+    link: 'https://www.plannedparenthood.org/'
+  -
+    name: 'Grand Challenges Canada'
+    image: '/uploads/gcc logo.webp'
+    link: 'https://www.grandchallenges.ca/'
 CTA-Block:
-  Header: Let’s trigger great change together.
+  Header: Let’s trigger great change together
   Description: "We’re always keen to join forces and ignite more positive impact across
-    \nthe globe."
+    \nthe globe"
   CTA: Let’s talk
   CTA Link: "/contact/"
   CTA-Two: Join us
   CTA-Two-Link: "/join-us/"
   CTA-Image: "/uploads/Triggerise_CTA_footer.webp"
   CTA-Image-two: "/uploads/Mark_triggerise_animate.gif"
-Our-Model-Link: "/what-we-do"
+Our-Model-Link: "/about-us"
 layout: home
 ---
 
-Let’s take on how the world does change
+We are a next-generation non-profit powered by innovative tech

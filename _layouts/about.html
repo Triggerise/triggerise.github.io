@@ -5,10 +5,24 @@ layout: default
 {% assign title = page.Title %}
 {% assign numbers = page.Numbers %}
 {% assign animation = page['Header animation image'] %}
-{% assign sectionTitle = page.Mission-Title %}
-{% assign ModelDescription = page.Mission-text %}
 {% assign safeTitle = "We safeguard digital human rights" %}
 {% assign safeDescription = page.Safeguarding-text %}
+
+{% assign missionDescription = page.Mission-Description %}
+{% assign missionTitle = page.Mission-Title %}
+{% assign missionImage = page.Mission-Image %}
+{% include 3upHorizontal.html padding="padd" body=missionDescription colour="pink" imageTwo=missionImage titleAlt=missionTitle
+colourTwo="lightBlue" colourThree="darkBlue" classList="image whatWeDoImage" flexList="reverse" %}
+{% assign mapText = page.Map-text %}
+{% assign mapBottomText = page.Map-Bottom-Text %}
+{% include map.html
+mapText=mapText
+mapBottomText=mapBottomText
+colour="darkBlue"
+textColor="darkBlue"
+classList="autoHeight map"
+textColor="cream"
+%}
 
 {% include 3upHorizontal.html
   title=title colour="blue"
@@ -17,33 +31,13 @@ layout: default
   image=animation
   imageTwo=CTAimageTwo
   classList="image"
-  padding="padd"
   numbers=numbers
   textColor="lightBlue"
   lines="lines"
 %}
-{% include 1up.html
-  colour="white"
-  sectionTitle=sectionTitle
-  diagram=diagram
-  description=ModelDescription
-  textColor="darkBlue"
-  classList="flexWrapper autoHeight"
-%}
-{% include map.html
-  colour="darkBlue"
-  textColor="darkBlue"
-  classList="autoHeight map"
-  textColor="cream"
-%}
 {% include team.html
   colour="grey"
   textColor="darkBlue"
-%}
-{% include resources.html
-  colour="white"
-  textColor="darkBlue"
-  classList="resources autoHeight"
 %}
 {% include 1up.html
   colour="cream"

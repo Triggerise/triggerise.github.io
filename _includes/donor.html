@@ -1,0 +1,33 @@
+<div class="donor__header_container {{include.colour}} {{include.classList}}"
+    uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+    <div class="wrapper">
+        {% if donorTitle %}
+        <div class="donor__headline_container">
+            <h1>{{ donorTitle }}</h1>
+        </div>
+        {% endif %}
+        <div class="donor__container">
+            {% if donorList %}
+            {% for donor in donorList %}
+            {% if donor.link %}
+            <a href="{{ donor.link }}" rel="noopener noreferrer" target="__blank">
+                <div class="donor__card">
+                    <div class="content-overlay"></div>
+                    <div class="donor__card_inner">
+                        {% if donor.image %}
+                        <img src="{{ donor.image }}" alt="Donor image" />
+                        {% endif %}
+                    </div>
+                    {% if donor.name %}
+                    <div class="content-details fadeIn-bottom">
+                        <h3 class="content-title">{{ donor.name }}</h3>
+                    </div>
+                    {% endif %}
+                </div>
+            </a>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</div>

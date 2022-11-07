@@ -1,5 +1,5 @@
 ---
-title: About us
+title: Who we are
 date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
@@ -13,13 +13,16 @@ Numbers:
   Text: years of making change for good
 - Number: 1
   Text: shared goal
-Mission-Title: We’re on a mission
-Mission-text: |-
-  ### We’re on a mission to trigger millions of positive life choices by young people and make an unsurpassed impact on global health and well-being.
-
-  We’re a global not-for-profit headquartered in Amsterdam. We kicked off with big ambitions in 2014 and now operate in eight markets, with offices and on-the-ground staff around the globe. And we’re not stopping here: our teams and positive impact are expanding by the minute.
+Mission-Title: "<h1 style='margin-top: 0'>Our Vision</h1>
+<h4 style='margin-top: 35px;'>A world where all youth have the power to choose where, when, and how they meet their sexual reproductive health needs</h4>"
+Mission-Description: "<h1>Our Mission</h1>
+<h4 style='margin-top: 35px;'>A next-generation non-profit that is exponentially more efficient at delivering scalable and verified sexual reproductive health impact for sub-Saharan African youth</h4>
+<h4 style='margin-top: 35px; margin-bottom: 35px;'>Founded in 2014, Triggerise currently works in six sub-Saharan countries. We are rapidly expanding, creating positive impact at scale wherever we go</h4>
+"
+Mission-Image: '/uploads/TRIGGERISE-KIBERA-139.webp'
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
-  change for good.
+  change for good
+Map-Bottom-Text: 'We have operations in six sub-Sarah African countries, and offices in Amsterdam, Nairobi, Addis Ababa, Cape Town and Porto'
 Map-locations:
 - Location: 
   Description: 
@@ -91,60 +94,50 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.webp"
 Our People:
-- Name: Siphesihle
-  Role: Platform Marketing Director
-  Location: Johannesburg, South Africa
-  LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
-  Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
-- Name: Nathalie-Ann
-  Role: Programme Director
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
-  Image: "/uploads/Trig_profiles_nathalie.webp"
-- Name: Hameline Chimuka
-  Role: Chief Finance Officer
-  Location: Cape Town, South Africa
-  LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
-  Image: "/uploads/HC%20Photo.jpeg"
-- Name: Marylou
-  Role: Strategy Manager
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
-  Image: "/uploads/Trig_profiles_marylou.webp"
-- Name: Nelson
-  Role: Chief Technology Officer
-  Location: Cape Town, South Africa
-  LinkedIn: www.linkedin.com/in/nognelson
-  Image: "/uploads/Trig_profiles_nelson.webp"
-- Name: Joana
-  Role: Product Manager
-  Location: Porto, Portugal
-  LinkedIn: https://www.linkedin.com/in/joanafaraujo/
-  Image: "/uploads/Joana%20Ar.png"
-- Name: Vickie
-  Role: Field Operations Lead
-  Location: Nairobi, Kenya
-  LinkedIn: https://www.linkedin.com/in/victoria-wairimu/
-  Image: "/uploads/Victoria.jpg"
 - Name: Thera
   Role: Chief People Officer
   Location: Amsterdam, The Netherlands
   LinkedIn: https://linkedin.com/in/theraengels
   Image: "/uploads/Trig_profiles_thera.webp"
-- Name: Siham
-  Role: Administration Officer
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: 
-  Image: "/uploads/Siham-7d6c7a.jpg"
-- Name: Kristy
-  Role: Finance Manager
+- Name: Hildah
+  Role: Research & Analytics Director
+  Location: Nairobi, Kenya
+  LinkedIn: https://ke.linkedin.com/in/hildah-essendi-7b995410
+  Image: "/uploads/415-1-2.webp"
+- Name: Marylou
+  Role: Strategy Manager
   Location: Amsterdam, The Netherlands
-  LinkedIn: https://www.linkedin.com/in/kristy-nicholls-677907a4/
-  Image: "/uploads/Kristy%202.jpg"
-Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
-  only collect user data that is given with consent and use it to improve our product.
-  \n\nWe never sell personal information, this includes metadata. \n"
-Header animation image: "/uploads/Mark03-a60be9.gif"
+  LinkedIn: https://www.linkedin.com/in/maryloukupfer/
+  Image: "/uploads/Trig_profiles_marylou.webp"
+- Name: Siphesihle
+  Role: Platform Marketing Director
+  Location: Johannesburg, South Africa
+  LinkedIn: https://www.linkedin.com/in/siphesihle-ndimba-84044559/
+  Image: "/uploads/Siphesihle%20Website%20Pic.jpg"
+- Name: Nelson
+  Role: Chief Technology Officer
+  Location: Cape Town, South Africa
+  LinkedIn: www.linkedin.com/in/nognelson
+  Image: "/uploads/Trig_profiles_nelson.webp"
+- Name: Angelina
+  Role: External Communications & Public Relations Lead
+  Location: Kampala, Uganda
+  LinkedIn: https://ug.linkedin.com/in/angelina-wik-3162a71b5
+  Image: "/uploads/426-2-2.webp"
+- Name: Nathalie-Ann
+  Role: Programme Director
+  Location: Nairobi, Kenya
+  LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
+  Image: "/uploads/Trig_profiles_nathalie.webp"
+- Name: Hameline
+  Role: Chief Finance Officer
+  Location: Cape Town, South Africa
+  LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
+  Image: "/uploads/HC%20Photo.jpeg"
+Safeguarding-text: "We always protect user data and never compromise privacy \n\nWe
+  only collect user data that is given with consent and use it to improve our product
+  \n\nWe never sell personal information, this includes metadata \n"
+Header animation image: "/uploads/impactImage.webp"
 Supervisory Board Description: 'Our Directors lead Triggerise - setting its vision,
   shaping its strategy, managing its operations and inspiring its people. '
 Board of Directors Description: The Triggerise Supervisory Board helps fulfil our

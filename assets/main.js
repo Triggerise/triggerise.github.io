@@ -33,6 +33,7 @@ function loadCounter() {
     let serviceUptake = data?.conversion_rate?.[0]?.size || 0;
     let repeatBehaviour = data?.repeat_visit?.[0]?.size || 0;
     let providerRatings = data?.top_business?.[0]?.size || 0;
+    let activeProgrammes = partnersTotalEthiopia;
     let home = document.querySelector('#countup');
     let impactTotal = document.querySelector('#total-users');
     let services = document.querySelector('#platform-services');
@@ -46,6 +47,15 @@ function loadCounter() {
     let serviceUptakeTitle = document.querySelector('#serviceUptakeTitle');
     let repeatBehaviourTitle = document.querySelector('#repeatBehaviourTitle');
     let providerRatingsTitle = document.querySelector('#providerRatingsTitle');
+    let activeProgrammesTitle = document.querySelector('#activeProgrammesTitle');
+
+    if (activeProgrammesTitle) {
+      if (!activeProgrammesTitle.classList.contains('counted')) {
+        activeProgrammesTitle.classList.add('counted');
+        let countUp = new CountUp('activeProgrammesTitle', 0, partnersTotalEthiopia);
+        countUp.start();
+      }
+    }
 
     ///THIS NEEDS REFACTOR - Edit: Cleaned up the code, but there is no way to refactor without rewriting this for each page.
     if (serviceUptake === 0) {
