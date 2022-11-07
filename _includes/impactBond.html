@@ -156,6 +156,11 @@
       <div class="wrapper">
         <div id="map-section-four" class="two_row">
           <div class="two_column">
+            {% if mapContent.mentalHealthMobileImage %}
+            <div class="map__mental_health_mobile_container">
+              <img src="{{ mapContent.mentalHealthMobileImage }}" alt="mental health" />
+            </div>
+            {% endif %}
             {% if mapContent.thoughtLine %}
             <div class="map__thought_line_container thought_line_container">
               {% include thoughtLineSVG.html %}

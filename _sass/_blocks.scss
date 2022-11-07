@@ -3339,7 +3339,6 @@ Salary Tracker
             p {
                 font-size: 25px;
                 font-weight: 400;
-                letter-spacing: .25rem;
                 margin-top: 2rem;
             }
         }
@@ -3403,6 +3402,10 @@ Salary Tracker
                     font-weight: 400;
                 }
             }
+        }
+
+        .map__mental_health_mobile_container {
+            display: none;
         }
 
         .why-us-row-container {
@@ -3677,7 +3680,7 @@ Salary Tracker
             width: 100%;
             margin-left: auto;
             margin-right: auto;
-            letter-spacing: .5rem;
+            letter-spacing: .7rem;
         }
     }
 
@@ -3882,8 +3885,8 @@ screen and (max-height: 700px) {
         .section__cream_container {
             height: auto;
             min-height: auto;
-            padding-top: 2rem;
-            padding-bottom: 2rem;
+            padding-top: 1rem;
+            padding-bottom: 1rem;
 
             .two_row {
                 grid-template-columns: repeat(1, 1fr);
@@ -3901,8 +3904,8 @@ screen and (max-height: 700px) {
             .three_row {
                 grid-template-columns: repeat(1, 1fr);
                 grid-gap: 0;
-                padding-top: 6rem;
-                padding-bottom: 6rem;
+                padding-top: 0rem;
+                padding-bottom: 0rem;
 
                 .icon-container {
                     opacity: 1;
@@ -3947,6 +3950,14 @@ screen and (max-height: 700px) {
                 .map-content-step__inner {
                     font-size: 25px;
                 }
+            }
+
+            .map__mental_health_mobile_container {
+                display: block;
+            }
+
+            .thought_line_container {
+                display: none;
             }
 
             .dib-content {

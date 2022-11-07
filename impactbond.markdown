@@ -20,6 +20,7 @@ firstHeadline:
 mapContent:
    mapSVG: true
    thoughtLine: true
+   mentalHealthMobileImage: '/uploads/dib_map_mental_health_mobile.webp'
    contentOne:
       -
          content: "In Kenya, teens experiencing"
