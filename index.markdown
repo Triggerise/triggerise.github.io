@@ -5,7 +5,7 @@ Header-Text: We use technology to promote access to sexual reproductive health a
   wellbeing for adolescents and young people
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
-Supporting-two-Image: "/uploads/ciff_tiko_flipped.webp"
+Supporting-two-Image: "/uploads/CIFF-Triggerise.webp"
 About-section-one-title: We deliver positive health impact at scale | Across six sub-Saharan
   African countries
 About-section-one-description: " <h4>Adolescents and young people use our services
