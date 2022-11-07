@@ -47,12 +47,12 @@ function loadCounter() {
     let serviceUptakeTitle = document.querySelector('#serviceUptakeTitle');
     let repeatBehaviourTitle = document.querySelector('#repeatBehaviourTitle');
     let providerRatingsTitle = document.querySelector('#providerRatingsTitle');
-    let activeProgrammesTitle = document.querySelector('#activeProgrammesTitle');
+    let activeProgrammesTitle = document.querySelector('#activeProgrammes');
 
     if (activeProgrammesTitle) {
       if (!activeProgrammesTitle.classList.contains('counted')) {
         activeProgrammesTitle.classList.add('counted');
-        let countUp = new CountUp('activeProgrammesTitle', 0, partnersTotalEthiopia);
+        let countUp = new CountUp('activeProgrammes', 0, partnersTotalEthiopia);
         countUp.start();
       }
     }
