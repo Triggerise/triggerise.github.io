@@ -1,23 +1,26 @@
-<div class="uj__header_container {{include.colour}} {{include.classList}}"
+<div class="{{include.colour}} {{include.classList}} {{include.padding}}"
     uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
     <div class="wrapper">
-        <div class="uj__container">
-            {% if ujContent %}
-            {% for content in ujContent %}
-            <div class="uj__copy_container {% if forloop.index != 1 %} dark_grey {% endif %}">
-                {% if content.headline %}
-                <div class="uj__heading_container {% if content.showArrow %}arrow-right {% endif %}">
-                    <h3>{{ forloop.index }} | {{ content.headline }}</h3>
-                </div>
-                {% endif %}
-                {% if content.content %}
-                <div class="uj__content_container">
-                    <p>{{ content.content }}</p>
-                </div>
-                {% endif %}
-            </div>
-            {% endfor %}
+        {% if ujHeadline %}
+        <h1>{{ ujHeadline }}</h1>
+        {% endif %}
+        <section class="timeline">
+            {% if ujSteps %}
+            <ul>
+                {% for step in ujSteps %}
+                <li>
+                    <div class="column_2">
+                        <h4>Step {{ forloop.index }}</h4>
+                        <h2>{{ step.title }}</h2>
+                        <p>{{ step.content | newline_to_br }}</p>
+                    </div>
+                    <div class="column_1">
+                        <img src="{{ step.icon }}" alt="step icon" />
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
             {% endif %}
-        </div>
+        </section>
     </div>
 </div>
