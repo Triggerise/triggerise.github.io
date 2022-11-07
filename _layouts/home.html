@@ -27,55 +27,16 @@ layout: default
     {% assign imageSectionTwo = page.Supporting-two-Image %}
     {% include 2up.html colour="lightCream" textColor="darkBlue" image=imageSectionTwo subTitle=SubTitleOne subTitleSplit=SubTitleTwo sub=DescriptionOne  classList="what-we-do" %}
     
-    {% assign whatWeDoDescription = page.What-We-Do-Description %}
-    {% assign whatWeDoTitle = page.What-We-Do-Title %}
-    {% assign whatWeDoImage = page.What-We-Do-Image %}
-    {% include 3upHorizontal.html body=whatWeDoDescription colour="pink" imageTwo=whatWeDoImage titleAlt=whatWeDoTitle
-    colourTwo="cream" colourThree="pink" tClassList="homeWhatWeDo" fClassList="fullHeight3Up" classList="image whatWeDoImage" flexList="reverse" %}
-    
+    {% assign ujHeadline = page.UJ-Content.headline %}
+    {% assign ujSteps = page.UJ-Content.steps %}
+    {% include userJourney.html ujHeadline=ujHeadline ujSteps=ujSteps colour="lightBlue" textColor="darkBlue" image=imageSectionTwo classList='padd' %}
+
     {% assign sectionTheeTitle = page.What-section-three-title | split: "|" %}
     {% assign SubTitleFive = sectionTheeTitle[0] %}
     {% assign SubTitleSix = sectionTheeTitle[1] %}
     {% assign DescriptionThree = page.What-section-three-description %}
-    {% include 2up.html colour="lightBlue" textColor="darkBlue" data="data" subTitle=SubTitleFive subTitleSplit=SubTitleSix sub=DescriptionThree classList="what-we-do"%}
+    {% include 2up.html colour="pink" textColor="darkBlue" data="data" subTitle=SubTitleFive subTitleSplit=SubTitleSix sub=DescriptionThree classList="what-we-do"%}
 
-    {% assign sectionTitle = "Our Model" %}
-    {% assign diagram = page.Our-Model[0].Diagram %}
-    {% assign ModelDescription = page.Our-Model[0].Description %}
-    {% assign diagramTwo = page.Our-Model[1].Diagram %}
-    {% assign ModelDescriptionTwo = page.Our-Model[1].Description %}
-    {% assign diagramThree = page.Our-Model[2].Diagram %}
-    {% assign ModelDescriptionThree = page.Our-Model[2].Description %}
-    {% assign ModelLink= page.Our-Model-Link %}
-    <!-- 
-    <div class="slideshow-container">
-        <div class="slidr fade">
-            {% include slide.html colour="lightBlue" sectionTitle=sectionTitle diagram=diagram
-            description=ModelDescription
-            textColor="darkBlue" classList="full carousel" buttonClass="darkBlue" buttonLink="/about-us" %}
-        </div>
-
-        <div class="slidr fade">
-            {% include slide.html colour="darkBlue" sectionTitle=sectionTitle diagram=diagramTwo
-            description=ModelDescriptionTwo textColor="lightBlue" classList="full carousel" buttonClass="lightBlue"
-            buttonLink="/about-us"%}
-        </div>
-
-        <div class="slidr fade">
-            {% include slide.html colour="purple" sectionTitle=sectionTitle diagram=diagramThree
-            description=ModelDescriptionThree textColor="lightYellow" classList="full carousel"
-            buttonClass="lightYellow"
-            buttonLink="/about-us"%}
-        </div>
-        <div class="fp-controlArrow fp-prev" onclick="prevSlide()"></div>
-        <div class="fp-controlArrow fp-next" onclick="nextSlide()"></div>
-        <div style="text-align:center" class="dot-container-slidr">
-            <span class="dot-slidr" onclick="currentSlide(0)"></span>
-            <span class="dot-slidr" onclick="currentSlide(1)"></span>
-            <span class="dot-slidr" onclick="currentSlide(2)"></span>
-        </div>
-    </div>
-    -->
     {% assign donorTitle = page.Donor-Title %}
     {% assign donorList = page.Donor-List %}
     {% include donor.html color="grey" donorList=donorList donorTitle=donorTitle %}
