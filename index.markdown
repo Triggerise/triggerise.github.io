@@ -1,13 +1,13 @@
 ---
 title: About Us
 date: 2020-07-01 16:20:00 Z
-Header-Text: We use technology to promote access to sexual and reproductive health and wellbeing for young people
+Header-Text: We use technology to promote access to sexual reproductive health and wellbeing for adolescents and young people
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
 Supporting-two-Image: "/uploads/1_Gs6rYJEV0G9zapuhfXktBQ.webp"
-About-section-one-title: We deliver positive health impact at scale | Across five sub-Saharan African countries
+About-section-one-title: We deliver positive health impact at scale | Across six sub-Saharan African countries
 About-section-one-description: "
-<h4>Young people use our services to live happier, healthier lives</h4>
+<h4>Adolescents and young people use our services to live happier, healthier lives</h4>
 \n\n
 <h4>We make sexual reproductive health and related services accessible to youth</h4>
 \n\n
@@ -20,15 +20,15 @@ About-section-one-description: "
 "
 
 What-We-Do-Title: 'How we do it'
-What-We-Do-Description: "<h3>Adolescents access health and wellbeing services through our digital platform, Tiko Here’s how it works:</h3>
+What-We-Do-Description: "<h3>Adolescents and youth access health and wellbeing services through our digital platform, Tiko Here’s how it works:</h3>
 \n\n\n
 <b>Sign up</b>
 \n\n
-Young people sign up to Tiko through one of our community mobilisers or directly via membership card, SMS or by chatting with our chatbot on WhatsApp
+Young people sign up to Tiko through one of our community mobilisers or through a friend; they can use our membership card, SMS, WhatsApp or Telegram
 \n\n\n
 <b>Choose</b>
 \n\n
-Platform users choose services such as short- and long-term contraceptives; HIV & AIDS treatment including PrEP and ART; mental health support and wellness products and services such as sanitary pads, community counselling and peer group networks
+Platform users choose where to access services from a network of pre-qualified clinics and pharmacies. They can access health services such as short- and long-term contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental health support, sanitary pads and counselling. Users can also benefit from skills-development to support with employment
 \n\n\n
 <b>Afford</b>
 \n\n
@@ -383,14 +383,6 @@ Donor-List:
     image: '/uploads/EJAF_Logo.webp'
     link: 'https://www.eltonjohnaidsfoundation.org/'
   -
-    name: 'European Commission'
-    image: '/uploads/EC logo.webp'
-    link: 'https://ec.europa.eu/info/index_en/'
-  -
-    name: 'Aga Khan Foundation'
-    image: '/uploads/AKF logo.webp'
-    link: 'https://the.akdn/en/how-we-work/our-agencies/aga-khan-foundation/'
-  -
     name: 'UNFPA'
     image: '/uploads/UNFPA logo.webp'
     link: 'https://www.unfpa.org/'
@@ -398,10 +390,6 @@ Donor-List:
     name: 'SAS-P'
     image: '/uploads/SAS-P logo.webp'
     link: 'https://www.aham.nl/sas-p/'
-  -
-    name: 'Indlela'
-    image: '/uploads/Indlela logo.webp'
-    link: 'https://indlela.org/'
   -
     name: 'KfW'
     image: '/uploads/KfW logo.webp'
@@ -415,25 +403,9 @@ Donor-List:
     image: '/uploads/PP logo.webp'
     link: 'https://www.plannedparenthood.org/'
   -
-    name: 'SDGPP'
-    image: '/uploads/SDGPP logo.webp'
-    link: 'https://sdgpp-kenya.org/about/'
-  -
-    name: 'UNAIDS'
-    image: '/uploads/UNAIDS logo.webp'
-    link: 'https://www.unaids.org/en/'
-  -
-    name: 'World Health Organization'
-    image: '/uploads/WHO logo.webp'
-    link: 'https://www.who.int/'
-  -
     name: 'Grand Challenges Canada'
     image: '/uploads/gcc logo.webp'
     link: 'https://www.grandchallenges.ca/'
-  -
-    name: 'DT Global'
-    image: '/uploads/DT global logo.webp'
-    link: 'https://dt-global.com/'
 CTA-Block:
   Header: Let’s trigger great change together
   Description: "We’re always keen to join forces and ignite more positive impact across

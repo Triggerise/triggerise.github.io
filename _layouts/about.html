@@ -13,7 +13,11 @@ layout: default
 {% assign missionImage = page.Mission-Image %}
 {% include 3upHorizontal.html padding="padd" body=missionDescription colour="pink" imageTwo=missionImage titleAlt=missionTitle
 colourTwo="lightBlue" colourThree="darkBlue" classList="image whatWeDoImage" flexList="reverse" %}
+{% assign mapText = page.Map-text %}
+{% assign mapBottomText = page.Map-Bottom-Text %}
 {% include map.html
+mapText=mapText
+mapBottomText=mapBottomText
 colour="darkBlue"
 textColor="darkBlue"
 classList="autoHeight map"

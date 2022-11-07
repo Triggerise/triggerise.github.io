@@ -22,6 +22,7 @@ Mission-Description: "<h1>Our Mission</h1>
 Mission-Image: '/uploads/TRIGGERISE-KIBERA-139.webp'
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
   change for good
+Map-Bottom-Text: 'We have operations in six sub-Sarah African countries, and offices in Amsterdam, Nairobi, Addis Ababa, Cape Town and Porto'
 Map-locations:
 - Location: 
   Description: 
@@ -133,9 +134,9 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
   Image: "/uploads/HC%20Photo.jpeg"
-Safeguarding-text: "We always protect user data and never compromise privacy. \n\nWe
-  only collect user data that is given with consent and use it to improve our product.
-  \n\nWe never sell personal information, this includes metadata. \n"
+Safeguarding-text: "We always protect user data and never compromise privacy \n\nWe
+  only collect user data that is given with consent and use it to improve our product
+  \n\nWe never sell personal information, this includes metadata \n"
 Header animation image: "/uploads/impactImage.webp"
 Supervisory Board Description: 'Our Directors lead Triggerise - setting its vision,
   shaping its strategy, managing its operations and inspiring its people. '
