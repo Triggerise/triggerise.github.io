@@ -333,10 +333,8 @@ UJ-Content:
       icon: '/uploads/home_uj_one.webp'
     -
       title: 'Choose'
-      content: "Platform users choose where to access services from a network of pre-qualified clinics and pharmacies."
-      contentTwo: 'They can access health services such as short- and long-term contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental health support, sanitary pads and counselling. Users can also benefit from skills-development to support with employment'
+      content: "Platform users choose where to access services from a network of pre-qualified clinics and pharmacies. They can access health services such as short- and long-term contraceptives, HIV testing, PrEP, ART and wellbeing services such as mental health support, sanitary pads and counselling. Users can also benefit from skills-development to support with employment"
       icon: '/uploads/home_uj_two.webp'
-      iconTwo: '/uploads/home_uj_three.webp'
     -
       title: 'Afford'
       content: 'Services from independent providers, public facilities, pharmacies and training centres are free or subsidised'
