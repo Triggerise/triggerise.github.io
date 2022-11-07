@@ -1,0 +1,26 @@
+<div class="{{include.colour}} {{include.classList}} {{include.padding}}"
+    uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+    <div class="wrapper">
+        {% if ujHeadline %}
+        <h1>{{ ujHeadline }}</h1>
+        {% endif %}
+        <section class="timeline">
+            {% if ujSteps %}
+            <ul>
+                {% for step in ujSteps %}
+                <li>
+                    <div class="column_2">
+                        <h4>Step {{ forloop.index }}</h4>
+                        <h2>{{ step.title }}</h2>
+                        <p>{{ step.content | newline_to_br }}</p>
+                    </div>
+                    <div class="column_1">
+                        <img src="{{ step.icon }}" alt="step icon" />
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </section>
+    </div>
+</div>
