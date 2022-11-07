@@ -13,16 +13,20 @@ Numbers:
   Text: years of making change for good
 - Number: 1
   Text: shared goal
-Mission-Title: "<h1 style='margin-top: 0'>Our Vision</h1>
-<h4 style='margin-top: 35px;'>A world where all youth have the power to choose where, when, and how they meet their sexual reproductive health needs</h4>"
-Mission-Description: "<h1>Our Mission</h1>
-<h4 style='margin-top: 35px;'>A next-generation non-profit that is exponentially more efficient at delivering scalable and verified sexual reproductive health impact for sub-Saharan African youth</h4>
-<h4 style='margin-top: 35px; margin-bottom: 35px;'>Founded in 2014, Triggerise currently works in six sub-Saharan countries. We are rapidly expanding, creating positive impact at scale wherever we go</h4>
-"
-Mission-Image: '/uploads/TRIGGERISE-KIBERA-139.webp'
+Mission-Title: "<h1 style='margin-top: 0'>Our Vision</h1> <h4 style='margin-top: 35px;'>A
+  world where all youth have the power to choose where, when, and how they meet their
+  sexual reproductive health needs</h4>"
+Mission-Description: "<h1>Our Mission</h1> <h4 style='margin-top: 35px;'>A next-generation
+  non-profit that is exponentially more efficient at delivering scalable and verified
+  sexual reproductive health impact for sub-Saharan African youth</h4> <h4 style='margin-top:
+  35px; margin-bottom: 35px;'>Founded in 2014, Triggerise currently works in six sub-Saharan
+  countries. We are rapidly expanding, creating positive impact at scale wherever
+  we go</h4> "
+Mission-Image: "/uploads/TRIGGERISE-KIBERA-139.webp"
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
   change for good
-Map-Bottom-Text: 'We have operations in six sub-Sarah African countries, and offices in Amsterdam, Nairobi, Addis Ababa, Cape Town and Porto'
+Map-Bottom-Text: We have operations in six sub-Sarah African countries, and offices
+  in Amsterdam, Nairobi, Addis Ababa, Cape Town and Porto
 Map-locations:
 - Location: 
   Description: 
