@@ -622,8 +622,6 @@ function firstHeadline() {
     gsap.registerPlugin(ScrollTrigger);
 
     gsap.set('.map-content-step-two', { autoAlpha: 0 });
-    smoothShowHide("#mapSVG", false);
-
     const pinDistance = $('#first-headline-pin').height() ? $('#first-headline-pin').height() : 1000;
 
 
