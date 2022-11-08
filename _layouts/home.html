@@ -17,6 +17,7 @@ layout: default
         colourTwo="cream"
         colourThree="green"
         textColor="lightBlue"
+        textColorTwo="darkBlue"
         classList="center"
         %}
     </div>
@@ -29,7 +30,7 @@ layout: default
     
     {% assign ujHeadline = page.UJ-Content.headline %}
     {% assign ujSteps = page.UJ-Content.steps %}
-    {% include userJourney.html ujHeadline=ujHeadline ujSteps=ujSteps colour="lightBlue" textColor="darkBlue" image=imageSectionTwo classList='padd' %}
+    {% include userJourney.html ujHeadline=ujHeadline ujSteps=ujSteps colour="lightBlue" textColor="darkBlue" image=imageSectionTwo classList='padd overflow-hidden' %}
 
     {% assign sectionTheeTitle = page.What-section-three-title | split: "|" %}
     {% assign SubTitleFive = sectionTheeTitle[0] %}

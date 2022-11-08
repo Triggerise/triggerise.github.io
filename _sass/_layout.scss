@@ -1,6 +1,18 @@
 /**
  * Site header
  */
+ .extra-margin {
+    margin-top: 2rem;
+    margin-left: 2rem;
+ }
+ .t-three-title-custom {
+    font-size: 65px !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+ }
+ .overflow-hidden {
+    overflow: hidden;
+ }
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -569,6 +581,9 @@
 }
 
 @media only screen and (max-width: 1024px) {
+    .t-three-title-custom {
+        font-size: 45px !important;
+    }
     .team-section {
         .team-section-details-container {
             height: auto !important;

@@ -1,8 +1,6 @@
 ---
 title: About Us
 date: 2020-07-01 16:20:00 Z
-Header-Text: We use technology to promote access to sexual reproductive health and
-  wellbeing for adolescents and young people
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.
 Supporting-two-Image: "/uploads/CIFF-Triggerise.webp"
@@ -398,4 +396,4 @@ Our-Model-Link: "/about-us"
 layout: home
 ---
 
-We are a next-generation non-profit powered by innovative tech
+We are a next-generation non-profit using innovative tech to promote access to sexual reproductive health and wellbeing for adolescents and young people
