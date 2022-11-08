@@ -34,7 +34,8 @@
           <div class="two_column first_headline_container first_column_one">
             <h3>{{ firstHeadline.headline }}</h3>
           </div>
-          <div class="two_column justify-center first_headline_container first_column_two" id="first_headline_image_container">
+          <div class="two_column justify-center first_headline_container first_column_two"
+            id="first_headline_image_container">
 
           </div>
         </div>
@@ -198,10 +199,19 @@
           <div class="map__section_five_container">
             {% if mapContent.contentFive.imageOne %}
             <div class="map__content_three_container" id="image__container_1">
-              <img class="slide-image slide__image" id="image__1" src="{{mapContent.contentFive.imageOne}}" alt="image of a person" />
+              <img class="slide-image slide__image" id="image__1" src="{{mapContent.contentFive.imageOne}}"
+                alt="image of a person" />
             </div>
             {% endif %}
           </div>
+          {% if mapContent.contentFive.imageMobile %}
+          <div class="map__section_five_container" id="map__middle_mobile_container">
+            <div class="map__content_three_container">
+              <img class="slide-image slide__image slide__image_middle" src="{{mapContent.contentFive.imageMobile}}"
+                alt="image of a thought" />
+            </div>
+          </div>
+          {% endif %}
           <div class="map__section_five_container" id="map__middle_container">
             {% if mapContent.contentFive.imageMiddle %}
             <div class="map__content_three_container">
@@ -214,7 +224,8 @@
             {% if mapContent.contentFive.imageTwo %}
             <div class="map__content_three_container" id="image__container_2">
               <div class="slide-image"></div>
-              <img class="slide-image slide__image" id="image__2" src="{{mapContent.contentFive.imageTwo}}" alt="image of a person" />
+              <img class="slide-image slide__image" id="image__2" src="{{mapContent.contentFive.imageTwo}}"
+                alt="image of a person" />
             </div>
             {% endif %}
           </div>

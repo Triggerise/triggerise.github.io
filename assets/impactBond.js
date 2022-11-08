@@ -183,6 +183,7 @@ function flipSection(container1, container2, box) {
         duration: 2,
         ease: Sine.linear,
     });
+
 }
 
 function dibSectionTwo(container1, container2, box, pinDistance) {
@@ -422,19 +423,22 @@ function mapSectionFive() {
             ease: "power2"
         },
         onUpdate: function () {
-            /*
             if(this.progress() === 1) {
-                gsap.set('#map__middle_container', { position: 'absolute', zIndex: 5 });
-                gsap.set('.slide__image_middle', { attr: { src: '/uploads/thought_lines_coloured.webp'} });
-                flipSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'))
-                flipSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'))
+                flipSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'));
+                flipSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'));
+                this.delay(2);
+                this.to("#map-section-five #image__container_1", 1, {autoAlpha: 0, ease:Linear.easeNone });
+                this.to("#map-section-five #image__container_2", 1, {autoAlpha: 0, ease:Linear.easeNone });
+                this.delay(2);
+                this.to("#map-section-five #map__middle_container", 1, {autoAlpha: 0, display: 'none', ease:Linear.easeNone });
+                this.to("#map-section-five #map__middle_mobile_container", 1, {autoAlpha: 1, display: 'block', ease:Linear.easeNone });
             }
-            */
         }
     })
         .from(boxes[0], { x: "-100vw" })
         .from(boxes[1], { y: "-100vh" })
-        .from(boxes[2], { x: "100vw" })
+        .from(boxes[2], { y: "-100vh" })
+        .from(boxes[3], { x: "100vw" })
 
 }
 
@@ -670,6 +674,16 @@ function firstHeadline() {
       })
 }
 
+function smoothShowHide(element, state) {
+    if(state) {
+        gsap.set(element, {opacity: 1});
+        gsap.set(element, {display: 'block'});
+    } else {
+        gsap.set(element, {opacity: 0});
+        gsap.set(element, {display: 'none'});
+    }
+}
+
 function flipHeroSection(container1, container2, box) {
     gsap.registerPlugin(Flip);
     const state = Flip.getState(box, { props: "" });
@@ -700,25 +714,25 @@ function flipHeroSection(container1, container2, box) {
         ease: Sine.ease,
         onUpdate: function () {
             if(this.progress() <= 0.5) {
-                gsap.set("#dib_heroTwoSVG", {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroThreeSVG", {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
-                gsap.set('#dib_heroOneSVG', {opacity: 1, display: 'block'});
+                smoothShowHide("#dib_heroTwoSVG", false);
+                smoothShowHide("#dib_heroThreeSVG", false);
+                smoothShowHide("#dib_heroFourSVG", false);
+                smoothShowHide("#dib_heroOneSVG", true);
             } else if(this.progress() > 0.5 && this.progress() < 0.7) {
-                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroThreeSVG", {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroTwoSVG", {opacity: 1, display: 'block'});
+                smoothShowHide("#dib_heroOneSVG", false);
+                smoothShowHide("#dib_heroThreeSVG", false);
+                smoothShowHide("#dib_heroFourSVG", false);
+                smoothShowHide("#dib_heroTwoSVG", true);
             } else if (this.progress() >=  0.7 && this.progress() < 1) {
-                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
-                gsap.set('#dib_heroTwoSVG', {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroFourSVG", {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroThreeSVG", {opacity: 1, display: 'block'});
+                smoothShowHide("#dib_heroOneSVG", false);
+                smoothShowHide("#dib_heroTwoSVG", false);
+                smoothShowHide("#dib_heroFourSVG", false);
+                smoothShowHide("#dib_heroThreeSVG", true);
             } else if (this.progress() === 1) {
-                gsap.set('#dib_heroOneSVG', {opacity: 0, display: 'none'});
-                gsap.set('#dib_heroTwoSVG', {opacity: 0, display: 'none'});
-                gsap.set('#dib_heroThreeSVG', {opacity: 0, display: 'none'});
-                gsap.set("#dib_heroFourSVG", {opacity: 1, display: 'block'});
+                smoothShowHide("#dib_heroOneSVG", false);
+                smoothShowHide("#dib_heroTwoSVG", false);
+                smoothShowHide("#dib_heroThreeSVG", false);
+                smoothShowHide("#dib_heroFourSVG", true);
             }
         }
     });
