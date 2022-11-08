@@ -1,142 +1,491 @@
-<div class="impact-bond__header_container t-one {{include.colour}} {{include.classList}}"
-  uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
-  <div class="wrapper">
-    <div class="impact-bond__descriptors">
-      <h1>{{page.Splash-Number-Title}}</h1>
+<div id="impact-bond-page">
+  {% if heroSectionOne %}
+  <div class="impact_bond__section_container" id="hero-one-pin">
+    <div class="overlay" style="background-image: url('{{ heroSectionOne.heroOverlay }}')"></div>
+    <div class="hero-image-container">
+      <video playsinline preload poster="" loop autoplay muted>
+        <source src="{{ heroSectionOne.heroImage }}" type="video/webm">
+      </video>
     </div>
-  </div>
-  <svg width="1440" height="685" viewBox="0 0 1440 685" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <mask id="a" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="685">
-      <path fill="#C4C4C4" d="M0 0h1440v685H0z" />
-    </mask>
-    <g mask="url(#a)">
-      <path
-        d="M197.458 618.347l9.5-16.455-281.458-162.5-9.5 16.455 281.458 162.5zM557.01 480.718l-8.207-17.136-293.112 140.395 8.208 17.136L557.01 480.718zM917.675 584.832l6.313-17.92-306.535-107.987-6.313 17.921 306.535 107.986zM1214.02 341.694l-13.34-13.527-231.382 228.229 13.342 13.526 231.38-228.228z"
-        fill="#D0DEED" />
-      <circle cx="491.345" cy="627.345" r="22" transform="rotate(-25.594 491.345 627.345)" fill="#D0DEED" />
-      <circle cx="866.06" cy="457.06" r="22" transform="rotate(19.406 866.06 457.06)" fill="#D0DEED" />
-      <circle cx="1214.11" cy="629.112" r="22" transform="rotate(-44.607 1214.11 629.112)" fill="#D0DEED" />
-      <circle cx="230.537" cy="627.053" r="22" transform="rotate(30 230.537 627.053)" fill="#D8A0C8" />
-      <circle cx="582.885" cy="458.345" r="22" transform="rotate(-25.594 582.885 458.345)" fill="#D8A0C8" />
-      <circle cx="951.791" cy="587.309" r="22" transform="rotate(19.406 951.791 587.309)" fill="#D8A0C8" />
-      <circle cx="196.646" cy="394.646" r="22" transform="rotate(35.065 196.646 394.646)" fill="#D0DEED" />
-      <circle cx="1292.65" cy="62.646" r="22" transform="rotate(35.065 1292.65 62.646)" fill="#D8A0C8" />
-      <path d="M1582.53 241.206l-4.12-18.546-317.25 70.589 4.13 18.546 317.24-70.589z" fill="#D0DEED" />
-      <circle cx="1229.92" cy="310.154" r="22" transform="rotate(51.469 1229.92 310.154)" fill="#D8A0C8" />
-    </g>
-  </svg>
-</div>
-<div class="impact-bond__structure_container">
-  <div class="impact-bond__structure_left">
-    <h1>{{ page.structurePillarTitle }}</h1>
-    <span>{{ page.structureLeadingDescription }}</span>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{page.structureTitle}}</h3>
-      <span>{{ page.structureDescription }}</span>
-    </div>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{page.structureTitleTwo}}</h3>
-      <span>{{ page.structureDescriptionTwo }}</span>
-    </div>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{page.structureTitleThree}}</h3>
-      <span>{{ page.structureDescriptionThree }}</span>
-    </div>
-  </div>
-  <div class="impact-bond__structure_right">
-    {% if page.structureImg %}
-    <img src="{{site.baseurl}}/uploads/{{page.structureImg}}" class="impact-bond__structure_image"
-      alt="impact bond structure" title="impact bond structure" />
-    {% endif %}
-  </div>
-</div>
-<div class="impact-bond__metric_container">
-  <div class="impact-bond__metric_left">
-    <img src="{{site.baseurl}}/uploads/{{page.metricLeadingImage}}" />
-  </div>
-  <div class="impact-bond__metric_right">
-    <h1>{{ page.metricPillarTitle }}</h1>
-    <h3>{{page.metricTitle}}</h3>
-    <span>{{ page.metricDescription }}</span>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{page.metricTitleTwo}}</h3>
-      <span>{{ page.metricDescriptionTwo }}</span>
-    </div>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{page.metricTitleThree}}</h3>
-      <span>{{ page.metricDescriptionThree }}</span>
-    </div>
-  </div>
-</div>
-<div class="impact-bond__description_container">
-  <div class="impact-bond__partner_right">
-    <h1>{{ page.partnerContentLeadingTitle }}</h1>
-    <div class="impact-bond-structure-subcontainer">
-      <h3>{{ page.partnerContentTitle }}</h3>
-      <span>{{ page.partnerContentDescription }}</span>
-    </div>
-    <div class="impact-bond-structure-subcontainer">
-      <h1>{{ page.partnerContentLeadingTitleTwo }}</h1>
-      <h3>{{ page.partnerContentTitleTwo }}</h3>
-      <span>{{ page.partnerContentDescriptionTwo }}</span>
-    </div>
-  </div>
-</div>
-<div class="impact-bond__partner_container">
-  <div class="impact-bond__partner_left">
-    <div class="impact-bond__partner_left_first">
-      <h1>{{ page.partnerTitle }}</h1>
-      <span>{{ page.partnerDescription }}</span>
-      <div class="impact-bond-structure-subcontainer">
-        <h3>{{ page.partnerTitleTwo }}</h3>
-        <span>{{ page.partnerDescriptionTwo }}</span>
+    <div id="heroSectionOne" class="section__one_container">
+      <div class="header wrapper">
+        <img loading="lazy" src="{{ heroSectionOne.heroIcon }}" alt="tiko logo" />
+        <h1>{{ heroSectionOne.heroContent }}</h1>
+        <div class="bounce">
+          <span class="arrow-down">&#8595;</span>
+        </div>
+        {% if heroSectionOne.heroSVG %}
+        <div class="hero_section_one_svg_container">
+          {% include heroOneSVG.html %}
+          {% include heroTwoSVG.html %}
+          {% include heroThreeSVG.html %}
+          {% include heroFourSVG.html %}
+        </div>
+        {% endif %}
       </div>
-      {% if page.partnerContactButton %}
-      <br><br>
-      <a href="/contact">
-        <button class="btn btn-primary">{{ page.partnerContactButton }}</button>
-      </a>
-      {% endif %}
     </div>
   </div>
-  <div class="impact-bond__partner_right">
-    <img src="/uploads/Mark03-a60be9.gif" alt="Triggerise Dots" title="Triggerise Dots">
-  </div>
-</div>
-<div class="impact-bond__news_container">
-  <h1>{{ page.newsTitle }}</h1>
-  <h2>{{ page.newsDescription }}</h2>
-  <div id="" class="news__slider_impact">
-    {% for post in site.posts %}
-    {% if post.categories contains 'Triggerise' %}
-    <div class="news__post">
-      <div class="news__post_img"
-        style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('{{ post.heroImage }}')">
-        <div class="news__preview">
-          <div class="news__info_bottom_container">
-            <span class="news__author">{{ post.author }}</span>
+  {% endif %}
+  {% if firstHeadline %}
+  <div id="first-headline-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div class="two_row">
+          <div class="two_column first_headline_container first_column_one">
+            <h3>{{ firstHeadline.headline }}</h3>
           </div>
-          <h3 class="news__title">{{ post.title }}</h3>
+          <div class="two_column justify-center first_headline_container first_column_two"
+            id="first_headline_image_container">
+
+          </div>
         </div>
       </div>
-      <div class="news__content">
-        <a target="_blank" href="{{ post.url }}">
-          <button class="news__read_more">Read More</button>
-        </a>
+    </div>
+  </div>
+  {% endif %}
+  {% if mapContent %}
+  {% if mapContent.contentOne %}
+  <div id="map-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div id="map-section-one" class="two_row">
+          <div class="two_column">
+            {% if mapContent.mapSVG %}
+            <div class="map__svg_container map_container" id="map__container_one">
+              {% include mapSVG.html %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="two_column">
+            <div class="map-content-box map_box">
+              <div class="map-content">
+                {% if mapContent.contentOne %}
+                {% for content in mapContent.contentOne %}
+                <div class="map_step map-content-step">
+                  <h3 class="map-content-step__inner">
+                    {{content.content}}
+                  </h3>
+                  {% if content.icon %}
+                  <div class="bounce auto_margin">
+                    <span class="arrow-down">↓</span>
+                  </div>
+                  {% endif %}
+                </div>
+                {% endfor %}
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if mapContent.contentTwo %}
+  <div id="map-pin-two" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div id="map-section-two" class="two_row">
+          <div class="two_column">
+            {% if mapContent.mapSVG %}
+            <div class="map__svg_container map_container">
+
+            </div>
+            {% endif %}
+          </div>
+          <div class="two_column">
+            <div class="map-content-box map_box">
+              <div class="map-content">
+                {% for content in mapContent.contentTwo %}
+                <div class="map_step map-content-step-two">
+                  <h3 class="map-content-step__inner">
+                    {{content.content}}
+                  </h3>
+                  {% if content.icon %}
+                  <div class="bounce auto_margin">
+                    <span class="arrow-down">↓</span>
+                  </div>
+                  {% endif %}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if mapContent.contentThree %}
+  <div id="map-pin-three" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div id="map-section-three" class="two_row">
+          <div class="two_column">
+            {% if mapContent.mapSVG %}
+            <div class="map__svg_container map_container">
+
+            </div>
+            {% endif %}
+          </div>
+          <div class="two_column">
+            <div class="map-content-box map_box">
+              <div class="map-content">
+                {% for content in mapContent.contentThree %}
+                <div class="map_step map-content-step-three">
+                  <h3 class="map-content-step__inner">
+                    {{content.content}}
+                  </h3>
+                  {% if content.icon %}
+                  <div class="bounce auto_margin">
+                    <span class="arrow-down">↓</span>
+                  </div>
+                  {% endif %}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if mapContent.contentFour %}
+  <div id="map-pin-four" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div id="map-section-four" class="two_row">
+          <div class="two_column">
+            {% if mapContent.mentalHealthMobileImage %}
+            <div class="map__mental_health_mobile_container">
+              <img src="{{ mapContent.mentalHealthMobileImage }}" alt="mental health" />
+            </div>
+            {% endif %}
+            {% if mapContent.thoughtLine %}
+            <div class="map__thought_line_container thought_line_container">
+              {% include thoughtLineSVG.html %}
+            </div>
+            {% endif %}
+          </div>
+          <div class="two_column">
+            <div class="map-content-box map_box">
+              <div class="map-content">
+                {% for content in mapContent.contentFour %}
+                <div class="map_step map-content-step-four">
+                  <h3 class="map-content-step__inner">
+                    {{content.content}}
+                  </h3>
+                  {% if content.icon %}
+                  <div class="bounce auto_margin">
+                    <span class="arrow-down">↓</span>
+                  </div>
+                  {% endif %}
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if mapContent.contentFive %}
+  <div id="map-pin-five" class="impact_bond__section_container map_pin_three">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div id="map-section-five">
+          <div class="map__section_five_container">
+            {% if mapContent.contentFive.imageOne %}
+            <div class="map__content_three_container" id="image__container_1">
+              <img class="slide-image slide__image" id="image__1" src="{{mapContent.contentFive.imageOne}}"
+                alt="image of a person" />
+            </div>
+            {% endif %}
+          </div>
+          {% if mapContent.contentFive.imageMobile %}
+          <div class="map__section_five_container" id="map__middle_mobile_container">
+            <div class="map__content_three_container">
+              <img class="slide-image slide__image slide__image_middle" src="{{mapContent.contentFive.imageMobile}}"
+                alt="image of a thought" />
+            </div>
+          </div>
+          {% endif %}
+          <div class="map__section_five_container" id="map__middle_container">
+            {% if mapContent.contentFive.imageMiddle %}
+            <div class="map__content_three_container">
+              <img class="slide-image slide__image slide__image_middle" src="{{mapContent.contentFive.imageMiddle}}"
+                alt="image of a thought" />
+            </div>
+            {% endif %}
+          </div>
+          <div class="map__section_five_container">
+            {% if mapContent.contentFive.imageTwo %}
+            <div class="map__content_three_container" id="image__container_2">
+              <div class="slide-image"></div>
+              <img class="slide-image slide__image" id="image__2" src="{{mapContent.contentFive.imageTwo}}"
+                alt="image of a person" />
+            </div>
+            {% endif %}
+          </div>
+        </div>
       </div>
     </div>
     {% endif %}
-    {% endfor %}
-    <div class="news__post">
-      <a class="twitter-timeline" data-height="500" data-theme="light"
-        href="https://twitter.com/triggerise?ref_src=twsrc%5Etfw"></a>
+  </div>
+  {% endif %}
+  {% if heroSectionTwo %}
+  <div class="impact_bond__section_container">
+    <div class="overlay" style="background-image: url('{{ heroSectionTwo.heroOverlay }}')"></div>
+    <div class="hero-image-container">
+      <video playsinline preload poster="" loop autoplay muted>
+        <source src="{{ heroSectionTwo.heroImage }}" type="video/webm">
+      </video>
     </div>
-    <div class="news__post">
-      <iframe src='https://widgets.sociablekit.com/linkedin-page-posts/iframe/80691' frameborder='0' width='100%'
-        height='500'></iframe>
+    <div id="heroSectionTwo" class="section__one_container">
+      <div class="header wrapper">
+        <h1>{{ heroSectionTwo.heroContent }}</h1>
+        <div class="bounce">
+          <span class="arrow-down">&#8595;</span>
+        </div>
+      </div>
     </div>
+  </div>
+  {% endif %}
+  {% if whatWeOfferColumns %}
+  <div id="why-tiko-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div class="three_row">
+          {% for column in whatWeOfferColumns %}
+          <div class="three_column why-tiko">
+            <div class="icon-container">
+              {% if column.icon %}
+              <div class="icon">
+                <img loading="lazy" src="{{ column.icon }}" alt="what we offer icon" />
+              </div>
+              {% endif %}
+              {% if column.title %}
+              <h3>{{ column.title }}</h3>
+              {% endif %}
+              {% if column.content %}
+              {{ column.content }}
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if heroSectionThree %}
+  <div class="impact_bond__section_container">
+    <div class="overlay" style="background-image: url('{{ heroSectionThree.heroOverlay }}')"></div>
+    <div class="hero-image-container">
+      <video playsinline preload poster="" loop autoplay muted>
+        <source src="{{ heroSectionThree.heroImage }}" type="video/webm">
+      </video>
+    </div>
+    <div id="heroSectionThree" class="section__one_container">
+      <div class="header wrapper">
+        <h1>{{ heroSectionThree.heroContent }}</h1>
+        <div class="bounce">
+          <span class="arrow-down">&#8595;</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if dibContent %}
+  <div id="dib-content-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper dib-content">
+        {% if dibContent.headline %}
+        <h3>{{ dibContent.headline }}</h3>
+        {% endif %}
+        {% if dibContent.sectionOne %}
+        <div class="three_row" id="dib-horizontal-animation">
+          {% for content in dibContent.sectionOne %}
+          <div class="three_column">
+            {% if forloop.index == 2 %}
+            <span class="arrow-down dib-arrow">&#8595;</span>
+            {% endif %}
+            <div class="dib_content_column_container dib_two_left_container">
+              {% if content.middleTitle %}
+              <div class="dib_content_middle_content_container dib-margin-bottom">
+                {% if content.icon %}
+                <img src="{{ content.icon }}" />
+                {% endif %}
+                <h3>{{ content.title }}</h3>
+                <p>{{ content.content }}</p>
+              </div>
+              <div class="dib_content_middle_title_container">
+                <h3>{{ content.middleTitle }}</h3>
+              </div>
+              {% else %}
+              <div class="dib_content_middle_content_container dib-margin-top">
+                {% if content.icon %}
+                <img src="{{ content.icon }}" />
+                {% endif %}
+                <h3>{{ content.title }}</h3>
+                <p>{{ content.content }}</p>
+              </div>
+              {% endif %}
+            </div>
+            {% if forloop.index == 2 %}
+            <span class="arrow-down dib-arrow">&#8595;</span>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if dibContent.sectionTwo %}
+        <div class="three_row" id="dib-vertical-animation">
+          <div class="three_column dib_two_column"></div>
+          <div class="three_column extended_three_column">
+            {% for content in dibContent.sectionTwo.rightColumn %}
+            <div class="dib_two_right_container">
+              <h3>{{ content.content }}</h3>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if whyUsContent %}
+  <div id="why-us-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div class="wrapper">
+        <div class="two_row">
+          <div class="two_column"></div>
+          <div class="two_column extended_column">
+            {% if whyUsContent.title %}
+            <h3>{{ whyUsContent.title }}</h3>
+            {% endif %}
+          </div>
+        </div>
+        <div class="why-us-row-container">
+          {% for whyContent in whyUsContent %}
+          <div class="two_row why-us">
+            {% for content in whyContent %}
+            {% if content.icon %}
+            <div class="two_column">
+              <div class="why-icon-container">
+                <img class="why-icon" src="{{ content.icon }}" alt="why us icon" />
+              </div>
+            </div>
+            {% endif %}
+            {% if content.content %}
+            <div class="two_column extended_column">
+              {% for paragraph in content.content %}
+              <p class="why-content" style="margin-top: 2rem">{{ paragraph }}</p>
+              {% endfor %}
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if goalList %}
+  <div id="goal-pin" class="impact_bond__section_container">
+    <div class="section__blue_container">
+      <div class="wrapper">
+        <div class="goals__heading">
+          <h2>OUR GOALS</h2>
+        </div>
+        <div class="four_row">
+          {% for goal in goalList %}
+          <div class="four_column goals">
+            <div class="goals__container">
+              <div class="goals__number_container">
+                <h2>{{goal.callToAttention}}</h2>
+              </div>
+              <div class="goals__text_container">
+                <p>{{goal.content}}</p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if cta %}
+  <div id="cta-pin" class="impact_bond__section_container">
+    <div class="section__cream_container">
+      <div id="heroSectionFour" class="wrapper cta-container">
+        {% if cta[0].title %}
+        <h3>{{ cta[0].title }}</h3>
+        {% endif %}
+        {% for action in cta %}
+        <div class="three_row cta">
+          <div class="three_column extended_column">
+            {% if action.content %}
+            <p>{{ action.content }}</p>
+            {% endif %}
+            {% if action.socials %}
+            {% assign social = site.social-icons%}
+            {%for social in social%}
+            {{ social.content }}
+            {% endfor %}
+            {% endif %}
+          </div>
+          <div class="three_column centered_column">
+            {% if action.runningNumber %}
+            <h3 id="sectionOneCounter">{{ action.runningNumber }}</h3>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  <div class="impact_bond__navigation_container">
+    <div class="progress">
+      <div class="circle done" onclick="navigateToElement('heroSectionOne')" id="circle_first">
+        <div class="label_box">
+          The challenge/reality in Kenya
+        </div>
 
+      </div> <span class="bar"></span>
+
+      <div class="circle" onclick="navigateToElement('heroSectionTwo')" id="circle_second">
+        <div class="label_box">
+          Why Tiko?
+        </div>
+
+      </div> <span class="bar"></span>
+
+      <div class="circle" onclick="navigateToElement('heroSectionThree')" id="circle_third">
+        <div class="label_box">
+          What is a DIB?
+        </div>
+
+      </div> <span class="bar"></span>
+
+      <div class="circle" onclick="navigateToElement('heroSectionFour')" id="circle_fourth">
+        <div class="label_box">
+          How to help
+        </div>
+
+      </div>
+
+    </div>
   </div>
 </div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script src="/assets/gsap.min.js"></script>
+<script src="/assets/gsap.flip.min.js"></script>
+<script src="/assets/scrollTrigger.min.js"></script>
+<script src="/assets/ScrollMagic.min.js"></script>
+<script type="text/javascript" src="/assets/impactBond.js"></script>
