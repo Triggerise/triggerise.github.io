@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About us
 date: 2020-07-01 16:20:00 Z
 Home-number: '1,000,000'
 Home-number-text: Lives changed. And counting.

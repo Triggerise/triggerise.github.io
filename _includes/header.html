@@ -18,7 +18,7 @@
       <div class="trigger">
         {% assign pages = site.pages | sort:"date" %}
         {% for my_page in pages %}
-          {% if my_page.title != "Policy Plan" and my_page.title != "Contact" and my_page.title != "Privacy Policy" and my_page.title != "Cookies" and my_page.title != "Footer" %} 
+          {% if my_page.title != "Policy Plan" and my_page.title != "Contact" and my_page.title != "Privacy Policy" and my_page.title != "Cookies" and my_page.title != "Footer" and my_page.title != nil %} 
           <a class="page-link" aria-label="page title" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
