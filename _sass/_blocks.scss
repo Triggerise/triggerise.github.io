@@ -3157,6 +3157,15 @@ Salary Tracker
 }
 
 @media only screen and (max-width: 1075px) {
+    .t-two-title-float {
+        margin-top: 0;
+    }
+    .uk-card {
+        overflow: hidden;
+    }
+    .map .key {
+        padding: 0;
+    }
     .fp-controlArrow {
         top: 95%;
     }
