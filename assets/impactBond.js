@@ -310,7 +310,7 @@ function whyUsSection() {
     ScrollTrigger.create({
         trigger: "#why-us-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#why-us-pin",
         markers: false,
         id: "why-us"
@@ -319,7 +319,7 @@ function whyUsSection() {
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
             trigger: '.why-us-row-container .why-us',
-            start: 'top center',
+            start: 'bottom center',
             end: "bottom top",
             scrub: true,
         }
@@ -333,8 +333,8 @@ function whyUsSection() {
             const forward = stepsTimeline.scrollTrigger.direction > 0,
                 inEl = forward ? step : steps[i - 1],
                 outEl = forward ? steps[i - 1] : step;
-            outEl && gsap.to(outEl, { autoAlpha: 0, duration: 0.3, overwrite: true });
-            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.3, delay: 0.01, overwrite: true });
+            outEl && gsap.to(outEl, { autoAlpha: 0, duration: 0.5, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.5, delay: 0.01, overwrite: true });
         }, i || 0.001);
     });
 
@@ -346,11 +346,11 @@ function whyUsSection() {
             const forward = stepsTimeline.scrollTrigger.direction > 0,
                 inEl = forward ? step : stepsTwo[i - 1],
                 outEl = forward ? stepsTwo[i - 1] : step;
-            outEl && gsap.to(outEl, { autoAlpha: 0, display: "none", duration: 0.3, overwrite: true });
-            inEl && gsap.to(inEl, { autoAlpha: 1, display: "block", duration: 0.3, delay: 0.01, overwrite: true });
+            outEl && gsap.to(outEl, { autoAlpha: 0, display: "none", duration: 0.5, overwrite: true });
+            inEl && gsap.to(inEl, { autoAlpha: 1, display: "block", duration: 0.5, delay: 0.01, overwrite: true });
         }, i || 0.001);
     });
-    stepsTimeline.to({}, { duration: 5 });
+    stepsTimeline.to({}, { duration: 1 });
 }
 
 function whyTikoSection() {
@@ -622,6 +622,7 @@ function firstHeadline() {
     gsap.registerPlugin(ScrollTrigger);
 
     gsap.set('.map-content-step-two', { autoAlpha: 0 });
+    smoothShowHide("#mapSVG", false);
 
     const pinDistance = $('#first-headline-pin').height() ? $('#first-headline-pin').height() : 1000;
 
