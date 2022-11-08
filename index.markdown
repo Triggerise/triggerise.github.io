@@ -396,4 +396,4 @@ Our-Model-Link: "/about-us"
 layout: home
 ---
 
-We are a next-generation non-profit using innovative tech to promote access to sexual reproductive health and wellbeing for adolescents and young people
+We are a next-generation non-profit using innovative tech. We promote access to sexual reproductive health and wellbeing for adolescents and young people.
