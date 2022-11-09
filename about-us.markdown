@@ -25,8 +25,8 @@ Mission-Description: "<h1>Our Mission</h1> <h4 style='margin-top: 35px;'>A next-
 Mission-Image: "/uploads/TRIGGERISE-KIBERA-139.webp"
 Map-text: Explore where our offices and on-the-ground teams are working to trigger
   change for good
-Map-Bottom-Text: We have operations in six sub-Sarah African countries, and offices
-  in Amsterdam, Nairobi, Addis Ababa, Cape Town and Porto
+Map-Bottom-Text: We have operations in six sub-Saharan African countries, and offices
+  in Amsterdam, Nairobi, Addis Ababa, Cape Town, and Porto
 Map-locations:
 - Location: 
   Description: 
