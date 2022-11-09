@@ -1177,6 +1177,77 @@ blockquote {
     }
 }
 
+.close-quote {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 45px;
+    color: $darkBlue;
+
+    @include mq(360px) {
+        font-size: 95%;
+    }
+
+    @include mq(375px) {
+        font-size: 95%;
+    }
+
+    @include mq(1024px) {
+        font-size: 100%;
+    }
+
+    @include mq(1280px) {
+        font-size: 110%;
+    }
+
+    @include mq(1366px) {
+        font-size: 110%;
+    }
+
+    @include mq(1440px) {
+        font-size: 120%;
+    }
+
+    @include mq(1920px) {
+        font-size: 140%;
+    }
+}
+
+.open-quote {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 45px;
+    color: $darkBlue;
+    @include mq(360px) {
+        font-size: 95%;
+    }
+
+    @include mq(375px) {
+        font-size: 95%;
+    }
+
+    @include mq(1280px) {
+        font-size: 110%;
+    }
+
+    @include mq(1366px) {
+        font-size: 110%;
+    }
+
+    @include mq(1440px) {
+        font-size: 120%;
+    }
+
+    @include mq(1920px) {
+        font-size: 140%;
+    }
+
+    @include mq(wide) {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin: 0;
+    }
+}
+
 blockquote:before {
     content: open-quote;
     font-weight: bold;
