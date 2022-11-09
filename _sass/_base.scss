@@ -282,6 +282,13 @@ button {
     }
 }
 
+@media only screen and (max-width: 1075px) {
+  .map_h2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
 //Footer div
 footer {
   .flex {

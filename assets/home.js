@@ -5,27 +5,20 @@ var donorListElm = document.querySelector('.donor__header_container');
 var userJourneyElm = document.querySelector('.uj__header_container');
 var autoPlaySlider = null;
 
+function isScrolledIntoView(el) {
+    var rect = el.getBoundingClientRect();
+    var elemTop = rect.top;
+    var elemBottom = rect.bottom;
+    var isVisible = elemTop < window.innerHeight && elemBottom >= 0;
+    return isVisible;
+}
+
 function userJourney() {
 
-    // define variables
     var items = document.querySelectorAll(".timeline li");
-
-    // check if an element is in viewport
-    // http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
-    function isElementInViewport(el) {
-        var rect = el.getBoundingClientRect();
-        return (
-            rect.top >= 0 &&
-            rect.left >= 0 &&
-            rect.bottom <=
-            (window.innerHeight || document.documentElement.clientHeight) &&
-            rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-        );
-    }
-
     function callbackFunc() {
         for (var i = 0; i < items.length; i++) {
-            if (isElementInViewport(items[i])) {
+            if (isScrolledIntoView(items[i])) {
                 items[i].classList.add("in-view");
             }
         }
@@ -126,7 +119,8 @@ function initHome() {
                     {
                         breakpoint: 1024,
                         settings: {
-                            arrows: true,
+                            arrows: false,
+                            dots: true,
                             slidesToShow: 2,
                             slidesToScroll: 2,
                         }
@@ -134,8 +128,8 @@ function initHome() {
                     {
                         breakpoint: 768,
                         settings: {
-                            dots: false,
-                            arrows: true,
+                            dots: true,
+                            arrows: false,
                             slidesToShow: 1,
                             slidesToScroll: 1,
                         }

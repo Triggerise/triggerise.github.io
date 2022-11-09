@@ -581,8 +581,12 @@
 }
 
 @media only screen and (max-width: 1024px) {
+    .hidden-on-mobile {
+        display: none !important;
+    }
+
     .t-three-title-custom {
-        font-size: 45px !important;
+        font-size: 35px !important;
     }
     .team-section {
         .team-section-details-container {
@@ -779,12 +783,14 @@
 
 .slick-prev {
     left: 0px !important;
-    z-index: 9999999;
+    top: 25% !important;
+    z-index: 10;
 }
 
 .slick-next {
+    top: 25% !important;
     right: 0px !important;
-    z-index: 9999999;
+    z-index: 10;
 }
 
 .team-section-arrow-container {
@@ -891,6 +897,11 @@
     }
 
     @media only screen and (max-width: 1024px) {
+        .donor__card {
+            margin-left: 25px;
+            margin-right: 25px;
+            height: 250px !important;
+        }
         .donor__container {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
@@ -1028,6 +1039,7 @@
   @media only screen and (max-width: 900px) {
     ul {
         margin-left: 0 !important;
+        margin-bottom: 2rem !important;
         .timeline__icon_two { 
             display: none;
         }
@@ -1065,7 +1077,7 @@
         min-height: auto;
         background-color: transparent;
         width: 0 !important;
-        margin-top: 4rem;
+        margin-top: 2rem;
         margin-left: 0;
         margin-right: 0;
     }
