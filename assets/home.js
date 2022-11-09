@@ -119,8 +119,8 @@ function initHome() {
                     {
                         breakpoint: 1024,
                         settings: {
-                            arrows: true,
-                            dots: false,
+                            arrows: false,
+                            dots: true,
                             slidesToShow: 2,
                             slidesToScroll: 2,
                         }
@@ -128,8 +128,8 @@ function initHome() {
                     {
                         breakpoint: 768,
                         settings: {
-                            dots: false,
-                            arrows: true,
+                            dots: true,
+                            arrows: false,
                             slidesToShow: 1,
                             slidesToScroll: 1,
                         }

@@ -783,12 +783,14 @@
 
 .slick-prev {
     left: 0px !important;
-    z-index: 9999999;
+    top: 25% !important;
+    z-index: 10;
 }
 
 .slick-next {
+    top: 25% !important;
     right: 0px !important;
-    z-index: 9999999;
+    z-index: 10;
 }
 
 .team-section-arrow-container {
