@@ -19,17 +19,6 @@ function shuffleArray(arr, subtraction) {
     return arr2;
 }
 
-function onVisible(element, callback) {
-    new IntersectionObserver((entries, observer) => {
-        entries.forEach(entry => {
-            if (entry.intersectionRatio > 0) {
-                callback(element);
-                observer.disconnect();
-            }
-        });
-    }).observe(element);
-}
-
 function updateMenuLinks() {
     if ($('#heroSectionOne').isInViewport()) {
         $('#circle_first').addClass('done');
@@ -67,33 +56,29 @@ function ctaSection() {
     countUp.start();
 
     gsap.registerPlugin(ScrollTrigger);
-
     gsap.set('.cta-container .cta ', { autoAlpha: 0 });
 
     const pinDistance = $('#cta-pin').height() ? $('#cta-pin').height() : 1000;
 
-
     ScrollTrigger.create({
         trigger: "#cta-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + (pinDistance + 1000),
         pin: "#cta-pin",
         markers: false,
         id: "cta"
     })
 
-
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
             trigger: '.cta-container .cta',
-            start: 'top top',
-            end: "+=" + pinDistance,
+            start: 'bottom center',
+            end: "+=" + (pinDistance + 1000),
             scrub: true
         }
     });
 
     const steps = gsap.utils.toArray(".cta-container .cta");
-
 
     steps.forEach((step, i) => {
         stepsTimeline.add(() => {
@@ -112,11 +97,9 @@ function ctaSection() {
 
 function goalsSection() {
     gsap.registerPlugin(ScrollTrigger);
-
     gsap.set('.goals__container', { autoAlpha: 0 });
 
     const pinDistance = $('#goal-pin').height() ? $('#goal-pin').height() : 1000;
-
 
     ScrollTrigger.create({
         trigger: "#goal-pin",
@@ -138,7 +121,6 @@ function goalsSection() {
     });
 
     const steps = gsap.utils.toArray(".goals .goals__container");
-
 
     steps.forEach((step, i) => {
         stepsTimeline.add(() => {
@@ -181,9 +163,44 @@ function flipSection(container1, container2, box) {
 
     Flip.from(state, {
         duration: 2,
-        ease: Sine.linear,
+        ease: "power1.inOut",
+        fade: true,
+        stagger: 0.2,
     });
+}
 
+function flipMapSection(container1, container2, box) {
+    gsap.registerPlugin(Flip);
+    const state = Flip.getState(box, { props: "" });
+    if (box) {
+        if (box.length > 1) {
+            box.forEach((elm) => {
+                if (elm.parentElement === container1) {
+                    container2.appendChild(elm);
+                } else {
+                    container1.appendChild(elm);
+                }
+            });
+        } else {
+            if (box.parentElement === container1) {
+                if (container2) {
+                    container2.appendChild(box);
+                }
+            } else {
+                if (box.length > 0) {
+                    container1.appendChild(box);
+                }
+            }
+        }
+    }
+
+    Flip.from(state, {
+        duration: 2,
+        ease: "power1.inOut",
+        fade: true,
+        absolute: true,
+        stagger: 0.2,
+    });
 }
 
 function dibSectionTwo(container1, container2, box, pinDistance) {
@@ -257,7 +274,7 @@ function dibSectionOne() {
             trigger: '.three_row .three_column .dib_two_left_container',
             start: 'top center',
             pinSpacing: true,
-            end: "+=" + (pinDistance),
+            end: "+=" + pinDistance,
             scrub: true,
             onLeave: () => dibSectionTwo(document.querySelector("#dib-horizontal-animation"), document.querySelector("#dib-vertical-animation .dib_two_column"), document.querySelectorAll("#dib-horizontal-animation .three_column"), pinDistance),
         },
@@ -310,7 +327,7 @@ function whyUsSection() {
     ScrollTrigger.create({
         trigger: "#why-us-pin",
         start: "center center",
-        end: "+=" + pinDistance,
+        end: "+=" + (pinDistance + 1000),
         pin: "#why-us-pin",
         markers: false,
         id: "why-us"
@@ -320,7 +337,7 @@ function whyUsSection() {
         scrollTrigger: {
             trigger: '.why-us-row-container .why-us',
             start: 'bottom center',
-            end: "bottom top",
+            end: "+=" + (pinDistance + 1000),
             scrub: true,
         }
     });
@@ -424,12 +441,10 @@ function mapSectionFive() {
         },
         onUpdate: function () {
             if(this.progress() === 1) {
-                flipSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'));
-                flipSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'));
-                this.delay(2);
+                flipMapSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'));
+                flipMapSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'));
                 this.to("#map-section-five #image__container_1", 1, {autoAlpha: 0, ease:Linear.easeNone });
                 this.to("#map-section-five #image__container_2", 1, {autoAlpha: 0, ease:Linear.easeNone });
-                this.delay(2);
                 this.to("#map-section-five #map__middle_container", 1, {autoAlpha: 0, display: 'none', ease:Linear.easeNone });
                 this.to("#map-section-five #map__middle_mobile_container", 1, {autoAlpha: 1, display: 'block', ease:Linear.easeNone });
             }
@@ -451,7 +466,7 @@ function mapSectionFour() {
     ScrollTrigger.create({
         trigger: "#map-pin-four",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + (pinDistance + 1000),
         pin: "#map-pin-four",
         markers: false,
         id: "map-content-box-four",
@@ -461,7 +476,7 @@ function mapSectionFour() {
         scrollTrigger: {
             trigger: '.map-content-box .map-content .map-content-step-four',
             start: 'top center',
-            end: "+=" + pinDistance,
+            end: "+=" + (pinDistance + 1000),
             scrub: true,
         }
     });
@@ -513,7 +528,7 @@ function mapSectionThree() {
         pin: "#map-pin-three",
         markers: false,
         id: "map-content-box-three",
-        onLeaveBack: () => flipSection(document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container svg'))
+        onLeaveBack: () => flipMapSection(document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container svg'))
     });
 
     const stepsTimeline = gsap.timeline({
@@ -554,8 +569,8 @@ function mapSectionTwo() {
         pin: "#map-pin-two",
         markers: false,
         id: "map-content-box-two",
-        onLeave: () => flipSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')),
-        onLeaveBack: () => flipSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg'))
+        onLeave: () => flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')),
+        onLeaveBack: () => flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg'))
     });
 
     const mapTimeline = gsap.timeline({
@@ -590,7 +605,7 @@ function mapSection() {
         pin: "#map-pin",
         markers: false,
         id: "map-content-box",
-        onLeave: () => flipSection(document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container svg'))
+        onLeave: () => flipMapSection(document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container svg'))
     })
 
     const stepsTimeline = gsap.timeline({
@@ -637,7 +652,7 @@ function firstHeadline() {
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
             trigger: '#first-headline-pin .first_column_one',
-            start: 'top center',
+            start: 'bottom center',
             end: "bottom top",
             scrub: true,
             onLeaveBack: () => flipHeroSection(document.querySelector("#first_headline_image_container"), document.querySelector("#heroSectionOne .wrapper .hero_section_one_svg_container"), document.querySelector("#first_headline_image_container svg")),
@@ -675,11 +690,11 @@ function firstHeadline() {
 
 function smoothShowHide(element, state) {
     if(state) {
-        gsap.set(element, {opacity: 1});
-        gsap.set(element, {display: 'block'});
+        gsap.set(element, {autoAlpha: 1,ease: Linear.easeNone});
+        gsap.set(element, {display: 'block',ease: Linear.easeNone});
     } else {
-        gsap.set(element, {opacity: 0});
-        gsap.set(element, {display: 'none'});
+        gsap.set(element, {autoAlpha: 0,ease: Linear.easeNone});
+        gsap.set(element, {display: 'none',ease: Linear.easeNone});
     }
 }
 
@@ -710,7 +725,9 @@ function flipHeroSection(container1, container2, box) {
 
     Flip.from(state, {
         duration: 2,
-        ease: Sine.ease,
+        ease: "power1.inOut",
+        fade: true,
+        stagger: 0.1,
         onUpdate: function () {
             if(this.progress() <= 0.5) {
                 smoothShowHide("#dib_heroTwoSVG", false);
@@ -770,7 +787,7 @@ function initImpactBond() {
                 updateMenuLinks();
             }
         });
-        if (!window.matchMedia("(max-width: 1024px)").matches) {
+        if (!window.matchMedia("(max-width: 1024px)").matches && !window.matchMedia("(max-height: 700px)").matches) {
             heroOne();
             firstHeadline();
             mapSection();
