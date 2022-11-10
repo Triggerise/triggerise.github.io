@@ -61,6 +61,12 @@ Jobs:
     looking for your next career opportunity to contribute to the growth and success
     of an international finance department? If so, then this job could be for you!
   Link: https://triggerise.bamboohr.com/careers/293?source=aWQ9MjM%3D
+- Job Title: Financial Administrator
+  Location: South Africa/Kenya
+  Job Description: Are you a problem-solver with a background in finance? Do you want
+    to be a part of an international team that uses its skills to make a positive
+    impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/298?source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Addis Ababa, Ethiopia
   Job Description: Have you developed procedures that ensure world-class services
@@ -68,12 +74,6 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/careers/296?source=aWQ9MjM%3D
-- Job Title: Financial Administrator
-  Location: South Africa/Kenya
-  Job Description: Are you a problem-solver with a background in finance? Do you want
-    to be a part of an international team that uses its skills to make a positive
-    impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/careers/298?source=aWQ9MjM%3D
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
