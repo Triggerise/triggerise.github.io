@@ -36,13 +36,6 @@ Jobs:
     working on innovative projects whilst making an impact with your tech skills &
     knowledge? Read on to find out more about our QA Engineer position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=270&source=aWQ9MjM%3D
-- Job Title: Research Lead
-  Location: Nairobi/Mombasa, Kenya
-  Job Description: Do you have experience designing, executing and implementing research
-    projects? Would you enjoy using your quantitative and qualitative research skills
-    to provide country oversight in all areas of research? Read more to find out about
-    the position of Research Lead in Kenya.
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=286&source=aWQ9MjM%3D
 - Job Title: Data Analyst
   Location: South Africa
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
@@ -75,6 +68,25 @@ Jobs:
     and experience in the health services sector? Read on because this role could
     be for you!
   Link: https://triggerise.bamboohr.com/careers/296?source=aWQ9MjM%3D
+- Job Title: Financial Administrator
+  Location: South Africa/Kenya
+  Job Description: Are you a problem-solver with a background in finance? Do you want
+    to be a part of an international team that uses its skills to make a positive
+    impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/298?source=aWQ9MjM%3D
+- Job Title: Data Protection Officer
+  Location: Global
+  Job Description: Do you have practical experience within the data protection space?
+    Would you be able to bring a fresh perspective to managing data privacy risks,
+    while providing advice and oversight across all aspects of data privacy in a global
+    oranisation?  Read more to find out about the role of Data Protection Officer.
+  Link: https://triggerise.bamboohr.com/careers/243?source=aWQ9MjM%3D
+- Job Title: Virtual Pro Agent
+  Location: Virtual Pro Agent
+  Job Description: Have you worked in a call center type environment? Do you love
+    being in contact with people and do you have an interest in sexual and reproductive
+    health (SRH)? Then our Virtual Pro role is the right job for you!
+  Link: https://triggerise.bamboohr.com/careers/297?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
