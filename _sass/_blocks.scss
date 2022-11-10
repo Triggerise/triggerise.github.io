@@ -3256,7 +3256,8 @@ Salary Tracker
     }
 
     .section__one_container {
-        min-height: 100vh;
+        height: 100vh;
+        padding-top: 56px;
         background: #1D214F;
         position: relative;
         text-align: center;
@@ -3281,8 +3282,8 @@ Salary Tracker
     }
 
     .section__cream_container {
-        min-height: 100vh;
-        height: auto;
+        height: 100vh;
+        padding-top: 56px;
         background: $grey;
         text-align: center;
         display: flex;
@@ -3370,7 +3371,7 @@ Salary Tracker
             align-items: center;
 
             .icon-container {
-                padding: 2rem;
+                padding: .2rem;
                 text-align: center;
                 border: 2px solid #1D214F;
                 height: 100%;
@@ -3394,9 +3395,8 @@ Salary Tracker
                 h3 {
                     font-size: 25px;
                     color: #45a590;
-                    height: 150px;
                     overflow: auto;
-                    margin-top: 3rem;
+                    margin-top: 5rem;
                 }
 
                 p {
@@ -3488,7 +3488,7 @@ Salary Tracker
                 align-items: center;
                 flex-wrap: wrap;
                 justify-content: center;
-                padding: 2rem;
+                padding: .2rem;
 
                 h3 {
                     color: #45a590;
@@ -3525,10 +3525,6 @@ Salary Tracker
         .dib_content_left_column_container {
 
             .dib_content_column_two_container {}
-        }
-
-        #dib-vertical-animation {
-            margin-top: 4rem;
         }
 
         .dib_content_right_column_container {
@@ -3598,8 +3594,8 @@ Salary Tracker
     }
 
     .section__blue_container {
-        min-height: 100vh;
-        height: auto;
+        height: 100vh;
+        padding-top: 56px;
         background: $darkBlue;
         position: relative;
         display: flex;
@@ -3672,7 +3668,8 @@ Salary Tracker
     }
 
     .section__two_container {
-        min-height: 100vh;
+        height: 100vh;
+        padding-top: 56px;
         background: #1D214F;
         position: relative;
         text-align: center;
@@ -3859,6 +3856,9 @@ Salary Tracker
 
 @media only screen and (max-width: 1024px),
 screen and (max-height: 700px) {
+    #sectionOneCounter {
+        font-size: 60px;
+    }
     #dib_heroOneSVG {
         display: none;
     }
@@ -3909,8 +3909,7 @@ screen and (max-height: 700px) {
             }
 
             .three_row {
-                grid-template-columns: repeat(1, 1fr);
-                grid-gap: 0;
+                grid-template-columns: repeat(2, 1fr);
                 padding-top: 0rem;
                 padding-bottom: 0rem;
 
@@ -3973,6 +3972,7 @@ screen and (max-height: 700px) {
                     padding: 0;
 
                     .three_column {
+                        display: block;
                         margin-bottom: 2rem;
                         flex-wrap: wrap;
 
@@ -4084,6 +4084,12 @@ screen and (max-height: 700px) {
 @media only screen and (max-width: 768px),
 screen and (max-height: 700px) {
     .impact_bond__section_container {
+        .section__cream_container {
+            .three_row {
+                grid-template-columns: repeat(1, 1fr);
+                grid-gap: 0;
+            }
+        }
         .section__blue_container {
             .four_row {
                 grid-template-columns: repeat(1, 1fr);
