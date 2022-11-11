@@ -90,11 +90,10 @@ Chief Executive Officers:
   LinkedIn: https://www.linkedin.com/in/benoitrenard/
   Image: "/uploads/Trig_profiles_benoit.webp"
 - Name: Richard Matikanya
-  Role: Managing Director
+  Role: Co-Director of Triggerise Stichting, Managing Director
   Location: Nairobi, Kenya
-  Description: Richard is responsible for the Triggerise platform. He leads project
-    implementation in African countries, having a background in global health program
-    design, management, monitoring and evaluation.
+  Description: Richard oversees Triggerise field operations in the countries we operate
+    in, New Business Development, Grants, Risk and Compliance, and Finance.
   LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
   Image: "/uploads/Trig_profiles_richard.webp"
 Our People:
