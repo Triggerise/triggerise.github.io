@@ -2,6 +2,12 @@
 title: How real-time data spurred success in world-first adolescent sexual reproductive
   health development impact bond
 date: 2022-11-11 12:42:00 Z
+permalink: "/news/real-time-data-development-impact-bond"
+categories:
+- News
+Author: Triggerise
+heroImage: "/uploads/CIFF-Triggerise.webp"
+layout: post
 ---
 
 Development impact bonds (DIBs) are increasingly appealing alternative funding models for social interventions, as funders only pay for outcomes, not inputs or activities. This characteristic ensures value for money for funders, as capital is invested into achieving goals in the most efficient way. This flexibility allows implementers, such as Triggerise, to adapt projects according to what’s working, making sure that money is only spent where it makes sense. This makes room for context-specific solutions and innovation. For example, in the implementation of this bond, real-time data collection and evaluation were employed to great success in reaching targets months ahead of schedule. The availability of this data through Triggerise's digital platform and dashboards means that we're able to closely monitor the impact of different activities on service uptake and focus on those which are having the greatest impact, and recalibrate those which aren't working, ensuring value for money for our financial partners, among other benefits. Read on to explore how we achieved this and more.
