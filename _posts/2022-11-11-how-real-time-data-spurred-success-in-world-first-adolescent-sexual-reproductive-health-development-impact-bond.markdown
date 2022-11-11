@@ -29,12 +29,6 @@ Collection and interpretation of real-time data is where Triggerise’s digital 
 **The role of real-time data in the success of this development impact bond**
 \
 Our data is updated on the platform automatically, which played a pivotal role in delivering on the DIB goals. The data was visualised using dashboards which were made available to programme and donor teams to view at any moment. This meant that when anything happened, anybody involved could see the data updated on the dashboard in real time. Problems were identified and immediately addressed, keeping the programme on track. For example, if the data showed a decline in uptake for a certain service, the platform would alert us and we would dig into potential factors driving the decline. The great advantage of real-time data versus other data collection models is that it improves response to issues and consequently, improves the overall success of a programme.
-
-**![](https://lh3.googleusercontent.com/2yAY6FY8uxqJEIwwawWOcIXnO9j4693800QLFOj7rljTVv3-OKHVrkRlYpcVC1mJOl5VOWo4lj9o32sjD3LtOOx77Dn-MYdf6GB-N0OQt_7FoZFuPVqrx1x-Q8sfYGz0R7kUSb2YuRAcLa2huXBLjcI1m3qMhK6z8Swqt3S8dF7_bPc5o6AaDlnCPQ3r9Q)**
-
-*Service uptake data on the Tiko platform is updated daily, as seen in the picture above \[photo grab of service numbers updated on Triggerise website, taken on Triggerise website on November 1, 2022\]*
-
-![](https://lh4.googleusercontent.com/gFcQUjM-lcYT5huhHlE2L5s4ApzwTadGV67EF1NiMYqSOQqV4601oFcyb8I0KwX8xRVIUqye4ZJC8jU64lInzt4cRsnhEZ03zufwd52BhJS7JduwJofNlv8-uWQyBb6MHBux6o0ZxXP9BoDi2tT5qishQ9HmJimyf-w80_tayB2EbwD2iS6G4z5dQyAnfw)*View of the DIB dashboard – real-time data and regular monitoring ensured that Triggerise surpassed its DIB programme targets*
 \
 Thanks to Triggerise’s innovative technology, flexible mechanism like this DIB, and the support of CIFF and the Foreign, Commonwealth and Development Office, the programme not only stayed on track according to the predetermined success metrics, but increased performance and readily surpassed targets.
 \
