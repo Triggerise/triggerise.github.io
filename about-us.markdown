@@ -140,7 +140,7 @@ Our People:
 Safeguarding-text: "We always protect user data and never compromise privacy \n\nWe
   only collect user data that is given with consent and use it to improve our product
   \n\nWe never sell personal information, this includes metadata \n"
-Header animation image: "/uploads/impactImage.webp"
+Header animation image: "/uploads/IMG_65.webp"
 Supervisory Board Description: 'Our Directors lead Triggerise - setting its vision,
   shaping its strategy, managing its operations and inspiring its people. '
 Board of Directors Description: The Triggerise Supervisory Board helps fulfil our
