@@ -1,17 +1,17 @@
 ---
 date: 2022-05-11 17:30:00 Z
 heroSectionOne:
-  heroImage: "/uploads/stock-footage-embu-kenya-young-child-in-rural-africa-looking-at-the-teacher-and-taking-notes.webm"
-  heroIcon: "/uploads/tiko_logo.webp"
+  heroImage: "/uploads/tiko_pro_at_work.webp"
+  heroIcon: "/uploads/Tiko_DoMoreWith_WHITE.png"
   heroContent: WHAT IF EVERY GIRL COULD FINISH SCHOOL AND LIVE HER LIFE TO THE FULLEST?
   heroOverlay: "/uploads/dib_section_one_overlay.webp"
   heroSVG: true
 heroSectionTwo:
-  heroImage: "/uploads/stock-footage-beautiful-african-american-lady-texting-and-smiling-on-mobile-phone.webm"
+  heroImage: "/uploads/CIFF-Triggerise-120.webp"
   heroContent: WHY TIKO?
   heroOverlay: "/uploads/dib_overlay_two.webp"
 heroSectionThree:
-  heroImage: "/uploads/stock-footage-lusaka-zambia-africa-african-schoolgirl-walking-with-backpack.webm"
+  heroImage: "/uploads/dib_hero_section_three.webp"
   heroContent: LET’S REVOLUTIONISE HEALTHCARE FOR GIRLS, TOGETHER.
   heroOverlay: "/uploads/dib_overlay_two.webp"
 firstHeadline:

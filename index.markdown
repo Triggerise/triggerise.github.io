@@ -390,7 +390,7 @@ CTA-Block:
   CTA Link: "/contact/"
   CTA-Two: Join us
   CTA-Two-Link: "/join-us/"
-  CTA-Image: "/uploads/Triggerise%20'20%20%20356%20(1).jpg"
+  CTA-Image: "/uploads/CIFF-Triggerise-118.webp"
   CTA-Image-two: "/uploads/Mark_triggerise_animate.gif"
 Our-Model-Link: "/about-us"
 layout: home
