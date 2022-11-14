@@ -306,6 +306,10 @@
     padding-bottom: 10px;
     height: auto;
 
+    .threeUpimageTwo {
+        object-fit: cover !important;
+    }
+
     @include mq($from: desktop) {
         min-height: 310px;
         height: 40vh;
