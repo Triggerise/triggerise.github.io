@@ -9,7 +9,7 @@ heroImage: "/uploads/KalKNu_t4OGvTpEomzcGqPe1durPInGW0pwdlCYDmDc.webp"
 layout: post
 ---
 
-From the 14th to 17th of November 2022, a team from Triggerise will be at the ICFP in Thailand. This is the biggest conference on family planning and reproductive health worldwide, and we are glad to represent Triggerise there.
+From the 14th to 17th of November 2022, a team from Triggerise is at the ICFP in Thailand. This is the biggest conference on family planning and reproductive health worldwide, and we are glad to represent Triggerise there.
 
 Over the week, hundreds of speakers, sessions, and presentations will take place. We’ll be hosting our own side event on Wednesday night, please see the invitation included and join us in person or online.
 
