@@ -47,4 +47,4 @@ In Kenya, pharmacies offer easy access to contraceptive methods from trained sta
 
 
 
-![ICFP event invitation](/uploads//uploads/Triggerise_ICFP%20Invitation%20Flyer%20(A5)_page-0001.jpg)
+![ICFP event invitation](/uploads/Triggerise_ICFP%20Invitation%20Flyer%20(A5)_page-0001.jpg)
