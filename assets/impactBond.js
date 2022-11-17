@@ -212,7 +212,7 @@ function dibSectionTwo(container1, container2, box, pinDistance) {
         scrollTrigger: {
             trigger: '.three_row .extended_three_column .dib_two_right_container',
             start: 'top center',
-            end: "+=" + (pinDistance + 500),
+            end: "+=" + pinDistance,
             scrub: true,
             paused: true,
         }
@@ -381,7 +381,7 @@ function whyTikoSection() {
     ScrollTrigger.create({
         trigger: "#why-tiko-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#why-tiko-pin",
         markers: false,
         id: "why-tiko"
@@ -421,7 +421,7 @@ function mapSectionFive() {
     ScrollTrigger.create({
         trigger: "#map-pin-five",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-five",
         markers: false,
         id: "map-content-box-five"
@@ -431,7 +431,7 @@ function mapSectionFive() {
         scrollTrigger: {
             trigger: '#map-pin-five',
             start: "top center",
-            end: (pinDistance + 500),
+           end: "+=" + pinDistance,
             markers: false,
         },
         defaults: {
@@ -524,7 +524,7 @@ function mapSectionThree() {
     ScrollTrigger.create({
         trigger: "#map-pin-three",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-three",
         markers: false,
         id: "map-content-box-three",
@@ -565,7 +565,7 @@ function mapSectionTwo() {
     ScrollTrigger.create({
         trigger: "#map-pin-two",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-two",
         markers: false,
         id: "map-content-box-two",
@@ -601,7 +601,7 @@ function mapSection() {
     ScrollTrigger.create({
         trigger: "#map-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin",
         markers: false,
         id: "map-content-box",
@@ -762,7 +762,7 @@ function heroOne() {
     ScrollTrigger.create({
         trigger: "#hero-one-pin",
         start: "center center",
-        end: "+=" + pinDistance,
+        end: "bottom center",
         pin: "#hero-one-pin",
         markers: false,
         id: "firstSVG"
