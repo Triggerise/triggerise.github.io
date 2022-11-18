@@ -336,7 +336,7 @@ UJ-Content:
       health support, sanitary pads and counselling. Users can also benefit from skills-development
       to support with employment
     icon: "/uploads/home_uj_two.webp"
-  - title: Afford
+  - title: Access
     content: Services from independent providers, public facilities, pharmacies and
       training centres are free or subsidised
     icon: "/uploads/home_uj_four.webp"
