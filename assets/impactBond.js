@@ -1,3 +1,75 @@
+const sections = gsap.utils.toArray(".section-container");
+
+const allSlides = [];
+const vh = window.innerHeight;
+let lastSlide = 0;
+let activeSlide = 0;
+
+sections.forEach(slide => {
+    slide.type = 0;
+    if (!slide.querySelectorAll("section-container").length > 0) allSlides.push(slide);
+    slide.querySelectorAll("section-container").forEach(subslide => {
+        gsap.set(subslide, { opacity: 0, y: 100, zIndex: 1 });
+        subslide.posY = slide.offsetTop;
+        subslide.type = 1;
+        allSlides.push(subslide);
+    })
+})
+
+const scrolling = {
+    enabled: true,
+    events: "scroll,wheel,touchmove,pointermove,keyup,keydown".split(","),
+    prevent: e => e.preventDefault(),
+    disable() {
+        if (scrolling.enabled) {
+            scrolling.enabled = false;
+            window.addEventListener("scroll", gsap.ticker.tick, { passive: true });
+            scrolling.events.forEach((e, i) => (i ? document : window).addEventListener(e, scrolling.prevent, { passive: false }));
+        }
+    },
+    enable() {
+        if (!scrolling.enabled) {
+            scrolling.enabled = true;
+            window.removeEventListener("scroll", gsap.ticker.tick);
+            scrolling.events.forEach((e, i) => (i ? document : window).removeEventListener(e, scrolling.prevent));
+        }
+    }
+}
+
+function goToSection(section, lastSection) {
+    lastSlide = lastSection;
+    if (scrolling.enabled) {
+        scrolling.disable();
+        if (section.type == 0) {
+            gsap.to(window, {
+                scrollTo: { y: section, autoKill: false },
+                onComplete: scrolling.enable,
+                duration: 1
+            });
+        } else if (section.type == 1) {
+            gsap.to(window, {
+                scrollTo: { y: section.posY, autoKill: false },
+                onComplete: scrolling.enable,
+                duration: 1
+            })
+            gsap.to(section, {
+                y: 0,
+                opacity: 1,
+                zIndex: 10,
+                duration: 10
+            });
+            if (lastSection.type == 1) {
+                gsap.to(lastSection, {
+                    y: 100,
+                    opacity: 0,
+                    zIndex: 1,
+                    duration: 10
+                });
+            }
+        }
+    }
+}
+
 $.fn.isInViewport = function () {
     var top_of_element = $(this).offset().top;
     var bottom_of_element = $(this).offset().top + $(this).outerHeight();
@@ -46,8 +118,8 @@ function updateMenuLinks() {
     }
 }
 
-function navigateToElement(element) {
-    document.getElementById(element).scrollIntoView({ block: 'end', behavior: 'smooth' }); Ï
+function navigateToElement(activeSection) {
+    goToSection(allSlides[activeSection], lastSlide);
 }
 
 function ctaSection() {
@@ -66,7 +138,7 @@ function ctaSection() {
         end: "+=" + (pinDistance + 1000),
         pin: "#cta-pin",
         markers: false,
-        id: "cta"
+        id: "cta",
     })
 
     const stepsTimeline = gsap.timeline({
@@ -107,16 +179,17 @@ function goalsSection() {
         end: "+=" + pinDistance,
         pin: "#goal-pin",
         markers: false,
-        id: "goals"
+        id: "goals",
+        onLeave: () => { goToSection(allSlides[13], allSlides[12])},
+        onLeaveBack: () => goToSection(allSlides[12], allSlides[11])
     })
-
 
     const stepsTimeline = gsap.timeline({
         scrollTrigger: {
             trigger: '.goals .goals__container',
             start: 'top center',
             end: "+=" + pinDistance,
-            scrub: true
+            scrub: true,
         }
     });
 
@@ -134,6 +207,34 @@ function goalsSection() {
     });
 
     stepsTimeline.to({}, { duration: 1 })
+}
+
+function heroSectionThree() {
+    gsap.registerPlugin(ScrollTrigger);
+
+    ScrollTrigger.create({
+        trigger: "#hero-three-pin",
+        start: "center center",
+        end: "bottom center",
+        pin: "#hero-three-pin",
+        markers: false,
+        onLeave: () => goToSection(allSlides[10], allSlides[9]),
+        onLeaveBack: () => goToSection(allSlides[9], allSlides[8])
+    })
+}
+
+function heroSectionTwo() {
+    gsap.registerPlugin(ScrollTrigger);
+
+    ScrollTrigger.create({
+        trigger: "#hero-two-pin",
+        start: "center center",
+        end: "bottom center",
+        pin: "#hero-two-pin",
+        markers: false,
+        onLeave: () => goToSection(allSlides[8], allSlides[7]),
+        onLeaveBack: () => goToSection(allSlides[7], allSlides[6])
+    })
 }
 
 function flipSection(container1, container2, box) {
@@ -212,7 +313,7 @@ function dibSectionTwo(container1, container2, box, pinDistance) {
         scrollTrigger: {
             trigger: '.three_row .extended_three_column .dib_two_right_container',
             start: 'top center',
-            end: "+=" + (pinDistance + 500),
+            end: "+=" + pinDistance,
             scrub: true,
             paused: true,
         }
@@ -265,7 +366,9 @@ function dibSectionOne() {
         end: "+=" + (pinDistance + 1000),
         pin: "#dib-content-pin",
         markers: false,
-        id: "dib-content"
+        id: "dib-content",
+        onLeave: () => { goToSection(allSlides[11], allSlides[10]); },
+        onLeaveBack: () => { goToSection(allSlides[10], allSlides[9]); }
     })
 
 
@@ -330,7 +433,9 @@ function whyUsSection() {
         end: "+=" + (pinDistance + 1000),
         pin: "#why-us-pin",
         markers: false,
-        id: "why-us"
+        id: "why-us",
+        onLeave: () => { goToSection(allSlides[12], allSlides[11]); },
+        onLeaveBack: () => { goToSection(allSlides[11], allSlides[10]); }
     })
 
     const stepsTimeline = gsap.timeline({
@@ -381,10 +486,12 @@ function whyTikoSection() {
     ScrollTrigger.create({
         trigger: "#why-tiko-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#why-tiko-pin",
         markers: false,
-        id: "why-tiko"
+        id: "why-tiko",
+        onLeave: () => { goToSection(allSlides[9], allSlides[8]); },
+        onLeaveBack: () => { goToSection(allSlides[8], allSlides[7]); }
     })
 
 
@@ -421,17 +528,19 @@ function mapSectionFive() {
     ScrollTrigger.create({
         trigger: "#map-pin-five",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-five",
         markers: false,
-        id: "map-content-box-five"
+        id: "map-content-box-five",
+        onLeave: () => { goToSection(allSlides[7], allSlides[6]); },
+        onLeaveBack: () => { goToSection(allSlides[6], allSlides[5]); }
     })
     const boxes = document.querySelectorAll(".slide__image");
     const t1 = gsap.timeline({
         scrollTrigger: {
             trigger: '#map-pin-five',
             start: "top center",
-            end: (pinDistance + 500),
+            end: "+=" + pinDistance,
             markers: false,
         },
         defaults: {
@@ -440,13 +549,13 @@ function mapSectionFive() {
             ease: "power2"
         },
         onUpdate: function () {
-            if(this.progress() === 1) {
+            if (this.progress() === 1) {
                 flipMapSection(document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1 #image__1'));
                 flipMapSection(document.querySelector('#map-section-five #image__container_2'), document.querySelector('#map-section-five #image__container_1'), document.querySelector('#map-section-five #image__container_2 #image__2'));
-                this.to("#map-section-five #image__container_1", 1, {autoAlpha: 0, ease:Linear.easeNone });
-                this.to("#map-section-five #image__container_2", 1, {autoAlpha: 0, ease:Linear.easeNone });
-                this.to("#map-section-five #map__middle_container", 1, {autoAlpha: 0, display: 'none', ease:Linear.easeNone });
-                this.to("#map-section-five #map__middle_mobile_container", 1, {autoAlpha: 1, display: 'block', ease:Linear.easeNone });
+                this.to("#map-section-five #image__container_1", 1, { autoAlpha: 0, ease: Linear.easeNone });
+                this.to("#map-section-five #image__container_2", 1, { autoAlpha: 0, ease: Linear.easeNone });
+                this.to("#map-section-five #map__middle_container", 1, { autoAlpha: 0, display: 'none', ease: Linear.easeNone });
+                this.to("#map-section-five #map__middle_mobile_container", 1, { autoAlpha: 1, display: 'block', ease: Linear.easeNone });
             }
         }
     })
@@ -470,6 +579,8 @@ function mapSectionFour() {
         pin: "#map-pin-four",
         markers: false,
         id: "map-content-box-four",
+        onLeave: () => { goToSection(allSlides[6], allSlides[5]); },
+        onLeaveBack: () => { goToSection(allSlides[5], allSlides[4]); }
     });
 
     const stepsTimeline = gsap.timeline({
@@ -524,11 +635,12 @@ function mapSectionThree() {
     ScrollTrigger.create({
         trigger: "#map-pin-three",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-three",
         markers: false,
         id: "map-content-box-three",
-        onLeaveBack: () => flipMapSection(document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container svg'))
+        onLeave: () => { goToSection(allSlides[5], allSlides[4]); flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')) },
+        onLeaveBack: () => { goToSection(allSlides[4], allSlides[3]); flipMapSection(document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container svg')) }
     });
 
     const stepsTimeline = gsap.timeline({
@@ -565,12 +677,12 @@ function mapSectionTwo() {
     ScrollTrigger.create({
         trigger: "#map-pin-two",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin-two",
         markers: false,
         id: "map-content-box-two",
-        onLeave: () => flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')),
-        onLeaveBack: () => flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg'))
+        onLeave: () => { goToSection(allSlides[4], allSlides[3]); flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-three .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')) },
+        onLeaveBack: () => { goToSection(allSlides[3], allSlides[2]); flipMapSection(document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container svg')) }
     });
 
     const mapTimeline = gsap.timeline({
@@ -601,11 +713,12 @@ function mapSection() {
     ScrollTrigger.create({
         trigger: "#map-pin",
         start: "center center",
-        end: "+=" + (pinDistance + 500),
+        end: "+=" + pinDistance,
         pin: "#map-pin",
         markers: false,
         id: "map-content-box",
-        onLeave: () => flipMapSection(document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container svg'))
+        onLeave: () => { goToSection(allSlides[3], allSlides[2]); flipMapSection(document.querySelector('#map-section-one .two_column .map__svg_container'), document.querySelector('#map-section-two .two_column .map__svg_container'), document.querySelector('#map-section-one .two_column .map__svg_container svg')) },
+        onLeaveBack: () => goToSection(allSlides[2], allSlides[1])
     })
 
     const stepsTimeline = gsap.timeline({
@@ -646,55 +759,31 @@ function firstHeadline() {
         end: "+=" + pinDistance,
         pin: "#first-headline-pin",
         markers: false,
-        id: "first-headline"
+        id: "first-headline",
+        onLeave: () => goToSection(allSlides[2], allSlides[1]),
+        onLeaveBack: () => goToSection(allSlides[1], allSlides[0]),
     })
 
-    const stepsTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: '#first-headline-pin .first_column_one',
-            start: 'bottom center',
-            end: "bottom top",
-            scrub: true,
-            onLeaveBack: () => flipHeroSection(document.querySelector("#first_headline_image_container"), document.querySelector("#heroSectionOne .wrapper .hero_section_one_svg_container"), document.querySelector("#first_headline_image_container svg")),
-        }
-    });
-
-    const steps = gsap.utils.toArray("#first-headline-pin .first_column_one");
-
-
-    steps.forEach((step, i) => {
-        stepsTimeline.add(() => {
-
-            const forward = stepsTimeline.scrollTrigger.direction > 0,
-                inEl = forward ? step : steps[i - 1],
-                outEl = forward ? steps[i - 1] : step;
-            outEl && gsap.to(step, { autoAlpha: 0, duration: 0.1, overwrite: true });
-            inEl && gsap.to(inEl, { autoAlpha: 1, duration: 0.1, delay: 0.01, overwrite: true });
-        }, i || 0.001);
-    });
-
-    stepsTimeline.to({}, { duration: 1 })
-
     gsap.timeline({
-        scrollTrigger:{
-          trigger: "#first-headline-pin .first_column_two ",
-          scrub:true,
-          start: 'top center',
-          end: "bottom top",
+        scrollTrigger: {
+            trigger: "#first-headline-pin .first_column_two ",
+            scrub: true,
+            start: 'top center',
+            end: "bottom top",
         }
-      }).to('#dib_heroFourSVG', {
-        rotation:45,
-        duration:1, ease:'none',
-      })
+    }).to('#dib_heroFourSVG', {
+        rotation: 45,
+        duration: 1, ease: 'none',
+    })
 }
 
 function smoothShowHide(element, state) {
-    if(state) {
-        gsap.set(element, {autoAlpha: 1,ease: Linear.easeNone});
-        gsap.set(element, {display: 'block',ease: Linear.easeNone});
+    if (state) {
+        gsap.set(element, { autoAlpha: 1, ease: Linear.easeNone });
+        gsap.set(element, { display: 'block', ease: Linear.easeNone });
     } else {
-        gsap.set(element, {autoAlpha: 0,ease: Linear.easeNone});
-        gsap.set(element, {display: 'none',ease: Linear.easeNone});
+        gsap.set(element, { autoAlpha: 0, ease: Linear.easeNone });
+        gsap.set(element, { display: 'none', ease: Linear.easeNone });
     }
 }
 
@@ -729,17 +818,17 @@ function flipHeroSection(container1, container2, box) {
         fade: true,
         stagger: 0.1,
         onUpdate: function () {
-            if(this.progress() <= 0.5) {
+            if (this.progress() <= 0.5) {
                 smoothShowHide("#dib_heroTwoSVG", false);
                 smoothShowHide("#dib_heroThreeSVG", false);
                 smoothShowHide("#dib_heroFourSVG", false);
                 smoothShowHide("#dib_heroOneSVG", true);
-            } else if(this.progress() > 0.5 && this.progress() < 0.7) {
+            } else if (this.progress() > 0.5 && this.progress() < 0.7) {
                 smoothShowHide("#dib_heroOneSVG", false);
                 smoothShowHide("#dib_heroThreeSVG", false);
                 smoothShowHide("#dib_heroFourSVG", false);
                 smoothShowHide("#dib_heroTwoSVG", true);
-            } else if (this.progress() >=  0.7 && this.progress() < 1) {
+            } else if (this.progress() >= 0.7 && this.progress() < 1) {
                 smoothShowHide("#dib_heroOneSVG", false);
                 smoothShowHide("#dib_heroTwoSVG", false);
                 smoothShowHide("#dib_heroFourSVG", false);
@@ -762,10 +851,11 @@ function heroOne() {
     ScrollTrigger.create({
         trigger: "#hero-one-pin",
         start: "center center",
-        end: "+=" + pinDistance,
+        end: "bottom center",
         pin: "#hero-one-pin",
         markers: false,
-        id: "firstSVG"
+        id: "firstSVG",
+        onLeave: () => goToSection(allSlides[1], allSlides[0])
     })
 
     gsap.timeline({
