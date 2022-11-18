@@ -1,6 +1,6 @@
 <div id="impact-bond-page">
   {% if heroSectionOne %}
-  <div class="impact_bond__section_container" id="hero-one-pin">
+  <div class="impact_bond__section_container section-container" id="hero-one-pin">
     <div class="overlay" style="background-image: url('{{ heroSectionOne.heroOverlay }}')"></div>
     <div class="hero-image-container">
       <img src="{{ heroSectionOne.heroImage }}" alt="hero section one image" />
@@ -25,7 +25,7 @@
   </div>
   {% endif %}
   {% if firstHeadline %}
-  <div id="first-headline-pin" class="impact_bond__section_container">
+  <div id="first-headline-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div class="two_row">
@@ -43,7 +43,7 @@
   {% endif %}
   {% if mapContent %}
   {% if mapContent.contentOne %}
-  <div id="map-pin" class="impact_bond__section_container">
+  <div id="map-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div id="map-section-one" class="two_row">
@@ -80,7 +80,7 @@
   </div>
   {% endif %}
   {% if mapContent.contentTwo %}
-  <div id="map-pin-two" class="impact_bond__section_container">
+  <div id="map-pin-two" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div id="map-section-two" class="two_row">
@@ -115,7 +115,7 @@
   </div>
   {% endif %}
   {% if mapContent.contentThree %}
-  <div id="map-pin-three" class="impact_bond__section_container">
+  <div id="map-pin-three" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div id="map-section-three" class="two_row">
@@ -150,7 +150,7 @@
   </div>
   {% endif %}
   {% if mapContent.contentFour %}
-  <div id="map-pin-four" class="impact_bond__section_container">
+  <div id="map-pin-four" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div id="map-section-four" class="two_row">
@@ -190,7 +190,7 @@
   </div>
   {% endif %}
   {% if mapContent.contentFive %}
-  <div id="map-pin-five" class="impact_bond__section_container map_pin_three">
+  <div id="map-pin-five" class="impact_bond__section_container map_pin_three section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div id="map-section-five">
@@ -234,7 +234,7 @@
   </div>
   {% endif %}
   {% if heroSectionTwo %}
-  <div class="impact_bond__section_container">
+  <div class="impact_bond__section_container section-container" id="hero-two-pin">
     <div class="overlay" style="background-image: url('{{ heroSectionTwo.heroOverlay }}')"></div>
     <div class="hero-image-container">
       <img src="{{ heroSectionTwo.heroImage }}" alt="hero section two image" />
@@ -250,7 +250,7 @@
   </div>
   {% endif %}
   {% if whatWeOfferColumns %}
-  <div id="why-tiko-pin" class="impact_bond__section_container">
+  <div id="why-tiko-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div class="three_row">
@@ -277,7 +277,7 @@
   </div>
   {% endif %}
   {% if heroSectionThree %}
-  <div class="impact_bond__section_container">
+  <div class="impact_bond__section_container section-container" id="hero-three-pin">
     <div class="overlay" style="background-image: url('{{ heroSectionThree.heroOverlay }}')"></div>
     <div class="hero-image-container">
       <img src="{{ heroSectionThree.heroImage }}" alt="hero section three image" />
@@ -293,7 +293,7 @@
   </div>
   {% endif %}
   {% if dibContent %}
-  <div id="dib-content-pin" class="impact_bond__section_container">
+  <div id="dib-content-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper dib-content">
         {% if dibContent.headline %}
@@ -352,7 +352,7 @@
   </div>
   {% endif %}
   {% if whyUsContent %}
-  <div id="why-us-pin" class="impact_bond__section_container">
+  <div id="why-us-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div class="wrapper">
         <div class="two_row">
@@ -390,7 +390,7 @@
   </div>
   {% endif %}
   {% if goalList %}
-  <div id="goal-pin" class="impact_bond__section_container">
+  <div id="goal-pin" class="impact_bond__section_container section-container">
     <div class="section__blue_container">
       <div class="wrapper">
         <div class="goals__heading">
@@ -415,7 +415,7 @@
   </div>
   {% endif %}
   {% if cta %}
-  <div id="cta-pin" class="impact_bond__section_container">
+  <div id="cta-pin" class="impact_bond__section_container section-container">
     <div class="section__cream_container">
       <div id="heroSectionFour" class="wrapper cta-container">
         {% if cta[0].title %}
@@ -447,28 +447,28 @@
   {% endif %}
   <div class="impact_bond__navigation_container">
     <div class="progress">
-      <div class="circle done" onclick="navigateToElement('heroSectionOne')" id="circle_first">
+      <div class="circle done" onclick="navigateToElement(0)" id="circle_first">
         <div class="label_box">
           The challenge/reality in Kenya
         </div>
 
       </div> <span class="bar"></span>
 
-      <div class="circle" onclick="navigateToElement('heroSectionTwo')" id="circle_second">
+      <div class="circle" onclick="navigateToElement(7)" id="circle_second">
         <div class="label_box">
           Why Tiko?
         </div>
 
       </div> <span class="bar"></span>
 
-      <div class="circle" onclick="navigateToElement('heroSectionThree')" id="circle_third">
+      <div class="circle" onclick="navigateToElement(9)" id="circle_third">
         <div class="label_box">
           What is a DIB?
         </div>
 
       </div> <span class="bar"></span>
 
-      <div class="circle" onclick="navigateToElement('heroSectionFour')" id="circle_fourth">
+      <div class="circle" onclick="navigateToElement(12)" id="circle_fourth">
         <div class="label_box">
           How to help
         </div>
@@ -481,5 +481,6 @@
 <script src="/assets/gsap.min.js"></script>
 <script src="/assets/gsap.flip.min.js"></script>
 <script src="/assets/scrollTrigger.min.js"></script>
+<script src="/assets/scrollTo.min.js"></script>
 <script src="/assets/ScrollMagic.min.js"></script>
 <script type="text/javascript" src="/assets/impactBond.js"></script>
