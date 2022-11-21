@@ -26,15 +26,15 @@ mapContent:
   - content: COVID-related containment had twice the risk of pregnancy
   - content: and were three times more likely to drop out of school
   contentTwo:
-  - content: HOW DO WE SUPPORT A POPULATION OF TEENAGE MOTHERS AND RECONNECT THEM
-      WITH THEIR YOUTH?
+  - content: How do we support a population of teenage mothers and reconnect them
+      with their your?
     icon: true
   contentThree:
   - content: Unwanted pregnancies are not the only concerns for Kenyan youth
   - content: A third of all new HIV infections are among women aged 15-24
   contentFour:
-  - content: HOW DO WE RESTORE THE MENTAL HEALTH OF KENYAN YOUTH AND CULTIVATE EMPATHY
-      THROUGH THE HIV EPIDEMIC?
+  - content: How do we restore the mental health of Kenyan youth and cultivate empathy
+      throught the HIV epidemic?
   - content: Too often girls are scared to seek health services for fear of judgement,
       or are misinformed about side effects from contraception and HIV treatment.
   - content: Despite decades of investment into interventions to reach adolescent
@@ -91,7 +91,7 @@ whyUsContent:
   contentThree:
     icon: "/assets/why-ciff-icon.webp"
     content:
-    - In partnership with the Foreign, Commonwealth, & Develop- ment Office and the
+    - In partnership with the Foreign, Commonwealth, & Development Office and the
       Children's Investment Fund Foundation, we successfully implemented the world's
       first adolescent sexual and reproductive health development impact bond.
   contentFour:
@@ -133,9 +133,9 @@ goals:
 - callToAttention: '01'
   content: REDUCE TEEN PREGNANCY & HIV INFECTIONS AMONG KENYAN GIRLS AGED 15-19
 - callToAttention: '02'
-  content: INCREASED AGENCY OF GIRLS IN THEIR SEXUAL & REPRODUTIVE BEHAVIOUR & HEALTH
+  content: INCREASE AGENCY OF GIRLS IN THEIR SEXUAL & REPRODUCTIVE BEHAVIOUR & HEALTH
 - callToAttention: '03'
-  content: IMPROVED PUBLIC SECTOR RESPONSE TO ADOLESCENT SERVICE DELIVERY AND FINANCING
+  content: IMPROVE PUBLIC SECTOR RESPONSE TO ADOLESCENT SERVICE DELIVERY AND FINANCING
 - callToAttention: '04'
   content: SERVE OVER HALF A MILLION GIRLS WITH SRH AND HIV SERVICES AS A DIRECT RESULT
     OF THE BOND
