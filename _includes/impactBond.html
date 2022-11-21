@@ -87,7 +87,7 @@
           <div class="two_column">
             {% if mapContent.mapSVG %}
             <div class="map__svg_container map_container">
-
+              {% include mapSVG.html %}
             </div>
             {% endif %}
           </div>
@@ -122,7 +122,7 @@
           <div class="two_column">
             {% if mapContent.mapSVG %}
             <div class="map__svg_container map_container">
-
+              {% include mapSVG.html %}
             </div>
             {% endif %}
           </div>
@@ -230,8 +230,8 @@
         </div>
       </div>
     </div>
-    {% endif %}
   </div>
+  {% endif %}
   {% endif %}
   {% if heroSectionTwo %}
   <div class="impact_bond__section_container section-container" id="hero-two-pin">
