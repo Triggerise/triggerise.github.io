@@ -111,7 +111,7 @@ whyUsContent:
     - Join a growing group of organisations who are committed to seeing lives change
       for the better.
 whatWeOfferColumns:
-- title: HALF A MILLION GIRLS HAVE ALREADY CHOSEN Tiko AS THEIR SEXUAL AND REPRODUCTIVE
+- title: HALF A MILLION GIRLS HAVE ALREADY CHOSEN TIKO AS THEIR SEXUAL AND REPRODUCTIVE
     HEALTH (SRH) AND HIV PROVIDER
   icon: "/assets/tiko_icon.webp"
   content: "<p>Our digital platform, Tiko, connects young people to stigma-free, nearby
@@ -126,7 +126,7 @@ whatWeOfferColumns:
     health and wellness services they need to thrive.</p><p>Through our digital platform,
     we know where every cent goes. Track your impact every day with real-time reports,
     data-driven insights, and on-the-ground partnerships.</p>"
-- title: We are bringing the efficiency of our model to the public sector
+- title: WE ARE BRINGING THE EFFICIENCY OF OUR MODEL TO THE PUBLIC SECTOR
   icon: "/assets/hands_icon.webp"
   content: "<p>Through our partnership with the Kenyan government, we are paving the
     way for counties to subsidise these health services themselves. We already have
