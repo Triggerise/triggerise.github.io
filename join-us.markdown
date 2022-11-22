@@ -55,12 +55,6 @@ Jobs:
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Supporter role! '
   Link: 
-- Job Title: Financial Administrator
-  Location: South Africa/Kenya
-  Job Description: Are you a problem-solver with a background in finance? Do you want
-    to be a part of an international team that uses its skills to make a positive
-    impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/careers/298?source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Addis Ababa, Ethiopia
   Job Description: Have you developed procedures that ensure world-class services
