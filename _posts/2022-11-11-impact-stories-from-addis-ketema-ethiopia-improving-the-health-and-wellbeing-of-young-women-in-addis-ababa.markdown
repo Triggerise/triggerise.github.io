@@ -12,7 +12,7 @@ layout: post
 
 Despite rapid economic growth over the last decade, Ethiopia still ranks [in the bottom 20](https://www.worldometers.info/gdp/gdp-per-capita/) countries worldwide in terms of Gross Domestic Product (GDP) per capita. Our belief is that this challenging economic reality impacts the young population’s access to sexual and reproductive health (SRH). Over the past two years, we have addressed these joint issues with an approach that includes increasing access to, and demand for, SRH products and services.
 
-Since the programme’s inception in July 2021, 15,923 adolescent girls and young women (AGYW) have been enrolled onto Tiko, our digital membership platform that connects youth to health services and products. The AGYW have accessed 10,576 SRH services including contraceptives, HIV tests, and counselling. Our team on the ground in Addis Ketema connected with four of these young women and teenagers who are involved in the Tiko interventions, which are funded by the Dutch philanthropic organisation, Sint Antonius Stitching Projects.
+Since the programme’s inception in July 2021, 15,923 adolescent girls and young women (AGYW) have been enrolled onto Tiko, our digital membership platform that connects youth to health services and products. The AGYW have accessed 10,576 SRH services including contraceptives, HIV tests, and counselling. Our team on the ground in Addis Ketema connected with four of these young women and teenagers who are involved in the Tiko interventions, which are funded by the Dutch philanthropic organisation, Sint Antonius Stitchting Projects.
 
 ![Screenshot 2022-11-09 144302.png](/uploads/Screenshot%202022-11-09%20144302.png)
 \
