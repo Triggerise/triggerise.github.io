@@ -26,15 +26,15 @@ mapContent:
   - content: COVID-related containment had twice the risk of pregnancy
   - content: and were three times more likely to drop out of school
   contentTwo:
-  - content: How do we support a population of teenage mothers and reconnect them
-      with their your?
+  - content: "<b>How do we support a population of teenage mothers and reconnect them
+      with their youth?</b>"
     icon: true
   contentThree:
   - content: Unwanted pregnancies are not the only concerns for Kenyan youth
   - content: A third of all new HIV infections are among women aged 15-24
   contentFour:
-  - content: How do we restore the mental health of Kenyan youth and cultivate empathy
-      throught the HIV epidemic?
+  - content: "<b>How do we restore the mental health of Kenyan youth and cultivate
+      empathy throught the HIV epidemic?</b>"
   - content: Too often girls are scared to seek health services for fear of judgement,
       or are misinformed about side effects from contraception and HIV treatment.
   - content: Despite decades of investment into interventions to reach adolescent
@@ -111,19 +111,22 @@ whyUsContent:
     - Join a growing group of organisations who are committed to seeing lives change
       for the better.
 whatWeOfferColumns:
-- title: HALF A MILLION GIRLS HAVE ALREADY CHOSEN TIKO AS THEIR SRH AND HIV PROVIDER
+- title: HALF A MILLION GIRLS HAVE ALREADY CHOSEN Tiko AS THEIR SEXUAL AND REPRODUCTIVE
+    HEALTH (SRH) AND HIV PROVIDER
   icon: "/assets/tiko_icon.webp"
   content: "<p>Our digital platform, Tiko, connects young people to stigma-free, nearby
-    SRH and HIV services.</p><p> Kenyan youth choose us to deliver their Sexual and
-    Reproductive Health (SRH) and HIV-related services. Rated, rewarded, reminded,
-    and reviewed, girls help each other get what they need with Tiko.</p>"
+    SRH and HIV services.</p><p> Kenyan youth choose us to deliver their SRH and HIV-related
+    services. Rated, rewarded, reminded, and reviewed, girls help each other get what
+    they need with Tiko.</p>"
 - title: REAL-TIME REPORTING, DOWN TO A SPECIFIC CLINIC, GIRL, AND COMMUNITY WORKER
   icon: "/assets/graph_icon.webp"
-  content: "<p>Our digital platform, Tiko, connects young people to stigma-free, nearby
-    SRH and HIV services.</p><p>Kenyan youth choose us to deliver their Sexual and
-    Reproductive Health (SRH) and HIV-related services. Rated, rewarded, reminded,
-    and reviewed, girls help each other get what they need with Tiko.</p>"
-- title: WE ARE BRINGING IN THE EFFICIENCY OF OUR MODEL TO THE PUBLIC SECTOR
+  content: "<p>The Tiko ecosystem brings together local actors including networks
+    of health clinics, pharmacies, virtual channels, community-based organisations,
+    and health workers. Together, we support youth in their decision-making for the
+    health and wellness services they need to thrive.</p><p>Through our digital platform,
+    we know where every cent goes. Track your impact every day with real-time reports,
+    data-driven insights, and on-the-ground partnerships.</p>"
+- title: We are bringing the efficiency of our model to the public sector
   icon: "/assets/hands_icon.webp"
   content: "<p>Through our partnership with the Kenyan government, we are paving the
     way for counties to subsidise these health services themselves. We already have
