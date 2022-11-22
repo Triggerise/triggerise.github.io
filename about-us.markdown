@@ -167,11 +167,6 @@ Our People:
   Location: Abuja, Nigeria
   LinkedIn: https://ng.linkedin.com/in/chizomam-i-ezem
   Image: "/uploads/chizo-team-image.webp"
-- Name: Netsy
-  Role: Country Director – Ethiopia
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: 
-  Image: "/uploads/netsy-team-image.png"
 - Name: Daiane
   Role: Recruitment Team Coordinator
   Location: Lisbon, Portugal
