@@ -1,0 +1,20 @@
+---
+title: 'The Learnings and Evolution of Kenya’s Adolescent Sexual and Reproductive
+  Health Development Impact Bond: side event at the 2022 International Conference
+  on Family Planning'
+date: 2022-11-22 08:44:00 Z
+Author: Triggerise
+heroImage: "/uploads/KalKNu_t4OGvTpEomzcGqPe1durPInGW0pwdlCYDmDc.webp"
+---
+
+For the first International Conference on Family Planning (ICFP) in nearly four years, Triggerise was privileged to send a group to represent the organisation and the sexual and reproductive health (SRH) programmes we are involved in across sub-Saharan Africa. Over the course of the conference, we hosted a side event to present, discuss, and explore the [adolescent SRH development impact bond](https://triggerise.org/news/championing-the-worlds-first-adolescent-sexual-reproductive-health-development-impact-bond-in-kenya) (DIB) that was implemented in Kenya in 2020-2021. Since then, the UN Resident Coordinator’s Office, SDG Partnership Platform, UNFPA, WHO, UNAIDS, and Triggerise have partnered to capitalise on the success of this bond by expanding its offering and reach for hundreds of thousands more youth in Kenya. Participants joined us in person and online for the evening’s session.
+
+The panel presentation was kicked off by the coordinator of the SDG Partnership Platform, Arif Neky, who outlined the economic reality and perception of Kenya in the global development community. Reclassified as a lower-middle income country, Kenya has shifted to being ‘debt-worthy from grant-worthy,’ and the 57 years of grant history in the country needs a re-evaluation as we look to the future. Kenya is more open and equipped for investment, so addressing SRH challenges like the high rate of teen pregnancy in the country, is fundamental for the continued economic national growth. Further, public and private sector cooperation is imperative for the efficacy of health interventions in Kenya. Bearing all of this in mind, the primary question is now: ‘How do we sustain development impact?’
+
+Julia Greenland, the director of SRH rights at Girl Capital (under the banner of the Children’s Investment Fund Foundation \[CIFF\]), offered a solution for this quandary; together with UK Aid and Triggerise, CIFF has already seen success in the implementation of a DIB in Kenya. ‘We had a very positive experience as investor,’ Julia commented, referring to the aforementioned DIB implemented over an 18-month period from 2020 to 2021. ‘We’re excited to see this go on to its next stage.’ A DIB is by nature an innovative and adaptable financing instrument. Outcomes are key, so the methods of implementation can be flexible and iterate according to need, so long as the outcomes are still met.
+
+Triggerise’s Managing Director, Richard Matikanya, walked the room through some of our primary aims as implementers of SRH programmes. ‘We are working to normalise adolescent sexual and reproductive health rights in Kenya,’ he said. ‘On top of that, we contribute towards curbing the high rate of unintended pregnancies, as Kenya has one of the highest in the world.’ Triggerise is not simply an implementer who hits the targets and moves on. We are motivated by long-term behaviour change. Improving agency and increasing access to quality healthcare are some ways for that change to take root, fostering self-confidence and knowledge among youth.
+
+Klaus Simoni Pedersen, the UNFPA’s Chief Resource Mobilisation Officer, rounded off the presentation. ‘A DIB is about taking calculated risks,’ he said. Our joint team is looking for $14.7m to expand SRH offerings to 170,000 girls each year, improving 300 public health facilities in the process. We are all looking forward to joining hands and having a marked impact on the target communities in Kenya.
+
+*To learn more or connect with us on outcome funding, please send an email to [benoit@triggerise.org](mailto:benoit@triggerise.org).*
