@@ -3971,6 +3971,7 @@ screen and (max-height: 700px) {
         .overlay {
             background-image: none;
             background-size: 0%;
+            background-color: rgba(210, 226, 255, 0.5);
         }
 
         .section__cream_container {
@@ -4158,7 +4159,9 @@ screen and (max-height: 700px) {
 
         .header {
             h1 {
-                font-size: 30px;
+                font-size: 50px;
+                font-weight: 400;
+                letter-spacing: normal;
             }
         }
     }
@@ -4182,7 +4185,7 @@ screen and (max-height: 700px) {
 
         .header {
             h1 {
-                font-size: 20px;
+                font-size: 40px;
             }
         }
     }
