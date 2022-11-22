@@ -137,6 +137,46 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
   Image: "/uploads/HC%20Photo.jpeg"
+- Name: Fiona
+  Role: New Business Development Director
+  Location: Amsterdam, The Netherlands
+  LinkedIn: https://nl.linkedin.com/in/fiona-de-korte-bab79883
+  Image: "/uploads/fiona-team-image.webp"
+- Name: André
+  Role: Engineering Manager
+  Location: Porto, Portugal
+  LinkedIn: André Dias
+  Image: "/uploads/andre-team-image.webp"
+- Name: Akshar
+  Role: Engineering Manager
+  Location: Cape Town, South Africa
+  LinkedIn: https://za.linkedin.com/in/aksharbhagwandin
+  Image: "/uploads/akshar-team-image.webp"
+- Name: Leah
+  Role: Country Director - Kenya
+  Location: Nairobi, Kenya
+  LinkedIn: https://ke.linkedin.com/in/leah-ogada-wanaswa-ba60a45b
+  Image: "/uploads/leah-team-image.webp"
+- Name: Joana
+  Role: Product Manager
+  Location: Porto, Portugal
+  LinkedIn: https://pt.linkedin.com/in/joanafaraujo
+  Image: "/uploads/joana-team-image.webp"
+- Name: Chizo
+  Role: Platform Operations Director
+  Location: Abuja, Nigeria
+  LinkedIn: https://ng.linkedin.com/in/chizomam-i-ezem
+  Image: "/uploads/chizo-team-image.webp"
+- Name: Netsy
+  Role: Country Director – Ethiopia
+  Location: Addis Ababa, Ethiopia
+  LinkedIn: 
+  Image: "/uploads/netsy-team-image.png"
+- Name: Daiane
+  Role: Recruitment Team Coordinator
+  Location: Lisbon, Portugal
+  LinkedIn: https://pt.linkedin.com/in/daiane-bulgarelli
+  Image: "/uploads/daiane-team-image.webp"
 Safeguarding-text: "We always protect user data and never compromise privacy \n\nWe
   only collect user data that is given with consent and use it to improve our product
   \n\nWe never sell personal information, this includes metadata \n"
