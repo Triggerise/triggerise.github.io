@@ -4,7 +4,7 @@ title: 'The Learnings and Evolution of Kenya’s Adolescent Sexual and Reproduct
   on Family Planning'
 date: 2022-11-22 08:44:00 Z
 Author: Triggerise
-heroImage: "/uploads/KalKNu_t4OGvTpEomzcGqPe1durPInGW0pwdlCYDmDc.webp"
+heroImage: "/uploads/TCEB_ICFP_POSTER_29August2022_FINAL.png"
 ---
 
 For the first International Conference on Family Planning (ICFP) in nearly four years, Triggerise was privileged to send a group to represent the organisation and the sexual and reproductive health (SRH) programmes we are involved in across sub-Saharan Africa. Over the course of the conference, we hosted a side event to present, discuss, and explore the [adolescent SRH development impact bond](https://triggerise.org/news/championing-the-worlds-first-adolescent-sexual-reproductive-health-development-impact-bond-in-kenya) (DIB) that was implemented in Kenya in 2020-2021. Since then, the UN Resident Coordinator’s Office, SDG Partnership Platform, UNFPA, WHO, UNAIDS, and Triggerise have partnered to capitalise on the success of this bond by expanding its offering and reach for hundreds of thousands more youth in Kenya. Participants joined us in person and online for the evening’s session.
