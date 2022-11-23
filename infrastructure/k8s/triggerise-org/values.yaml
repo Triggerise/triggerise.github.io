@@ -1,6 +1,6 @@
 image:
   repository: 387002922338.dkr.ecr.eu-west-1.amazonaws.com/tiko/triggerise-org
-  tag: 2ca0da85ccca9dd83cd77659379b10faaaf33376
+  tag: f632d113920c005bd7abc5f23f8578fdad68251d
   pullPolicy: "Always"
 service:
   internalPort: 80
