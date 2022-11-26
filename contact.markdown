@@ -23,12 +23,10 @@ AddressesRow2:
 - Address: |-
     **Triggerise Ethiopia**
 
-
      Bole Medhanialem, Cameroon street
      Impress Building, 1st floor
      Office number 101C
      Addis Ababa, Ethiopia
-
 
      [helloethiopia@triggerise.org](mailto:helloethiopia@triggerise.org)
 - Address: |-
