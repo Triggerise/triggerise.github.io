@@ -8,14 +8,14 @@ AddressesRow1:
 - Address: |-
     **Triggerise Headquarters**
 
-    Mauritskade 63, 1092AD, Amsterdam,
+    Mauritskade 63, 1092AD, Amsterdam,\
     The Netherlands
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
 - Address: |-
     **Triggerise Portugal**
 
-    Rua do General Torres 1220, 3 Andar,
+    Rua do General Torres 1220, 3 Andar,\
     4400-164 Vila Nova de Gaia, Portugal
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
