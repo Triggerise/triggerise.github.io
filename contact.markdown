@@ -8,8 +8,8 @@ AddressesRow1:
 - Address: |-
     **Triggerise Headquarters**
 
-    Mauritskade 63\
-    1092AD, Amsterdam\
+    Mauritskade 63<br>
+    1092AD, Amsterdam<br>
     The Netherlands
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
