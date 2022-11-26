@@ -13,9 +13,9 @@ AddressesRow1:
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
 - Address: |-
-    **Triggerise Labs**
+    **Triggerise Portugal**
 
-    Rua do General Torres 1162D, 3 Andar (Sala 4403),
+    Rua do General Torres 1220, 3 Andar,
     4400-164 Vila Nova de Gaia, Portugal
 
     [hellolabs@triggerise.org](mailto:hellolabs@triggerise.org)
