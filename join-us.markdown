@@ -49,12 +49,6 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and its offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/292?source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
-  Location: Addis Ababa, Ethiopia
-  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role! '
-  Link: 
 - Job Title: Service Quality Specialist
   Location: Addis Ababa, Ethiopia
   Job Description: Have you developed procedures that ensure world-class services
@@ -69,12 +63,6 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy in a global
     oranisation?  Read more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/careers/243?source=aWQ9MjM%3D
-- Job Title: Virtual Pro Agent
-  Location: Virtual Pro Agent
-  Job Description: Have you worked in a call center type environment? Do you love
-    being in contact with people and do you have an interest in sexual and reproductive
-    health (SRH)? Then our Virtual Pro role is the right job for you!
-  Link: https://triggerise.bamboohr.com/careers/297?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
