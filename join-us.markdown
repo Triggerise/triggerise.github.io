@@ -25,7 +25,7 @@ Jobs:
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
 - Job Title: Java Backend Engineer
-  Location: Global
+  Location: Portugal, Kenya, or South Africa
   Job Description: Are you a problem-solver with a background in software development?
     Do you want to be a part of an innovative team that uses its technical skills
     to make a positive impact? Then this role could be for you!
@@ -36,19 +36,6 @@ Jobs:
     working on innovative projects whilst making an impact with your tech skills &
     knowledge? Read on to find out more about our QA Engineer position! '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=270&source=aWQ9MjM%3D
-- Job Title: Data Analyst
-  Location: South Africa
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation, and data modeling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst!
-  Link: https://triggerise.bamboohr.com/careers/290?source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Kisumu, Kenya
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and its offers?
-    Continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/292?source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Addis Ababa, Ethiopia
   Job Description: Have you developed procedures that ensure world-class services
@@ -63,6 +50,12 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy in a global
     oranisation?  Read more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/careers/243?source=aWQ9MjM%3D
+- Job Title: Ecosystem Supporter
+  Location: Ouagadougou, Burkina Faso
+  Job Description: Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role!
+  Link: https://triggerise.bamboohr.com/careers/300?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
