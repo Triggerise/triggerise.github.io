@@ -18,6 +18,13 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
+- Job Title: Chief Impact Officer
+  Location: Africa
+  Job Description: 'We are looking for a Chief Impact Officer who can help us consolidate
+    and grow our impact in our 5 core markets in Sub-Saharan Africa. Can you strategically
+    lead our operations so that we sustainably impact 1 million young people a year
+    by 2026? '
+  Link: https://triggerise.bamboohr.com/careers/299?source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
