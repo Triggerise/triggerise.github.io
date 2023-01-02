@@ -37,19 +37,37 @@ Jobs:
     Do you want to be a part of an innovative team that uses its technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=274&source=aWQ9MjM%3D
-- Job Title: Quality Assurance Engineer
-  Location: Portugal
-  Job Description: 'Have you gained experience in the software space and want to continue
-    working on innovative projects whilst making an impact with your tech skills &
-    knowledge? Read on to find out more about our QA Engineer position! '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=270&source=aWQ9MjM%3D
-- Job Title: Service Quality Specialist
-  Location: Addis Ababa, Ethiopia
-  Job Description: Have you developed procedures that ensure world-class services
-    are offered to customers around the globe? Do you have a great eye for detail
-    and experience in the health services sector? Read on because this role could
-    be for you!
-  Link: https://triggerise.bamboohr.com/careers/296?source=aWQ9MjM%3D
+- Job Title: Country Director
+  Location: Johannesburg, South Africa
+  Job Description: 'Would you enjoy leading a team of people to ensure our programs''
+    effective implementation in South Africa? Are you an organised and data-driven
+    manager that can help the team grow? Please continue reading to find out more
+    about our Country Director role! '
+  Link: https://triggerise.bamboohr.com/careers/305?source=aWQ9MjM%3D
+- Job Title: Ecosystem Trainer
+  Location: Johannesburg, South Africa
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure they are knowledgeable about our platform and its offers?
+    Please continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/304?source=aWQ9MjM%3D
+- Job Title: 'Ecosystem Supporter '
+  Location: Johannesburg, South Africa
+  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role! '
+  Link: https://triggerise.bamboohr.com/careers/303?source=aWQ9MjM%3D
+- Job Title: Ecosystem Launcher
+  Location: Johannesburg, South Africa
+  Job Description: 'Are you able to identify potential opportunities and set up new
+    ecosystems? Would you enjoy mapping markets and building relationships? Please
+    continue reading to find out more about our Ecosystem Launcher role! '
+  Link: https://triggerise.bamboohr.com/careers/302?source=aWQ9MjM%3D
+- Job Title: Ecosystem Supporter
+  Location: Ouagadougou, Burkina Faso
+  Job Description: Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role!
+  Link: https://triggerise.bamboohr.com/careers/300?source=aWQ9MjM%3D
 - Job Title: Data Protection Officer
   Location: Global
   Job Description: Do you have practical experience within the data protection space?
@@ -57,12 +75,6 @@ Jobs:
     while providing advice and oversight across all aspects of data privacy in a global
     oranisation?  Read more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/careers/243?source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
-  Location: Ouagadougou, Burkina Faso
-  Job Description: Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role!
-  Link: https://triggerise.bamboohr.com/careers/300?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
