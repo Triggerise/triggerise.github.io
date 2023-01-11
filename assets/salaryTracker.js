@@ -336,6 +336,7 @@ function positionExists(countryCheck, positionCheck, array) {
 function main() {
 
     let url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSr_TpN5LWs9ejhbmttNHfqG25LLi9rPKHPE3wYvovXwNNXSxcFsDSEBSEsEf-9MNfwFTKjLPh1FTLL/pub?output=csv";
+    let enableCountryBtns = false;
 
     makeRequest('GET', url)
         .then(function (data) {
@@ -399,11 +400,19 @@ function main() {
                     console.error(err);
                 }
             }
+
+            // Re-enable country buttons
+            $('.salary-tracker-country-btn-container button').each(function( index, elm ) {
+                $(elm).removeAttr("disabled");
+            });
+            
+            // Remove the page spinner
+            $('.loader-spinner').remove();
         })
         .catch(function (err) {
             console.error('An error occured!', err);
+            $('.loader-spinner').remove();
         });
-
 }
 // Execute main on successful DOM load
 function initSalaryTracker() {
