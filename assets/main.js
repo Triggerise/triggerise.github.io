@@ -61,7 +61,10 @@ function loadCounter() {
     if (serviceUptake === 0) {
       serviceUptake = 91;
       serviceUptakeTitle.textContent = "of our members enrolled in Kenya visited a provider in the month of July 2020";
+    } else if (serviceUptake > 100) {
+      serviceUptake = 100;
     }
+    
     if (repeatBehaviour === 0) {
       repeatBehaviour = 6;
       repeatBehaviourTitle.textContent = "of our members in Kenya who took a service were repeat users in the month of July 2020";
