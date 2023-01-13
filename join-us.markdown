@@ -25,6 +25,14 @@ Jobs:
     lead our operations so that we sustainably impact 1 million young people a year
     by 2026? '
   Link: https://triggerise.bamboohr.com/careers/299?source=aWQ9MjM%3D
+- Job Title: Chief Development Officer
+  Location: Global
+  Job Description: We are looking for a Chief Development Officer who can deliver
+    our fundraising targets to achieve our ambitious strategic goals for the coming
+    years. Can you set the strategy to cultivate and create new fundraising possibilities
+    and broaden donor awareness of Triggerise? Read on to hear more about the role
+    of CDO at Triggerise! 
+  Link: https://triggerise.bamboohr.com/careers/306?source=aWQ9MjM%3D
 - Job Title: DevOps Team Lead
   Location: Global
   Job Description: 'Do you have experience leading a team to build, test & maintain
