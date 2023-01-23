@@ -18,13 +18,6 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: Chief Impact Officer
-  Location: Africa
-  Job Description: 'We are looking for a Chief Impact Officer who can help us consolidate
-    and grow our impact in our 5 core markets in Sub-Saharan Africa. Can you strategically
-    lead our operations so that we sustainably impact 1 million young people a year
-    by 2026? '
-  Link: https://triggerise.bamboohr.com/careers/299?source=aWQ9MjM%3D
 - Job Title: Chief Development Officer
   Location: Global
   Job Description: We are looking for a Chief Development Officer who can deliver
@@ -45,6 +38,12 @@ Jobs:
     Do you want to be a part of an innovative team that uses its technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=274&source=aWQ9MjM%3D
+- Job Title: Risk Data Analyst
+  Location: Nairobi, Kenya
+  Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
+    Are you detail oriented and analytical in your approach? Read on to hear more
+    about our Risk Analyst role!
+  Link: https://triggerise.bamboohr.com/careers/307?source=aWQ9MjM%3D
 - Job Title: Country Director
   Location: Johannesburg, South Africa
   Job Description: 'Would you enjoy leading a team of people to ensure our programs''
