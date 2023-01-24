@@ -32,12 +32,6 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
-- Job Title: Java Backend Engineer
-  Location: Portugal, Kenya, or South Africa
-  Job Description: Are you a problem-solver with a background in software development?
-    Do you want to be a part of an innovative team that uses its technical skills
-    to make a positive impact? Then this role could be for you!
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=274&source=aWQ9MjM%3D
 - Job Title: Risk Data Analyst
   Location: Nairobi, Kenya
   Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
