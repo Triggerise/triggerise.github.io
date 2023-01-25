@@ -142,11 +142,6 @@ Our People:
   Location: Amsterdam, The Netherlands
   LinkedIn: https://nl.linkedin.com/in/fiona-de-korte-bab79883
   Image: "/uploads/fiona-team-image.webp"
-- Name: André
-  Role: Engineering Manager
-  Location: Porto, Portugal
-  LinkedIn: André Dias
-  Image: "/uploads/andre-team-image.webp"
 - Name: Akshar
   Role: Engineering Manager
   Location: Cape Town, South Africa
