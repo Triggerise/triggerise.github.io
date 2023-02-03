@@ -32,6 +32,13 @@ Jobs:
     tools that allow for speedy development of software? Would you enjoy working in
     an Agile way and are excited by the prospect of using technology to create impact. '
   Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
+- Job Title: Scala Backend Engineer
+  Location: South Africa, and Kenya
+  Job Description: 'You’ve gained experience in the software development space, love
+    working with functional programming languages, and want to make an impact with
+    your tech skills & knowledge. Read on to find out more about our Scala Backend
+    Engineer position! '
+  Link: https://triggerise.bamboohr.com/careers/309?source=aWQ9MjM%3D
 - Job Title: Risk Data Analyst
   Location: Nairobi, Kenya
   Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
@@ -63,19 +70,6 @@ Jobs:
     ecosystems? Would you enjoy mapping markets and building relationships? Please
     continue reading to find out more about our Ecosystem Launcher role! '
   Link: https://triggerise.bamboohr.com/careers/302?source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
-  Location: Ouagadougou, Burkina Faso
-  Job Description: Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role!
-  Link: https://triggerise.bamboohr.com/careers/300?source=aWQ9MjM%3D
-- Job Title: Data Protection Officer
-  Location: Global
-  Job Description: Do you have practical experience within the data protection space?
-    Would you be able to bring a fresh perspective to managing data privacy risks,
-    while providing advice and oversight across all aspects of data privacy in a global
-    oranisation?  Read more to find out about the role of Data Protection Officer.
-  Link: https://triggerise.bamboohr.com/careers/243?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
