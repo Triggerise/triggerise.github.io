@@ -26,12 +26,13 @@ Jobs:
     and broaden donor awareness of Triggerise? Read on to hear more about the role
     of CDO at Triggerise! 
   Link: https://triggerise.bamboohr.com/careers/306?source=aWQ9MjM%3D
-- Job Title: DevOps Team Lead
-  Location: Global
-  Job Description: 'Do you have experience leading a team to build, test & maintain
-    tools that allow for speedy development of software? Would you enjoy working in
-    an Agile way and are excited by the prospect of using technology to create impact. '
-  Link: https://triggerise.bamboohr.com/jobs/view.php?id=246&source=aWQ9MjM%3D
+- Job Title: Mobile Engineer
+  Location: Portugal, South Africa, Kenya & Ethiopia
+  Job Description: Do you have experience creating and maintaining software that enables
+    mobile apps to function?  Are you looking to utilize your skillset whilst having
+    a positive impact with tech? Read on to find out more about our Mobile Engineer
+    position!
+  Link: https://triggerise.bamboohr.com/careers/310?source=aWQ9MjM%3D
 - Job Title: Scala Backend Engineer
   Location: South Africa, and Kenya
   Job Description: 'You’ve gained experience in the software development space, love
@@ -52,24 +53,6 @@ Jobs:
     manager that can help the team grow? Please continue reading to find out more
     about our Country Director role! '
   Link: https://triggerise.bamboohr.com/careers/305?source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Johannesburg, South Africa
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure they are knowledgeable about our platform and its offers?
-    Please continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/304?source=aWQ9MjM%3D
-- Job Title: 'Ecosystem Supporter '
-  Location: Johannesburg, South Africa
-  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role! '
-  Link: https://triggerise.bamboohr.com/careers/303?source=aWQ9MjM%3D
-- Job Title: Ecosystem Launcher
-  Location: Johannesburg, South Africa
-  Job Description: 'Are you able to identify potential opportunities and set up new
-    ecosystems? Would you enjoy mapping markets and building relationships? Please
-    continue reading to find out more about our Ecosystem Launcher role! '
-  Link: https://triggerise.bamboohr.com/careers/302?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
