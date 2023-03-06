@@ -40,12 +40,12 @@ Jobs:
     your tech skills & knowledge. Read on to find out more about our Scala Backend
     Engineer position! '
   Link: https://triggerise.bamboohr.com/careers/309?source=aWQ9MjM%3D
-- Job Title: Risk Data Analyst
-  Location: Nairobi, Kenya
-  Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
-    Are you detail oriented and analytical in your approach? Read on to hear more
-    about our Risk Analyst role!
-  Link: https://triggerise.bamboohr.com/careers/307?source=aWQ9MjM%3D
+- Job Title: Machine Learning Engineer
+  Location: South Africa / Kenya / Portugal
+  Job Description: Are you a Machine Learning Engineer looking for your next challenge?
+    Do you love to create algorithms that help the organisation predict and detect
+    significant data patterns? Look no further! Continue reading, and apply!
+  Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
 - Job Title: Country Director
   Location: Johannesburg, South Africa
   Job Description: 'Would you enjoy leading a team of people to ensure our programs''
