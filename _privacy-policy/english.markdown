@@ -1,7 +1,6 @@
 ---
 title: English
-date: 2021-04-17 10:17:00 Z
-layout: simple
+date: 2023-03-13 10:17:00 Z
 description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
   your data, privacy and personal data is very important to Triggerise Stitching and
   its affiliates - Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia
@@ -294,5 +293,6 @@ description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\
   our Privacy Policy in the future will be posted on this page, and where appropriate,
   notified to you by sms, email or other notifications. We therefore encourage you
   to review it from time to time to stay informed of how we are processing your data.\n\n"
+layout: simple
 ---
 
