@@ -4,100 +4,100 @@ date: 2023-03-13 10:17:00 Z
 description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
   your data, privacy and personal data is very important to Triggerise Stitching and
   its affiliates - Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia
-  branch, Triggerise BV, Triggerise South Africa NPC and Triggerise LABS Unipessoal
+  branch, Triggerise BV, Triggerise South Africa NPC, and Triggerise LABS Unipessoal
   Lda  (“us”, “our” or “we”). It is vitally important to us that our customers (the
-  “users”) feel secure when using the services, products and information that we provide
-  through our various platforms.\n\n This policy sets out the basis on which any personal
-  data we collect from you, or that you provide to us, will be processed. Please read
-  this Privacy Policy carefully to understand the types of data we collect from you,
-  how we use it, the circumstances under which we will share it with third parties,
-  and your rights in relation to the personal data you provide us.\n\n When using
-  our platform, apps, sites (the “Services”), you will be asked to indicate your acknowledgment
-  of, and where applicable, give your consent to the practices described in this policy.\n\n
-  This Privacy Policy applies to data processing by: Triggerise Stichting and its
-  affiliates and partners in Burkina Faso, Cameroon, Kenya, Ethiopia Portugal, South
-  Africa and the Netherlands.\n\n This privacy notice is issued on behalf of Triggerise
-  Stichting and its affiliates so when we mention “Triggerise, “we”, “us” or “our”
-  in this privacy notice, we are referring to the relevant Triggetise affiliate responsible
-  for processing your data. We will let you know which entity will be the controller
-  for your data when you use our services.\n\n Questions, comments and requests regarding
-  this Privacy Policy are welcome and should be addressed to <privacy@triggerise.org>.
-  Our Data Protection Officer is Felix Maoka.\n\n **SECTION 2 – GENERAL OVERVIEW OF
-  OUR DATA PROCESSING IN CONNECTION WITH SERVICES, PRODUCTS AND INFORMATION**\n\n
-  You will be asked to provide us with your information when you:\n\n •\tfill in forms
-  on our websites, our applications, our digital assets (such as Facebook Messenger,
-  telegram, Whatsapp, or correspond with us by SMS, phone or email;\n\n •\tregister/enroll
-  to use our services, products or offers, subscribe to our newsletter, promotional
-  emails or other marketing materials;\n\n •\tuse the services or products that you
-  receive through our platforms;\n\n •\trate the services or products that you receive
-  on our platforms\n\n •\treport a problem with services or products received; or\n\n
-  •\tComplete any surveys or studies that we use for research purposes to evaluate
-  our services or improve the quality of services that we provide to you\n\n The information
-  you will be asked to provide us for these purposes may include your gender, date
-  of birth, phone number, products or services you received, locations of places where
-  you received a product, service or information, redeemed rewards or further information
-  required to verify your identity such as an image of your face or your voice.\n\n
-  **SECTION 3 – SPECIFIC PROCESSING ACTIVITIES, TYPE AND PURPOSE OF THEIR USE** **3.1\tWHEN
-  YOU USE OUR WEBSITES** **Types of data:** IP address of the requesting device, date
-  and time of access, name and URL of the requested file, website from which access
-  is obtained (“Referrer URL”), browser used and, where applicable, your device’s
-  operating system and the identity of your access provider.\n\n **Uses of that data:**
-  We use the above data to provide you with access to our Website, ensure that the
-  Website can establish an internet connection smoothly and is easy to use; to analyse
-  the system security and stability, as well as for additional administrative purposes.\n\n
+  “users”) feel secure when using the services, products, and information that we
+  provide through our various platforms.\n\n This policy sets out the basis on which
+  any personal data we collect from you, or that you provide to us, will be processed.
+  Please read this Privacy Policy carefully to understand the types of data we collect
+  from you, how we use it, the circumstances under which we will share it with third
+  parties, and your rights in relation to the personal data you provide us.\n\n When
+  using our platform, apps, sites (the “Services”), you will be asked to indicate
+  your acknowledgment of, and where applicable, give your consent to the practices
+  described in this policy.\n\n This Privacy Policy applies to data processing by:
+  Triggerise Stichting and its affiliates and partners in Burkina Faso, Cameroon,
+  Kenya, Ethiopia Portugal, South Africa, and the Netherlands.\n\n This privacy notice
+  is issued on behalf of Triggerise Stichting and its affiliates so when we mention
+  “Triggerise, “we”, “us” or “our” in this privacy notice, we are referring to the
+  relevant Triggetise affiliate responsible for processing your data. We will let
+  you know which entity will be the controller for your data when you use our services.\n\n
+  Questions, comments and requests regarding this Privacy Policy are welcome and should
+  be addressed to <privacy@triggerise.org>. Our Data Protection Officer is Felix Maoka.\n\n
+  **SECTION 2 – GENERAL OVERVIEW OF OUR DATA PROCESSING IN CONNECTION WITH SERVICES,
+  PRODUCTS AND INFORMATION**\n\n You will be asked to provide us with your information
+  when you:\n\n •\tfill in forms on our websites, our applications, our digital assets
+  (such as Facebook Messenger, Telegram, Whatsapp, or correspond with us by SMS, phone,
+  or email;\n\n •\tregister/enroll to use our services, products or offers, subscribe
+  to our newsletter, promotional emails or other marketing materials;\n\n •\tuse the
+  services or products that you receive through our platforms;\n\n •\trate the services
+  or products that you receive on our platforms\n\n •\treport a problem with services
+  or products received; or\n\n •\tComplete any surveys or studies that we use for
+  research purposes to evaluate our services or improve the quality of services that
+  we provide to you\n\n The information you will be asked to provide us for these
+  purposes may include your gender, date of birth, phone number, products or services
+  you received, locations of places where you received a product, service or information,
+  redeemed rewards or further information required to verify your identity such as
+  an image of your face or your voice.\n\n **SECTION 3 – SPECIFIC PROCESSING ACTIVITIES,
+  TYPE AND PURPOSE OF THEIR USE** **3.1\tWHEN YOU USE OUR WEBSITES** **Types of data:**
+  IP address of the requesting device, date and time of access, name and URL of the
+  requested file, website from which access is obtained (“Referrer URL”), browser
+  used and, where applicable, your device’s operating system and the identity of your
+  access provider.\n\n **Uses of that data:** We use the above data to provide you
+  with access to our Website, ensure that the Website can establish an internet connection
+  smoothly and is easy to use; to analyse the system security and stability, as well
+  as for additional administrative purposes.\n\n **Use justification:** Legitimate
+  interests (Article 6 (1) (f) GDPR). Our legitimate interest is based on the data
+  use purposes listed above. We do not use the data collected for the purpose of identifying
+  you. You are not obliged to provide the above personal data. However, you will not
+  be able to access the websites if such personal data are not provided.\n\n **Storage
+  duration:** The data that allows us to identify a user is removed after 14 days,
+  unless any security-relevant event occurs (e.g. a DDoS attack). If there is a security-relevant
+  event, server log files are stored until the security-relevant event has been eliminated
+  and clarified in full.\n\n **3.2\tWHEN YOU REGISTER OR ENROL TO RECEIVE OR PROVIDE
+  SERVICES OR PRODUCTS ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:**
+  gender, date of birth, national identification, police clearance, telephone number,
+  operating licenses, image of your face, sound of your voice\n\n **Uses of that data:**
+  We use the above data to provide you with a user account and access to services,
+  products and information that we provide through our platforms. It is not possible
+  to access or validate our services if the (non-optional) data is not provided.\n\n
   **Use justification:** Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate
-  interest is based on the data use purposes listed above. We do not use the data
-  collected for the purpose of identifying you. You are not obliged to provide the
-  above personal data. However, you will not be able to access the websites if such
-  personal data are not provided.\n\n **Storage duration:** The data that allows us
-  to identify a user is removed after 14 days, unless any security-relevant event
-  occurs (e.g. a DDoS attack). If there is a security-relevant event, server log files
-  are stored until the security-relevant event has been eliminated and clarified in
-  full.\n\n **3.2\tWHEN YOU REGISTER OR ENROL TO RECEIVE OR PROVIDE SERVICES OR PRODUCTS
-  ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:** gender, date of
-  birth, national identification, police clearance, telephone number, operating licenses,
-  image of your face, sound of your voice\n\n **Uses of that data:** We use the above
-  data to provide you with a user account and access to services, products and information
-  that we provide through our platforms. It is not possible to access or validate
-  our services if the (non-optional) data is not provided.\n\n **Use justification:**
-  Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate interests are to use
-  this data (a) for the purpose of identifying you to ensure that you are eligible
-  to receive the charitable services and products that we offer or in the case of
-  a provider or mobiliser, to enroll users or to provide services (b) to prevent fraud
-  on our platform (c) to meet our legal obligation to ensure that only licensed and
-  vetted providers or mobilisers with no criminal cases can enroll users or provide
-  services on our platform.\n\n **Storage duration:** Your data is deleted or anonymized
-  (and cannot be associated with a specific natural person) when you request deletion
-  of your account or when as a mobiliser or provider, you no longer can enroll users
-  or provide services or products on our platform due to termination or separation.
-  If your account is inactive for more than 12 months, we will contact you to check
-  whether you wish to continue using our services. If you then leave your user account
-  unused for a subsequent 12 months, we will delete your account and anonymize your
-  data (such that it cannot be associated with a specific natural person).\n\n **3.3\tWHEN
-  YOU RECEIVE SERVICES, PRODUCTS OR INFORMATION ON THE PLATFORMS THAT WE MANAGE**\n\n
-  **Types of data include:** gender, date of birth, image of your face, type of service,
-  product or information that you received/provided or validated,  user that provided
-  you with the service/ or whose service you validatedt date you received/provided
-  the service, product or information,  your assessment of the quality of the services,
-  products and information that you received, whether you redeemed incentives such
-  as loyalty points (‘Tiko Miles’) and if so, where you redeemed the incentives/loyalty
-  points and how much of the incentives/loyalty points you spent\n\n **Uses of that
-  data:** We use the above data to provide you with access to services, products and
-  information that we provide through our platforms. We also use the data to improve
-  the quantity and quality of  service, products and information that you recieve,
-  to verify and validate the services, to verify your identity products and information
-  you received, to reimburse vendors and service providers for services, products
-  and information you received, verify your eligibility to access and utilise services,
-  products and information from our platforms,to remind you when you are due to return
-  to receive follow on services and prodiucrs, to implement research interventions
-  such as randomized controlled trials, to evaluate the effectiveness of research
-  interventions, to report to funders of the services, products or information provided
-  on our platforms; to conduct user research and to follow up with you on how we can
-  improve the quality of the services, products and information that you received
-  on our platforms. It is not possible to access our services, product or information
-  (non-optional) if data is not provided.\n\n **Use justification:** Legitimate interests
-  (Article 6 (1) (f) GDPR). Our legitimate interests are to use this data (a) for
-  the purpose of identifying you to ensure that you are eligible to receive/provide
+  interests are to use this data (a) for the purpose of identifying you to ensure
+  that you are eligible to receive the charitable services and products that we offer
+  or in the case of a provider or mobiliser, to enroll users or to provide services
+  (b) to prevent fraud on our platform (c) to meet our legal obligation to ensure
+  that only licensed and vetted providers or mobilisers with no criminal cases can
+  enroll users or provide services on our platform.\n\n **Storage duration:** Your
+  data is deleted or anonymized (and cannot be associated with a specific natural
+  person) when you request deletion of your account or when as a mobiliser or provider,
+  you no longer can enroll users or provide services or products on our platform due
+  to termination or separation. If your account is inactive for more than 12 months,
+  we will contact you to check whether you wish to continue using our services. If
+  you then leave your user account unused for a subsequent 12 months, we will delete
+  your account and anonymize your data (such that it cannot be associated with a specific
+  natural person).\n\n **3.3\tWHEN YOU RECEIVE SERVICES, PRODUCTS OR INFORMATION ON
+  THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:** gender, date of birth,
+  image of your face, type of service, product or information that you received/provided
+  or validated,  user that provided you with the service/ or whose service you validatedt
+  date you received/provided the service, product or information,  your assessment
+  of the quality of the services, products and information that you received, whether
+  you redeemed incentives such as loyalty points (‘Tiko Miles’) and if so, where you
+  redeemed the incentives/loyalty points and how much of the incentives/loyalty points
+  you spent\n\n **Uses of that data:** We use the above data to provide you with access
+  to services, products and information that we provide through our platforms. We
+  also use the data to improve the quantity and quality of  service, products and
+  information that you recieve, to verify and validate the services, to verify your
+  identity products and information you received, to reimburse vendors and service
+  providers for services, products and information you received, verify your eligibility
+  to access and utilise services, products and information from our platforms,to remind
+  you when you are due to return to receive follow on services and prodiucrs, to implement
+  research interventions such as randomized controlled trials, to evaluate the effectiveness
+  of research interventions, to report to funders of the services, products or information
+  provided on our platforms; to conduct user research and to follow up with you on
+  how we can improve the quality of the services, products and information that you
+  received on our platforms. It is not possible to access our services, product or
+  information (non-optional) if data is not provided.\n\n **Use justification:** Legitimate
+  interests (Article 6 (1) (f) GDPR). Our legitimate interests are to use this data
+  (a) for the purpose of identifying you to ensure that you are eligible to receive/provide
   the charitable services and products that we offer or in the case of a provider
   or mobiliser, to to provide services (b) to prevent fraud on our platform and (c
   ) for other uses stated above\n\n **Storage duration:** Your data is deleted or
