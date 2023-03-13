@@ -33,26 +33,12 @@ Jobs:
     a positive impact with tech? Read on to find out more about our Mobile Engineer
     position!
   Link: https://triggerise.bamboohr.com/careers/310?source=aWQ9MjM%3D
-- Job Title: Scala Backend Engineer
-  Location: South Africa, and Kenya
-  Job Description: 'You’ve gained experience in the software development space, love
-    working with functional programming languages, and want to make an impact with
-    your tech skills & knowledge. Read on to find out more about our Scala Backend
-    Engineer position! '
-  Link: https://triggerise.bamboohr.com/careers/309?source=aWQ9MjM%3D
 - Job Title: Machine Learning Engineer
   Location: South Africa / Kenya / Portugal
   Job Description: Are you a Machine Learning Engineer looking for your next challenge?
     Do you love to create algorithms that help the organisation predict and detect
     significant data patterns? Look no further! Continue reading, and apply!
   Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
-- Job Title: Country Director
-  Location: Johannesburg, South Africa
-  Job Description: 'Would you enjoy leading a team of people to ensure our programs''
-    effective implementation in South Africa? Are you an organised and data-driven
-    manager that can help the team grow? Please continue reading to find out more
-    about our Country Director role! '
-  Link: https://triggerise.bamboohr.com/careers/305?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
