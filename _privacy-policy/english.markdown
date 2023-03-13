@@ -4,7 +4,7 @@ date: 2023-03-13 10:17:00 Z
 description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
   your data, privacy and personal data is very important to Triggerise Stitching and
   its affiliates - Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia
-  branch,, Triggerise BV, Triggerise South Africa NPC and Triggerise LABS Unipessoal
+  branch, Triggerise BV, Triggerise South Africa NPC and Triggerise LABS Unipessoal
   Lda  (“us”, “our” or “we”). It is vitally important to us that our customers (the
   “users”) feel secure when using the services, products and information that we provide
   through our various platforms.\n\n This policy sets out the basis on which any personal
