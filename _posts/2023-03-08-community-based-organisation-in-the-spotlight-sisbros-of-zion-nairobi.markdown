@@ -9,7 +9,7 @@ tags:
 - support groups
 Author: Triggerise
 heroImage: "/uploads/WhatsApp%20Image%202023-02-19%20at%2007.45.05.jpeg"
-layout: news
+layout: post
 ---
 
 ‘We strive to build an ecosystem where youth and young women unlock their potential to become the true agents of change within society,’ says Collins, one of the co-founders of Sisbros of Zion, a community-based organisation (CBO) in Nairobi.
