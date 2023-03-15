@@ -12,7 +12,7 @@ heroImage: "/uploads/WhatsApp%20Image%202023-02-19%20at%2007.45.05.jpeg"
 layout: post
 ---
 
-‘We strive to build an ecosystem where youth and young women unlock their potential to become the true agents of change within society,’ says Collins, one of the co-founders of Sisbros of Zion, a community-based organisation (CBO) in Nairobi.
+‘We strive to build an ecosystem where youth and young women unlock their potential to become the true agents of change within society,’ says Collins, one of the co-founders of [Sisbros of Zion](https://www.facebook.com/SisbroCBO), a community-based organisation (CBO) in Nairobi.
 
 Established by Collins and Roselyn in 2016, the pair lead a team of 75 mobilisers who engage with the youth in communities from low-income areas like Mathare and Kayole. To date, Sisbro has enrolled over 20,000 young people onto the Tiko platform who have accessed over 20,000 sexual and reproductive health (SRH) and related services. For Tiko and the CBOs we partner with, our aim is to effect and encourage long-term, sustainable change in the way young people think about and approach their health.
 
