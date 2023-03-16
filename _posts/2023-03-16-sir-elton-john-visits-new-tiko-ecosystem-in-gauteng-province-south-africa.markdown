@@ -13,7 +13,6 @@ heroImage: "/uploads/EJ%20snap.png"
 layout: post
 ---
 
-![EJ snap.png](/uploads/EJ%20snap.png)\
 *Elton John AIDS Foundation Chairman David Furnish, Sir Elton John, and Elton John AIDS Foundation CEO Anne Aslett listen to a Tiko member describe her experience of day-to-day life in South Africa*
 
 ‘No one should suffer from stigma, fear, or lack of access to treatment anymore – everyone deserves the right to a healthy life,’ says Sir Elton John, who founded the [Elton John AIDS Foundation](https://www.eltonjohnaidsfoundation.org/) (EJAF) in 1992. For over 30 years, Sir Elton and his team have dedicated millions of dollars and invested in interventions around the world to work towards the eradication of AIDS by 2030. ‘We will not leave anyone behind,’ he says.
