@@ -2,6 +2,7 @@
 title: Sir Elton John visits new Tiko ecosystem in Gauteng province, South Africa
 date: 2023-03-16 08:04:00 Z
 permalink: "/news/sir-elton-john-visits-triggerise-south-africa"
+published: false
 categories:
 - News
 tags:
