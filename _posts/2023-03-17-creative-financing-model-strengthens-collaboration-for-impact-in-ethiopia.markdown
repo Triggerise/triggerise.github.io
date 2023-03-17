@@ -35,7 +35,7 @@ The initial stages of this programme were challenging. For approximately six mon
 \
 **Championing the OBF model: feedback from our ecosystems**
 \
-The OBF contract for 2022 promoted cross-team cooperation, communication, and assisted the team in prioritising their targets. Mekdes Hailu, an Ecosystem Trainer, says, ‘Reaching towards a common objective, we developed a strong team spirit. The OBF helped me track my activities towards results and, in working with different teams, I increased my knowledge of various aspects of our operations.’\
+The OBF contract for 2022 promoted cross-team cooperation, communication, and assisted the team in prioritising their targets. Mekdes Hailu, an Ecosystem Trainer, says, ‘Reaching towards a common objective, we developed a strong team spirit. The OBF helped me track my activities towards results and, in working with different teams, I increased my knowledge of various aspects of our operations.’
 
 \
 It was this cohesion and clarity that led the team to over-achieve on these targets. Through the streamlined approach to implementation, the team on the ground garnered invaluable experience about what it takes to transform a programme’s performance in pursuit of a common goal. The focused outcomes of the OBF encouraged the team to pull together and create more consistent support and access to SRH care for the adolescents in the target groups around Bahir Dar and Addis Ababa. ‘At first it was stressful,’ says Kidist Zinabu, an Ecosystem Launcher, ‘but because of the OBF targets we recalibrated our approach to become more strategic. It all felt worth it; the team passed through a difficult time and we’re now in a more stable place.’
