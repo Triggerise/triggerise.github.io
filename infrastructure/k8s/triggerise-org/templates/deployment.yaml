@@ -21,6 +21,15 @@ spec:
       annotations:
         scrappable: "true"
     spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: kubernetes.io/arch
+                operator: In
+                values:
+                - amd64
       serviceAccountName: "{{.Release.Name}}"
       containers:
         - name: main
