@@ -39,6 +39,12 @@ Jobs:
     Do you love to create algorithms that help the organisation predict and detect
     significant data patterns? Look no further! Continue reading, and apply!
   Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
+- Job Title: Programme Lead
+  Location: Johannesburg, South Africa
+  Job Description: Would you like to work together with a supportive and young-spirited
+    team to make an impact in this world? Then you might love working with us! Read
+    more about our open position as Programme Lead.
+  Link: https://triggerise.bamboohr.com/careers/317?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
