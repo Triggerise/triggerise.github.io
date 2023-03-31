@@ -26,13 +26,13 @@ Jobs:
     and broaden donor awareness of Triggerise? Read on to hear more about the role
     of CDO at Triggerise! 
   Link: https://triggerise.bamboohr.com/careers/306?source=aWQ9MjM%3D
-- Job Title: Mobile Engineer
-  Location: Portugal, South Africa, Kenya & Ethiopia
-  Job Description: Do you have experience creating and maintaining software that enables
-    mobile apps to function?  Are you looking to utilize your skillset whilst having
-    a positive impact with tech? Read on to find out more about our Mobile Engineer
-    position!
-  Link: https://triggerise.bamboohr.com/careers/310?source=aWQ9MjM%3D
+- Job Title: Marketing & Communications Manager
+  Location: Johannesburg, South Africa
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    Manager!
+  Link: https://triggerise.bamboohr.com/careers/318?source=aWQ9MjM%3D
 - Job Title: Machine Learning Engineer
   Location: South Africa / Kenya / Portugal
   Job Description: Are you a Machine Learning Engineer looking for your next challenge?
@@ -45,6 +45,12 @@ Jobs:
     team to make an impact in this world? Then you might love working with us! Read
     more about our open position as Programme Lead.
   Link: https://triggerise.bamboohr.com/careers/317?source=aWQ9MjM%3D
+- Job Title: Graphic Designer
+  Location: Portugal, South Africa, Kenya or Ethiopia (Remote)
+  Job Description: Are you a Graphic Designer with a passion for creating visually
+    stunning designs for digital and print platforms? Apply now and let's work together
+    to inspire positive change in people's lives!
+  Link: https://triggerise.bamboohr.com/careers/315?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
