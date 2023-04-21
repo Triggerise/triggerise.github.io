@@ -18,20 +18,25 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: Chief Development Officer
-  Location: Global
-  Job Description: We are looking for a Chief Development Officer who can deliver
-    our fundraising targets to achieve our ambitious strategic goals for the coming
-    years. Can you set the strategy to cultivate and create new fundraising possibilities
-    and broaden donor awareness of Triggerise? Read on to hear more about the role
-    of CDO at Triggerise! 
-  Link: https://triggerise.bamboohr.com/careers/306?source=aWQ9MjM%3D
 - Job Title: Machine Learning Engineer
   Location: South Africa / Kenya / Portugal
   Job Description: Are you a Machine Learning Engineer looking for your next challenge?
     Do you love to create algorithms that help the organisation predict and detect
     significant data patterns? Look no further! Continue reading, and apply!
   Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
+- Job Title: Data Analyst
+  Location: Portugal, South Africa, Kenya, or Ethiopia.
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualization, and data modeling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst!
+  Link: https://triggerise.bamboohr.com/careers/321?source=aWQ9MjM%3D
+- Job Title: Ecosystem Supporter
+  Location: Homabay, Kenya
+  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Supporter role! '
+  Link: https://triggerise.bamboohr.com/careers/325?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
