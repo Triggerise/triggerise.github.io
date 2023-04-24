@@ -24,13 +24,6 @@ Jobs:
     Do you love to create algorithms that help the organisation predict and detect
     significant data patterns? Look no further! Continue reading, and apply!
   Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
-- Job Title: Data Analyst
-  Location: Portugal / South Africa / Kenya / Ethiopia
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualization, and data modeling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst!
-  Link: https://triggerise.bamboohr.com/careers/321?source=aWQ9MjM%3D
 - Job Title: Ecosystem Supporter
   Location: Homabay, Kenya
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
