@@ -18,12 +18,6 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: Machine Learning Engineer
-  Location: South Africa / Kenya / Portugal
-  Job Description: Are you a Machine Learning Engineer looking for your next challenge?
-    Do you love to create algorithms that help the organisation predict and detect
-    significant data patterns? Look no further! Continue reading, and apply!
-  Link: https://triggerise.bamboohr.com/careers/314?source=aWQ9MjM%3D
 - Job Title: Ecosystem Supporter
   Location: Homabay, Kenya
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
