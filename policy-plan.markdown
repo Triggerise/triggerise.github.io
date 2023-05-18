@@ -102,7 +102,7 @@ description: |-
 
   Members of the Supervisory Board
 
-  Lisa Simutami
+  * Lisa Simutami
   Leslie Pascaud
   Leontine Gast
   Werner Sakovska
