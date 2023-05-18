@@ -80,9 +80,11 @@ description: |-
   The 2023 annual operating budget of EUR 12,382,053 was presented, discussed and approved by the Supervisory board at the meeting held on 9 December 2022.
 
   **Organisation**
+
   Name: Triggerise Stichting
 
   RSIN: 854488315
+
   KvK: 61787248
 
   Address: Mauritskade 63, Amsterdam, 1092AD
