@@ -25,15 +25,14 @@ description: |-
   2.1 The objects of the Foundation are to create, foster, invest and/or manage businesses and philanthropic solutions to underserved market segments worldwide.
 
   2.2 The Foundation seeks to realize its objects, inter alia, by:
-
-  &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; a. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
+  > a. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
   requests, publicity, campaigns, and the origination of fundraising activities and promotions;
 
-  b. managing and using such funds, donations and any other income for the realisation of the objective described above, through investments into and/or donations to various initiatives worldwide, and the activities referred to in this article;
+  >b. managing and using such funds, donations and any other income for the realisation of the objective described above, through investments into and/or donations to various initiatives worldwide, and the activities referred to in this article;
 
-  c. consulting, supporting and cooperating with organisations, individuals and institutions that support the objective described above;
+  >c. consulting, supporting and cooperating with organisations, individuals and institutions that support the objective described above;
 
-  d. any and all things that may be conducive to the realisation of the objective described above, in the broadest sense of the word.
+  >d. any and all things that may be conducive to the realisation of the objective described above, in the broadest sense of the word.
 
   2.3 The funds of the Foundation consist of grants, donations, bequests, assets obtained from testamentary dispositions and other benefits.
 
