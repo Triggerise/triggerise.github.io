@@ -26,7 +26,7 @@ description: |-
 
   2.2 The Foundation seeks to realize its objects, inter alia, by:
 
-  1. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
+  a. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
   requests, publicity, campaigns, and the origination of fundraising activities and promotions;
 
   b. managing and using such funds, donations and any other income for the realisation of the objective described above, through investments into and/or donations to various initiatives worldwide, and the activities referred to in this article;
