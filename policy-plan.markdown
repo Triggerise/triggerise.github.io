@@ -26,7 +26,7 @@ description: |-
 
   2.2 The Foundation seeks to realize its objects, inter alia, by:
 
-  > a. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
+  a. raising funds and donations from partners, authorities, foundations, associations,institutions, individuals and companies, by means of, among other things, direct
   requests, publicity, campaigns, and the origination of fundraising activities and promotions;
 
   b. managing and using such funds, donations and any other income for the realisation of the objective described above, through investments into and/or donations to various initiatives worldwide, and the activities referred to in this article;
@@ -96,13 +96,13 @@ description: |-
   Benoit Renard
 
   Members of the Supervisory Board:
-  Lisa Simutami
-  Leslie Pascaud
-  Leontine Gast
-  Werner Sakovska
-  Phinah Kodisang
-  Miles Kemplay
-  Julia Sakovska
+  *Lisa Simutami
+  *Leslie Pascaud
+  *Leontine Gast
+  *Werner Sakovska
+  *Phinah Kodisang
+  *Miles Kemplay
+  *Julia Sakovska
 
   The Supervisory Board members are not remunerated in their capacity as Supervisory Board members. All resolutions shall be adopted by an absolute majority of the votes cast.
 
