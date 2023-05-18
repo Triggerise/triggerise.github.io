@@ -91,24 +91,23 @@ description: |-
 
   website: https://triggerise.org/
 
-  Board Director:
-  Benoit Renard
+  Board Director: Benoit Renard
 
-  Members of the Supervisory Board:
+  Members of the Supervisory Board
 
-  Lisa Simutami
+  * Lisa Simutami
 
-  Leslie Pascaud
+  * Leslie Pascaud
 
-  Leontine Gast
+  * Leontine Gast
 
-  Werner Sakovska
+  * Werner Sakovska
 
-  Phinah Kodisang
+  * Phinah Kodisang
 
-  Miles Kemplay
+  * Miles Kemplay
 
-  Julia Sakovska
+  * Julia Sakovska
 
   The Supervisory Board members are not remunerated in their capacity as Supervisory Board members. All resolutions shall be adopted by an absolute majority of the votes cast.
 
