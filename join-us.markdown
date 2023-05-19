@@ -43,6 +43,19 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/330?source=aWQ9MjM%3D
+- Job Title: Backend Scala Engineer
+  Location: Kenya / Portugal / South Africa
+  Job Description: 'Have you gained experience in the software development space?
+    Do you love working with functional programming languages and want to make an
+    impact with your tech skills & knowledge? If yes, read on to find out more about
+    our Backend Scala Engineer position! '
+  Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
+- Job Title: Risk Analyst
+  Location: Mombasa, Kenya
+  Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
+    Are you detail-oriented and analytical in your approach? Read on to hear more
+    about our Risk Data Analyst role!
+  Link: https://triggerise.bamboohr.com/careers/331?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
