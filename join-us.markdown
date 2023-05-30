@@ -68,6 +68,12 @@ Jobs:
     in connecting and supporting various people within an organization? Read more
     to find out about our role as a Field Operations Lead in Kenya.
   Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
+- Job Title: New Business Development Lead
+  Location: United Kingdom
+  Job Description: 'Are you looking for a role where the work that you do sustainably
+    creates an impact on a global scale? Do you wish to be a part of a diverse and
+    multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
+  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
