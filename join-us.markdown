@@ -56,6 +56,18 @@ Jobs:
     Are you detail-oriented and analytical in your approach? Read on to hear more
     about our Risk Data Analyst role!
   Link: https://triggerise.bamboohr.com/careers/331?source=aWQ9MjM%3D
+- Job Title: " Grants & Treasury Manager"
+  Location: Portugal / South Africa / Kenya / Ethiopia
+  Job Description: Are you experienced in dealing with financial budgeting & donor
+    grant reporting? Do you want to develop budgets for new business opportunities?
+    Read on to hear more about the Grants & Treasury Manager position!
+  Link: https://triggerise.bamboohr.com/careers/323?source=aWQ9MjM%3D
+- Job Title: Field Operations Lead
+  Location: Kisumu, Kenya
+  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and supporting various people within an organization? Read more
+    to find out about our role as a Field Operations Lead in Kenya.
+  Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
