@@ -50,12 +50,6 @@ Jobs:
     impact with your tech skills & knowledge? If yes, read on to find out more about
     our Backend Scala Engineer position! '
   Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
-- Job Title: Risk Analyst
-  Location: Mombasa, Kenya
-  Job Description: Do you enjoy identifying trends to spot potential fraud risk areas?
-    Are you detail-oriented and analytical in your approach? Read on to hear more
-    about our Risk Data Analyst role!
-  Link: https://triggerise.bamboohr.com/careers/331?source=aWQ9MjM%3D
 - Job Title: " Grants & Treasury Manager"
   Location: Portugal / South Africa / Kenya / Ethiopia
   Job Description: Are you experienced in dealing with financial budgeting & donor
