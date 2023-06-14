@@ -19,19 +19,6 @@ Values:
     of bringing meaningful change to the world.
 Jobs:
 - Job Title: Ecosystem Supporter
-  Location: Homabay, Kenya
-  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role! '
-  Link: https://triggerise.bamboohr.com/careers/325?source=aWQ9MjM%3D
-- Job Title: Programme Lead
-  Location: Nairobi, Kenya
-  Job Description: Are you an experienced Programme Lead looking for a new challenge?
-    Do you have a passion for driving positive change and making a difference in people's
-    lives? We're seeking a talented and motivated individual to join our team as a
-    Programme Lead.
-  Link: https://triggerise.bamboohr.com/careers/327?source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
   Location: Ouagadougou/Bobo-Dioulasso, Burkina Faso
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
     ecosystem to help solve any issues or answer any questions that they may have?
