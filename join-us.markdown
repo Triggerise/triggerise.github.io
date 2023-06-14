@@ -18,6 +18,19 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
+- Job Title: Backend Scala Engineer
+  Location: Kenya / Portugal / South Africa
+  Job Description: 'Have you gained experience in the software development space?
+    Do you love working with functional programming languages and want to make an
+    impact with your tech skills & knowledge? If yes, read on to find out more about
+    our Backend Scala Engineer position! '
+  Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
+- Job Title: Field Operations Lead
+  Location: Kisumu, Kenya
+  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
+    in connecting and supporting various people within an organization? Read more
+    to find out about our role as a Field Operations Lead in Kenya.
+  Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
 - Job Title: Ecosystem Supporter
   Location: Ouagadougou/Bobo-Dioulasso, Burkina Faso
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
@@ -30,31 +43,18 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/330?source=aWQ9MjM%3D
-- Job Title: Backend Scala Engineer
-  Location: Kenya / Portugal / South Africa
-  Job Description: 'Have you gained experience in the software development space?
-    Do you love working with functional programming languages and want to make an
-    impact with your tech skills & knowledge? If yes, read on to find out more about
-    our Backend Scala Engineer position! '
-  Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
-- Job Title: " Grants & Treasury Manager"
-  Location: Portugal / South Africa / Kenya / Ethiopia
-  Job Description: Are you experienced in dealing with financial budgeting & donor
-    grant reporting? Do you want to develop budgets for new business opportunities?
-    Read on to hear more about the Grants & Treasury Manager position!
-  Link: https://triggerise.bamboohr.com/careers/323?source=aWQ9MjM%3D
-- Job Title: Field Operations Lead
-  Location: Kisumu, Kenya
-  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
-    in connecting and supporting various people within an organization? Read more
-    to find out about our role as a Field Operations Lead in Kenya.
-  Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
 - Job Title: New Business Development Lead
   Location: United Kingdom
   Job Description: 'Are you looking for a role where the work that you do sustainably
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
+- Job Title: 'Accountant '
+  Location: Burkina Faso
+  Job Description: Do you have an eye for detail and a passion for numbers? Are you
+    looking for your next career opportunity to contribute to the growth and success
+    of an international finance department? If so, then this job could be for you!
+  Link: https://triggerise.bamboohr.com/careers/337?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
