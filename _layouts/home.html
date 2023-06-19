@@ -7,12 +7,14 @@ layout: default
     {% assign body = page.Header-Text %}
     {% assign number = page.Home-number %}
     {% assign SubTitle = page.Home-number-text %}
+    {% assign VideoLink = page.Home-video-link %}
     <div class="section padd" data-percentage="90">
-        {% include 3up.html
+        {% include 3upVideo.html
         title=title
         copy=body
         number=number
         sub=SubTitle
+        videoLink=VideoLink
         colour="blue"
         colourTwo="cream"
         colourThree="green"
