@@ -1,0 +1,64 @@
+<div class="t-three" uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 100">
+    <div class="t-three-top flex {{include.colour}}">
+        <div class="wrapper flex">
+            <h1 class="text-colour-{{include.textColor}} t-three-title t-three-title-custom">{{include.title}}</h1>
+        </div>
+    </div>
+    <div class="t-three-bottom flex {{include.colourTwo}}">
+        <div class="t-two {{include.colourTwo}} left video-left-column">
+            <iframe src="{{include.videoLink}}; rel=0&amp;modestbranding=1" height="100%"
+                width="100%" aria-label="Tiko Africa" loading="lazy" frameborder="0"
+                allow="accelerometer; picture-in-picture" allowfullscreen>
+            </iframe>
+        </div>
+        <div class="t-two {{include.colourThree}} {{include.classList}}">
+            <div class="dot-wrapper">
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+            </div>
+            <div class="dot-wrapper">
+                <div class="line"></div>
+                <div class="dot"></div>
+                <div class="line"></div>
+            </div>
+            <div style="opacity: 0;" class="dot-wrapper hidden-on-mobile">
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+            </div>
+            <div class="inner-wrapper">
+                <h3 class="text-colour-{{include.textColorTwo}} t-three-sub extra-margin">{{include.sub}}</h3>
+                <h1 id="countup" class="text-colour-{{include.textColorTwo}} bigNumber t-three-number">
+                    {{include.number}}</h1>
+                <small class="text-colour-{{include.textColorTwo}} t-three-number">Total number of girls impacted since
+                    2015. Updated yesterday.</small>
+                <h2>{{include.copy}}</h2>
+            </div>
+            <div style="opacity: 0;" class="dot-wrapper hidden-on-mobile">
+                <div class="line"></div>
+                <div class="dot"></div>
+            </div>
+            <div style="opacity: 0;" class="dot-wrapper hidden-on-mobile">
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+                <div class="line"></div>
+            </div>
+            <div class="dot-wrapper">
+                <div class="line"></div>
+                <div class="dot"></div>
+            </div>
+            <div class="dot-wrapper">
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+                <div class="line"></div>
+                <div class="dot"></div>
+                <div class="line"></div>
+            </div>
+        </div>
+    </div>
+</div>
