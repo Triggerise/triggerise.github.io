@@ -25,36 +25,31 @@ Jobs:
     impact with your tech skills & knowledge? If yes, read on to find out more about
     our Backend Scala Engineer position! '
   Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
+- Job Title: New Business Development Lead
+  Location: Europe
+  Job Description: 'Are you looking for a role where the work that you do sustainably
+    creates an impact on a global scale? Do you wish to be a part of a diverse and
+    multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
+  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
 - Job Title: Field Operations Lead
   Location: Kisumu, Kenya
   Job Description: Do you want to have a direct impact on our mission?  Are you experienced
     in connecting and supporting various people within an organization? Read more
     to find out about our role as a Field Operations Lead in Kenya.
   Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
-- Job Title: Ecosystem Supporter
-  Location: Ouagadougou/Bobo-Dioulasso, Burkina Faso
-  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Supporter role! '
-  Link: https://triggerise.bamboohr.com/careers/329?source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Ouagadougou/Bobo-Dioulasso, Burkina Faso
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
-    Continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/330?source=aWQ9MjM%3D
-- Job Title: New Business Development Lead
-  Location: United Kingdom
-  Job Description: 'Are you looking for a role where the work that you do sustainably
-    creates an impact on a global scale? Do you wish to be a part of a diverse and
-    multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
-  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
 - Job Title: 'Accountant '
   Location: Burkina Faso
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
     looking for your next career opportunity to contribute to the growth and success
     of an international finance department? If so, then this job could be for you!
   Link: https://triggerise.bamboohr.com/careers/337?source=aWQ9MjM%3D
+- Job Title: Product Owner
+  Location: South Africa/Kenya
+  Job Description: Do you enjoy connecting the dots, and building the bridge between
+    the user's needs, and the work the development team is doing?  Are you able to
+    develop a vision of what a product should look like? Sounds like you are fit for
+    the Product Owner position!
+  Link: https://triggerise.bamboohr.com/careers/328?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
