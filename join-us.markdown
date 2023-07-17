@@ -18,25 +18,12 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: Backend Scala Engineer
-  Location: Kenya / Portugal / South Africa
-  Job Description: 'Have you gained experience in the software development space?
-    Do you love working with functional programming languages and want to make an
-    impact with your tech skills & knowledge? If yes, read on to find out more about
-    our Backend Scala Engineer position! '
-  Link: https://triggerise.bamboohr.com/careers/332?source=aWQ9MjM%3D
 - Job Title: New Business Development Lead
   Location: Europe
   Job Description: 'Are you looking for a role where the work that you do sustainably
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Field Operations Lead
-  Location: Kisumu, Kenya
-  Job Description: Do you want to have a direct impact on our mission?  Are you experienced
-    in connecting and supporting various people within an organization? Read more
-    to find out about our role as a Field Operations Lead in Kenya.
-  Link: https://triggerise.bamboohr.com/careers/333?source=aWQ9MjM%3D
 - Job Title: 'Accountant '
   Location: Burkina Faso
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
@@ -50,6 +37,13 @@ Jobs:
     develop a vision of what a product should look like? Sounds like you are fit for
     the Product Owner position!
   Link: https://triggerise.bamboohr.com/careers/328?source=aWQ9MjM%3D
+- Job Title: Data Analyst
+  Location: South Africa
+  Job Description: Are you an analytical and data-driven person? Would you enjoy using
+    data analysis, visualisation and data modelling techniques to provide insights
+    and identify trends in projects that will make an impact? If so, you could be
+    our next Data Analyst!
+  Link: https://triggerise.bamboohr.com/careers/321?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
