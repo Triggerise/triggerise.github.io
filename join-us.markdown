@@ -44,6 +44,13 @@ Jobs:
     and identify trends in projects that will make an impact? If so, you could be
     our next Data Analyst!
   Link: https://triggerise.bamboohr.com/careers/321?source=aWQ9MjM%3D
+- Job Title: Data Engineering Team Lead
+  Location: South Africa / Kenya / Portugal
+  Job Description: Are you an expert in all things data and have experience leading
+    a team? You’re not afraid of complex data sets and tools; in fact, you excel when
+    working with them! If this describes you, then the Data Team Lead position could
+    be a great match.
+  Link: https://triggerise.bamboohr.com/careers/339?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
