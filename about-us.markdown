@@ -3,7 +3,7 @@ title: Who we are
 date: 2020-07-09 17:30:00 Z
 Title: We are Triggerise
 Numbers:
-- Number: 160
+- Number: 170
   Text: 'brilliant strong people '
 - Number: 14
   Text: 'cities we call home '
@@ -122,11 +122,6 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
-- Name: Angelina
-  Role: External Communications & Public Relations Lead
-  Location: Kampala, Uganda
-  LinkedIn: https://ug.linkedin.com/in/angelina-wik-3162a71b5
-  Image: "/uploads/426-2-2.webp"
 - Name: Nathalie-Ann
   Role: Programme Director
   Location: Nairobi, Kenya
@@ -137,11 +132,6 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
   Image: "/uploads/HC%20Photo.jpeg"
-- Name: Fiona
-  Role: New Business Development Director
-  Location: Amsterdam, The Netherlands
-  LinkedIn: https://nl.linkedin.com/in/fiona-de-korte-bab79883
-  Image: "/uploads/fiona-team-image.webp"
 - Name: Akshar
   Role: Engineering Manager
   Location: Cape Town, South Africa
@@ -157,13 +147,8 @@ Our People:
   Location: Porto, Portugal
   LinkedIn: https://pt.linkedin.com/in/joanafaraujo
   Image: "/uploads/joana-team-image.webp"
-- Name: Chizo
-  Role: Platform Operations Director
-  Location: Abuja, Nigeria
-  LinkedIn: https://ng.linkedin.com/in/chizomam-i-ezem
-  Image: "/uploads/chizo-team-image.webp"
 - Name: Daiane
-  Role: Recruitment Team Coordinator
+  Role: Recruitment Team Lead
   Location: Lisbon, Portugal
   LinkedIn: https://pt.linkedin.com/in/daiane-bulgarelli
   Image: "/uploads/daiane-team-image.webp"
