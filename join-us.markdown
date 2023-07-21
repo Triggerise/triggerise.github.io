@@ -30,13 +30,6 @@ Jobs:
     looking for your next career opportunity to contribute to the growth and success
     of an international finance department? If so, then this job could be for you!
   Link: https://triggerise.bamboohr.com/careers/337?source=aWQ9MjM%3D
-- Job Title: Product Owner
-  Location: South Africa/Kenya
-  Job Description: Do you enjoy connecting the dots, and building the bridge between
-    the user's needs, and the work the development team is doing?  Are you able to
-    develop a vision of what a product should look like? Sounds like you are fit for
-    the Product Owner position!
-  Link: https://triggerise.bamboohr.com/careers/328?source=aWQ9MjM%3D
 - Job Title: Data Analyst
   Location: South Africa
   Job Description: Are you an analytical and data-driven person? Would you enjoy using
