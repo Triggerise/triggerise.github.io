@@ -19,7 +19,7 @@ Values:
     of bringing meaningful change to the world.
 Jobs:
 - Job Title: New Business Development Lead
-  Location: Europe
+  Location: Europe / Africa
   Job Description: 'Are you looking for a role where the work that you do sustainably
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
@@ -51,7 +51,7 @@ Jobs:
     make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/careers/343?source=aWQ9MjM%3D
 - Job Title: Field Operations Manager
-  Location: South Africa / Kenya / Portugal
+  Location: Nairobi, Kenya
   Job Description: Are you great at organizing and love leading a team? Do you thrive
     in making operations run smoothly and efficiently? Are you a tech-savvy leader
     who enjoys using technology to solve problems? If this sounds like you, then the
