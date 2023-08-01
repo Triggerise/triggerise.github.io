@@ -44,6 +44,19 @@ Jobs:
     working with them! If this describes you, then the Data Team Lead position could
     be a great match.
   Link: https://triggerise.bamboohr.com/careers/339?source=aWQ9MjM%3D
+- Job Title: Java Backend Engineer
+  Location: South Africa / Kenya / Portugal
+  Job Description: Are you a Java Backend Engineer and a skilled problem-solver? Do
+    you want to be a part of an innovative team that uses its technical skills to
+    make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/343?source=aWQ9MjM%3D
+- Job Title: Field Operations Manager
+  Location: South Africa / Kenya / Portugal
+  Job Description: Are you great at organizing and love leading a team? Do you thrive
+    in making operations run smoothly and efficiently? Are you a tech-savvy leader
+    who enjoys using technology to solve problems? If this sounds like you, then the
+    role of Field Operations Manager could be your next exciting opportunity.
+  Link: https://triggerise.bamboohr.com/careers/341?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
