@@ -57,6 +57,25 @@ Jobs:
     and are excited by the prospect of using technology to create impact?  Read on
     to find out more about our DevOps Engineer position!
   Link: https://triggerise.bamboohr.com/careers/348?source=aWQ9MjM%3D
+- Job Title: Service Quality Specialist
+  Location: Kampala, Uganda
+  Job Description: Do you have a great eye for detail and experience in the health
+    services sector? Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Read on because this role could be
+    for you!
+  Link: https://triggerise.bamboohr.com/careers/345?source=aWQ9MjM%3D
+- Job Title: Ecosystem Coordinator
+  Location: Kampala, Uganda
+  Job Description: 'Would you enjoy working closely with different actors in the Triggerise
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Coordinator role! '
+  Link: https://triggerise.bamboohr.com/careers/347?source=aWQ9MjM%3D
+- Job Title: Ecosystem Trainer
+  Location: Kampala, Uganda
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and its offers?
+    Continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/346?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
