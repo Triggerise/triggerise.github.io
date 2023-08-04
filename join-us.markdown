@@ -50,6 +50,13 @@ Jobs:
     you want to be a part of an innovative team that uses its technical skills to
     make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/careers/343?source=aWQ9MjM%3D
+- Job Title: DevOps Engineer
+  Location: Europe / Africa
+  Job Description: Do you have experience building, testing & maintaining tools that
+    allow for speedy development of software? Do you enjoy working in an Agile way
+    and are excited by the prospect of using technology to create impact?  Read on
+    to find out more about our DevOps Engineer position!
+  Link: https://triggerise.bamboohr.com/careers/348?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
