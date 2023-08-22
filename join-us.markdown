@@ -24,19 +24,18 @@ Jobs:
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
+- Job Title: Grants & Compliance Manager
+  Location: South Africa / Kenya / Uganda
+  Job Description: Are you experienced in dealing with financial budgeting, donor
+    grant reporting & compliance? Do you want to develop budgets for new business
+    opportunities? Read on to hear more about the Grants and Compliance Manager position!
+  Link: https://triggerise.bamboohr.com/careers/351?source=aWQ9MjM%3D
 - Job Title: 'Accountant '
-  Location: Burkina Faso
+  Location: Kampala, Uganda
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
     looking for your next career opportunity to contribute to the growth and success
     of an international finance department? If so, then this job could be for you!
-  Link: https://triggerise.bamboohr.com/careers/337?source=aWQ9MjM%3D
-- Job Title: Data Analyst
-  Location: South Africa
-  Job Description: Are you an analytical and data-driven person? Would you enjoy using
-    data analysis, visualisation and data modelling techniques to provide insights
-    and identify trends in projects that will make an impact? If so, you could be
-    our next Data Analyst!
-  Link: https://triggerise.bamboohr.com/careers/321?source=aWQ9MjM%3D
+  Link: https://triggerise.bamboohr.com/careers/350?source=aWQ9MjM%3D
 - Job Title: Data Engineering Team Lead
   Location: South Africa / Kenya / Portugal
   Job Description: Are you an expert in all things data and have experience leading
@@ -57,6 +56,13 @@ Jobs:
     and are excited by the prospect of using technology to create impact?  Read on
     to find out more about our DevOps Engineer position!
   Link: https://triggerise.bamboohr.com/careers/348?source=aWQ9MjM%3D
+- Job Title: Field Operations Manager
+  Location: Nairobi, Kenya
+  Job Description: Are you great at organizing and love leading a team? Do you thrive
+    in making operations run smoothly and efficiently? Are you a tech-savvy leader
+    who enjoys using technology to solve problems? If this sounds like you, then the
+    role of Field Operations Manager could be your next exciting opportunity.
+  Link: https://triggerise.bamboohr.com/careers/341?source=aWQ9MjM%3D
 - Job Title: Service Quality Specialist
   Location: Kampala, Uganda
   Job Description: Do you have a great eye for detail and experience in the health
@@ -64,6 +70,15 @@ Jobs:
     are offered to customers around the globe? Read on because this role could be
     for you!
   Link: https://triggerise.bamboohr.com/careers/345?source=aWQ9MjM%3D
+- Job Title: 'Service Quality Specialist '
+  Location: Ouagadougou, Burkina Faso
+  Job Description: 'Have you developed procedures that ensure world-class services
+    are offered to customers around the globe? Do you have a great eye for detail
+    and experience in the health services sector? Read on because this role could
+    be for you!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/352?source=aWQ9MjM%3D
 - Job Title: Ecosystem Coordinator
   Location: Kampala, Uganda
   Job Description: 'Would you enjoy working closely with different actors in the Triggerise
@@ -76,6 +91,20 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and its offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/346?source=aWQ9MjM%3D
+- Job Title: Risk management auditor
+  Location: Nairobi, Kenya
+  Job Description: Are you detail-oriented and analytical in your approach? Do you
+    enjoy developing processes and have a passion for risk management? Read more to
+    find out about our Risk Management Auditor position!
+  Link: https://triggerise.bamboohr.com/careers/326?source=aWQ9MjM%3D
+- Job Title: Office Administration Manager
+  Location: Cape Town, South Africa
+  Job Description: Are you an Administrative Manager with an exceptional eye for detail
+    and a passion for optimizing operations? Do you want to make a significant impact
+    on a global organization and contribute to employee satisfaction? If you're ready
+    to bring your expertise to Triggerise and help us enhance our administrative processes,
+    we are excited to hear from you. Apply now and join our dynamic team!
+  Link: https://triggerise.bamboohr.com/careers/349?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
