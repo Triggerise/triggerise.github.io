@@ -18,6 +18,13 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
+- Job Title: New Business Development Director
+  Location: Europe / Africa
+  Job Description: 'Are you passionate about connecting potential donors with meaningful
+    causes? Are you looking for a role where the work that you do sustainably creates
+    an impact on a global scale? Read on to hear more about the role of NBD Director
+    at Triggerise! '
+  Link: https://triggerise.bamboohr.com/careers/355?source=aWQ9MjM%3D
 - Job Title: New Business Development Lead
   Location: Europe / Africa
   Job Description: 'Are you looking for a role where the work that you do sustainably
