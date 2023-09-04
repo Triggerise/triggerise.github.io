@@ -6,10 +6,10 @@ TitleContent: 'Do you want to know more about us? Are you interested in investin
   the form above or email us directly at: [hello@triggerise.org](mailto:hello@triggerise.org)'
 AddressesRow1:
 - Address: |-
-    **Triggerise Headquarters**
+    **Triggerise B.V./Triggerise Stichting**
 
-    Mauritskade 63<br>
-    1092AD, Amsterdam<br>
+    Keizersgracht 555<br>
+    1017 DR, Amsterdam<br>
     The Netherlands
 
     [hello@triggerise.org](mailto:hello@triggerise.org)
