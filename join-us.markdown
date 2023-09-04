@@ -100,10 +100,9 @@ Jobs:
 - Job Title: Office Administration Manager
   Location: Cape Town, South Africa
   Job Description: Are you an Administrative Manager with an exceptional eye for detail
-    and a passion for optimizing operations? Do you want to make a significant impact
-    on a global organization and contribute to employee satisfaction? If you're ready
-    to bring your expertise to Triggerise and help us enhance our administrative processes,
-    we are excited to hear from you. Apply now and join our dynamic team!
+    and a passion for optimizing operations? If you're ready to bring your expertise
+    to Triggerise and help us enhance our administrative processes, we are excited
+    to hear from you. Apply now and join our dynamic team!
   Link: https://triggerise.bamboohr.com/careers/349?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
