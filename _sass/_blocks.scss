@@ -2611,14 +2611,9 @@ blockquote:after {
     padding-right: 10px;
     text-align: left;
     transform: rotateY(180deg);
-
-    & small {
-        display: block;
-        width: 100%;
-
-        &>a {
-            display: block;
-            width: 100%;
+    &>a {
+        & button {
+            font-size: 15px;
         }
     }
 }
