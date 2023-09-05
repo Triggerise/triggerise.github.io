@@ -1221,6 +1221,7 @@ blockquote {
     font-weight: bold;
     font-size: 45px;
     color: $darkBlue;
+
     @include mq(360px) {
         font-size: 95%;
     }
@@ -2055,11 +2056,10 @@ blockquote:after {
     }
 }
 
-.report-image
-{
-width: 100px;
-height: auto;
-align-items: center
+.report-image {
+    width: 100px;
+    height: auto;
+    align-items: center
 }
 
 // report cover
@@ -2611,6 +2611,16 @@ align-items: center
     padding-right: 10px;
     text-align: left;
     transform: rotateY(180deg);
+
+    & small {
+        display: block;
+        width: 100%;
+
+        &>a {
+            display: block;
+            width: 100%;
+        }
+    }
 }
 
 .jobs {
@@ -3223,6 +3233,7 @@ Salary Tracker
 
 .video-left-column {
     padding: 0;
+
     iframe {
         min-height: 300px;
         height: 100%;
@@ -3244,12 +3255,15 @@ Salary Tracker
     .t-two-title-float {
         margin-top: 0;
     }
+
     .uk-card {
         overflow: hidden;
     }
+
     .map .key {
         padding: 0;
     }
+
     .fp-controlArrow {
         top: 95%;
     }
@@ -3323,10 +3337,12 @@ Salary Tracker
         opacity: 0;
         display: none;
     }
+
     #dib_HeroThreeSVG {
         opacity: 0;
         display: none;
     }
+
     #dib_HeroFourSVG {
         opacity: 0;
         display: none;
@@ -3952,6 +3968,7 @@ screen and (max-height: 700px) {
     #sectionOneCounter {
         font-size: 60px;
     }
+
     #dib_heroOneSVG {
         display: none;
     }
@@ -4186,6 +4203,7 @@ screen and (max-height: 700px) {
                 grid-gap: 0;
             }
         }
+
         .section__blue_container {
             .four_row {
                 grid-template-columns: repeat(1, 1fr);
