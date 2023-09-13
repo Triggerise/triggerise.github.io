@@ -31,12 +31,6 @@ Jobs:
     creates an impact on a global scale? Do you wish to be a part of a diverse and
     multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Grants & Compliance Manager
-  Location: South Africa / Kenya / Uganda
-  Job Description: Are you experienced in dealing with financial budgeting, donor
-    grant reporting & compliance? Do you want to develop budgets for new business
-    opportunities? Read on to hear more about the Grants and Compliance Manager position!
-  Link: https://triggerise.bamboohr.com/careers/351?source=aWQ9MjM%3D
 - Job Title: 'Accountant '
   Location: Kampala, Uganda
   Job Description: Do you have an eye for detail and a passion for numbers? Are you
