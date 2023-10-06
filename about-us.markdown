@@ -148,7 +148,7 @@ Our People:
   LinkedIn: https://pt.linkedin.com/in/joanafaraujo
   Image: "/uploads/joana-team-image.webp"
 - Name: Daiane
-  Role: Recruitment Team Lead
+  Role: Recruitment Team Coordinator
   Location: Lisbon, Portugal
   LinkedIn: https://pt.linkedin.com/in/daiane-bulgarelli
   Image: "/uploads/daiane-team-image.webp"
