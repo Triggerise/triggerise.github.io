@@ -45,6 +45,24 @@ Jobs:
     to Triggerise and help us enhance our administrative processes, we are excited
     to hear from you. Apply now and join our dynamic team!
   Link: https://triggerise.bamboohr.com/careers/349?source=aWQ9MjM%3D
+- Job Title: Grants & Compliance Manager
+  Location: South Africa / Kenya / Uganda
+  Job Description: Are you experienced in dealing with financial budgeting, donor
+    grant reporting & compliance? Do you want to develop budgets for new business
+    opportunities? Read on to hear more about the Grants and Compliance Manager position!
+  Link: https://triggerise.bamboohr.com/careers/351?source=aWQ9MjM%3D
+- Job Title: 'Risk Management Auditor '
+  Location: Uganda
+  Job Description: Are you detail-oriented and analytical in your approach? Do you
+    enjoy developing processes and have a passion for risk management? Read more to
+    find out about our Risk Management Auditor position!
+  Link: https://triggerise.bamboohr.com/careers/354?source=aWQ9MjM%3D
+- Job Title: Ecosystem Trainer
+  Location: Migori, Kenya
+  Job Description: 'Would you enjoy working with different actors in the Triggerise
+    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
+    Continue reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/361?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
