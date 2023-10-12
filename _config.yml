@@ -17,6 +17,12 @@ collections:
   privacy-policy:
     title: Privacy Policies
     output: true
+  privacy-policy-popup:
+    title: Privacy policy popups
+    output: true
+  privacy-policy-user-types:
+    title: Privacy policy user types
+    output: true
   social-icons:
     title: Social Icons
     output: true

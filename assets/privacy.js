@@ -163,9 +163,39 @@ function initializeCookies() {
     }
 }
 //---- Cookies End ----//
+//---- Privacy popup start ----//
+
+// Function to get query parameters
+function getQueryParam(key) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(key);
+}
+function removeQueryParam(key) {
+    const urlParams = new URLSearchParams(window.location.search);
+    urlParams.delete(key);
+    const newUrl = `${window.location.pathname}?${urlParams.toString()}`;
+    window.history.replaceState({}, '', newUrl);
+    window.location.href = newUrl;
+}
+function togglePrivacyPopup(userType, removeQuery) {
+    
+    if (!userType) userType = 'General';
+    const privacyModal = $("#privacyModal-" + userType);
+    
+    if (privacyModal) privacyModal.fadeToggle();
+    if (removeQuery) {
+        removeQueryParam('privacyUserType');
+    }
+}
+//---- Privacy popup end ----//
 function initPrivacy() {
 
     window.addEventListener('load', function () {
+        const userType = getQueryParam('privacyUserType');
+        if (userType) {
+            togglePrivacyPopup(userType);
+        }
+
         if (allPolicies) {
             try {
                 displayPolicy();
@@ -180,6 +210,12 @@ function initPrivacy() {
         } catch (err) {
             console.error(err);
         }
+
+        $(window).click(function (e) {
+            if ($(e.target).hasClass("privacy__modal__centered")) {
+                togglePrivacyPopup(userType, true);
+            }
+        });
 
     });
 } initPrivacy();
