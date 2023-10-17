@@ -44,12 +44,6 @@ Jobs:
     grant reporting & compliance? Do you want to develop budgets for new business
     opportunities? Read on to hear more about the Grants and Compliance Manager position!
   Link: https://triggerise.bamboohr.com/careers/351?source=aWQ9MjM%3D
-- Job Title: 'Risk Management Auditor '
-  Location: Uganda
-  Job Description: Are you detail-oriented and analytical in your approach? Do you
-    enjoy developing processes and have a passion for risk management? Read more to
-    find out about our Risk Management Auditor position!
-  Link: https://triggerise.bamboohr.com/careers/354?source=aWQ9MjM%3D
 - Job Title: Ecosystem Trainer
   Location: Migori, Kenya
   Job Description: 'Would you enjoy working with different actors in the Triggerise
