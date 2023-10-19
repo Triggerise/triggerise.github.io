@@ -31,13 +31,6 @@ Jobs:
     who enjoys using technology to solve problems? If this sounds like you, then the
     role of Field Operations Manager could be your next exciting opportunity.
   Link: https://triggerise.bamboohr.com/careers/341?source=aWQ9MjM%3D
-- Job Title: Office Administration Manager
-  Location: Cape Town, South Africa
-  Job Description: Are you an Administrative Manager with an exceptional eye for detail
-    and a passion for optimizing operations? If you're ready to bring your expertise
-    to Triggerise and help us enhance our administrative processes, we are excited
-    to hear from you. Apply now and join our dynamic team!
-  Link: https://triggerise.bamboohr.com/careers/349?source=aWQ9MjM%3D
 - Job Title: Grants & Compliance Manager
   Location: South Africa / Kenya / Uganda
   Job Description: Are you experienced in dealing with financial budgeting, donor
@@ -50,13 +43,6 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/361?source=aWQ9MjM%3D
-- Job Title: Partnership Officer
-  Location: Nairobi, Kenya
-  Job Description: 'Are you able to manage the political relations to successfully
-    implement operations across Kenya? Would you enjoy managing relationships and
-    creating strong alliances? Continue reading to find out more about our Partnership
-    Officer role! '
-  Link: https://triggerise.bamboohr.com/careers/362?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
