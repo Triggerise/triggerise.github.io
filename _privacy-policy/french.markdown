@@ -2,7 +2,13 @@
 title: French
 date: 2021-04-19 00:00:00 Z
 layout: simple
-description: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 1 --
+userGroups:
+  - title : "rafiki"
+    content: ""
+  - title : "mobiliser"
+    content: ""
+  - title : "general"
+    content: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 1 --
   QUI SOMMES-NOUS ?** \n\n\n La protection de vos données, de votre vie privée et
   de vos données personnelles est très importante pour Triggerise Stitching et ses
   filiales : Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia branch,

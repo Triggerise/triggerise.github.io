@@ -2,7 +2,7 @@
 title: "Amharic"
 date: 2023-10-12 10:00:00 Z
 userGroups:
-  - title: "General"
+  - title: "general"
     headerTitle: "Amharic General privacy policy"
     headerDescription: |-
       <p>Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy.</p>
@@ -10,7 +10,7 @@ userGroups:
     - title: "Amharic policy 1"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 1"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |- 
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
@@ -18,21 +18,21 @@ userGroups:
     - title: "Amharic policy 2"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 2"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
       showBottomDivider: true
     readMoreText: "Read more amharic general"
-    readMoreURL: "https://triggerise.org/contact"
-  - title: "Rafiki"
+    readMoreURL: "/privacy-policy?privacyUserType=general#Amharic"
+  - title: "rafiki"
     headerTitle: "Amharic Rafiki privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
     policyGroups: 
     - title: "Amharic policy 1"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 1"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
@@ -40,21 +40,21 @@ userGroups:
     - title: "Amharic policy 2"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 2"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
       showBottomDivider: true
-    readMoreText: "Read more amharic general"
-    readMoreURL: "https://triggerise.org/contact"
-  - title: "Mobiliser"
+    readMoreText: "Read more amharic rafiki"
+    readMoreURL: "/privacy-policy?privacyUserType=rafiki#Amharic"
+  - title: "mobiliser"
     headerTitle: "Amharic Mobiliser privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
     policyGroups: 
     - title: "Amharic policy 1"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 1"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
@@ -62,13 +62,13 @@ userGroups:
     - title: "Amharic policy 2"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "Amharic link 2"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
       showBottomDivider: true
-    readMoreText: "Read more amharic general"
-    readMoreURL: "https://triggerise.org/contact"
+    readMoreText: "Read more amharic mobiliser"
+    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#Amharic"
 layout: simple
 ---
 

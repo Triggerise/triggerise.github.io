@@ -178,22 +178,28 @@ function removeQueryParam(key) {
     window.location.href = newUrl;
 }
 function togglePrivacyPopup(userType, removeQuery) {
-    
-    if (!userType) userType = 'General';
     const privacyModal = $("#privacyModal-" + userType);
-    
     if (privacyModal) privacyModal.fadeToggle();
     if (removeQuery) {
         removeQueryParam('privacyUserType');
+        removeQueryParam('showPrivacyPopup');
     }
 }
 //---- Privacy popup end ----//
 function initPrivacy() {
 
     window.addEventListener('load', function () {
-        const userType = getQueryParam('privacyUserType');
-        if (userType) {
-            togglePrivacyPopup(userType);
+        let userType = getQueryParam('privacyUserType');
+        if (!userType) userType = 'general';
+
+        const privacyModal = $("#privacyContent-" + userType);
+        if (privacyModal) privacyModal.fadeToggle();
+
+        console.log(privacyModal);
+
+        const showPrivacyPopup = getQueryParam('showPrivacyPopup');
+        if (showPrivacyPopup) {
+            togglePrivacyPopup(userType.toLowerCase());
         }
 
         if (allPolicies) {

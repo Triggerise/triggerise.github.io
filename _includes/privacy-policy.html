@@ -10,10 +10,19 @@
             </div>
         </div>
         <div class="success-story-wrapper">
-            {% for policy in policies %}
+            {% assign userTypeGroups = site.privacy-policy-user-types %}
+            {% for policyUserGroup in userTypeGroups %}
+            <div class="privacy-content-container" id="privacyContent-{{ policyUserGroup.title }}">
+                {% for policy in policies %}
+                {% for userGroup in policy.userGroups %}
+                {% if userGroup.title == policyUserGroup.title %}
                 <div class="policy {{ policy.title}}">
-                    <p id="policies">{{ policy.description | markdownify  }}</p>
+                    <p id="policies">{{ userGroup.content | markdownify }}</p>
                 </div>
+                {% endif %}
+                {% endfor %}
+                {% endfor %}
+            </div>
             {% endfor %}
         </div>
     </div>

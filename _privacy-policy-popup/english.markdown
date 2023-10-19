@@ -2,7 +2,7 @@
 title: "English"
 date: 2023-10-12 10:00:00 Z
 userGroups:
-  - title: "General"
+  - title: "general"
     headerTitle: "English General privacy policy"
     headerDescription: |-
       <p>Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy.</p>
@@ -10,7 +10,7 @@ userGroups:
     - title: "English policy 1"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "English link 1"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the English policy 2</p>
       showTopDivider: true
@@ -18,17 +18,21 @@ userGroups:
     - title: "English policy 2"
       titleImage: "/uploads/icons/Icon_Tiko Pro Agent.png"
       linkText: "English link 2"
-      linkURL: "https://triggerise.org/contact"
+      linkURL: "/contact"
       policyContent: |-
         <p>This would be a dynamic content box for the English policy 2</p>
       showTopDivider: true
       showBottomDivider: true
     readMoreText: "Read more english general"
-    readMoreURL: "https://triggerise.org/contact"
-  - title: "Rafiki"
+    readMoreURL: "/privacy-policy?privacyUserType=general#English"
+  - title: "rafiki"
     headerTitle: "English Rafiki privacy policy"
-  - title: "Mobiliser"
+    readMoreText: "Read more english rafiki"
+    readMoreURL: "/privacy-policy?privacyUserType=rafiki#English"
+  - title: "mobiliser"
     headerTitle: "English Mobiliser privacy policy"
+    readMoreText: "Read more english mobiliser"
+    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#English"
 layout: simple
 ---
 

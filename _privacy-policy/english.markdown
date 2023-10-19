@@ -1,7 +1,77 @@
 ---
 title: English
 date: 2023-03-13 10:17:00 Z
-description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
+userGroups:
+  - title: "rafiki"
+    content: " **PRIVACY NOTICE FOR THE PROCESS OF ENROLLMENT TO THE TIKO PLATFORM AND THE SERVICE UPTAKE**
+    \n\n Protecting your privacy and personal data is very important to Stichting Triggerise and its affiliates (“us”, “our” or “we”). \n\n This privacy notice explains what personal data we collect, why we collect these data and who can access them, once you have enrolled to benefit from our services and / or products. It also explains how long your personal data is kept and what are the rights you have in relation to the handling of your personal data. \n\n We act as the data controller of the personal data we hold about you. Questions, comments and requests regarding this Privacy Notice are welcome and should be addressed to our Data Protection Officer (DPO) via emailing to <privacy@triggerise.org>. \n\n
+    
+    **1. What personal data do we process?** \n\n 
+      Personal data means any information that relates to an identified or identifiable individual. Different pieces of information, that collected together can lead to the identification of a particular person, also constitute personal data. Below you can see the different categories of personal data we collect when you enrol and start receiving services and/or products via the platform we manage, the TIKO platform. \n\n
+      - Enrollment phase
+        To become a TIKO member, the information we get from you is:  gender, month of birth, year of birth,  phone number (if available and you choose to provide it). \n\n
+      - Service-uptake phase
+        Voice sample and type of service and/or product that you have received along with the date this took place and the service provider that offered the service and/or product. \n\n
+      - Redeeming loyalty points (‘‘Tiko miles’’) phase
+        Where you used your loyalty points, how much of the loyalty points you spent and on which kind of product. \n\n
+    **2. What are the purposes and bases for using your personal data?** \n\n
+      We will process your personal data for the following purposes and under the following lawful bases: \n\n
+      <table class='privacy-table'>
+        <caption>Privacy table</caption>
+        <thead>
+          <th>Purpose</th>
+          <th>Lawful basis for Processing</th>
+        </thead>
+        <tbody>
+          <tr scope='row'>
+            <td>To confirm your eligibility to receive services and/or products and to create in the TIKO platform your account</td>
+            <td>This refers to the personal data collected during the enrollment phase and the processing is done  on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To prevent fraudulent use of our platform</td>
+            <td>This refers to the voice sample obtained during the service uptake phase as well as the monitoring of the service uptake and the redeeming of TIKO miles phases, to identify patterns of fraudulent use. This processing is done on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To enable service providers and vendors to offer you a service and/or product</td>
+            <td>This refers to the personal data collected in the enrollment stage as well as personal data collected during the service-uptake and/or the redeeming phase(s). This processing is done on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To be able to reimburse service providers and vendors for the service and/or product you have received</td>
+            <td>This refers in particular to the validation of services and/or products you have received. This processing is done on the basis of our legitimate interest as well as a necessary step for contract execution with the service providers and vendors</td>
+          </tr>
+          <tr scope='row'>
+            <td>To promote  services, products and/or information we believe may be of interest to you</td>
+            <td>This processing is done based on the consent you provided during the enrollment stage. Consent is one of the legal bases envisaged in. Receiving promotional messages and/or calls is not a requirement for you to be eligible to receive services and/or products and if you change your mind about it you can: (1) send the text “STOP” to any of the short code number that you used to enrol (2) contact and inform a mobiliser that assisted in enrolling you on the TIKO platform (3) call us directly on the numbers shared with you (4) send a Whatsapp message saying “STOP” or (5) send an email to us to the email address <a href='mailto:privacy@triggerise.org' target='_blank' rel='noopener noreferrer'>privacy@triggerise.org</a></td>
+          </tr>
+          <tr scope='row'>
+            <td>To carry out research and to prepare aggregated statistics</td>
+            <td>This may refer to personal data collected at enrollment, service-uptake and/or redeeming phase. This processing is done based on our legitimate interest to be able to report to our donors as well as legal obligations we have to report to the Ministry of Health and to support progress in universal access to health care. Our reports to donors and the Ministry present aggregated information and the statistics are anonymous.  In case we analyse the data we have collected to gain insight it may be that personal data are analysed as well and the legal basis for processing is based on statistical and scientific research purposes</td>
+          </tr>
+          <tr scope='row'>
+            <td>To improve the quality of the services and/or products provided to you</td>
+            <td>We may reach-out to you to ask your feedback on your experience on using services and/or products. This processing is done based on our legitimate interests</td>
+          </tr>
+        </tbody>
+      </table>
+  \n\n**3. With whom will we share your personal data?** \n\n
+    It is our policy not to sell, trade or rent your personal data to anyone. We do not disclose personal data other than to entities that work on our behalf acting under our instructions and bound by data processing agreements. In general, access to any kind of personal data is strictly limited on a need-to-know basis. Our staff and the third parties we interact with are bound by confidentiality and non-disclosure agreements.\n\n
+    To be able to work, we use a set of IT tools, some of which are cloud- based. We have opted for tools that ensure a high level of compliance with the industry standards for data protection and security. Data from the TIKO platform are stored on encrypted cloud-based platforms provided by Amazon Web Services (AWS) hosted in the geographic region of Europe (Ireland). We have in place a series of broader organisational and technical measures (e.g. anti-virus, regular penetration testing of our IT infrastructure) to ensure the security of your personal data.\n\n
+  **4. How long will we retain your personal data?** \n\n
+    We  only keep information about you so we can use what we know to help you, or so we can work with you in the future. For example, if we are going to give you help and advice about a new problem, we may see from our records that there are other problems you have already told us about. Using that information about you means we can give you better help or advice.\n\n
+    Kindly note that we may need to retain (some of) your personal data for a longer period to deal with any specific issues that may arise or because it is required by law or by any relevant regulatory body (for example when we need to satisfy  legal, accounting or reporting requirements). If your personal data is used for two different purposes, we will retain it until the purpose with the longest period expires, but we will stop using it for the purpose with the shorter period as soon as the shorter period expires.\n\n
+  **5. What does the law say about your rights ?**\n\n
+    The law says that you can always:\n\n
+    1. Ask us for a copy of the information we have got about you.\n\n
+    2. Change the information we have got about you, or bring it up to date, if it is wrong.\n\n
+    3. Change how you’d like us to get in touch with you.\n\n
+    4. Ask us to delete all the information we have got about you (we will then do that, and just keep your name on a list of people we won’t get in touch with again).\n\n
+    5. Tell us if you are worried about the way we are keeping or using information about you, and want to make a complaint about this.\n\n
+    If you wish to exercise any of your rights or you have questions on the conditions that may apply for doing so, please contact us at <privacy@triggerise.org>. We try to respond to all legitimate requests within 7 to 14 days depending on the type of the request. 
+  "
+  - title: "mobiliser"
+    content: "Foobar"
+  - title: "general"
+    content: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
   your data, privacy and personal data is very important to Triggerise Stitching and
   its affiliates - Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia
   branch, Triggerise BV, Triggerise South Africa NPC, and Triggerise LABS Unipessoal

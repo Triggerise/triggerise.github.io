@@ -20,7 +20,7 @@
                         {% for link in site.data.navigation.footer-links %}
                         <small>
                             {% if link.title == 'Privacy policy' %}
-                            <li><a onclick="togglePrivacyPopup()" style="cursor: pointer">{{ link.title }}</a></li>
+                            <li><a onclick="togglePrivacyPopup('general')" style="cursor: pointer">{{ link.title }}</a></li>
                             {% else %}
                             <li><a target="__blank" href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
                             {% endif %}

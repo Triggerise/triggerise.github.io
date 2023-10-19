@@ -477,6 +477,33 @@ footer {
   }
 }
 
+.privacy-content-container {
+  display: none;
+}
+
+.privacy-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  overflow: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  & caption {
+    display: none;
+  }
+  & th {
+    padding: 18px;
+    border: 1px solid $darkBlue;
+    text-align: left;
+  }
+  & tr {
+    & td{
+      padding: 18px;
+      border: 1px solid $darkBlue;
+    }
+  }
+}
+
 @keyframes animatetop {
   from {top: -300px; opacity: 0}
   to {top: 0; opacity: 1}

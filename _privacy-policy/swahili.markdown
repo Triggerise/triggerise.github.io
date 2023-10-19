@@ -2,7 +2,13 @@
 title: Swahili
 date: 2021-04-18 00:00:00 Z
 file: "/privacy-policy/swahili.markdown"
-description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri na
+userGroups:
+  - title : "rafiki"
+    content: ""
+  - title : "mobiliser"
+    content: ""
+  - title : "general"
+    content: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri na
   data ya kibinafsi ni ya muhimu kwa Triggerise stitching na wahusika wake <sup>1</sup>
   Triggerise Kenya private limited, tawi la Triggerise Stitching Ethiopia, Triggerise
   India, Triggerise BV, Triggerise ya Afrika Kusini NPO na Triggerise LABS Unipessoal
