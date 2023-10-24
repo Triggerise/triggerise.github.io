@@ -3,7 +3,7 @@ title: Amharic
 date: 2023-03-13 10:00:00 Z
 userGroups:
   - title : "rafiki"
-    content: ""
+    content: "Test"
   - title: "mobiliser"
     content: ""
   - title: "general"

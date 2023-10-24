@@ -166,6 +166,12 @@ function initializeCookies() {
 //---- Privacy popup start ----//
 
 // Function to get query parameters
+function setOverflowHidden() {
+    $('html, body').css('overflow', 'hidden');
+}
+function setOverflowAuto() {
+    $('html, body').css('overflow', 'auto');
+}
 function getQueryParam(key) {
     const urlParams = new URLSearchParams(window.location.search);
     return urlParams.get(key);
@@ -183,6 +189,9 @@ function togglePrivacyPopup(userType, removeQuery) {
     if (removeQuery) {
         removeQueryParam('privacyUserType');
         removeQueryParam('showPrivacyPopup');
+        setOverflowAuto();
+    } else {
+        setOverflowHidden();
     }
 }
 //---- Privacy popup end ----//
@@ -194,8 +203,6 @@ function initPrivacy() {
 
         const privacyModal = $("#privacyContent-" + userType);
         if (privacyModal) privacyModal.fadeToggle();
-
-        console.log(privacyModal);
 
         const showPrivacyPopup = getQueryParam('showPrivacyPopup');
         if (showPrivacyPopup) {
