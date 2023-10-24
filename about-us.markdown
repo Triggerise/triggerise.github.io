@@ -32,22 +32,27 @@ Map-locations:
   Description: 
   Image: 
 Supervisory Board:
-- Name: 'Lisa Simutami '
-  Role: 
-  Description: "(Chapel Hill, NC, USA), is the chair of our supervisory board since
-    inception. Lisa is the COO of Ipas, and previously served as Regional Director
-    at Population Services International."
-  Image: "/uploads/Trig_profiles_lisa.webp"
-- Name: Leslie Pascaud
-  Role: 
-  Description: "(New York, NJ, USA), leads Branding for Good and has been working
-    on innovation projects in the USA, Europe and Asia for over 20 years."
-  Image: "/uploads/Trig_profiles_leslie.webp"
-- Name: Phinah Kodisang (chair)
-  Role: 
+- Name: Phinah Kodisang
+  Role: Chair
   Location: South Africa
-  Description: Chief Executive Officer at Soul City Institute
-  Image: "/uploads/phinah-kodisang.png"
+  Description: Phinah Kodisang is the CEO of Soul City Institute.She has over 15 years
+    of experience in the field of sexual reproductive health and champions strategic
+    and innovative development and management of programmes aimed at youth.
+  Image: "/uploads/phinah-kodisang-6fb386.png"
+- Name: 'Anna Hakobyan '
+  Role: Advisor
+  Location: United Kingdom
+  Description: 'Chief Impact Officer and Chair of Technology Taskforce at CIFF.
+
+'
+  Image: "/uploads/anna-hakobyan-4cc82a.png"
+- Name: Werner Strydom
+  Role: 
+  Location: Netherlands
+  Description: |-
+    Werner heads up the Advanced Technology & Innovation unit within the Office of the CTO at Irdeto. He has 30 years of experience in
+    the field of cybersecurity and leads software development, technology research, and innovation teams.
+  Image: "/uploads/Trig_profiles_werner.webp"
 Chief Executive Officers:
 - Name: Benoit Renard
   Role: Director of Triggerise Stichting, Chief Executive Officer (CEO) and Co-founder
@@ -61,9 +66,10 @@ Chief Executive Officers:
 - Name: Serah Malaba
   Role: Chief Impact Officer at Triggerise
   Location: Nairobi, Kenya
-  Description: 'Searh '
+  Description: Serah is responsible for delivering impact across the operational markets
+    where Triggerise is in.
   LinkedIn: https://www.linkedin.com/in/serah-joy-malaba-bsc-gemba-mph-9001201b/?originalSubdomain=ke
-  Image: "/uploads/Serah_Maleba_Triggerise.jpeg"
+  Image: "/uploads/serah-malaba.png"
 Our People:
 - Name: Thera
   Role: Chief People Officer
