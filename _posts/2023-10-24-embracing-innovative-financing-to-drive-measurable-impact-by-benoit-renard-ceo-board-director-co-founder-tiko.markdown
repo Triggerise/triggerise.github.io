@@ -2,6 +2,13 @@
 title: Embracing Innovative Financing to Drive Measurable Impact by Benoit Renard,
   CEO, Board Director, Co-founder – Tiko
 date: 2023-10-24 13:02:00 Z
+categories:
+- News
+tags:
+- Tiko
+- CIFF
+- SRH
+heroImage: "/uploads/Tiko-Kware-130.jpg"
 ---
 
 In a complex and uncertain world, the societal challenges of today require innovative solutions that can scale and sustain. That's why innovative financing models, such as outcome based financing mechanisms, including development impact bonds are emerging as promising alternatives that can leverage private capital and align incentives for better outcomes.
