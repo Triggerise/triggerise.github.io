@@ -23,6 +23,7 @@ Outcome Based Financing can potentially allow for funders and implementing partn
 When I co-founded Tiko 9 years ago, it was with the intention to disrupt the NGO status quo by making technology central to our operating model, supporting strong local partnerships and elevating real time data as the key asset for project and performance management. Now operating in six markets across the continent we focus on outcomes-based impact, with an active community of nearly a million users; offering over one and a half million services on its platform since 2020. Pay for success funding mechanisms complement and expand this approach, making a difference, differently.
 
 Tiko LinkedIn Post Copy:
+
 In a few days, our CEO - Benoit Renard, will join the [@Business Council for International Understanding](https://www.linkedin.com/company/business-council-for-international-understanding-bciu/) (BCIU) and [Organon](https://www.linkedin.com/company/organon/) to speak about Prioritizing Innovative Financing for women’s health during a Workshop at the @[World Health Summit](https://www.linkedin.com/company/worldhealthsummit/) 2023 in Berlin. For us, DIB is a prime example of the limitless potential innovative financing can bring. Read more about his view on Embracing Innovative Financing to drive measurable impact here.
 #worldhealthsummit [#WHS2023 #globalhealth
 ](https://www.linkedin.com/feed/hashtag/?keywords=whs2023&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7117529566864121856)
