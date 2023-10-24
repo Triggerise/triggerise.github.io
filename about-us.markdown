@@ -32,13 +32,13 @@ Map-locations:
   Description: 
   Image: 
 Supervisory Board:
-- Name: Phinah Kodisang (chair)
-  Role: 
+- Name: Phinah Kodisang
+  Role: Chair
   Location: South Africa
   Description: Chief Executive Officer at Soul City Institute
   Image: "/uploads/phinah-kodisang-6fb386.png"
-- Name: Anna Hakobyan (advisor)
-  Role: 
+- Name: Anna Hakobyan
+  Role: Advisor
   Location: United Kingdom
   Description: 'Chief Impact Officer and Chair of Technology Taskforce at CIFF.
 
