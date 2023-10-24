@@ -89,13 +89,13 @@ Chief Executive Officers:
     ecosystems.
   LinkedIn: https://www.linkedin.com/in/benoitrenard/
   Image: "/uploads/Trig_profiles_benoit.webp"
-- Name: Richard Matikanya
-  Role: Co-Director of Triggerise Stichting, Managing Director
+- Name: Serah Malaba
+  Role: Chief Impact Officer at Triggerise
   Location: Nairobi, Kenya
-  Description: Richard oversees Triggerise field operations in the countries we operate
-    in, New Business Development, Grants, Risk and Compliance, and Finance.
-  LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
-  Image: "/uploads/Trig_profiles_richard.webp"
+  Description: Serah is responsible for delivering impact across the operational markets
+    where Triggerise is in.
+  LinkedIn: https://www.linkedin.com/in/serah-joy-malaba-bsc-gemba-mph-9001201b/?originalSubdomain=ke
+  Image: "/uploads/Serah_Maleba_Triggerise.jpeg"
 Our People:
 - Name: Thera
   Role: Chief People Officer
