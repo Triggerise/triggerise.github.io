@@ -32,15 +32,13 @@ Map-locations:
   Description: 
   Image: 
 Supervisory Board:
-- Name: Phinah Kodisang
-  Role: Chair
+- Name: Phinah Kodisang (chair)
+  Role: 
   Location: South Africa
-  Description: Phinah Kodisang is the CEO of Soul City Institute.She has over 15 years
-    of experience in the field of sexual reproductive health and champions strategic
-    and innovative development and management of programmes aimed at youth.
+  Description: Chief Executive Officer at Soul City Institute
   Image: "/uploads/phinah-kodisang-6fb386.png"
-- Name: 'Anna Hakobyan '
-  Role: Advisor
+- Name: Anna Hakobyan (advisor)
+  Role: 
   Location: United Kingdom
   Description: 'Chief Impact Officer and Chair of Technology Taskforce at CIFF.
 
@@ -49,9 +47,7 @@ Supervisory Board:
 - Name: Werner Strydom
   Role: 
   Location: Netherlands
-  Description: |-
-    Werner heads up the Advanced Technology & Innovation unit within the Office of the CTO at Irdeto. He has 30 years of experience in
-    the field of cybersecurity and leads software development, technology research, and innovation teams.
+  Description: Chief Impact Officer and Chair of Technology Taskforce at CIFF.
   Image: "/uploads/Trig_profiles_werner.webp"
 Chief Executive Officers:
 - Name: Benoit Renard
