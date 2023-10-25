@@ -1,7 +1,6 @@
 ---
 title: French
 date: 2021-04-19 00:00:00 Z
-layout: simple
 description: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 1 --
   QUI SOMMES-NOUS ?** \n\n\n La protection de vos données, de votre vie privée et
   de vos données personnelles est très importante pour Triggerise Stitching et ses
@@ -30,7 +29,7 @@ description: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 
   achetez un produit ou un service avec nous. \n\n Les questions, commentaires et
   demandes concernant cette politique de confidentialité sont les bienvenus et doivent
   être adressés à <privacy@triggerise.org>. Notre responsable de la protection des
-  données est Sylvia Bower. \n\n **SECTION 2 -- APERÇU GÉNÉRAL DE NOTRE POLITIQUE
+  données est Ioanna Pliota. \n\n **SECTION 2 -- APERÇU GÉNÉRAL DE NOTRE POLITIQUE
   DE TRAITEMENT DE DONNÉES VIS-Á-VIS DES SERVICES, PRODUITS ET INFORMATIONS** \n\n\n
   Il vous sera demandé de nous fournir vos informations lorsque vous : \n\n\n - remplissez
   des formulaires sur nos sites Web, nos applications, nos actifs numériques (tels
@@ -331,5 +330,6 @@ description: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 
   SMS, courriel ou tout autre canal de notification. Nous vous encourageons donc à
   le consulter de temps en temps pour rester informé de la manière dont nous traitons
   vos données. "
+layout: simple
 ---
 

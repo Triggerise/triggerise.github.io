@@ -23,7 +23,7 @@ description: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri n
   kusindika data yako. Tutakujilisha ni chombo gani kitakuwa kikidhibiti data yako
   ukununua bidhaa ama huduma na sisi.\n\nMaswali, maoni na maombi juu ya sera hii
   ya usiri yanakaribishwa na yafaa kuelekezwa kwa privacy@triggerise.org. Afisa wetu
-  anayehusika na ulinzi wa data ni Sylvia Bower.\n\n*<sup>1</sup> Mhusika ni chombo
+  anayehusika na ulinzi wa data ni Ioanna Pliota.\n\n*<sup>1</sup> Mhusika ni chombo
   ambacho ni cha mkusanyiko wa kampuni za Triggerise Stichting*\n\n**SEHEMU YA PILI-
   MTAZAMO WA KIJUMLA WA USINDIKAJI WA DATA UKIUNGANISHWA NA HUDUMA, BIDHAA NA HABARI.**\n\nUtaombwa
   kutupatia habari zako wakati:\n\n- Wakati unajaza fomu katika tuvuti zetu, maombi

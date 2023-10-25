@@ -22,140 +22,140 @@ description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\
   relevant Triggetise affiliate responsible for processing your data. We will let
   you know which entity will be the controller for your data when you use our services.\n\n
   Questions, comments and requests regarding this Privacy Policy are welcome and should
-  be addressed to <privacy@triggerise.org>. Our Data Protection Officer is Felix Maoka.\n\n
-  **SECTION 2 – GENERAL OVERVIEW OF OUR DATA PROCESSING IN CONNECTION WITH SERVICES,
-  PRODUCTS AND INFORMATION**\n\n You will be asked to provide us with your information
-  when you:\n\n •\tfill in forms on our websites, our applications, our digital assets
-  (such as Facebook Messenger, Telegram, Whatsapp, or correspond with us by SMS, phone,
-  or email;\n\n •\tregister/enroll to use our services, products or offers, subscribe
-  to our newsletter, promotional emails or other marketing materials;\n\n •\tuse the
-  services or products that you receive through our platforms;\n\n •\trate the services
-  or products that you receive on our platforms\n\n •\treport a problem with services
-  or products received; or\n\n •\tComplete any surveys or studies that we use for
-  research purposes to evaluate our services or improve the quality of services that
-  we provide to you\n\n The information you will be asked to provide us for these
-  purposes may include your gender, date of birth, phone number, products or services
-  you received, locations of places where you received a product, service or information,
-  redeemed rewards or further information required to verify your identity such as
-  an image of your face or your voice.\n\n **SECTION 3 – SPECIFIC PROCESSING ACTIVITIES,
-  TYPE AND PURPOSE OF THEIR USE** **3.1\tWHEN YOU USE OUR WEBSITES** **Types of data:**
-  IP address of the requesting device, date and time of access, name and URL of the
-  requested file, website from which access is obtained (“Referrer URL”), browser
-  used and, where applicable, your device’s operating system and the identity of your
-  access provider.\n\n **Uses of that data:** We use the above data to provide you
-  with access to our Website, ensure that the Website can establish an internet connection
-  smoothly and is easy to use; to analyse the system security and stability, as well
-  as for additional administrative purposes.\n\n **Use justification:** Legitimate
-  interests (Article 6 (1) (f) GDPR). Our legitimate interest is based on the data
-  use purposes listed above. We do not use the data collected for the purpose of identifying
-  you. You are not obliged to provide the above personal data. However, you will not
-  be able to access the websites if such personal data are not provided.\n\n **Storage
-  duration:** The data that allows us to identify a user is removed after 14 days,
-  unless any security-relevant event occurs (e.g. a DDoS attack). If there is a security-relevant
-  event, server log files are stored until the security-relevant event has been eliminated
-  and clarified in full.\n\n **3.2\tWHEN YOU REGISTER OR ENROL TO RECEIVE OR PROVIDE
-  SERVICES OR PRODUCTS ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:**
-  gender, date of birth, national identification, police clearance, telephone number,
-  operating licenses, image of your face, sound of your voice\n\n **Uses of that data:**
-  We use the above data to provide you with a user account and access to services,
-  products and information that we provide through our platforms. It is not possible
-  to access or validate our services if the (non-optional) data is not provided.\n\n
+  be addressed to <privacy@triggerise.org>. Our Data Protection Officer is Ioanna
+  Pliota.\n\n **SECTION 2 – GENERAL OVERVIEW OF OUR DATA PROCESSING IN CONNECTION
+  WITH SERVICES, PRODUCTS AND INFORMATION**\n\n You will be asked to provide us with
+  your information when you:\n\n •\tfill in forms on our websites, our applications,
+  our digital assets (such as Facebook Messenger, Telegram, Whatsapp, or correspond
+  with us by SMS, phone, or email;\n\n •\tregister/enroll to use our services, products
+  or offers, subscribe to our newsletter, promotional emails or other marketing materials;\n\n
+  •\tuse the services or products that you receive through our platforms;\n\n •\trate
+  the services or products that you receive on our platforms\n\n •\treport a problem
+  with services or products received; or\n\n •\tComplete any surveys or studies that
+  we use for research purposes to evaluate our services or improve the quality of
+  services that we provide to you\n\n The information you will be asked to provide
+  us for these purposes may include your gender, date of birth, phone number, products
+  or services you received, locations of places where you received a product, service
+  or information, redeemed rewards or further information required to verify your
+  identity such as an image of your face or your voice.\n\n **SECTION 3 – SPECIFIC
+  PROCESSING ACTIVITIES, TYPE AND PURPOSE OF THEIR USE** **3.1\tWHEN YOU USE OUR WEBSITES**
+  **Types of data:** IP address of the requesting device, date and time of access,
+  name and URL of the requested file, website from which access is obtained (“Referrer
+  URL”), browser used and, where applicable, your device’s operating system and the
+  identity of your access provider.\n\n **Uses of that data:** We use the above data
+  to provide you with access to our Website, ensure that the Website can establish
+  an internet connection smoothly and is easy to use; to analyse the system security
+  and stability, as well as for additional administrative purposes.\n\n **Use justification:**
+  Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate interest is based
+  on the data use purposes listed above. We do not use the data collected for the
+  purpose of identifying you. You are not obliged to provide the above personal data.
+  However, you will not be able to access the websites if such personal data are not
+  provided.\n\n **Storage duration:** The data that allows us to identify a user is
+  removed after 14 days, unless any security-relevant event occurs (e.g. a DDoS attack).
+  If there is a security-relevant event, server log files are stored until the security-relevant
+  event has been eliminated and clarified in full.\n\n **3.2\tWHEN YOU REGISTER OR
+  ENROL TO RECEIVE OR PROVIDE SERVICES OR PRODUCTS ON THE PLATFORMS THAT WE MANAGE**\n\n
+  **Types of data include:** gender, date of birth, national identification, police
+  clearance, telephone number, operating licenses, image of your face, sound of your
+  voice\n\n **Uses of that data:** We use the above data to provide you with a user
+  account and access to services, products and information that we provide through
+  our platforms. It is not possible to access or validate our services if the (non-optional)
+  data is not provided.\n\n **Use justification:** Legitimate interests (Article 6
+  (1) (f) GDPR). Our legitimate interests are to use this data (a) for the purpose
+  of identifying you to ensure that you are eligible to receive the charitable services
+  and products that we offer or in the case of a provider or mobiliser, to enroll
+  users or to provide services (b) to prevent fraud on our platform (c) to meet our
+  legal obligation to ensure that only licensed and vetted providers or mobilisers
+  with no criminal cases can enroll users or provide services on our platform.\n\n
+  **Storage duration:** Your data is deleted or anonymized (and cannot be associated
+  with a specific natural person) when you request deletion of your account or when
+  as a mobiliser or provider, you no longer can enroll users or provide services or
+  products on our platform due to termination or separation. If your account is inactive
+  for more than 12 months, we will contact you to check whether you wish to continue
+  using our services. If you then leave your user account unused for a subsequent
+  12 months, we will delete your account and anonymize your data (such that it cannot
+  be associated with a specific natural person).\n\n **3.3\tWHEN YOU RECEIVE SERVICES,
+  PRODUCTS OR INFORMATION ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:**
+  gender, date of birth, image of your face, type of service, product or information
+  that you received/provided or validated,  user that provided you with the service/
+  or whose service you validatedt date you received/provided the service, product
+  or information,  your assessment of the quality of the services, products and information
+  that you received, whether you redeemed incentives such as loyalty points (‘Tiko
+  Miles’) and if so, where you redeemed the incentives/loyalty points and how much
+  of the incentives/loyalty points you spent\n\n **Uses of that data:** We use the
+  above data to provide you with access to services, products and information that
+  we provide through our platforms. We also use the data to improve the quantity and
+  quality of  service, products and information that you recieve, to verify and validate
+  the services, to verify your identity products and information you received, to
+  reimburse vendors and service providers for services, products and information you
+  received, verify your eligibility to access and utilise services, products and information
+  from our platforms,to remind you when you are due to return to receive follow on
+  services and prodiucrs, to implement research interventions such as randomized controlled
+  trials, to evaluate the effectiveness of research interventions, to report to funders
+  of the services, products or information provided on our platforms; to conduct user
+  research and to follow up with you on how we can improve the quality of the services,
+  products and information that you received on our platforms. It is not possible
+  to access our services, product or information (non-optional) if data is not provided.\n\n
   **Use justification:** Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate
   interests are to use this data (a) for the purpose of identifying you to ensure
-  that you are eligible to receive the charitable services and products that we offer
-  or in the case of a provider or mobiliser, to enroll users or to provide services
-  (b) to prevent fraud on our platform (c) to meet our legal obligation to ensure
-  that only licensed and vetted providers or mobilisers with no criminal cases can
-  enroll users or provide services on our platform.\n\n **Storage duration:** Your
-  data is deleted or anonymized (and cannot be associated with a specific natural
-  person) when you request deletion of your account or when as a mobiliser or provider,
-  you no longer can enroll users or provide services or products on our platform due
-  to termination or separation. If your account is inactive for more than 12 months,
-  we will contact you to check whether you wish to continue using our services. If
-  you then leave your user account unused for a subsequent 12 months, we will delete
-  your account and anonymize your data (such that it cannot be associated with a specific
-  natural person).\n\n **3.3\tWHEN YOU RECEIVE SERVICES, PRODUCTS OR INFORMATION ON
-  THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:** gender, date of birth,
-  image of your face, type of service, product or information that you received/provided
-  or validated,  user that provided you with the service/ or whose service you validatedt
-  date you received/provided the service, product or information,  your assessment
-  of the quality of the services, products and information that you received, whether
-  you redeemed incentives such as loyalty points (‘Tiko Miles’) and if so, where you
-  redeemed the incentives/loyalty points and how much of the incentives/loyalty points
-  you spent\n\n **Uses of that data:** We use the above data to provide you with access
-  to services, products and information that we provide through our platforms. We
-  also use the data to improve the quantity and quality of  service, products and
-  information that you recieve, to verify and validate the services, to verify your
-  identity products and information you received, to reimburse vendors and service
-  providers for services, products and information you received, verify your eligibility
-  to access and utilise services, products and information from our platforms,to remind
-  you when you are due to return to receive follow on services and prodiucrs, to implement
-  research interventions such as randomized controlled trials, to evaluate the effectiveness
-  of research interventions, to report to funders of the services, products or information
-  provided on our platforms; to conduct user research and to follow up with you on
-  how we can improve the quality of the services, products and information that you
-  received on our platforms. It is not possible to access our services, product or
-  information (non-optional) if data is not provided.\n\n **Use justification:** Legitimate
-  interests (Article 6 (1) (f) GDPR). Our legitimate interests are to use this data
-  (a) for the purpose of identifying you to ensure that you are eligible to receive/provide
-  the charitable services and products that we offer or in the case of a provider
-  or mobiliser, to to provide services (b) to prevent fraud on our platform and (c
-  ) for other uses stated above\n\n **Storage duration:** Your data is deleted or
-  anonymized (and cannot be associated with a specific natural person) when you request
-  deletion of your account.\n\n **3.4\tDIRECT MARKETING TO YOU OF SERVICES, PRODUCTS
-  OR INFORMATION AVAILABLE ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:**
-  gender, date of birth type of service, product or information that you previously
-  received,  date you received the service, product or information,  your assessment
-  of the quality of the services, products and information that you received, whether
-  you redeem loyalty points (‘Tiko Miles’) and if so, where you redeemed the loyalty
-  points and how much of the loyalty points you spent.\n\n **Uses of that data:**
-  We use the above data to promote services, products or provide you with information
-  that we believe may be of interest to you. You can modify your marketing settings
-  at any time by either (1) sending the text “STOP” to any of the short code number
-  that you used to enroll on our services (2) contacting and informing a mobiliser
-  that assisted in enrolling/registering you on our platform (3) calling us directly
-  on the numbers shared with you (4) sending a Whatsapp or Facebook message saying
-  “stop” or (5) sending an email to us \n\n **Use justification:**Consent (Article
-  6 (1) (a) GDPR).\n\n **Storage duration:** Your data is deleted or anonymized (and
-  cannot be associated with a specific natural person) when you request deletion of
-  your account.\n\n **3.5\tUSE OF DATA RELATED TO YOUR HEALTH FOR RESEARCH AND STATISTICAL
-  PURPOSES**\n\n **Types of data include:**  records of the health products or services
-  that you have received from us, other health data that you have provided to us directly
-  or indirectly during your usage of our products or services.\n\n **Uses of that
-  data:**We process this data to carry out research relating to the use and uptake
-  of sexual reproductive health services and products and to prepare aggregate statistics
-  on the geographical utilisation of health products, services or information which
-  may be matched with demographic information we hold about you . Where any such data
-  is made publicly available, it will be presented as summarized statistics on an
-  anonymized basis.\n\n **Use justification:** Legitimate interests (Article 6 (1)
-  (f) GDPR) and Legal obligation ((Article 6 (1) (c) GDPR)TOur legitimate interest
-  in processing data for these purposes is to report to our funders and donors and
-  legal obligation to report to the ministries of health and to support progress in
-  universal access to health care which is also in the public interest. You may, for
-  reasons arising from your particular situation, object to such a processing at any
-  time by sending an e-mail to <privacy@triggerise.org>\n\n **Storage duration:**
-  The storage duration of your data on the basis of which we create the statistics
-  corresponds to the period of processing according to Section 3.2. If you object
-  to your data processing, your data will no longer be used for this purpose. The
-  statistics are anonymous.\n\n **SECTION 4 – COOKIES AND TRACKING ON OUR WEBSITES**\n\n
-  Our Websites use so-called “cookies”. Cookies are text files that are stored in
-  the Internet browser or by the Internet browser on the user’s device (computer,
-  tablet, or phone). We use the term “cookies” to refer to all tools that collect
-  data on our Website (e.g. IP addresses, place and time of the visit of the users).
-  The user’s data collected in this way is pseudonymized. The data is not stored together
-  with the user’s other personal data. This processing is carried out on a legal basis
-  or, where required by law, based on your consent.\n\n **SECTION 5 – WHERE DO WE
-  STORE YOUR PERSONAL DATA**\n\n The personal data that we collect from you is stored
-  in the European Union on (Europe) Cloud Servers of Amazon Web Services EMEA S.A.R.L.
-  with a business seat in Luxembourg. This data may, however, be processed by sub-processors
-  operating outside of the European Economic Area (“EEA”) based on a data processing
-  agreement if the additional requirements of Art. 44 et seq. GDPR for processing
-  in third countries are compliant with an appropriate level of protection in the
-  third country and appropriate guarantees under Art. 46 GDPR (such as standard data
-  protection clauses, or exceptional circumstances under Art. 49 GDPR). Sensitive
-  information between your browser and our Website is transferred in encrypted form
-  using Transport Layer Security (“TLS”). When transmitting sensitive information,
-  you should always make sure that your browser can validate our certificate.\n\n
+  that you are eligible to receive/provide the charitable services and products that
+  we offer or in the case of a provider or mobiliser, to to provide services (b) to
+  prevent fraud on our platform and (c ) for other uses stated above\n\n **Storage
+  duration:** Your data is deleted or anonymized (and cannot be associated with a
+  specific natural person) when you request deletion of your account.\n\n **3.4\tDIRECT
+  MARKETING TO YOU OF SERVICES, PRODUCTS OR INFORMATION AVAILABLE ON THE PLATFORMS
+  THAT WE MANAGE**\n\n **Types of data include:** gender, date of birth type of service,
+  product or information that you previously received,  date you received the service,
+  product or information,  your assessment of the quality of the services, products
+  and information that you received, whether you redeem loyalty points (‘Tiko Miles’)
+  and if so, where you redeemed the loyalty points and how much of the loyalty points
+  you spent.\n\n **Uses of that data:** We use the above data to promote services,
+  products or provide you with information that we believe may be of interest to you.
+  You can modify your marketing settings at any time by either (1) sending the text
+  “STOP” to any of the short code number that you used to enroll on our services (2)
+  contacting and informing a mobiliser that assisted in enrolling/registering you
+  on our platform (3) calling us directly on the numbers shared with you (4) sending
+  a Whatsapp or Facebook message saying “stop” or (5) sending an email to us \n\n
+  **Use justification:**Consent (Article 6 (1) (a) GDPR).\n\n **Storage duration:**
+  Your data is deleted or anonymized (and cannot be associated with a specific natural
+  person) when you request deletion of your account.\n\n **3.5\tUSE OF DATA RELATED
+  TO YOUR HEALTH FOR RESEARCH AND STATISTICAL PURPOSES**\n\n **Types of data include:**
+  \ records of the health products or services that you have received from us, other
+  health data that you have provided to us directly or indirectly during your usage
+  of our products or services.\n\n **Uses of that data:**We process this data to carry
+  out research relating to the use and uptake of sexual reproductive health services
+  and products and to prepare aggregate statistics on the geographical utilisation
+  of health products, services or information which may be matched with demographic
+  information we hold about you . Where any such data is made publicly available,
+  it will be presented as summarized statistics on an anonymized basis.\n\n **Use
+  justification:** Legitimate interests (Article 6 (1) (f) GDPR) and Legal obligation
+  ((Article 6 (1) (c) GDPR)TOur legitimate interest in processing data for these purposes
+  is to report to our funders and donors and legal obligation to report to the ministries
+  of health and to support progress in universal access to health care which is also
+  in the public interest. You may, for reasons arising from your particular situation,
+  object to such a processing at any time by sending an e-mail to <privacy@triggerise.org>\n\n
+  **Storage duration:** The storage duration of your data on the basis of which we
+  create the statistics corresponds to the period of processing according to Section
+  3.2. If you object to your data processing, your data will no longer be used for
+  this purpose. The statistics are anonymous.\n\n **SECTION 4 – COOKIES AND TRACKING
+  ON OUR WEBSITES**\n\n Our Websites use so-called “cookies”. Cookies are text files
+  that are stored in the Internet browser or by the Internet browser on the user’s
+  device (computer, tablet, or phone). We use the term “cookies” to refer to all tools
+  that collect data on our Website (e.g. IP addresses, place and time of the visit
+  of the users). The user’s data collected in this way is pseudonymized. The data
+  is not stored together with the user’s other personal data. This processing is carried
+  out on a legal basis or, where required by law, based on your consent.\n\n **SECTION
+  5 – WHERE DO WE STORE YOUR PERSONAL DATA**\n\n The personal data that we collect
+  from you is stored in the European Union on (Europe) Cloud Servers of Amazon Web
+  Services EMEA S.A.R.L. with a business seat in Luxembourg. This data may, however,
+  be processed by sub-processors operating outside of the European Economic Area (“EEA”)
+  based on a data processing agreement if the additional requirements of Art. 44 et
+  seq. GDPR for processing in third countries are compliant with an appropriate level
+  of protection in the third country and appropriate guarantees under Art. 46 GDPR
+  (such as standard data protection clauses, or exceptional circumstances under Art.
+  49 GDPR). Sensitive information between your browser and our Website is transferred
+  in encrypted form using Transport Layer Security (“TLS”). When transmitting sensitive
+  information, you should always make sure that your browser can validate our certificate.\n\n
   **SECTION 6 – DISCLOSURE OF YOUR PERSONAL DATA**\n\n We use technical service providers
   to operate and maintain our Services, who act as our processors based on a data
   processing agreement. Service providers who process personal data on our behalf
