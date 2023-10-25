@@ -62,8 +62,12 @@ Chief Executive Officers:
 - Name: Serah Malaba
   Role: Chief Impact Officer at Triggerise
   Location: Nairobi, Kenya
-  Description: Serah is responsible for delivering impact across the operational markets
-    where Triggerise is in.
+  Description: Serah is a seasoned leader in public health with a consistent record
+    of accomplishment in planning and executing ambitious initiatives across Africa.
+    She has experience with USAID; CDC; The Global Fund to Fight AIDS, Tuberculosis
+    and Malaria; The Bill and Melinda Gates Foundation; SIDA; and the Children’s Investment
+    Fund Foundation. As our Chief Impact Officer, Serah is responsible for delivering
+    impact across Triggerise's operational markets.
   LinkedIn: https://www.linkedin.com/in/serah-joy-malaba-bsc-gemba-mph-9001201b/?originalSubdomain=ke
   Image: "/uploads/serah-malaba.png"
 Our People:
