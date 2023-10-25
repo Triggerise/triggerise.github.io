@@ -43,7 +43,7 @@ Supervisory Board:
   Description: 'Chief Impact Officer and Chair of Technology Taskforce at CIFF.
 
 '
-  Image: "/uploads/Anna-Hakobyan.jpg"
+  Image: 
 - Name: Werner Strydom
   Role: 
   Location: Netherlands
