@@ -32,15 +32,15 @@ Map-locations:
   Description: 
   Image: 
 Supervisory Board:
-- Name: Phinah Kodisang
-  Role: Chair
+- Name: Phinah Kodisang (Chair)
+  Role: 
   Location: Johannesburg, South Africa
   Description: Phinah is the CEO of Soul City Institute. She has over 15 years of
     experience in the field of sexual and reproductive health and champions strategic
     and innovative development and management of programmes aimed at youth.
   Image: "/uploads/phinah-kodisang-6fb386.png"
-- Name: Anna Hakobyan
-  Role: Advisor
+- Name: Anna Hakobyan (Advisor)
+  Role: 
   Location: London, UK
   Description: 'Anna is the Children Investment Fund Foundation''s Chief Impact Officer.
     She oversees evidence generation and application to inform and assess CIFF’s portfolio
