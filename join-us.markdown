@@ -25,13 +25,6 @@ Jobs:
     you do sustainably creates an impact on a global scale? Read on to hear more about
     the role of NBD Lead at Triggerise! 
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Field Operations Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you great at organizing and love leading a team? Do you thrive
-    in making operations run smoothly and efficiently? Are you a tech-savvy leader
-    who enjoys using technology to solve problems? If this sounds like you, then the
-    role of Field Operations Manager could be your next exciting opportunity.
-  Link: https://triggerise.bamboohr.com/careers/341?source=aWQ9MjM%3D
 - Job Title: Grants & Compliance Manager
   Location: South Africa / Kenya / Uganda
   Job Description: Are you experienced in dealing with financial budgeting, donor
