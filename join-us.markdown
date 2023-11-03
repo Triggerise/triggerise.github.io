@@ -37,6 +37,14 @@ Jobs:
     ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
     Continue reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/361?source=aWQ9MjM%3D
+- Job Title: Experiment Officer (Maternity Cover)
+  Location: Nairobi, Kenya
+  Job Description: We're in search of an Experiment Officer to uncover, foster, and
+    expedite innovation within Triggerise. If you thrive on spearheading new innovation
+    projects with a user-centric and agile approach, and you're ready to adapt swiftly
+    to change, then continue reading to learn more about the Experiment Officer role.
+    Please note that this is a 4-month contract position, covering a maternity leave.
+  Link: https://triggerise.bamboohr.com/careers/364?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
