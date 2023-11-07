@@ -39,6 +39,31 @@ Jobs:
     to change, then continue reading to learn more about the Experiment Officer role.
     Please note that this is a 4-month contract position, covering a maternity leave.
   Link: https://triggerise.bamboohr.com/careers/364?source=aWQ9MjM%3D
+- Job Title: Capacity Building & Partnerships Manager
+  Location: Kenya / South Africa / Ethiopia / Uganda
+  Job Description: 'Are you adept at capacity building and partnership management
+    within the African context? Do you excel at developing frameworks and initiatives
+    that enhance partnership value and service delivery? If this sounds like your
+    expertise, we invite you to discover more about becoming our Capacity Building
+    & Partnerships Manager!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/367?source=aWQ9MjM%3D
+- Job Title: Marketing and Communication Specialist
+  Location: Ouagadougou, Burkina Faso
+  Job Description: 'Are you keen to use your marketing skills to make a difference?
+    Want to be part of a team that helps get the word out and drives engagement? You
+    could be our next Marketing and Communication Specialist!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/363?source=aWQ9MjM%3D
+- Job Title: Partnership Officer
+  Location: Nairobi, Kenya
+  Job Description: "Are you able to manage the political relations to successfully
+    implement operations across Kenya? Would you enjoy managing relationships and
+    creating strong alliances? Continue reading to find out more about our Partnership
+    Officer role! \n\n"
+  Link: https://triggerise.bamboohr.com/careers/362?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
