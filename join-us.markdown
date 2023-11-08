@@ -64,6 +64,11 @@ Jobs:
     creating strong alliances? Continue reading to find out more about our Partnership
     Officer role! \n\n"
   Link: https://triggerise.bamboohr.com/careers/362?source=aWQ9MjM%3D
+- Job Title: Country Director (Ethiopia)
+  Location: 'Addis Ababa, Ethiopia '
+  Job Description: "Can you help our Ethiopian market reach the next level of maturity?
+    Are you an organised and data-driven manager that can help the team grow? \n\n"
+  Link: https://triggerise.bamboohr.com/careers/365?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
