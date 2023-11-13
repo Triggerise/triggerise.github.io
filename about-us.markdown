@@ -86,7 +86,7 @@ Our People:
   LinkedIn: https://ke.linkedin.com/in/hildah-essendi-7b995410
   Image: "/uploads/415-1-2.webp"
 - Name: Marylou
-  Role: Strategy Manager
+  Role: Strategy and Innovation Director
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/maryloukupfer/
   Image: "/uploads/Trig_profiles_marylou.webp"
@@ -101,7 +101,7 @@ Our People:
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
 - Name: Nathalie-Ann
-  Role: Programme Director
+  Role: Deputy Chief Impact Officer
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
   Image: "/uploads/Trig_profiles_nathalie.webp"
