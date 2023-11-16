@@ -39,13 +39,13 @@ Jobs:
     to change, then continue reading to learn more about the Experiment Officer role.
     Please note that this is a 4-month contract position, covering a maternity leave.
   Link: https://triggerise.bamboohr.com/careers/364?source=aWQ9MjM%3D
-- Job Title: Capacity Building & Partnerships Manager
+- Job Title: Community Partnership Development Manager
   Location: Kenya / South Africa / Ethiopia / Uganda
   Job Description: 'Are you adept at capacity building and partnership management
     within the African context? Do you excel at developing frameworks and initiatives
     that enhance partnership value and service delivery? If this sounds like your
-    expertise, we invite you to discover more about becoming our Capacity Building
-    & Partnerships Manager!
+    expertise, we invite you to discover more about becoming our Community Partnership
+    Development Manager!
 
 '
   Link: https://triggerise.bamboohr.com/careers/367?source=aWQ9MjM%3D
