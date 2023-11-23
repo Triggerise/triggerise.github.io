@@ -18,6 +18,15 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
+- Job Title: DevOps Engineer
+  Location: Kenya / South Africa / Portugal
+  Job Description: 'Do you have experience building, testing & maintaining tools that
+    allow for speedy development of software? Do you enjoy working in an Agile way
+    and are excited by the prospect of using technology to create impact?  Read on
+    to find out more about our DevOps Engineer position!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/369?source=aWQ9MjM%3D
 - Job Title: New Business Development Lead
   Location: Europe / Africa
   Job Description: Do you have experience in fundraising, particularly in the field
@@ -25,12 +34,6 @@ Jobs:
     you do sustainably creates an impact on a global scale? Read on to hear more about
     the role of NBD Lead at Triggerise! 
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Ecosystem Trainer
-  Location: Migori, Kenya
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
-    Continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/361?source=aWQ9MjM%3D
 - Job Title: Experiment Officer (Maternity Cover)
   Location: Nairobi, Kenya
   Job Description: We're in search of an Experiment Officer to uncover, foster, and
@@ -39,16 +42,6 @@ Jobs:
     to change, then continue reading to learn more about the Experiment Officer role.
     Please note that this is a 4-month contract position, covering a maternity leave.
   Link: https://triggerise.bamboohr.com/careers/364?source=aWQ9MjM%3D
-- Job Title: Community Partnership Development Manager
-  Location: Kenya / South Africa / Ethiopia / Uganda
-  Job Description: 'Are you adept at capacity building and partnership management
-    within the African context? Do you excel at developing frameworks and initiatives
-    that enhance partnership value and service delivery? If this sounds like your
-    expertise, we invite you to discover more about becoming our Community Partnership
-    Development Manager!
-
-'
-  Link: https://triggerise.bamboohr.com/careers/367?source=aWQ9MjM%3D
 - Job Title: Marketing and Communication Specialist
   Location: Ouagadougou, Burkina Faso
   Job Description: 'Are you keen to use your marketing skills to make a difference?
@@ -57,13 +50,15 @@ Jobs:
 
 '
   Link: https://triggerise.bamboohr.com/careers/363?source=aWQ9MjM%3D
-- Job Title: Partnership Officer
-  Location: Nairobi, Kenya
-  Job Description: "Are you able to manage the political relations to successfully
-    implement operations across Kenya? Would you enjoy managing relationships and
-    creating strong alliances? Continue reading to find out more about our Partnership
-    Officer role! \n\n"
-  Link: https://triggerise.bamboohr.com/careers/362?source=aWQ9MjM%3D
+- Job Title: Marketing and Communication Manager
+  Location: Johannesburg, South Africa
+  Job Description: 'Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    Manager!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/368?source=aWQ9MjM%3D
 - Job Title: Country Director (Ethiopia)
   Location: 'Addis Ababa, Ethiopia '
   Job Description: "Can you help our Ethiopian market reach the next level of maturity?
