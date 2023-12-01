@@ -3,7 +3,7 @@ title: Swahili
 date: 2021-04-18 00:00:00 Z
 file: "/privacy-policy/swahili.markdown"
 userGroups:
-  - title : "rafiki"
+  - title : "member"
     content: ""
   - title : "mobiliser"
     content: ""

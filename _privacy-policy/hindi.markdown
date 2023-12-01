@@ -2,7 +2,7 @@
 title: Hindi
 date: 2021-07-05 10:34:00 Z
 userGroups:
-  - title : "rafiki"
+  - title : "member"
     content: ""
   - title : "mobiliser"
     content: ""

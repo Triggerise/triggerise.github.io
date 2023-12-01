@@ -3,7 +3,7 @@ title: French
 date: 2021-04-19 00:00:00 Z
 layout: simple
 userGroups:
-  - title : "rafiki"
+  - title : "member"
     content: ""
   - title : "mobiliser"
     content: ""

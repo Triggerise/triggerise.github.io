@@ -2,7 +2,7 @@
 title: English
 date: 2023-03-13 10:17:00 Z
 userGroups:
-  - title: "rafiki"
+  - title: "member"
     content: " **PRIVACY NOTICE FOR THE PROCESS OF ENROLLMENT TO THE TIKO PLATFORM AND THE SERVICE UPTAKE**
     \n\n Protecting your privacy and personal data is very important to Stichting Triggerise and its affiliates (“us”, “our” or “we”). \n\n This privacy notice explains what personal data we collect, why we collect these data and who can access them, once you have enrolled to benefit from our services and / or products. It also explains how long your personal data is kept and what are the rights you have in relation to the handling of your personal data. \n\n We act as the data controller of the personal data we hold about you. Questions, comments and requests regarding this Privacy Notice are welcome and should be addressed to our Data Protection Officer (DPO) via emailing to <privacy@triggerise.org>. \n\n
     

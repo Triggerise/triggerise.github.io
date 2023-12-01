@@ -25,8 +25,8 @@ userGroups:
       showBottomDivider: true
     readMoreText: "Read more amharic general"
     readMoreURL: "/privacy-policy?privacyUserType=general#Amharic"
-  - title: "rafiki"
-    headerTitle: "Amharic Rafiki privacy policy"
+  - title: "member"
+    headerTitle: "Amharic Member privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
     policyGroups: 
     - title: "Amharic policy 1"
@@ -45,8 +45,8 @@ userGroups:
         <p>This would be a dynamic content box for the Amharic policy 2</p>
       showTopDivider: true
       showBottomDivider: true
-    readMoreText: "Read more amharic rafiki"
-    readMoreURL: "/privacy-policy?privacyUserType=rafiki#Amharic"
+    readMoreText: "Read more amharic member"
+    readMoreURL: "/privacy-policy?privacyUserType=member#Amharic"
   - title: "mobiliser"
     headerTitle: "Amharic Mobiliser privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
