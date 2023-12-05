@@ -2,9 +2,9 @@
 title: Amharic
 date: 2023-03-13 10:00:00 Z
 userGroups:
-  - title : "member"
+  - title : "platform-user"
     content: "Test"
-  - title: "mobiliser"
+  - title: "partner"
     content: ""
   - title: "general"
     content: " **የትሪገራይዝ የግላዊነት ፖሊሲ** \n\n **ክፍል አንድ፡ የትሪገራይዝ ማንነት** \n\n የእርስዎን መረጃ

@@ -25,7 +25,7 @@ userGroups:
       showBottomDivider: true
     readMoreText: "Read more amharic general"
     readMoreURL: "/privacy-policy?privacyUserType=general#Amharic"
-  - title: "member"
+  - title: "platform-user"
     headerTitle: "Amharic Member privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
     policyGroups: 
@@ -47,7 +47,7 @@ userGroups:
       showBottomDivider: true
     readMoreText: "Read more amharic member"
     readMoreURL: "/privacy-policy?privacyUserType=member#Amharic"
-  - title: "mobiliser"
+  - title: "partner"
     headerTitle: "Amharic Mobiliser privacy policy"
     headerDescription: "Hello. We are Tiko (known by our users as Tiko). Here's a summary of how we protect your data and respect your privacy."
     policyGroups: 
@@ -68,7 +68,7 @@ userGroups:
       showTopDivider: true
       showBottomDivider: true
     readMoreText: "Read more amharic mobiliser"
-    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#Amharic"
+    readMoreURL: "/privacy-policy?privacyUserType=partner#Amharic"
 layout: simple
 ---
 

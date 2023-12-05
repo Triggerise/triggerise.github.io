@@ -25,14 +25,14 @@ userGroups:
       showBottomDivider: true
     readMoreText: "Read more swahili general"
     readMoreURL: "/privacy-policy?privacyUserType=general#Swahili"
-  - title: "member"
+  - title: "platform-user"
     headerTitle: "Swahili Member privacy policy"
     readMoreText: "Read more Swahili member"
-    readMoreURL: "/privacy-policy?privacyUserType=member#Swahili"
-  - title: "mobiliser"
+    readMoreURL: "/privacy-policy?privacyUserType=platform-user#Swahili"
+  - title: "partner"
     headerTitle: "Swahili Mobiliser privacy policy"
     readMoreText: "Read more Swahili mobiliser"
-    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#Swahili"
+    readMoreURL: "/privacy-policy?privacyUserType=partner#Swahili"
 layout: simple
 ---
 

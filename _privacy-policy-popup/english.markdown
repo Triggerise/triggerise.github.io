@@ -8,7 +8,6 @@ userGroups:
     policyGroups: 
     - title: "Types of data we collect"
       titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-      linkText: "Read more"
       linkURL: "/privacy-policy?privacyUserType=general#English"
       policyContent: |-
         <ul>
@@ -20,7 +19,6 @@ userGroups:
       showBottomDivider: false
     - title: "Know your rights"
       titleImage: "/uploads/icons/Know-your-rights.png"
-      linkText: "Read more"
       linkURL: "/privacy-policy?privacyUserType=general#English"
       policyContent: |-
         <ul>
@@ -35,7 +33,6 @@ userGroups:
       showBottomDivider: false
     - title: "Why we use your data"
       titleImage: "/uploads/icons/How-we-use-your-data.png"
-      linkText: "Read more"
       linkURL: "/privacy-policy?privacyUserType=general#English"
       policyContent: |-
         <ul>
@@ -48,7 +45,6 @@ userGroups:
       showBottomDivider: true
     - title: "Who has access to your data?"
       titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-      linkText: "Read more"
       linkURL: "/privacy-policy?privacyUserType=general#English"
       policyContent: |-
         <ul>
@@ -59,13 +55,12 @@ userGroups:
       showBottomDivider: true
     readMoreText: "READ THE FULL NOTICE"
     readMoreURL: "/privacy-policy?privacyUserType=general#English"
-  - title: "member"
+  - title: "platform-user"
     headerTitle: "Privacy notice for Tiko members"
     policyGroups: 
       - title: "Types of data we collect"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>Gender, month of birth, year of birth, phone number (if you have one and want to share it)</li><li>Type of service and/or product you have received along with the date and the facility you visited, Tiko Miles awarded to you</li><li>Voice sample (in some cases)</li>
@@ -74,44 +69,40 @@ userGroups:
         showBottomDivider: false
       - title: "Know your rights"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>Access your personal data</li><li>Ask for a copy</li><li>Ask us to rectify personal data submitted to us</li><li>Ask us to forget you</li><li>Complain about us</li>
           </ul>
         showTopDivider: true
         showBottomDivider: false
-      - title: "How we use your data"
+      - title: "Why we use your data"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
-            <li>To confirm your eligibility to receive services and/or products</li><li>To be able to reimburse service providers and vendors for the service and/or product you have received</li><li>To award you with TIKO miles</li><li>To communicate with you to promote  services, products and/or information we believe may be of interest to you</li><li>To improve the products/services you receive</li><li>To prevent fraud, to carry our research and prepare aggregated statistics</li>
+            <li>To confirm your eligibility to receive services and/or products</li><li>To be able to reimburse service providers and vendors for the service and/or product you have received</li><li>To award you with Tiko Miles</li><li>To communicate with you to promote services, products and/or information we believe may be of interest to you</li><li>To improve the products/services you receive</li><li>To prevent misuse, to carry out research, prepare aggregated statistics, be subject to audits</li>
           </ul>
         showTopDivider: true
         showBottomDivider: true
       - title: "Who has access to your data?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
-            <li>We do not sell, rent, or share your personal data for commercial purposes (including direct marketing)</li>
-            <li>Access to the personal data is limited on a strict need-to-know basis and is given to some of our staff members and/or third parties we work with</li>
+            <li>We do not sell, rent, or share your personal data for commercial purposes</li>
+            <li>Access to the personal data is limited on a strict need-to-know basis and is given to some of our staff members and/or third parties we work with and are bound by confidentiality</li>
           </ul>
         showTopDivider: true
         showBottomDivider: true
     readMoreText: "READ THE FULL NOTICE"
-    readMoreURL: "/privacy-policy?privacyUserType=member#English"
-  - title: "mobiliser"
+    readMoreURL: "/privacy-policy?privacyUserType=platform-user#English"
+  - title: "partner"
     headerTitle: "Privacy notice for mobilisers, clinics and pharmacies"
     policyGroups: 
       - title: "Types of data we collect"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>Complete name, location, national ID, gender, birth date, mobile phone number, selfie (for face recognition purposes)</li>
@@ -122,8 +113,7 @@ userGroups:
         showBottomDivider: false
       - title: "Know your rights"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>Access your personal data</li>
@@ -135,10 +125,9 @@ userGroups:
           </ul>
         showTopDivider: true
         showBottomDivider: false
-      - title: "How we use your data"
+      - title: "Why we use your data"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>To conclude a contractual arrangement with you and activate your account in the Tiko platform</li>
@@ -152,8 +141,7 @@ userGroups:
         showBottomDivider: true
       - title: "Who has access to your data?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkText: "Read more"
-        linkURL: "/privacy-policy?privacyUserType=member#English"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
         policyContent: |-
           <ul>
             <li>We do not sell, rent, or share your personal data for commercial purposes (including direct marketing)</li>
@@ -162,7 +150,7 @@ userGroups:
         showTopDivider: true
         showBottomDivider: true
     readMoreText: "READ THE FULL NOTICE"
-    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#English"
+    readMoreURL: "/privacy-policy?privacyUserType=partner#English"
 layout: simple
 ---
 

@@ -8,7 +8,6 @@ userGroups:
     policyGroups: 
     - title: "Types de données collectées"
       titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-      linkText: "En savoir plus"
       linkURL: "/privacy-policy?privacyUserType=general#French"
       policyContent: |-
         <ul>
@@ -24,7 +23,6 @@ userGroups:
       showBottomDivider: false
     - title: "Connaître ses droits"
       titleImage: "/uploads/icons/Know-your-rights.png"
-      linkText: "En savoir plus"
       linkURL: "/privacy-policy?privacyUserType=general#French"
       policyContent: |-
         <ul>
@@ -39,7 +37,6 @@ userGroups:
       showBottomDivider: false
     - title: "Pourquoi nous utilisons vos données"
       titleImage: "/uploads/icons/How-we-use-your-data.png"
-      linkText: "En savoir plus"
       linkURL: "/privacy-policy?privacyUserType=general#French"
       policyContent: |-
         <ul>
@@ -52,7 +49,6 @@ userGroups:
       showBottomDivider: true
     - title: "Qui a accès à vos données?"
       titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-      linkText: "En savoir plus"
       linkURL: "/privacy-policy?privacyUserType=general#French"
       policyContent: |-
         <ul>
@@ -63,13 +59,12 @@ userGroups:
       showBottomDivider: true
     readMoreText: "LIRE L'AVIS COMPLET"
     readMoreURL: "/privacy-policy?privacyUserType=general#French"
-  - title: "member"
-    headerTitle: "Avis de confidentialité pour les membres Tiko"
+  - title: "platform-user"
+    headerTitle: "Avis de confidentialité abrégé à l’attention des membres de Tiko"
     policyGroups: 
       - title: "Types de données collectées"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Sexe, mois de naissance, année de naissance, numéro de téléphone (si vous en avez un et que vous souhaitez le partager)</li><li>Type de service et/ou de produit que vous avez reçu ainsi que la date et l'établissement dans lequel vous vous êtes rendue, Tiko Miles qui vous ont été attribués</li><li>Court enregistrement de voix (dans certains cas)</li>
@@ -78,8 +73,7 @@ userGroups:
         showBottomDivider: false
       - title: "Connaître ses droits"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Accéder à vos données personnelles</li><li>En demander une copie</li><li>Nous demander de rectifier les données à caractère personnel qui nous ont été communiquées</li><li>Nous demander de vous oublier</li><li>Se plaindre de nous</li>
@@ -88,8 +82,7 @@ userGroups:
         showBottomDivider: false
       - title: "Pourquoi nous utilisons vos données"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Pour confirmer votre éligibilité à recevoir des services et/ou des produits</li><li>Pouvoir rembourser les prestataires de services et les vendeurs pour le service et/ou le produit que vous avez reçu</li><li>Vous attribuer des Miles Tiko</li><li>Communiquer avec vous pour promouvoir des services, des produits et/ou des informations que nous pensons susceptibles de vous intéresser</li><li>Améliorer les produits/services que vous recevez</li><li>Prévenir les abus, effectuer des recherches, préparer des statistiques agrégées, être soumis à des audits.</li>
@@ -98,8 +91,7 @@ userGroups:
         showBottomDivider: true
       - title: "Qui a accès à vos données?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Nous ne vendons pas, ne louons pas et ne partageons pas vos données personnelles à des fins commerciales.</li>
@@ -108,14 +100,13 @@ userGroups:
         showTopDivider: true
         showBottomDivider: true
     readMoreText: "LIRE L'AVIS COMPLET"
-    readMoreURL: "/privacy-policy?privacyUserType=member#French"
-  - title: "mobiliser"
+    readMoreURL: "/privacy-policy?privacyUserType=platform-user#French"
+  - title: "partner"
     headerTitle: "Avis de confidentialité abrégé à l’attention des mobilisatrices, des cliniques et des pharmacies"
     policyGroups: 
       - title: "Types de données collectées"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Nom complet, localisation, identité nationale, sexe, date de naissance, numéro de téléphone portable, selfie (à des fins de reconnaissance faciale).</li><li>Documentation telle que carte d'identité, code de conduite signé, lettre de consentement</li><li>Journal des activités dans l'application Tiko</li>
@@ -124,8 +115,7 @@ userGroups:
         showBottomDivider: false
       - title: "Connaître ses droits"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Accéder à vos données personnelles</li><li>En demander une copie</li><li>Nous demander de rectifier les données à caractère personnel qui nous ont été communiquées</li><li>Nous demander de restreindre le traitement de vos données personnelles ou de vous opposer à leur traitement</li><li>Nous demander de vous oublier</li><li>Se plaindre de nous</li>
@@ -134,8 +124,7 @@ userGroups:
         showBottomDivider: false
       - title: "Pourquoi nous utilisons vos données"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Pour conclure un accord contractuel avec vous et activer votre compte sur la plateforme Tiko</li>
@@ -149,8 +138,7 @@ userGroups:
         showBottomDivider: true
       - title: "Qui a accès à vos données?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkText: "En savoir plus"
-        linkURL: "/privacy-policy?privacyUserType=member#French"
+        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
         policyContent: |-
           <ul>
             <li>Nous ne vendons pas, ne louons pas et ne partageons pas vos données personnelles à des fins commerciales (y compris le marketing direct).</li>
@@ -159,7 +147,7 @@ userGroups:
         showTopDivider: true
         showBottomDivider: true
     readMoreText: "LIRE L'AVIS COMPLET"
-    readMoreURL: "/privacy-policy?privacyUserType=mobiliser#French"
+    readMoreURL: "/privacy-policy?privacyUserType=partner#French"
 layout: simple
 ---
 

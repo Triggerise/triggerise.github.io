@@ -3,9 +3,9 @@ title: Swahili
 date: 2021-04-18 00:00:00 Z
 file: "/privacy-policy/swahili.markdown"
 userGroups:
-  - title : "member"
+  - title : "platform-user"
     content: ""
-  - title : "mobiliser"
+  - title : "partner"
     content: ""
   - title : "general"
     content: "**SEHEMU YA KWANZA- SISI NI NANI**\n\nKuhifadhi data yako, usiri na
