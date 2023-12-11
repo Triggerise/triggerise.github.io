@@ -18,6 +18,20 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
+- Job Title: New Business Development Lead
+  Location: London, UK
+  Job Description: Do you have experience in fundraising, particularly in the field
+    of sexual reproductive health? Are you looking for a role where the work that
+    you do sustainably creates an impact on a global scale? Read on to hear more about
+    the role of NBD Lead at Triggerise! 
+  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MzI%3D
+- Job Title: Data Engineering Team Lead
+  Location: Kenya / South Africa / Portugal
+  Job Description: Are you an expert in all things data and have experience leading
+    a team? You’re not afraid of complex data sets and tools; in fact, you excel when
+    working with them! If this describes you, then the Data Team Lead position could
+    be a great match.
+  Link: https://triggerise.bamboohr.com/careers/375?source=aWQ9MzI%3D
 - Job Title: DevOps Engineer
   Location: Kenya / South Africa / Portugal
   Job Description: 'Do you have experience building, testing & maintaining tools that
@@ -27,29 +41,48 @@ Jobs:
 
 '
   Link: https://triggerise.bamboohr.com/careers/369?source=aWQ9MjM%3D
-- Job Title: New Business Development Lead
-  Location: Europe / Africa
-  Job Description: Do you have experience in fundraising, particularly in the field
-    of sexual reproductive health? Are you looking for a role where the work that
-    you do sustainably creates an impact on a global scale? Read on to hear more about
-    the role of NBD Lead at Triggerise! 
-  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Experiment Officer (Maternity Cover)
-  Location: Nairobi, Kenya
-  Job Description: We're in search of an Experiment Officer to uncover, foster, and
-    expedite innovation within Triggerise. If you thrive on spearheading new innovation
-    projects with a user-centric and agile approach, and you're ready to adapt swiftly
-    to change, then continue reading to learn more about the Experiment Officer role.
-    Please note that this is a 4-month contract position, covering a maternity leave.
-  Link: https://triggerise.bamboohr.com/careers/364?source=aWQ9MjM%3D
-- Job Title: Marketing and Communication Specialist
-  Location: Ouagadougou, Burkina Faso
-  Job Description: 'Are you keen to use your marketing skills to make a difference?
-    Want to be part of a team that helps get the word out and drives engagement? You
-    could be our next Marketing and Communication Specialist!
-
-'
-  Link: https://triggerise.bamboohr.com/careers/363?source=aWQ9MjM%3D
+- Job Title: Java Engineering Team Lead
+  Location: Kenya / South Africa / Portugal
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team that use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/372?source=aWQ9MzI%3D
+- Job Title: Country Director (Ethiopia)
+  Location: 'Addis Ababa, Ethiopia '
+  Job Description: "Can you help our Ethiopian market reach the next level of maturity?
+    Are you an organised and data-driven manager that can help the team grow? \n\n"
+  Link: https://triggerise.bamboohr.com/careers/365?source=aWQ9MjM%3D
+- Job Title: Data Protection Officer
+  Location: Ethiopia / Kenya / Portugal / South Africa
+  Job Description: Do you have practical experience within the data protection space?
+    Would you be able to bring a fresh perspective to managing data privacy risks,
+    while providing advice and oversight across all aspects of data privacy in a global
+    organisation?  Read more to find out about the role of Data Protection Officer.
+  Link: https://triggerise.bamboohr.com/careers/366?source=aWQ9MzI%3D
+- Job Title: Ecosystem Coordinator
+  Location: South Africa
+  Job Description: 'Would you enjoy working closely with different actors in the Tiko
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Coordinator role! '
+  Link: https://triggerise.bamboohr.com/careers/374?source=aWQ9MzI%3D
+- Job Title: Ecosystem Coordinator
+  Location: Uganda
+  Job Description: 'Would you enjoy working closely with different actors in the Tiko
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Coordinator role! '
+  Link: https://triggerise.bamboohr.com/careers/370?source=aWQ9MzI%3D
+- Job Title: Ecosystem Trainer
+  Location: 'Kenya '
+  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
+    to ensure that they are knowledgeable about our platform and it''s offers? Continue
+    reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/373?source=aWQ9MzI%3D
+- Job Title: Ecosystem Trainer
+  Location: Uganda
+  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
+    to ensure that they are knowledgeable about our platform and it''s offers? Continue
+    reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/371?source=aWQ9MzI%3D
 - Job Title: Marketing and Communication Manager
   Location: Johannesburg, South Africa
   Job Description: 'Are you ready to use your marketing expertise to make an impact?
@@ -59,11 +92,6 @@ Jobs:
 
 '
   Link: https://triggerise.bamboohr.com/careers/368?source=aWQ9MjM%3D
-- Job Title: Country Director (Ethiopia)
-  Location: 'Addis Ababa, Ethiopia '
-  Job Description: "Can you help our Ethiopian market reach the next level of maturity?
-    Are you an organised and data-driven manager that can help the team grow? \n\n"
-  Link: https://triggerise.bamboohr.com/careers/365?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
