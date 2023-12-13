@@ -102,7 +102,7 @@ userGroups:
     policyGroups: 
       - title: "Types of data we collect"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
+        linkURL: "/privacy-policy?privacyUserType=partner#English"
         policyContent: |-
           <ul>
             <li>Complete name, location, national ID, gender, birth date, mobile phone number, selfie (for face recognition purposes)</li>
@@ -113,7 +113,7 @@ userGroups:
         showBottomDivider: false
       - title: "Know your rights"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
+        linkURL: "/privacy-policy?privacyUserType=partner#English"
         policyContent: |-
           <ul>
             <li>Access your personal data</li>
@@ -127,7 +127,7 @@ userGroups:
         showBottomDivider: false
       - title: "Why we use your data"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
+        linkURL: "/privacy-policy?privacyUserType=partner#English"
         policyContent: |-
           <ul>
             <li>To conclude a contractual arrangement with you and activate your account in the Tiko platform</li>
@@ -141,7 +141,7 @@ userGroups:
         showBottomDivider: true
       - title: "Who has access to your data?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#English"
+        linkURL: "/privacy-policy?privacyUserType=partner#English"
         policyContent: |-
           <ul>
             <li>We do not sell, rent, or share your personal data for commercial purposes (including direct marketing)</li>

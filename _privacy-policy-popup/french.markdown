@@ -106,7 +106,7 @@ userGroups:
     policyGroups: 
       - title: "Types de données collectées"
         titleImage: "/uploads/icons/Types-of-data-we-collect.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
+        linkURL: "/privacy-policy?privacyUserType=partner#French"
         policyContent: |-
           <ul>
             <li>Nom complet, localisation, identité nationale, sexe, date de naissance, numéro de téléphone portable, selfie (à des fins de reconnaissance faciale).</li><li>Documentation telle que carte d'identité, code de conduite signé, lettre de consentement</li><li>Journal des activités dans l'application Tiko</li>
@@ -115,7 +115,7 @@ userGroups:
         showBottomDivider: false
       - title: "Connaître ses droits"
         titleImage: "/uploads/icons/Know-your-rights.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
+        linkURL: "/privacy-policy?privacyUserType=partner#French"
         policyContent: |-
           <ul>
             <li>Accéder à vos données personnelles</li><li>En demander une copie</li><li>Nous demander de rectifier les données à caractère personnel qui nous ont été communiquées</li><li>Nous demander de restreindre le traitement de vos données personnelles ou de vous opposer à leur traitement</li><li>Nous demander de vous oublier</li><li>Se plaindre de nous</li>
@@ -124,7 +124,7 @@ userGroups:
         showBottomDivider: false
       - title: "Pourquoi nous utilisons vos données"
         titleImage: "/uploads/icons/How-we-use-your-data.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
+        linkURL: "/privacy-policy?privacyUserType=partner#French"
         policyContent: |-
           <ul>
             <li>Pour conclure un accord contractuel avec vous et activer votre compte sur la plateforme Tiko</li>
@@ -138,7 +138,7 @@ userGroups:
         showBottomDivider: true
       - title: "Qui a accès à vos données?"
         titleImage: "/uploads/icons/Who-has-access-to-your-data.png"
-        linkURL: "/privacy-policy?privacyUserType=platform-user#French"
+        linkURL: "/privacy-policy?privacyUserType=partner#French"
         policyContent: |-
           <ul>
             <li>Nous ne vendons pas, ne louons pas et ne partageons pas vos données personnelles à des fins commerciales (y compris le marketing direct).</li>
