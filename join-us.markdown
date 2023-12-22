@@ -60,19 +60,13 @@ Jobs:
     organisation?  Read more to find out about the role of Data Protection Officer.
   Link: https://triggerise.bamboohr.com/careers/366?source=aWQ9MzI%3D
 - Job Title: Ecosystem Coordinator
-  Location: South Africa
-  Job Description: 'Would you enjoy working closely with different actors in the Tiko
-    ecosystem to help solve any issues or answer any questions that they may have?
-    Continue reading to find out more about our Ecosystem Coordinator role! '
-  Link: https://triggerise.bamboohr.com/careers/374?source=aWQ9MzI%3D
-- Job Title: Ecosystem Coordinator
   Location: Uganda
   Job Description: 'Would you enjoy working closely with different actors in the Tiko
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Coordinator role! '
   Link: https://triggerise.bamboohr.com/careers/370?source=aWQ9MzI%3D
 - Job Title: Ecosystem Trainer
-  Location: 'Kenya '
+  Location: 'Mombasa, Kenya '
   Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
     to ensure that they are knowledgeable about our platform and it''s offers? Continue
     reading to find out more about our Ecosystem Trainer role! '
@@ -83,15 +77,27 @@ Jobs:
     to ensure that they are knowledgeable about our platform and it''s offers? Continue
     reading to find out more about our Ecosystem Trainer role! '
   Link: https://triggerise.bamboohr.com/careers/371?source=aWQ9MzI%3D
-- Job Title: Marketing and Communication Manager
-  Location: Johannesburg, South Africa
-  Job Description: 'Are you ready to use your marketing expertise to make an impact?
-    Would you enjoy being the driving force behind designing and implementing a marketing
-    strategy focused on value creation? You could be our next Marketing and Communications
-    Manager!
-
-'
-  Link: https://triggerise.bamboohr.com/careers/368?source=aWQ9MjM%3D
+- Job Title: Social & Behaviour Change Lead
+  Location: Uganda / South Africa / Kenya / Ethiopia
+  Job Description: Do you want to make an impact through the power of marketing and
+    social behaviour change? Are you looking for a role that combines strategy and
+    practical implementation? Then this might be your next job!
+  Link: https://triggerise.bamboohr.com/careers/376?source=aWQ9MjM%3D
+- Job Title: " Research Fellow"
+  Location: Nairobi, Kenya
+  Job Description: Are you a passionate researcher eager to apply your skills in a
+    collaborative and innovative setting, focused on creating meaningful impact? If
+    you find excitement in driving change and improvement in the lives of vulnerable
+    adolescents and young people through your research expertise, keep reading – this
+    role is for you!
+  Link: https://triggerise.bamboohr.com/careers/378?source=aWQ9MjM%3D
+- Job Title: Communications Manager
+  Location: London, UK
+  Job Description: Are you passionate about communications with a flair for making
+    a difference in sexual reproductive health and rights? Seeking a dynamic role
+    where your creativity and strategic thinking contribute to meaningful global change?
+    Discover more about the exciting opportunity as a Communications Manager at Tiko!
+  Link: https://triggerise.bamboohr.com/careers/377?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
