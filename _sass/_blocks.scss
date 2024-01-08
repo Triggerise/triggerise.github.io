@@ -759,6 +759,7 @@
                     font-size: 14.5px;
                 }
             }
+
         }
 
         .success-story-wrapper {
@@ -2263,6 +2264,7 @@ blockquote:after {
 }
 
 .story-list {
+    padding-top: 18px;
     padding-bottom: 18px;
     position: sticky;
     top: 70px;
@@ -3320,7 +3322,7 @@ Salary Tracker
 
 .contact_banner .contact_banner__h3 {
     padding: 0 !important;
-    font-size: 55px;
+    font-size: 42px;
     width: 100% !important;
     color: $lightBlue;
 }

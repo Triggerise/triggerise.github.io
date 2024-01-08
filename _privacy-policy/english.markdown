@@ -1,298 +1,157 @@
 ---
 title: English
 date: 2023-03-13 10:17:00 Z
-description: " **Triggerise Privacy Policy**\n\n **SECTION 1 – WHO WE ARE**\n\n Protecting
-  your data, privacy and personal data is very important to Triggerise Stitching and
-  its affiliates - Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia
-  branch, Triggerise BV, Triggerise South Africa NPC, and Triggerise LABS Unipessoal
-  Lda  (“us”, “our” or “we”). It is vitally important to us that our customers (the
-  “users”) feel secure when using the services, products, and information that we
-  provide through our various platforms.\n\n This policy sets out the basis on which
-  any personal data we collect from you, or that you provide to us, will be processed.
-  Please read this Privacy Policy carefully to understand the types of data we collect
-  from you, how we use it, the circumstances under which we will share it with third
-  parties, and your rights in relation to the personal data you provide us.\n\n When
-  using our platform, apps, sites (the “Services”), you will be asked to indicate
-  your acknowledgment of, and where applicable, give your consent to the practices
-  described in this policy.\n\n This Privacy Policy applies to data processing by:
-  Triggerise Stichting and its affiliates and partners in Burkina Faso, Cameroon,
-  Kenya, Ethiopia Portugal, South Africa, and the Netherlands.\n\n This privacy notice
-  is issued on behalf of Triggerise Stichting and its affiliates so when we mention
-  “Triggerise, “we”, “us” or “our” in this privacy notice, we are referring to the
-  relevant Triggetise affiliate responsible for processing your data. We will let
-  you know which entity will be the controller for your data when you use our services.\n\n
-  Questions, comments and requests regarding this Privacy Policy are welcome and should
-  be addressed to <privacy@triggerise.org>. Our Data Protection Officer is Ioanna
-  Pliota.\n\n **SECTION 2 – GENERAL OVERVIEW OF OUR DATA PROCESSING IN CONNECTION
-  WITH SERVICES, PRODUCTS AND INFORMATION**\n\n You will be asked to provide us with
-  your information when you:\n\n •\tfill in forms on our websites, our applications,
-  our digital assets (such as Facebook Messenger, Telegram, Whatsapp, or correspond
-  with us by SMS, phone, or email;\n\n •\tregister/enroll to use our services, products
-  or offers, subscribe to our newsletter, promotional emails or other marketing materials;\n\n
-  •\tuse the services or products that you receive through our platforms;\n\n •\trate
-  the services or products that you receive on our platforms\n\n •\treport a problem
-  with services or products received; or\n\n •\tComplete any surveys or studies that
-  we use for research purposes to evaluate our services or improve the quality of
-  services that we provide to you\n\n The information you will be asked to provide
-  us for these purposes may include your gender, date of birth, phone number, products
-  or services you received, locations of places where you received a product, service
-  or information, redeemed rewards or further information required to verify your
-  identity such as an image of your face or your voice.\n\n **SECTION 3 – SPECIFIC
-  PROCESSING ACTIVITIES, TYPE AND PURPOSE OF THEIR USE** **3.1\tWHEN YOU USE OUR WEBSITES**
-  **Types of data:** IP address of the requesting device, date and time of access,
-  name and URL of the requested file, website from which access is obtained (“Referrer
-  URL”), browser used and, where applicable, your device’s operating system and the
-  identity of your access provider.\n\n **Uses of that data:** We use the above data
-  to provide you with access to our Website, ensure that the Website can establish
-  an internet connection smoothly and is easy to use; to analyse the system security
-  and stability, as well as for additional administrative purposes.\n\n **Use justification:**
-  Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate interest is based
-  on the data use purposes listed above. We do not use the data collected for the
-  purpose of identifying you. You are not obliged to provide the above personal data.
-  However, you will not be able to access the websites if such personal data are not
-  provided.\n\n **Storage duration:** The data that allows us to identify a user is
-  removed after 14 days, unless any security-relevant event occurs (e.g. a DDoS attack).
-  If there is a security-relevant event, server log files are stored until the security-relevant
-  event has been eliminated and clarified in full.\n\n **3.2\tWHEN YOU REGISTER OR
-  ENROL TO RECEIVE OR PROVIDE SERVICES OR PRODUCTS ON THE PLATFORMS THAT WE MANAGE**\n\n
-  **Types of data include:** gender, date of birth, national identification, police
-  clearance, telephone number, operating licenses, image of your face, sound of your
-  voice\n\n **Uses of that data:** We use the above data to provide you with a user
-  account and access to services, products and information that we provide through
-  our platforms. It is not possible to access or validate our services if the (non-optional)
-  data is not provided.\n\n **Use justification:** Legitimate interests (Article 6
-  (1) (f) GDPR). Our legitimate interests are to use this data (a) for the purpose
-  of identifying you to ensure that you are eligible to receive the charitable services
-  and products that we offer or in the case of a provider or mobiliser, to enroll
-  users or to provide services (b) to prevent fraud on our platform (c) to meet our
-  legal obligation to ensure that only licensed and vetted providers or mobilisers
-  with no criminal cases can enroll users or provide services on our platform.\n\n
-  **Storage duration:** Your data is deleted or anonymized (and cannot be associated
-  with a specific natural person) when you request deletion of your account or when
-  as a mobiliser or provider, you no longer can enroll users or provide services or
-  products on our platform due to termination or separation. If your account is inactive
-  for more than 12 months, we will contact you to check whether you wish to continue
-  using our services. If you then leave your user account unused for a subsequent
-  12 months, we will delete your account and anonymize your data (such that it cannot
-  be associated with a specific natural person).\n\n **3.3\tWHEN YOU RECEIVE SERVICES,
-  PRODUCTS OR INFORMATION ON THE PLATFORMS THAT WE MANAGE**\n\n **Types of data include:**
-  gender, date of birth, image of your face, type of service, product or information
-  that you received/provided or validated,  user that provided you with the service/
-  or whose service you validatedt date you received/provided the service, product
-  or information,  your assessment of the quality of the services, products and information
-  that you received, whether you redeemed incentives such as loyalty points (‘Tiko
-  Miles’) and if so, where you redeemed the incentives/loyalty points and how much
-  of the incentives/loyalty points you spent\n\n **Uses of that data:** We use the
-  above data to provide you with access to services, products and information that
-  we provide through our platforms. We also use the data to improve the quantity and
-  quality of  service, products and information that you recieve, to verify and validate
-  the services, to verify your identity products and information you received, to
-  reimburse vendors and service providers for services, products and information you
-  received, verify your eligibility to access and utilise services, products and information
-  from our platforms,to remind you when you are due to return to receive follow on
-  services and prodiucrs, to implement research interventions such as randomized controlled
-  trials, to evaluate the effectiveness of research interventions, to report to funders
-  of the services, products or information provided on our platforms; to conduct user
-  research and to follow up with you on how we can improve the quality of the services,
-  products and information that you received on our platforms. It is not possible
-  to access our services, product or information (non-optional) if data is not provided.\n\n
-  **Use justification:** Legitimate interests (Article 6 (1) (f) GDPR). Our legitimate
-  interests are to use this data (a) for the purpose of identifying you to ensure
-  that you are eligible to receive/provide the charitable services and products that
-  we offer or in the case of a provider or mobiliser, to to provide services (b) to
-  prevent fraud on our platform and (c ) for other uses stated above\n\n **Storage
-  duration:** Your data is deleted or anonymized (and cannot be associated with a
-  specific natural person) when you request deletion of your account.\n\n **3.4\tDIRECT
-  MARKETING TO YOU OF SERVICES, PRODUCTS OR INFORMATION AVAILABLE ON THE PLATFORMS
-  THAT WE MANAGE**\n\n **Types of data include:** gender, date of birth type of service,
-  product or information that you previously received,  date you received the service,
-  product or information,  your assessment of the quality of the services, products
-  and information that you received, whether you redeem loyalty points (‘Tiko Miles’)
-  and if so, where you redeemed the loyalty points and how much of the loyalty points
-  you spent.\n\n **Uses of that data:** We use the above data to promote services,
-  products or provide you with information that we believe may be of interest to you.
-  You can modify your marketing settings at any time by either (1) sending the text
-  “STOP” to any of the short code number that you used to enroll on our services (2)
-  contacting and informing a mobiliser that assisted in enrolling/registering you
-  on our platform (3) calling us directly on the numbers shared with you (4) sending
-  a Whatsapp or Facebook message saying “stop” or (5) sending an email to us \n\n
-  **Use justification:**Consent (Article 6 (1) (a) GDPR).\n\n **Storage duration:**
-  Your data is deleted or anonymized (and cannot be associated with a specific natural
-  person) when you request deletion of your account.\n\n **3.5\tUSE OF DATA RELATED
-  TO YOUR HEALTH FOR RESEARCH AND STATISTICAL PURPOSES**\n\n **Types of data include:**
-  \ records of the health products or services that you have received from us, other
-  health data that you have provided to us directly or indirectly during your usage
-  of our products or services.\n\n **Uses of that data:**We process this data to carry
-  out research relating to the use and uptake of sexual reproductive health services
-  and products and to prepare aggregate statistics on the geographical utilisation
-  of health products, services or information which may be matched with demographic
-  information we hold about you . Where any such data is made publicly available,
-  it will be presented as summarized statistics on an anonymized basis.\n\n **Use
-  justification:** Legitimate interests (Article 6 (1) (f) GDPR) and Legal obligation
-  ((Article 6 (1) (c) GDPR)TOur legitimate interest in processing data for these purposes
-  is to report to our funders and donors and legal obligation to report to the ministries
-  of health and to support progress in universal access to health care which is also
-  in the public interest. You may, for reasons arising from your particular situation,
-  object to such a processing at any time by sending an e-mail to <privacy@triggerise.org>\n\n
-  **Storage duration:** The storage duration of your data on the basis of which we
-  create the statistics corresponds to the period of processing according to Section
-  3.2. If you object to your data processing, your data will no longer be used for
-  this purpose. The statistics are anonymous.\n\n **SECTION 4 – COOKIES AND TRACKING
-  ON OUR WEBSITES**\n\n Our Websites use so-called “cookies”. Cookies are text files
-  that are stored in the Internet browser or by the Internet browser on the user’s
-  device (computer, tablet, or phone). We use the term “cookies” to refer to all tools
-  that collect data on our Website (e.g. IP addresses, place and time of the visit
-  of the users). The user’s data collected in this way is pseudonymized. The data
-  is not stored together with the user’s other personal data. This processing is carried
-  out on a legal basis or, where required by law, based on your consent.\n\n **SECTION
-  5 – WHERE DO WE STORE YOUR PERSONAL DATA**\n\n The personal data that we collect
-  from you is stored in the European Union on (Europe) Cloud Servers of Amazon Web
-  Services EMEA S.A.R.L. with a business seat in Luxembourg. This data may, however,
-  be processed by sub-processors operating outside of the European Economic Area (“EEA”)
-  based on a data processing agreement if the additional requirements of Art. 44 et
-  seq. GDPR for processing in third countries are compliant with an appropriate level
-  of protection in the third country and appropriate guarantees under Art. 46 GDPR
-  (such as standard data protection clauses, or exceptional circumstances under Art.
-  49 GDPR). Sensitive information between your browser and our Website is transferred
-  in encrypted form using Transport Layer Security (“TLS”). When transmitting sensitive
-  information, you should always make sure that your browser can validate our certificate.\n\n
-  **SECTION 6 – DISCLOSURE OF YOUR PERSONAL DATA**\n\n We use technical service providers
-  to operate and maintain our Services, who act as our processors based on a data
-  processing agreement. Service providers who process personal data on our behalf
-  outside the EEA (or “third countries”) will only be used if the recipient has received
-  a European Commission decision on appropriateness or suitable or appropriate guarantees
-  for this third country or another appropriate safeguard permitting transfer is available
-  under applicable legislation. In addition, we do not transfer your personal data
-  to third parties - except for the purposes listed in section 3 above.\n\n Use justification:
-  The legal basis for the transfer of personal data to the processor and the processing
-  by the processor depends on the legal basis on which we, as data controllers, rely
-  (see Section 3 above)\n\n If we are required based on local laws in the jurisdiction
-  in which we or our affiliates operate to disclose or share your personal data.\n\n
-  Use justification: Legal obligation.\n\n We may also share your personal data with
-  trusted research partners who may process information on behalf of Triggerise for
-  the purposes set out in this privacy notice pursuant to appropriate data processing
-  agreements that provide full protection for your personal data.\n\n **SECTION 7
-  –  HOW LONG DO WE RETAIN YOUR PERSONAL DATA**\n\n We will hold the above data for
-  as long as it is necessary in order to provide you with the Services, deal with
-  any specific issues that may arise or, otherwise, as it is required by law or by
-  any relevant regulatory body. Specific storage periods for the respective processing
-  activities are detailed in Section 3 above.\n\n If your personal data is used for
-  two different purposes, we will retain it until the purpose with the longest period
-  expires, but we will stop using it for the purpose with the shorter period as soon
-  as the shorter period expires.\n\n We restrict access to your personal data to the
-  persons who need to use it for the relevant purpose(s). Our retention periods are
-  based on reasonable business needs, and your personal data that is no longer needed
-  is either anonymized (and the anonymized data may be retained) or securely destroyed.\n\n
-  We will only retain your personal data for as long as necessary to fulfil the purposes
-  we collected it for, including for the purposes of satisfying any legal, accounting,
-  or reporting requirements.\n\n To determine the appropriate retention period for
-  personal data, we consider the amount, nature, and sensitivity of the personal data,
-  the potential risk of harm from unauthorised use or disclosure of your personal
-  data, the purposes for which we process your personal data and whether we can achieve
-  those purposes through other means, and the applicable legal requirements.\n\n **SECTION
-  8 –  YOUR RIGHTS**\n\n Under GDPR, you have various rights in relation to your personal
-  data (as listed below). All of these rights can be exercised by contacting us at
-  <privacy@triggerise.org>.\n\n **Right to withdraw consent:** You have the right
-  to withdraw your consent at any time by notifying us by email to the following address:
-  <privacy@triggerise.org> or by sending an sms to any of the short codes that we
-  use in the countries in which we operate. By withdrawing your consent, the lawfulness
-  of the processing based on consent up until the point of withdrawal will not be
-  affected. \n\n Right to object: You have a right to object under the conditions
-  of Article 21 DSGVO. Below you will find more detailed information:\n\n *— Right
-  to object where the processing is based on legitimate interests:* As a data subject,
-  you have the right to object, on grounds relating to your particular situation,
-  at any time to processing of your personal data which is based on Article 6 (1)
-  (e) or (f) GDPR, including profiling based on those provisions. In the event of
-  an objection relating to your particular situation, we will no longer process your
-  personal data unless we can demonstrate compelling legitimate grounds for the processing
-  which override your interests, rights and freedoms or for the establishment, exercise
-  or defence of legal claims.\n\n *— Right to object where we process your personal
-  data for statistical purposes:* If we process your personal data for statistical
-  purposes pursuant to Article 9 (2) (j) DSGVO, Section 27 (1) BDSG, you have the
-  right to object to such processing for reasons arising from your particular situation.
-  In the event of such an objection, we will no longer process the personal data concerned
-  for this purpose unless the processing is necessary to fulfil a task in the public
-  interest, or the discontinuation of processing is likely to make it impossible or
-  seriously impair the realisation of statistical purposes and the continuation of
-  processing is necessary for the fulfilment of statistical purposes.\n\n *— Right
-  to object to direct marketing:* Where your personal data are processed for direct
-  marketing purposes, you have the right to object at any time to processing of your
-  personal data for such marketing, which includes profiling to the extent that it
-  is related to such direct marketing. If you object to processing for direct marketing
-  purposes, we no longer process your personal data for these purposes.\n\n To exercise
-  your rights of objection, you may contact us at any time by sending an e-mail to
-  <privacy@triggerise.org>.\n\n **Right to be informed:** As a data subject, you have
-  a right to obtain access and information under the conditions provided in Article
-  15 GDPR. This means  that you have the right to obtain confirmation from us as to
-  whether we are processing your personal data. If so, you also have the right to
-  obtain access to the personal data and the information listed in Article 15 (1)
-  GDPR. This includes information regarding the purposes of the processing, the categories
-  of personal data that are being processed and the recipients or categories of recipients
-  to whom the personal data have been or will be disclosed.\n\n **Right to erasure
-  / “Right to be forgotten”:** As a data subject, you have a right to erasure (“right
-  to be forgotten”) under the conditions provided in Article 17 GDPR. This means that
-  you generally have the right to obtain from us the erasure of your personal data
-  and we are obliged to erase your personal data without undue delay when one of the
-  reasons listed in Article 17 (1) GDPR applies. You can do this by deleting your
-  account at any time. If we have made the personal data public and are obliged to
-  erase it, we are also obliged, taking account of available technology and the cost
-  of implementation, to take reasonable steps, including technical measures, to inform
-  controllers which are processing the personal data that you have requested the erasure
-  by such controllers of any links to, or copy or replication of those personal data
-  (Article 17 (2) of the GDPR. The right to erasure (“right to be forgotten”) does
-  not by exception apply if the processing is necessary for one of the reasons listed
-  in Article 17 (3) GDPR. This can be the case, for example, if the processing is
-  necessary for compliance with a legal obligation or for the establishment, exercise
-  or defence of legal claims (Article 17 (3) (b) and (e) GDPR).\n\n **Right to restriction
-  of processing:** As a data subject, you have a right to restriction of processing
-  under the conditions provided in Article 18 GDPR. This means that you have the right
-  to obtain from us the restriction of processing if one of the conditions provided
-  in Article 18 (1) GDPR applies. This can be the case, for example, if you contest
-  the accuracy of the personal data. In such a case, the restriction of processing
-  lasts for a period that enables us to verify the accuracy of the personal data (Article
-  18 (1) (a) GDPR). Restriction means that stored personal data are marked with the
-  goal of restricting their future processing (Article 4 No. 3 GDPR).\n\n **Right
-  to data portability:** As a data subject, you have a right to data portability under
-  the conditions provided in Article 20 GDPR. This means that you generally have the
-  right to receive your personal data with which you have provided us in a structured,
-  commonly used and machine-readable format and to transmit those data to another
-  controller without hindrance from us if the processing is based on consent pursuant
-  to Article 6 (1) (a) or Article 9 (2) GDPR or on a contract pursuant to Article
-  6 (1) (a) GDPR and the processing is carried out by automated means (Article 20
-  (1) GDPR). In exercising your right to data portability, you also generally have
-  the right to have your personal data transmitted directly from us to another controller
-  if technically feasible (Article 20 (2) GDPR).\n\n **Right to Rectification:** As
-  a data subject, you have the right to rectification under the conditions provided
-  in Article 16 GDPR. This means in particular that you have the right to receive
-  from us without undue delay the rectification of inaccuracies in your personal data
-  and completion of incomplete personal data.\n\n **Right to complain:** As a data
-  subject, you have a right to lodge a complaint with a supervisory authority under
-  the conditions provided in Article 77 GDPR. The supervisory authority responsible
-  for us is Autoriteit Persoonsgegevens (The Dutch Data Protection Authority),PO Box
-  93374, 2509 AJ DEN HAAG, The Netherlands Tel: +31708888500.\n\n **Right to withhold
-  consent:** You have the right to withdraw your consent to the processing of your
-  Personal Data at any time, without affecting the lawfulness of processing based
-  on consent before its withdrawal. **Time Limit To Respond**\n\n We try to respond
-  to all legitimate requests within one month. Occasionally it may take us longer
-  than a month if your request is particularly complex or you have made a number of
-  requests. In this case, we will notify you and keep you updated.\n\n Asking us to
-  stop processing your personal data or deleting your personal data will likely mean
-  that you are no longer able to use the services, products or information provided
-  on our platforms or at least those aspects of the services, products or information
-  which require the processing of the types of personal data you have asked us to
-  delete, which may result in you no longer being able to use the services, products
-  or information.\n\n **SECTION 9- DATA SECURITY**\n\n We have put in place appropriate
-  security measures to prevent your personal data from being accidentally lost, used
-  or accessed in an unauthorized way, altered or disclosed. In addition, we limit
-  access to your personal data to those employees, agents, contractors and other third
-  parties who have a business need to know. They will only process your personal data
-  on our instructions and they are subject to a duty of confidentiality.\n\n We have
-  put in place procedures to deal with any suspected personal data breach and will
-  notify you and any applicable regulator of a breach where we are legally required
-  to do so.\n\n **SECTION 10- CHANGES TO THIS POLICY**\n\n Any changes we make to
-  our Privacy Policy in the future will be posted on this page, and where appropriate,
-  notified to you by sms, email or other notifications. We therefore encourage you
-  to review it from time to time to stay informed of how we are processing your data.\n\n"
+userGroups:
+  - title: "platform-user"
+    content: " **PRIVACY NOTICE FOR THE PROCESS OF ENROLLMENT TO THE TIKO PLATFORM AND THE SERVICE UPTAKE**
+    \n\n Protecting your privacy and personal data is very important to Triggerise Stichting and its affiliates (“us”, “our” or “we”). \n\n This privacy notice explains what personal data we collect, why we collect this data and who can access it once you have enrolled to benefit from our services and/or products. It also explains how long your personal data is kept and which rights you have in relation to the handling of your personal data. \n\n It is the local Tiko entity that acts as the data controller of the personal data we hold about you. Questions, comments and requests regarding this Privacy Notice are welcome and should be addressed to our Data Protection Officer (DPO) via email at: <privacy@triggerise.org>. \n\n
+    
+    **1. What personal data do we process?** \n\n 
+      Personal data is any information that relates to an identified or identifiable individual. Different pieces of collected information that can lead to the identification of a particular person also constitutes personal data. Below you can see the different categories of personal data we collect when you enrol and start receiving services and/or products via the platform we manage, the Tiko platform. \n\n
+      - Enrollment phase
+        To become a Tiko member, the information we receive from you is: gender, month of birth, year of birth, and phone number (if available and you choose to provide it). \n\n
+      - Service uptake phase
+        We capture a voice sample and the type of service and/or product that you have received, along with the date this took place and the service provider that offered the service and/or product. \n\n
+      - Redeeming loyalty points (‘‘Tiko Miles’’ or “Miles”) phase
+        We process where you used your Tiko Miles and how many of the Miles you spent.  \n\n
+    **2. What are the purposes and bases for using your personal data?** \n\n
+    We will process your personal data for the following purposes and under the following lawful bases:\n\n
+      <table class='privacy-table'>
+        <caption>Privacy table</caption>
+        <thead>
+          <th>Purpose</th>
+          <th>Lawful basis for Processing</th>
+        </thead>
+        <tbody>
+          <tr scope='row'>
+            <td>To confirm your eligibility to receive services and/or products and to create your account in the Tiko platform</td>
+            <td>This refers to the personal data collected during the enrolment phase and the processing is done on the basis</td>
+          </tr>
+          <tr scope='row'>
+            <td>To prevent misuse of our platform</td>
+            <td>This refers to the voice sample obtained during the service uptake phase as well as the monitoring of the service uptake and the redeeming of Tiko Miles phase, to identify patterns of  misuse. This processing is done on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To enable service providers and vendors to offer you a service and/or product</td>
+            <td>This refers to the personal data collected in the enrolment stage as well as personal data collected during the service uptake and/or the redeeming phase(s). This processing is done on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To be able to reimburse service providers and vendors for the service and/or product you have received</td>
+            <td>This refers in particular to the validation of services and/or products you have received. This processing is done on the basis of our legitimate interest as well as a necessary step for contract execution with the service providers and vendors</td>
+          </tr>
+          <tr scope='row'>
+            <td>To promote services, products and/or information we believe may be of interest to you</td>
+            <td>This processing is done based on the consent you provided during the enrolment stage. Receiving promotional messages and/or calls is not a requirement for you to be eligible to receive services and/or products and if you change your mind about it you can: (1) send the word “STOP” to any of the short code numbers that you used to enrol (2), contact and inform a mobiliser that assisted in enrolling you on the Tiko platform (3), call us directly on the numbers shared with you (4), send a WhatsApp message saying “STOP” or (5), send an email to us at <a href='mailto:privacy@triggerise.org' target='_blank' rel='noopener noreferrer'>privacy@triggerise.org</a></td>
+          </tr>
+          <tr scope='row'>
+            <td>To carry out research and to prepare aggregated statistics</td>
+            <td>This may refer to personal data collected at enrollment, service-uptake and/or redeeming phase. This processing is done based on our legitimate interest to be able to report to our donors as well as legal obligations we have to report to the Ministry of Health and to support progress in universal access to health care. Our reports to donors and the Ministry present aggregated information and the statistics are anonymous.  In case we analyse the data we have collected to gain insight it may be that personal data are analysed as well and the legal basis for processing is based on statistical and scientific research purposes</td>
+          </tr>
+          <tr scope='row'>
+            <td>To carry out research, to prepare aggregated statistics and to be subject to audits</td>
+            <td>This may refer to personal data collected at enrolment, service uptake and/or redeeming phase. This processing is done based on our legitimate interest to be able to report to our donors as well as legal obligations we have to report to public health authorities and to support progress in universal access to health care. Our reports to donors and to public health authorities present aggregated information and the statistics are anonymous. In case we analyse the data we have collected to gain insight, it may be that personal data are analysed as well. The legal basis for processing is based on statistical and scientific research purposes</td>
+          </tr>
+          <tr scope='row'>
+            <td>To improve the quality of the services and/or products provided to you</td>
+            <td>We may reach out to you to ask your feedback on your experience on using services and/or products.This processing is done based on our legitimate interest</td>
+          </tr>
+        </tbody>
+      </table>
+  \n\n**3. With whom will we share your personal data?** \n\n
+    It is our policy not to sell, trade or rent your personal data to anyone. We do not disclose personal data other than to entities that work on our behalf acting under our instructions and bound by data processing agreements. In general, access to any kind of personal data is strictly limited on a need-to-know basis. Our staff and the third parties we interact with are bound by confidentiality and non-disclosure agreements.\n\n
+    To be able to work, we use a set of IT tools, some of which are cloud-based. We have opted for tools that ensure a high level of compliance with the industry standards for data protection and security. Data from the Tiko platform are stored on encrypted cloud-based platforms provided by Amazon Web Services (AWS) hosted in the geographic region of Europe (Ireland). We have a series of broader organisational and technical measures in place (e.g. anti-virus, regular penetration testing of our IT infrastructure) to ensure the security of your personal data.\n\n
+  **4. How long will we retain your personal data?** \n\n
+    We only keep information about you so we can use what we know to assist you, or so we can work with you in the future. For example, if we are going to give you advice about a new problem, we may see from our records that there are other issues you have already told us about. Using that information about you means we can give you better assistance or advice.\n\n
+    Kindly note that we may need to retain (some of) your personal data for a longer period to deal with any specific issues that may arise or because it is required by law or by any relevant regulatory body (for example, when we need to satisfy legal, accounting or reporting requirements).\n\n
+  **5. What does the law say about your rights?**\n\n
+    The law says that you can always: \n\n
+    1. Ask us for a copy of the information we have about you\n\n
+    2. Change the information we have got about you or bring it up to date if it is incorrect\n\n
+    3. Change how you’d like us to get in touch with you\n\n
+    4. Ask us to delete all the information we have about you\n\n
+    5. Tell us if you are concerned about the way we are keeping or using information about you, and want to make a complaint about this\n\n
+    If you wish to exercise any of your rights or you have questions on the conditions that may apply for doing so, please contact us at <privacy@triggerise.org>. We try to respond to all legitimate requests within 7 to 14 days depending on the type of the request. You may also have the right to lodge a complaint with the competent national authority of the country in which you reside. For further information on the conditions under which you may complain to a national authority you should refer to the respective website. 
+  "
+  - title: "partner"
+    content: "**PRIVACY NOTICE FOR THE ONBOARDING OF MOBILISERS, CLINICS, PHARMACIES AND RETAILERS TO THE Tiko PLATFORM AND SUBSEQUENT USE OF THE PLATFORM** \n\n Protecting your privacy and personal data is very important to Triggerise Stichting and its affiliates (‘‘us”, “our” or “we”).\n\n This privacy notice explains what personal data we collect, why we collect these data and who can access them, once you agree to partner with us in the implementation of our programmes through the Tiko platform. Practically, this translates to you becoming an actor in the Tiko platform and being able to use the Tiko app. This privacy notice also explains how long personal data is kept and which rights you have in relation to the handling of your personal data.\n\n It is the local Tiko entity that acts as the data controller of the personal data we hold about you. Questions, comments and requests regarding this Privacy Notice are welcome and should be addressed to our Data Protection Officer (DPO) via email at <privacy@triggerise.org>.\n\n
+    **1. What personal data do we process?** \n\n 
+    Personal data is any information that relates to an identified or identifiable individual. Different pieces of collected information that can lead to the identification of a particular person, also constitutes personal data. Below you can see the different categories of personal data we collect when we onboard you to the Tiko ecosystem, depending on the role you have: \n\n
+    <b>Onboarding of mobilisers:</b> we collect directly from you: name (first and last name), location, national ID, gender, birth date, mobile phone number, and a selfie for face recognition purposes. Documents: ID document/card (front and back), your signature (when you sign our Code of Conduct).\n\n
+    <b>Use of the Tiko app by mobilisers:</b> logs activity of the user on the app, number of adolescents enrolled, number of Tiko Miles awarded, Tiko Miles cashed out per month.\n\n
+    <b>Onboarding of clinics and pharmacies:</b> we collect directly from you: name (first and last name), mobile phone number, ID number, signature of the authorised signatory representative of the facility when concluding the Letter of Agreement, address, M-PESA name and number. Collected indirectly: names and phone numbers of the employees of the facilities who will have access to the Tiko app.\n\n
+    <b>Use of the Tiko app by clinics and pharmacies:</b> logs activity per app user, number of Tiko Miles to be reimbursed.\n\n
+    <b>Onboarding of retailers:</b> we collect directly from you: name (first and last name), mobile phone number, ID number, signature of the Letter of Agreement, location.\n\n
+    <b>Use of the Tiko app by retailers:</b> logs activity per app user, Tiko Miles awarded, Tiko Miles to be reimbursed.\n\n
+    **2. What are the purposes and bases for using your personal data?** \n\n 
+    We will process your personal data for the following purposes and under the following lawful bases:\n\n
+    <table class='privacy-table'>
+        <caption>Privacy table</caption>
+        <thead>
+          <th>Purpose</th>
+          <th>Lawful basis for Processing</th>
+        </thead>
+        <tbody>
+          <tr scope='row'>
+            <td>To conclude a Letter of Agreement with you and to activate your account in the Tiko platform</td>
+            <td>This refers to the personal data collected during the onboarding phase and the processing is done as a necessary pre-contractual step, as well as on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To prevent misuse of our platform and to meet our safeguarding obligations towards the youth population</td>
+            <td>This refers in particular to the selfie obtained during the onboarding phase for facial recognition purposes (and any subsequent uploading of photos periodically requested), as well as the monitoring of the activity log to identify patterns of  misuse. This processing is done on the basis of your consent as well as on our legitimate interest to be able to prevent misuse of our platform and also meet our safeguarding obligations towards the youth population</td>
+          </tr>
+          <tr scope='row'>
+            <td>To be able to reimburse you for the services and/or products you have provided or the amount of individuals you have supported in enrolling</td>
+            <td>This refers in particular (depending on your role in the platform) to the logs with validation of services and/or products you have provided or  the number of Tiko Miles you have been awarded. This processing is done as a necessary step for contract execution and on the basis of our legitimate interest</td>
+          </tr>
+          <tr scope='row'>
+            <td>To prepare reporting, aggregated statistics, to carry out research and be subject to audit</td>
+            <td>This may refer to personal data collected at the onboarding phase, as well as during the service provision and/or redeeming of the Tiko Miles phase. This processing is done based on our legitimate interest to be able to report to our donors as well as legal obligations we may have to report to public health authorities and to support progress in universal access to health care. Our reports to donors and the health authorities present aggregated information and the statistics are anonymous. In case we analyse the data we have collected to gain insight, it may be that personal data are analysed as well and the legal basis for processing is based on statistical and scientific research purposes</td>
+          </tr>
+          <tr scope='row'>
+            <td>To improve the quality of the services and/or products you provide</td>
+            <td>We may reach out to you to carry out audits on the manner in which you provide services and/or products. This processing is done based on our legitimate interests</td>
+          </tr>
+        </tbody>
+    </table>\n\n
+    **3. With whom will we share your personal data?** \n\n
+    It is our policy not to sell, trade or rent your personal data to anyone. We do not disclose personal data other than to entities that work on our behalf acting under our instructions and bound by a non-disclosure agreement and/or data processing agreements. Such entities may refer to an auditor working on our behalf or on behalf of our donors, for example. In general, access to any kind of personal data is strictly limited on a need-to-know basis. Our employees and the third parties we interact with are bound by confidentiality and non-disclosure agreements.\n\nTo be able to work, we use a set of IT tools some of which are cloud-based. We have opted for tools that ensure a high level of compliance with the industry standards for data protection and security. The data we collect for onboarding purposes are stored in an encrypted Customer Relationship Management (‘‘CRM’’) tool that is hosted in a cloud in the geographic region of Europe (Germany). Data from the use of the Tiko app are stored on encrypted cloud-based platforms provided by Amazon Web Services (AWS) hosted in the geographic region of Europe (Ireland). We have a series of broader organisational and technical measures in place (e.g., anti-virus, regular penetration testing of our IT infrastructure) to ensure the security of your personal data.\n\n
+    **4. How long will we retain your personal data?** \n\n
+    We retain the personal data collected for as long as you are an active actor in the Tiko ecosystem. Kindly note that in case of termination of our relation with you, we may still need to retain (some of) your personal data to deal with any specific issues that may arise or because it is required by law or by any relevant regulatory body (for example when we need to satisfy legal, accounting or reporting requirements).\n\n
+    **5. What rights do you have in relation to your personal data?** \n\n
+    1.) You have the right to access the personal data that you submitted to us\n\n
+    2.) If the personal data we hold about you is inaccurate, outdated, incomplete or misleading, you may ask us to rectify them \n\n
+    3.) Where we are using your personal data on the basis of your consent, you can withdraw your consent at any time \n\n
+    4.) You can object to the processing of all or part of your personal data, and if you do so we will restrict the processing until it is verified, whether our legitimate interests override your interests or not \n\n
+    5.) You can request a structured, commonly used and machine-readable copy of your personal data\n\n
+    6.) In some circumstances (for example, the personal data are irrelevant or excessive), you can ask us  to erase your personal data \n\n
+    If you wish to exercise any of your rights or you have questions on the conditions that may apply for doing so, please contact us at <privacy@triggerise.org>. The turnaround time to address your requests vary between 7 to 14 days, depending on the kind of request. In case we see that we are not able to meet the 7- to 14-day deadline, we will keep you informed. \n\n
+    **6. How can you complain about the handling of your personal data?** \n\n
+    We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to <privacy@triggerise.org>. We will investigate and respond to any complaints we receive. You may also have the right to lodge a complaint with the competent national authority of the country in which you reside. For further information on the conditions under which you may complain to a national authority you should refer to the respective website.\n\n
+    We may update this Privacy Notice from time to time. The latest version will be posted on our website with the effective date.\n\n
+    Last updated November 2023"
+  - title: "general"
+    content: "**PRIVACY NOTICE FOR VISITORS OF THE TIKO WEBSITE** \n\n Protecting your privacy and personal data is very important to Triggerise Stichting and its affiliates (“us”, “our” or “we”).\n\n This privacy notice explains what personal data we collect and use when you visit our website. We are the data controller of the personal data we hold about you and, as such, it is our responsibility to ensure their quality, confidentiality, integrity, and availability as well as have in place technical and organisational measures to help protect your personal data from unauthorised access, use or disclosure.\n\n Questions, comments and requests regarding this Privacy Notice are welcome and should be addressed to our Data Protection Officer (DPO) via email at <privacy@triggerise.org>.\n\n
+    **1. What personal data do we process?** \n\n 
+    Personal data means any information that relates to an identified or identifiable individual. Different pieces of collected information that can lead to the identification of a particular person also constitute personal data. Each time you visit our website we collect the following: \n\n
+    IP address of the requesting device, date and time of access, name and URL of the requested file, website from which access is obtained (“Referrer URL”), browser used and, where applicable, your device’s operating system and the identity of your access provider. In addition, as long as you have provided your consent, we use cookies for analytics. These cookies track the following: average engagement time, total views, views by page, activity over time, users per country and city. In case you decide to reach out to us via the webform on our website, we also collect the information you put there (e.g., name and email address).\n\n
+    **2. What are the purposes and bases for using your personal data?** \n\n 
+    We use the above data to provide you with access to our website, ensure that the website can establish an internet connection smoothly and is easy to use; to analyse the system security and stability, as well as for performance optimisation, and user experience enhancements. If you provide us with your contact details we may use them to get in touch with you. The security, proper functioning and improvement of our website falls under our legitimate interest to offer a continuous and seamless experience when browsing our website. Use of your contact details falls under the consent you provide when you decide on a voluntary basis to complete the webform.\n\n
+    **3. With whom will we share your personal data?** \n\n
+    Your personal data is shared only with those who need to have access to it, which is primarily our team of web engineers. Externally, this may refer to our technical and infrastructure partners. When we share personal data with others, we put contractual  arrangements (a contract containing data processing agreement and/or a non-disclosure agreement) in place to protect the personal data. If we receive requests from third parties with authority to obtain disclosure of personal data we will only fulfil them where we are permitted to do so in accordance with applicable data protection legislation. Our Website uses so-called “cookies”. You may find more information under our Cookie policy here.\n\n
+    **4. How long will we retain your personal data?** \n\n
+    The data that allows us to identify a user is removed after 14 days, unless any security-relevant event occurs (e.g., a DDoS attack). If there is a security-relevant event, server log files are stored until the security-relevant event has been eliminated and clarified in full.\n\n
+    **5. What rights do you have in relation to your personal data?** \n\n
+    You have the right to:\n\n
+    1.) request access to your personal data held by us\n\n
+    2.) request a copy of your personal data held by us \n\n
+    3.) ask us to rectify personal data submitted to us \n\n
+    4.) request that we erase your personal data \n\n
+    5.) request us to restrict the processing of your personal data or object to the processing of your personal data\n\n
+    If you wish to exercise any of your rights or you have questions on the conditions that may apply for doing so, please contact us at <privacy@triggerise.org>. We try to respond to all legitimate requests within 14 calendar days. It  may take us longer if your request is particularly complex or you have made a number of requests but in this case, we will notify you and keep you updated.\n\n
+    **6. How can you complain about the handling of your personal data?** \n\n
+    We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to <privacy@triggerise.org>. We will investigate and respond to any complaints we receive. You may also have the right to lodge a complaint with the competent national authority of the country in which you reside. For further information on the conditions under which you may complain to a national authority you should refer to the respective website.\n\n
+    We may update this Privacy Notice from time to time. The latest version will be posted on our website with the effective date.\n\n
+    Last updated October 2023"
 layout: simple
 ---
 
