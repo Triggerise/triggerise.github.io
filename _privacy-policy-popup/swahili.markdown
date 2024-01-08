@@ -1,6 +1,19 @@
 ---
 title: "Swahili"
 date: 2023-10-12 10:00:00 Z
+headerUserGroupSelections:
+  - title: "general"
+    titleImage: "/uploads/icons/Visitor.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=general#Swahili"
+    description: "Kwa wageni wa jumla na masuala ya faragha ya tovuti yetu, tafadhali bonyeza hapa"
+  - title: "platform-user"
+    titleImage: "/uploads/icons/Rafiki.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=platform-user#Swahili"
+    description: "Ikiwa unafikiria kuwa mwanachama na una matatizo ya faragha, tafadhali tazama hapa"
+  - title: "partner"
+    titleImage: "/uploads/icons/Mobilisers-&-Facilities.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=partner#Swahili"
+    description: "Ikiwa ungependa kushirikiana nasi, lakini una matatizo ya faragha, tafadhali bofya hapa"
 userGroups:
   - title: "general"
     headerTitle: "Sera ya faragha iliyofupishwa kwa wanaotembelea tovuti"

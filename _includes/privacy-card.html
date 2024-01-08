@@ -30,9 +30,17 @@
                             </div>
                             {% endif %}
                         </div>
-                        {% if foundUserGroup.headerDescription %}
-                        <div class="privacy__modal__header__description-container">
-                            {{ foundUserGroup.headerDescription }}
+                        {% if policy.headerUserGroupSelections %}
+                        <div class="privacy__modal__header__selection-container">
+                            {% for userGroupSelections in policy.headerUserGroupSelections %}
+                            <a title="{{ userGroupSelections.description }}" class="privacy__modal__header__selection-container__item"
+                                href="{{ userGroupSelections.linkURL }}" target="_blank" rel="noopener noreferrer">
+                                <img alt="Visitor type image" src="{{ userGroupSelections.titleImage }}" />
+                                {% if foundUserGroup.title == userGroupSelections.title %}
+                                <div class="privacy__modal__header__selection-container__item__overlay"></div>
+                                {% endif %}
+                            </a>
+                            {% endfor %}
                         </div>
                         {% endif %}
                         <div class="privacy__modal__body">

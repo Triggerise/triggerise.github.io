@@ -1,6 +1,19 @@
 ---
 title: "French"
 date: 2023-10-12 10:00:00 Z
+headerUserGroupSelections:
+  - title: "general"
+    titleImage: "/uploads/icons/Visitor.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=general#French"
+    description: "Pour les visiteurs généraux et les problèmes de confidentialité de notre site Web, veuillez cliquer ici"
+  - title: "platform-user"
+    titleImage: "/uploads/icons/Rafiki.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=platform-user#French"
+    description: "Si vous envisagez de devenir membre et avez des problèmes de confidentialité, veuillez consulter ici"
+  - title: "partner"
+    titleImage: "/uploads/icons/Mobilisers-&-Facilities.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=partner#French"
+    description: "Si vous souhaitez collaborer avec nous, mais que vous avez des problèmes de confidentialité, veuillez cliquer ici"
 userGroups:
   - title: "general"
     headerTitle: "Avis de confidentialité pour les visiteurs"

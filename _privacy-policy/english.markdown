@@ -14,8 +14,8 @@ userGroups:
         We capture a voice sample and the type of service and/or product that you have received, along with the date this took place and the service provider that offered the service and/or product. \n\n
       - Redeeming loyalty points (‘‘Tiko Miles’’ or “Miles”) phase
         We process where you used your Tiko Miles and how many of the Miles you spent.  \n\n
-    **2. What are the purposes and bases for using your personal data? \n\n
-    We will process your personal data for the following purposes and under the following lawful bases:
+    **2. What are the purposes and bases for using your personal data?** \n\n
+    We will process your personal data for the following purposes and under the following lawful bases:\n\n
       <table class='privacy-table'>
         <caption>Privacy table</caption>
         <thead>

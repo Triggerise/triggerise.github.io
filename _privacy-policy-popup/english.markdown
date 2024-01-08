@@ -1,6 +1,19 @@
 ---
 title: "English"
 date: 2023-10-12 10:00:00 Z
+headerUserGroupSelections:
+  - title: "general"
+    titleImage: "/uploads/icons/Visitor.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=general#English"
+    description: "For general visitors and privacy concerns of our website, please click here"
+  - title: "platform-user"
+    titleImage: "/uploads/icons/Rafiki.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=platform-user#English"
+    description: "If you're considering becoming a member and have privacy concerns, please see here"
+  - title: "partner"
+    titleImage: "/uploads/icons/Mobilisers-&-Facilities.png" 
+    linkURL: "/?showPrivacyPopup=true&privacyUserType=partner#English"
+    description: "If you would like to partner with us, but you have privacy concerns, please click here"
 userGroups:
   - title: "general"
     headerTitle: "Privacy notice for visitors"
