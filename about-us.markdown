@@ -32,53 +32,29 @@ Map-locations:
   Description: 
   Image: 
 Supervisory Board:
-- Name: 'Lisa Simutami '
+- Name: Phinah Kodisang (Chair)
   Role: 
-  Description: "(Chapel Hill, NC, USA), is the chair of our supervisory board since
-    inception. Lisa is the COO of Ipas, and previously served as Regional Director
-    at Population Services International."
-  Image: "/uploads/Trig_profiles_lisa.webp"
-- Name: Leslie Pascaud
+  Location: Johannesburg, South Africa
+  Description: Phinah is the CEO of Soul City Institute. She has over 15 years of
+    experience in the field of sexual and reproductive health and champions strategic
+    and innovative development and management of programmes aimed at youth.
+  Image: "/uploads/phinah-kodisang-6fb386.png"
+- Name: Anna Hakobyan (Advisor)
   Role: 
-  Description: "(New York, NJ, USA), leads Branding for Good and has been working
-    on innovation projects in the USA, Europe and Asia for over 20 years."
-  Image: "/uploads/Trig_profiles_leslie.webp"
-- Name: Miles Kemplay
-  Role: 
-  Description: "(London, UK), is leading adolescent sexual and reproductive health
-    work as Executive Director with Children’s Investment Fund Foundation since 2016.
-    He has spent over a decade working for global health, development and private
-    sector organisations."
-  Image: "/uploads/Trig_profiles_miles.webp"
+  Location: London, UK
+  Description: 'Anna is the Children Investment Fund Foundation''s Chief Impact Officer.
+    She oversees evidence generation and application to inform and assess CIFF’s portfolio
+    of investments in areas of health, nutrition, education and climate change.
+
+'
+  Image: "/uploads/Anna-Hakobyan.jpg"
 - Name: Werner Strydom
   Role: 
-  Description: "(Amsterdam, The Netherlands), heads up the Advanced Technology & Innovation
-    unit within the Office of the CTO at Irdeto. He has 30 years of experience in
-    the field of cybersecurity and leads software development, technology research,
-    and innovation teams."
+  Location: Amsterdam, the Netherlands
+  Description: Werner heads up the Advanced Technology & Innovation Unit within the
+    Office of the CTO at Irdeto. He has 30 years of experience in the field of cybersecurity
+    and leads software development, technology research, and innovation teams.
   Image: "/uploads/Trig_profiles_werner.webp"
-- Name: Leontine Gast
-  Role: 
-  Description: "(Amsterdam, The Netherlands) is the CEO of The Terrace. She works
-    in strategy, branding and communication with retail and consumer goods organisations. "
-  Image: "/uploads/Trig_profiles_leotine.webp"
-- Name: Julia Sakovska
-  Role: 
-  Description: "(the Netherlands), FCCA, serves as a CFO at TCR Group (Brussels),
-    a Private Equity backed international provider of Ground Support Equipment (GSE)
-    to ground handlers, airlines and airports. Julia has over 25 years of finance
-    and accounting experience gained at KPMG Audit, DLL (Rabobank Group), Athlon International
-    (innovative leasing and mobility services businesses) and Van Tilburg-Bastianen
-    Group (one of the most prominent family-owned businesses in the mobility services
-    industry in the Netherlands)."
-  Image: "/uploads/Trig_profiles_julia.webp"
-- Name: Phinah Kodisang
-  Role: 
-  Description: "(Johannesburg, South Africa) is the CEO of Soul City Institute. She
-    has over 15 years of experience in the field of sexual reproductive health and
-    champions strategic and innovative development and management of programmes aimed
-    at youth."
-  Image: "/uploads/Trig_profiles_phinah.webp"
 Chief Executive Officers:
 - Name: Benoit Renard
   Role: Director of Triggerise Stichting, Chief Executive Officer (CEO) and Co-founder
@@ -89,13 +65,15 @@ Chief Executive Officers:
     ecosystems.
   LinkedIn: https://www.linkedin.com/in/benoitrenard/
   Image: "/uploads/Trig_profiles_benoit.webp"
-- Name: Richard Matikanya
-  Role: Co-Director of Triggerise Stichting, Managing Director
+- Name: Serah Malaba
+  Role: Chief Impact Officer at Triggerise
   Location: Nairobi, Kenya
-  Description: Richard oversees Triggerise field operations in the countries we operate
-    in, New Business Development, Grants, Risk and Compliance, and Finance.
-  LinkedIn: https://www.linkedin.com/in/richard-matikanya-a70a6b22/?originalSubdomain=ke
-  Image: "/uploads/Trig_profiles_richard.webp"
+  Description: Serah is a seasoned leader in public health with a consistent record
+    planning and executing ambitious initiatives across Africa. As our Chief Impact
+    Officer, Serah is responsible for delivering impact across Triggerise's operational
+    markets.
+  LinkedIn: https://www.linkedin.com/in/serah-joy-malaba-bsc-gemba-mph-9001201b/?originalSubdomain=ke
+  Image: "/uploads/serah-malaba.png"
 Our People:
 - Name: Thera
   Role: Chief People Officer
@@ -108,7 +86,7 @@ Our People:
   LinkedIn: https://ke.linkedin.com/in/hildah-essendi-7b995410
   Image: "/uploads/415-1-2.webp"
 - Name: Marylou
-  Role: Strategy Manager
+  Role: Strategy and Innovation Director
   Location: Amsterdam, The Netherlands
   LinkedIn: https://www.linkedin.com/in/maryloukupfer/
   Image: "/uploads/Trig_profiles_marylou.webp"
@@ -123,7 +101,7 @@ Our People:
   LinkedIn: www.linkedin.com/in/nognelson
   Image: "/uploads/Trig_profiles_nelson.webp"
 - Name: Nathalie-Ann
-  Role: Programme Director
+  Role: Deputy Chief Impact Officer
   Location: Nairobi, Kenya
   LinkedIn: https://www.linkedin.com/in/nathalie-ann-donjon-a1140946/
   Image: "/uploads/Trig_profiles_nathalie.webp"

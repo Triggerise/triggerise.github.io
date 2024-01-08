@@ -18,51 +18,86 @@ Values:
   Description: We believe in innovation to trigger our growth. We look for new possibilities
     of bringing meaningful change to the world.
 Jobs:
-- Job Title: New Business Development Director
-  Location: Europe / Africa
-  Job Description: 'Are you passionate about connecting potential donors with meaningful
-    causes? Are you looking for a role where the work that you do sustainably creates
-    an impact on a global scale? Read on to hear more about the role of NBD Director
-    at Triggerise! '
-  Link: https://triggerise.bamboohr.com/careers/355?source=aWQ9MjM%3D
 - Job Title: New Business Development Lead
-  Location: Europe / Africa
-  Job Description: 'Are you looking for a role where the work that you do sustainably
-    creates an impact on a global scale? Do you wish to be a part of a diverse and
-    multicultural company? Read on to hear more about the role of NBD Lead at Triggerise! '
-  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MjM%3D
-- Job Title: Field Operations Manager
-  Location: Nairobi, Kenya
-  Job Description: Are you great at organizing and love leading a team? Do you thrive
-    in making operations run smoothly and efficiently? Are you a tech-savvy leader
-    who enjoys using technology to solve problems? If this sounds like you, then the
-    role of Field Operations Manager could be your next exciting opportunity.
-  Link: https://triggerise.bamboohr.com/careers/341?source=aWQ9MjM%3D
-- Job Title: Office Administration Manager
-  Location: Cape Town, South Africa
-  Job Description: Are you an Administrative Manager with an exceptional eye for detail
-    and a passion for optimizing operations? If you're ready to bring your expertise
-    to Triggerise and help us enhance our administrative processes, we are excited
-    to hear from you. Apply now and join our dynamic team!
-  Link: https://triggerise.bamboohr.com/careers/349?source=aWQ9MjM%3D
-- Job Title: Grants & Compliance Manager
-  Location: South Africa / Kenya / Uganda
-  Job Description: Are you experienced in dealing with financial budgeting, donor
-    grant reporting & compliance? Do you want to develop budgets for new business
-    opportunities? Read on to hear more about the Grants and Compliance Manager position!
-  Link: https://triggerise.bamboohr.com/careers/351?source=aWQ9MjM%3D
-- Job Title: 'Risk Management Auditor '
+  Location: London, UK
+  Job Description: Do you have experience in fundraising, particularly in the field
+    of sexual reproductive health? Are you looking for a role where the work that
+    you do sustainably creates an impact on a global scale? Read on to hear more about
+    the role of NBD Lead at Triggerise! 
+  Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MzI%3D
+- Job Title: Data Engineering Team Lead
+  Location: Kenya / South Africa / Portugal
+  Job Description: Are you an expert in all things data and have experience leading
+    a team? You’re not afraid of complex data sets and tools; in fact, you excel when
+    working with them! If this describes you, then the Data Team Lead position could
+    be a great match.
+  Link: https://triggerise.bamboohr.com/careers/375?source=aWQ9MzI%3D
+- Job Title: DevOps Engineer
+  Location: Kenya / South Africa / Portugal
+  Job Description: 'Do you have experience building, testing & maintaining tools that
+    allow for speedy development of software? Do you enjoy working in an Agile way
+    and are excited by the prospect of using technology to create impact?  Read on
+    to find out more about our DevOps Engineer position!
+
+'
+  Link: https://triggerise.bamboohr.com/careers/369?source=aWQ9MjM%3D
+- Job Title: Java Engineering Team Lead
+  Location: Kenya / South Africa / Portugal
+  Job Description: Are you a problem-solver with a background in software development?
+    Do you want to be a part of an innovative team that use their technical skills
+    to make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/372?source=aWQ9MzI%3D
+- Job Title: Country Director (Ethiopia)
+  Location: 'Addis Ababa, Ethiopia '
+  Job Description: "Can you help our Ethiopian market reach the next level of maturity?
+    Are you an organised and data-driven manager that can help the team grow? \n\n"
+  Link: https://triggerise.bamboohr.com/careers/365?source=aWQ9MjM%3D
+- Job Title: Data Protection Officer
+  Location: Ethiopia / Kenya / Portugal / South Africa
+  Job Description: Do you have practical experience within the data protection space?
+    Would you be able to bring a fresh perspective to managing data privacy risks,
+    while providing advice and oversight across all aspects of data privacy in a global
+    organisation?  Read more to find out about the role of Data Protection Officer.
+  Link: https://triggerise.bamboohr.com/careers/366?source=aWQ9MzI%3D
+- Job Title: Ecosystem Coordinator
   Location: Uganda
-  Job Description: Are you detail-oriented and analytical in your approach? Do you
-    enjoy developing processes and have a passion for risk management? Read more to
-    find out about our Risk Management Auditor position!
-  Link: https://triggerise.bamboohr.com/careers/354?source=aWQ9MjM%3D
+  Job Description: 'Would you enjoy working closely with different actors in the Tiko
+    ecosystem to help solve any issues or answer any questions that they may have?
+    Continue reading to find out more about our Ecosystem Coordinator role! '
+  Link: https://triggerise.bamboohr.com/careers/370?source=aWQ9MzI%3D
 - Job Title: Ecosystem Trainer
-  Location: Migori, Kenya
-  Job Description: 'Would you enjoy working with different actors in the Triggerise
-    ecosystem to ensure that they are knowledgeable about our platform and it''s offers?
-    Continue reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/361?source=aWQ9MjM%3D
+  Location: 'Mombasa, Kenya '
+  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
+    to ensure that they are knowledgeable about our platform and it''s offers? Continue
+    reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/373?source=aWQ9MzI%3D
+- Job Title: Ecosystem Trainer
+  Location: Uganda
+  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
+    to ensure that they are knowledgeable about our platform and it''s offers? Continue
+    reading to find out more about our Ecosystem Trainer role! '
+  Link: https://triggerise.bamboohr.com/careers/371?source=aWQ9MzI%3D
+- Job Title: Social & Behaviour Change Lead
+  Location: Uganda / South Africa / Kenya / Ethiopia
+  Job Description: Do you want to make an impact through the power of marketing and
+    social behaviour change? Are you looking for a role that combines strategy and
+    practical implementation? Then this might be your next job!
+  Link: https://triggerise.bamboohr.com/careers/376?source=aWQ9MjM%3D
+- Job Title: " Research Fellow"
+  Location: Nairobi, Kenya
+  Job Description: Are you a passionate researcher eager to apply your skills in a
+    collaborative and innovative setting, focused on creating meaningful impact? If
+    you find excitement in driving change and improvement in the lives of vulnerable
+    adolescents and young people through your research expertise, keep reading – this
+    role is for you!
+  Link: https://triggerise.bamboohr.com/careers/378?source=aWQ9MjM%3D
+- Job Title: Communications Manager
+  Location: London, UK
+  Job Description: Are you passionate about communications with a flair for making
+    a difference in sexual reproductive health and rights? Seeking a dynamic role
+    where your creativity and strategic thinking contribute to meaningful global change?
+    Discover more about the exciting opportunity as a Communications Manager at Tiko!
+  Link: https://triggerise.bamboohr.com/careers/377?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
