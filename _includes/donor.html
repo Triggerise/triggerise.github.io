@@ -15,7 +15,7 @@
                     <div class="content-overlay"></div>
                     <div class="donor__card_inner">
                         {% if donor.image %}
-                        <img src="{{ donor.image }}" alt="Donor image" />
+                        <img loading="lazy" src="{{ donor.image }}" alt="Donor image" />
                         {% endif %}
                     </div>
                     {% if donor.name %}

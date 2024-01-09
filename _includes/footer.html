@@ -2,7 +2,8 @@
     <div class="wrapper">
         <div class="flex">
             <div class="footer-left">
-                <img src="/assets/footer-logo.png" width="244" height="87" class="footer__logo" alt="Triggerise Logo" title="Triggerise Logo">
+                <img loading="lazy" src="/assets/footer-logo.png" width="244" height="87" class="footer__logo" alt="Triggerise Logo"
+                    title="Triggerise Logo">
                 <div class="small">
                     <small>Triggerise is a registered Charity / CoC-number 61787248</small>
                 </div>
@@ -18,7 +19,11 @@
                     <ul>
                         {% for link in site.data.navigation.footer-links %}
                         <small>
+                            {% if link.title == 'Privacy policy' %}
+                            <li><a onclick="togglePrivacyPopup('general')" style="cursor: pointer">{{ link.title }}</a></li>
+                            {% else %}
                             <li><a target="__blank" href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                            {% endif %}
                         </small>
                         {% endfor %}
                     </ul>
@@ -40,6 +45,8 @@
         </div>
     </div>
 </div>
+<div id="triggeriseIsTikoVideoContainer"></div>
+{% include privacy-card.html %}
 <script src="https://cdn.jsdelivr.net/npm/countup@1.8.2/dist/countUp.min.js" type="text/javascript"></script>
 <script src="/assets/fullpage.fadingEffect.min.js"></script>
 <script src="/assets/fullpage.extensions.min.js"></script>

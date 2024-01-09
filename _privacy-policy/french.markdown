@@ -1,335 +1,357 @@
 ---
 title: French
 date: 2021-04-19 00:00:00 Z
-description: " **Politique de confidentialité de Triggerise** \n\n\n **SECTION 1 --
-  QUI SOMMES-NOUS ?** \n\n\n La protection de vos données, de votre vie privée et
-  de vos données personnelles est très importante pour Triggerise Stitching et ses
-  filiales : Triggerise Kenya Private Limited, Triggerise Stichting Ethiopia branch,
-  Triggerise India, Triggerise BV, Triggerise South Africa NPO et Triggerise LABS
-  Unipessoal Lda (« nous » ou « notre »). Il est extrêmement important pour nous que
-  nos clients (les « utilisateurs ») se sentent en sécurité lorsqu'ils utilisent les
-  services, produits et informations que nous fournissons via nos différentes plateformes.
-  \n\n Cette politique définit la base sur laquelle toutes les données personnelles
-  que nous collectons auprès de vous, ou que vous nous fournissez, seront traitées.
-  Veuillez lire attentivement cette politique de confidentialité pour comprendre le
-  type de données que nous collectons auprès de vous, comment nous les utilisons,
-  les conditions dans lesquelles nous les partagerons avec des tierces personnes et
-  vos droits concernant les données personnelles que vous nous fournissez. \n\n Lors
-  de l'utilisation de notre plateforme, de nos applications, ou de nos sites (les
-  « Services »), il vous sera demandé de confirmer votre prise de connaissance des
-  conditions générales décrites dans cette politique et, le cas échéant, de marquer
-  votre approbation desdites conditions. \n\n Cette politique de confidentialité s'applique
-  au traitement des données par : Triggerise Stichting et ses filiales et partenaires
-  au Burkina Faso, au Cameroun, au Kenya, en Éthiopie, en Inde, au Portugal, en Afrique
-  du Sud et aux Pays-Bas. \n\n Cet avis de confidentialité est publié au nom de Triggerise
-  Stichting et de ses sociétés affiliées. Par conséquent, lorsque nous mentionnons
-  « Triggerise, « nous » ou « notre » dans cet avis de confidentialité, nous faisons
-  référence à l'affilié de Triggerise concerné, responsable du traitement de vos données.
-  Nous vous ferons savoir quelle entité sera responsable de vos données lorsque vous
-  achetez un produit ou un service avec nous. \n\n Les questions, commentaires et
-  demandes concernant cette politique de confidentialité sont les bienvenus et doivent
-  être adressés à <privacy@triggerise.org>. Notre responsable de la protection des
-  données est Ioanna Pliota. \n\n **SECTION 2 -- APERÇU GÉNÉRAL DE NOTRE POLITIQUE
-  DE TRAITEMENT DE DONNÉES VIS-Á-VIS DES SERVICES, PRODUITS ET INFORMATIONS** \n\n\n
-  Il vous sera demandé de nous fournir vos informations lorsque vous : \n\n\n - remplissez
-  des formulaires sur nos sites Web, nos applications, nos actifs numériques (tels
-  que Facebook Messenger, Twitter, Whatsapp, Instagram ou correspondez avec nous par
-  SMS, téléphone, e-mail ou autre ; \n\n - vous inscrivez pour utiliser nos services,
-  produits ou offres, vous abonnez à notre newsletter, à nos e-mails promotionnels
-  ou à d'autres supports publicitaires ; \n\n - utilisez les services ou produits
-  que vous recevez via nos plateformes ; \n\n - évaluer les services ou produits que
-  vous recevez sur nos plateformes \n\n - signalez un problème avec les services ou
-  produits reçus ; \n\n - Remplissez des sondages ou des études que nous utilisons
-  à des fins de recherche pour évaluer nos services ou améliorer la qualité des services
-  que nous vous fournissons. \n\n\n Les informations qu'il vous sera demandé de nous
-  fournir à ces fins peuvent comprendre votre sexe, votre date de naissance, votre
-  numéro de téléphone, les produits ou services que vous avez reçus, les endroits
-  où vous avez reçu ces produits ou services ou des informations, des récompenses
-  échangées ou d'autres informations requises pour vérifier votre identité comme une
-  photo d'itentité. \n\n\n **SECTION 3 -- ACTIVITÉS DE TRAITEMENT SPÉCIFIQUES : NATURE
-  ET OBJECTIF DE LEUR UTILISATION** \n\n\n **3.1 QUAND VOUS UTILISEZ NOS SITES WEB**
-  \n\n\n <b>Nature des données :</b> adresse IP de l'appareil demandeur, date et heure
-  d'accès, nom et URL du fichier demandé, site Web à partir duquel l'accès est obtenu
-  (« URL de référence »), navigateur utilisé et, le cas échéant, le système d'exploitation
-  de votre appareil et l'identité de votre fournisseur d'accès. \n\n <b>Utilisations
-  de ces données :</b> nous utilisons les données ci-dessus pour vous fournir un accès
-  à notre site Web, nous assurer que le site Web est facile à utiliser et arrive à
-  établir une connexion Internet stable; pour analyser la sécurité et la stabilité
-  du système, ainsi qu'à des fins administratives supplémentaires. \n\n <b>Justification
-  de l'utilisation des données :</b> intérêts légitimes (article 6 (1) (f) du RGPD :
-  Règlement Général sur la Protection des Données ). Notre intérêt légitime repose
-  sur les finalités de collecte de données énumérées ci-dessus. Nous n'utilisons pas
-  les données collectées dans le but de vous identifier. Vous n'êtes pas obligé de
-  fournir les données personnelles ci-dessus. Cependant, vous ne pourrez pas accéder
-  aux sites Web si ces données personnelles ne sont pas fournies. \n\n <b>Durée de
-  stockage des données :</b> les données qui nous permettent d'identifier un utilisateur
-  sont supprimées après 14 jours, à moins qu'un événement lié à la sécurité ne se
-  produise (par exemple, une attaque DDoS). S'il y a un événement lié à la sécurité,
-  les fichiers journaux du serveur sont stockés jusqu'à ce que l'événement lié à la
-  sécurité soit éliminé et entièrement clarifié. \n\n **3.2 LORSQUE VOUS SOUSCRIVEZ
-  OU VOUS INSCRIVEZ POUR RECEVOIR DES SERVICES OU DES PRODUITS SUR LES PLATEFORMES
-  QUE NOUS GÉRONS** \n\n <b>Nature des données :</b> le sexe, la date de naissance,
-  la photo d'identité. \n\n <b>Utilisations de ces données :</b> nous utilisons les
-  données ci-dessus pour vous fournir un compte d'utilisateur et un accès aux services,
-  produits et informations que nous fournissons via nos plateformes. Il n'est pas
-  possible d'accéder à nos services si les données (non facultatives) ne sont pas
-  fournies. \n\n <b>Justification de l'utilisation des données :</b> exécution du
-  contrat (article 6 (1) (b) GDPR / consentement (article 9 (2) (a) GDPR). \n\n <b>Durée
-  de stockage des données :</b> Vos données sont supprimées ou anonymisées (et ne
-  peuvent être associées à une personne physique spécifique) lorsque vous demandez
-  la suppression de votre compte. Si votre compte est inactif depuis plus de 12 mois,
-  nous vous contacterons pour vérifier si vous souhaitez continuer à utiliser nos
-  services. Si vous laissez ensuite votre compte d'utilisateur inutilisé pendant les
-  12 mois suivants, nous supprimerons votre compte et anonymiserons vos données (de
-  sorte qu'elles ne puissent pas être associées à une personne physique spécifique).
-  \n\n **3.3 LORSQUE VOUS RECEVEZ DES SERVICES, DES PRODUITS OU DES INFORMATIONS SUR
-  LES PLATEFORMES QUE NOUS GÉRONS** \n\n <b>Nature des données :</b> le sexe, la date
-  de naissance, la photo d'identité, le type de service, le produit ou les informations
-  que vous avez reçu, l'acteur qui vous a fourni le service ou le produit, la date
-  à laquelle vous avez reçu le service, le produit ou les informations, votre évaluation
-  de la qualité des services, des produits ou des informations que vous avez reçus
-  et, le cas échéant, où et combien de points de fidélités (« Tiko Miles ») vous avez
-  échangé. \n\n <b>Utilisations de ces données :</b> nous utilisons les données ci-dessus
-  pour vous fournir un accès aux services, produits et informations que nous fournissons
-  via nos plateformes. Nous utilisons également ces données pour améliorer la quantité
-  et la qualité des services, des produits et des informations que vous recevez, pour
-  les vérifier et les valider, pour rembourser les vendeurs et prestataires de services
-  pour les services, produits et informations que vous avez reçus, vérifier votre
-  éligibilité à accéder et à utiliser les services, produits et informations de nos
-  plateformes, à mettre en œuvre des interventions de recherche telles que des essais
-  aléatoires contrôlés, à évaluer l'efficacité des interventions de recherche, à rendre
-  compte aux bailleurs de fonds des services, produits ou informations fournis sur
-  nos plateformes ; pour effectuer des recherches sur les utilisateurs et pour suivre
-  avec vous comment nous pouvons améliorer la qualité des services, des produits et
-  des informations que vous avez reçus sur nos plateformes. Il n'est pas possible
-  d'accéder à nos services, produits ou informations (non facultatifs) si les données
-  ne sont pas fournies. \n\n <b>Justification de l'utilisation des données :</b> exécution
-  du contrat (article 6 (1) (b) GDPR / consentement (article 9 (2) (a) GDPR). \n\n
-  <b>Durée de stockage des données :</b> Vos données sont supprimées ou rendues anonymes
-  (et ne peuvent être associées à une personne physique spécifique) lorsque vous demandez
-  la suppression de votre compte. \n\n **3.4 PUBLICITES FAITES A VOTRE INTENTION POUR
-  DES SERVICES, PRODUITS OU INFORMATIONS DISPONIBLES SUR LES PLATEFORMES QUE NOUS
-  GÉRONS** \n\n <b>Nature des données :</b> le sexe, la date de naissance, l'image
-  de votre visage, le type de service, le produit ou les informations que vous avez
-  reçus, la date à laquelle vous avez reçu le service, le produit ou les informations,
-  votre évaluation de la qualité des services, produits et informations qui que vous
-  avez reçus, si vous avez échangé des points de fidélité (« Tiko Miles ») et, si
-  oui, où vous avez échangé les points de fidélité et combien de points de fidélité
-  vous avez dépensés. \n\n <b>Utilisations de ces données :</b> nous utilisons les
-  données ci-dessus pour promouvoir des services, des produits ou vous fournir des
-  informations susceptibles de vous intéresser. Vous pouvez modifier vos paramètres
-  publicitaires à tout moment (1) en envoyant le texte « STOP » à l'un des numéros
-  de code court que vous avez utilisés pour vous inscrire à nos services (2) en contactant
-  et en informant un mobilisateur qui vous a aidé à vous inscrire/enregistrer sur
-  notre plateforme (3) en nous appelant directement sur les numéros partagés avec
-  vous (4) en nous envoyant un message Whatsapp ou Facebook disant « stop » ou (5)
-  en nous envoyant un courriel. \n\n <b>Justification de l'utilisation des données :</b> Consentement
-  (article 6 (1) (a) du RGPD). \n\n <b>Durée de stockage :</b> Vos données sont supprimées
-  ou rendues anonymes (et ne peuvent être associées à une personne physique spécifique)
-  lorsque vous demandez la suppression de votre compte. \n\n **3.5 UTILISATION DES
-  DONNÉES RELATIVES À VOTRE SANTÉ À DES FINS DE RECHERCHE ET DE STATISTIQUES** \n\n
-  <b>Nature des données :</b> les enregistrements des produits ou services de santé
-  que vous avez reçu de notre part, et d'autres données de santé que vous nous avez
-  fournies directement ou indirectement lors de votre utilisation de nos produits
-  ou services. \n\n <b>Utilisations de ces données :</b> nous traitons ces données
-  pour effectuer des recherches sur l'utilisation des produits et services de santé
-  sexuelle et reproductive et pour préparer des statistiques qui synthétisent l'utilisation
-  géographique des produits, services ou informations de santé qui ont un lien avec
-  les informations démographiques que nous avons collecté auprès de vous. Lorsque
-  de telles données sont rendues publiques, elles sont présentées sous forme de statistiques
-  résumées sur une base anonymisée. \n\n <b>Justification de l'utilisation des données :</b>
-  le traitement est nécessaire à des fins de recherche scientifique ou de statistiques,
-  et nous publions des statistiques anonymisées et résumées à partir desquelles l'identification
-  d'une personne physique spécifique est impossible (art. 9 (2) (j) DSGVO ; Sec. 27
-  (1) BDSG). Notre intérêt à traiter ces données est de pouvoir faire un rapport à
-  nos bailleurs de fonds et à nos donateurs, et un rapport statutaire au ministère
-  de la santé afin de soutenir les progrès de l'accès universel aux soins de santé,
-  dans l'intérêt public. Vous pouvez, pour des raisons personnelles, vous opposer
-  à un tel traitement à tout moment en envoyant un courriel à <privacy@triggerise.org>.
-  \n\n <b>Durée de stockage des données :</b> La durée de conservation de vos données
-  sur la base de laquelle nous créons les statistiques correspond à la durée de traitement
-  selon la Section 3.2. Si vous vous opposez au traitement de vos données, vos données
-  ne seront plus utilisées à cette fin. Les statistiques sont anonymes. \n\n\n **SECTION
-  4 -- COOKIES ET SUIVI SUR NOS SITES INTERNET** \n\n\n Nos sites Web utilisent des
-  « cookies ». Les cookies sont des fichiers texte qui sont stockés dans le navigateur
-  Internet ou par le navigateur Internet sur l'appareil de l'utilisateur (ordinateur,
-  tablette ou téléphone). Nous utilisons le terme « cookies » pour désigner tous les
-  outils qui collectent des données sur notre site Web (par exemple, les adresses
-  IP, le lieu et l'heure de la visite des utilisateurs). Les données de l'utilisateur
-  ainsi collectées sont stockées sous des pseudonymes. Les données ne sont pas stockées
-  avec les autres données personnelles de l'utilisateur. Ce traitement est effectué
-  sur une base légale ou, lorsque la loi l'exige, sur la base de votre consentement.
-  \n\n\n **SECTION 5 -- OÙ STOCKONS-NOUS VOS DONNÉES PERSONNELLES ?** \n\n\n Les données
-  personnelles que nous collectons auprès de vous sont stockées sur les serveurs Cloud
-  (Europe) d'Amazon Web Services EMEA S.A.R.L. dont le siège social est au Luxembourg,
-  au sein de l'Union européenne. Ces données peuvent toutefois être traitées par des
-  sous-traitants opérant en dehors de l'Espace économique européen (« EEE ») sur la
-  base d'un accord de traitement des données si les exigences supplémentaires de l'art.
-  44 et suivants GDPR pour le traitement dans des pays tiers sont conformes à un niveau
-  de protection approprié dans le pays tiers avec des garanties appropriées en vertu
-  de l'art. 46 GDPR (telles que les clauses standard de protection des données ou
-  des circonstances exceptionnelles en vertu de l'article 49 GDPR). \n\n Les informations
-  sensibles entre votre navigateur et notre site Web sont transférées sous forme cryptée
-  à l'aide de Transport Layer Security (« TLS »). Lors de la transmission d'informations
-  sensibles, vous devez toujours vous assurer que votre navigateur peut valider notre
-  certificat. \n\n **ARTICLE 6 -- DIVULGATION DE VOS DONNÉES PERSONNELLES** \n Nous
-  utilisons des prestataires de services techniques pour exploiter et maintenir nos
-  Services, qui agissent en tant que sous-traitants sur la base d'un accord de traitement
-  des données. Les prestataires de services qui traitent des données personnelles
-  en notre nom en dehors de l'EEE (ou « pays tiers ») ne seront utilisés que si le
-  destinataire a reçu une décision de la Commission européenne sur l'adéquation ou
-  l'existence de garanties appropriées pour ce pays tiers ou tout autre garantie permettant
-  le transfert de données en vertu de la législation applicable. De plus, nous ne
-  transférons pas vos données personnelles à des tiers, sauf aux fins énumérées à
-  la section 3 ci-dessus. \n\n <b>Justification de l'utilisation :</b> la base juridique
-  pour le transfert de données personnelles au sous-traitant et le traitement par
-  le sous-traitant dépend de la base juridique sur laquelle nous, en tant que contrôleurs
-  de données, nous appuyons (voir la section 3 ci-dessus) \n\n Si nous sommes tenus,
-  en vertu des lois locales de la juridiction dans laquelle nous ou nos sociétés affiliées
-  opérons, de divulguer ou de partager vos données personnelles. \n\n <b>Justification
-  d'utilisation :</b> Obligation légale. \n\n Nous pouvons également partager vos
-  données personnelles avec des partenaires de recherche de confiance qui peuvent
-  traiter des informations au nom de Triggerise aux fins énoncées dans le présent
-  avis de confidentialité, conformément aux accords de traitement des données appropriés
-  qui assurent une protection complète de vos données personnelles. \n\n\n **SECTION
-  7 -- COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNÉES PERSONNELLES ?** \n\n\n Nous conserverons
-  les données ci-dessus aussi longtemps que nécessaire pour vous fournir les services,
-  traiter tout problème spécifique pouvant survenir, ou le cas échéant, tel que requis
-  par la loi ou par tout organisme de réglementation compétent. Les périodes de stockage
-  spécifiques pour les activités de traitement respectives sont détaillées dans la
-  section 3 ci-dessus. \n\n Si vos données personnelles sont utilisées à deux fins
-  différentes, nous les conserverons jusqu'à l'expiration de la finalité la plus longue,
-  mais nous cesserons de les utiliser pour la finalité la plus courte dès l'expiration
-  de la période la plus courte. \n\n Nous limitons l'accès à vos données personnelles
-  aux personnes qui ont besoin de les utiliser aux fins pertinentes. Nos périodes
-  de conservation sont basées sur des besoins commerciaux raisonnables, et vos données
-  personnelles qui ne sont plus nécessaires sont soit rendues anonymes (et les données
-  anonymisées peuvent être conservées) soit détruites de manière sécurisée. \n\n Nous
-  ne conserverons vos données personnelles que le temps nécessaire pour atteindre
-  les objectifs pour lesquels nous les avons collectées, y compris aux fins de satisfaire
-  à toute les exigences légales, comptables ou de déclaration. \n\n Pour déterminer
-  la période de conservation appropriée pour les données personnelles, nous considérons
-  la quantité, la nature et la sensibilité des données personnelles, le risque potentiel
-  de préjudice résultant d'une utilisation ou d'une divulgation non autorisée de vos
-  données personnelles, les finalités pour lesquelles nous traitons vos données personnelles,
-  et si nous pouvons atteindre ces objectifs par d'autres moyens et les exigences
-  légales applicables. \n\n **ARTICLE 8 -- VOS DROITS** \n\n En vertu du RGPD, vous
-  disposez de divers droits concernant vos données personnelles (comme indiqué ci-dessous).
-  Tous ces droits peuvent être exercés en nous contactant à <privacy@triggerise.org>.
-  \n\n <b>Droit de retrait de votre consentement</b> : Vous avez le droit de retirer
-  votre consentement à tout moment en nous en informant par courrier électronique
-  à l'adresse suivante : <privacy@triggerise.org> ou en envoyant un SMS à l'un des
-  numéros courts que nous utilisons dans les pays dans lesquels nous opérons. En retirant
-  votre consentement, la légalité du traitement basé sur le consentement jusqu'au
-  moment du retrait ne sera pas affectée. \n\n <b>Droit d'opposition :</b> Vous disposez
-  d'un droit d'opposition dans les conditions de l'article 21 DSGVO. Vous trouverez
-  ci-dessous des informations plus détaillées : \n\n --- Droit d'opposition lorsque
-  le traitement est fondé sur des intérêts légitimes : En tant que personne concernée,
-  vous avez le droit à tout moment de vous opposer, pour des raisons personnelles,
-  au traitement de vos données personnelles sur la base de l'article 6 (1) (e) ou
-  (f) GDPR, y compris le profilage basé sur ces dispositions. En cas d'objection relative
-  à des raisons personnelles, nous ne traiterons plus vos données personnelles, sauf
-  si nous pouvons faire la preuve de motifs légitimes et impérieux pour le traitement
-  qui prévalent sur vos intérêts, droits et libertés ou pour l'établissement, l'exercice
-  ou la défense de droits en justice. \n\n --- Droit d'opposition lorsque nous traitons
-  vos données personnelles à des fins statistiques : si nous traitons vos données
-  personnelles à des fins statistiques conformément à l'article 9 (2) (j) DSGVO, section
-  27 (1) BDSG, vous avez le droit de vous opposer à ce traitement pour des raisons
-  de convenance personnelle. En cas d'opposition, nous ne traiterons plus les données
-  personnelles concernées à cette fin, à moins que le traitement ne soit nécessaire
-  à l'accomplissement d'une mission d'intérêt public, ou que l'arrêt du traitement
-  soit susceptible de rendre impossible ou d'altérer gravement la réalisation à des
-  fins statistiques et la poursuite du traitement est nécessaire à la réalisation
-  des finalités statistiques. \n\n --- Droit de vous opposer à la publicité directe
-  : lorsque vos données personnelles sont traitées à des fins de publicité directe,
-  vous avez le droit de vous opposer à tout moment au traitement de vos données personnelles
-  pour ce type de publicité, ce qui inclut le profilage dans la mesure où il est lié
-  à la publicité directe. Si vous vous opposez au traitement à des fins de publicité
-  directe, nous ne traitons plus vos données personnelles à ces fins. \n\n Pour exercer
-  vos droits d'opposition, vous pouvez nous contacter à tout moment en envoyant un
-  courriel à <privacy@triggerise.org>. \n\n <b>Droit d'être informé :</b> En tant
-  que personne concernée, vous disposez d'un droit d'accès et d'information dans les
-  conditions prévues à l'article 15 du RGPD. Cela signifie que vous avez le droit
-  d'obtenir de notre part la confirmation que nous traitons vos données personnelles.
-  Si tel est le cas, vous avez également le droit d'obtenir l'accès aux données personnelles
-  et aux informations énumérées à l'article 15, paragraphe 1, du RGPD. Cela inclut
-  des informations concernant les finalités du traitement, les catégories de données
-  personnelles qui sont traitées et les destinataires ou catégories de destinataires
-  auxquels les données personnelles ont été ou seront divulguées. \n\n <b>Droit à
-  l'effacement / « Droit à être oublié »</b> : En tant que personne concernée, vous
-  disposez d'un droit à l'effacement (« droit à l'oubli ») dans les conditions prévues
-  à l'article 17 du RGPD. Cela signifie que vous avez généralement le droit d'obtenir
-  de notre part l'effacement de vos données personnelles et nous sommes obligés d'effacer
-  vos données personnelles sans délais injustifié lorsque l'une des raisons énumérées
-  à l'article 17 (1) du RGPD s'applique. Vous pouvez le faire en supprimant votre
-  compte à tout moment. Si nous avons rendu les données personnelles publiques et
-  sommes obligés de les effacer, nous sommes également tenus, compte tenu de la technologie
-  disponible et du coût de mise en œuvre, de prendre des mesures raisonnables, y compris
-  des mesures techniques, pour informer les contrôleurs qui traitent les données personnelles
-  que vous avez demandé l'effacement par ces contrôleurs de tout lien vers, ou copie
-  ou réplication de ces données personnelles (article 17 (2) du RGPD. Le droit d'effacement
-  (« droit à l'oubli ») ne s'applique pas par exception si le traitement est nécessaire
-  pour l'une des raisons énumérées à l'article 17, paragraphe 3, du RGPD. Cela peut
-  être le cas, par exemple, si le traitement est nécessaire au respect d'une obligation
-  légale ou à la constatation, à l'exercice ou à la défense de droits en justice (article
-  17 (3) (b) et (e) du RGPD). \n\n <b>Droit à la limitation du traitement :</b> En
-  tant que personne concernée, vous disposez d'un droit à la limitation du traitement
-  dans les conditions prévues à l'article 18 du RGPD. Cela signifie que vous avez
-  le droit d'obtenir de notre part la limitation du traitement si l'une des conditions
-  prévues à l'article 18, paragraphe 1, du RGPD s'applique. Cela peut être le cas,
-  par exemple, si vous contestez l'exactitude des données personnelles. Dans un tel
-  cas, la limitation du traitement dure une période qui nous permet de vérifier l'exactitude
-  des données personnelles (article 18 (1) (a) GDPR). La restriction signifie que
-  les données personnelles stockées sont marquées dans le but de restreindre leur
-  traitement futur (article 4 n ° 3 du RGPD). \n\n <b>Droit à la mobilité des données
-  :</b> En tant que personne concernée, vous disposez d'un droit à la mobilité des
-  données dans les conditions prévues à l'article 20 du RGPD. Cela signifie que vous
-  avez généralement le droit de recevoir vos données personnelles que vous nous avez
-  fournies dans un format structuré, couramment utilisé et lisible par machine et
-  de transmettre ces données à un autre responsable du traitement sans entrave de
-  notre part si le traitement est basé sur le consentement conformément à l'article
-  6 (1) (a) ou à l'article 9 (2) GDPR ou sur un contrat en vertu de l'article 6 (1)
-  (a) GDPR et le traitement est effectué par des moyens automatisés (article 20 (1)
-  GDPR). En exerçant votre droit à la mobilité des données, vous avez également généralement
-  le droit de faire transmettre vos données personnelles directement de notre part
-  à un autre responsable du traitement si cela est techniquement possible (article
-  20 (2) du RGPD). \n\n <b>Droit de rectification des données :</b> En tant que personne
-  concernée, vous disposez d'un droit de rectification dans les conditions prévues
-  à l'article 16 du RGPD. Cela signifie notamment que vous avez le droit de recevoir
-  de notre part sans délais injustifié la rectification des inexactitudes dans vos
-  données personnelles et le complément des données personnelles incomplètes. \n\n
-  <b>Droit de réclamation :</b> En tant que personne concernée, vous avez le droit
-  de déposer une réclamation auprès d'une autorité de contrôle dans les conditions
-  prévues à l'article 77 du RGPD. L'autorité de contrôle dont nous dépendons est Autoriteit
-  Persoonsgegevens (l'autorité néerlandaise de protection des données), PO Box 93374,
-  2509 AJ DEN HAAG, Pays-Bas Tél. : +31708888500. \n\n <b>Droit de refuser votre consentement
-  :</b> Vous avez le droit de retirer votre consentement au traitement de vos données
-  personnelles à tout moment, sans affecter la légalité du traitement fondé sur le
-  consentement avant son retrait. \n\n **Délai de réponse** Nous essayons de répondre
-  à toutes les demandes légitimes dans un délai d'un mois. Parfois, cela peut nous
-  prendre plus d'un mois si votre demande est particulièrement complexe ou si vous
-  avez fait un certain nombre de demandes. Dans ce cas, nous vous en informerons et
-  vous tiendrons au courant. \n\n Nous demander d'arrêter de traiter vos données personnelles
-  ou de supprimer vos données personnelles signifiera probablement que vous ne pourrez
-  plus utiliser les services, produits ou informations fournis sur nos plateformes
-  ou au moins les aspects des services, produits ou informations qui nécessitent le
-  traitement des types de données personnelles que vous nous avez demandé de supprimer,
-  ce qui peut vous empêcher d'utiliser les services, produits ou informations. \n\n
-  **ARTICLE 9- SÉCURITÉ DES DONNÉES** \n\n Nous avons mis en place des mesures de
-  sécurité appropriées pour empêcher que vos données personnelles ne soient accidentellement
-  perdues, utilisées ou consultées de manière non autorisée, modifiées ou divulguées.
-  En outre, nous limitons l'accès à vos données personnelles aux employés, agents,
-  sous-traitants et autres tiers qui ont besoin d'être informés. Ils ne traiteront
-  vos données personnelles que sur nos instructions et sont soumis à un devoir de
-  confidentialité. \n\n Nous avons mis en place des procédures pour traiter toute
-  violation présumée des données personnelles et nous vous informerons, ainsi que
-  tout organisme de réglementation compétent, d'une violation lorsque nous sommes
-  légalement tenus de le faire. \n\n\n **SECTION 10- MODIFICATIONS DE CETTE POLITIQUE**
-  \n\n\n Toute modification que nous apporterons à notre politique de confidentialité
-  à l'avenir sera publiée sur cette page et, le cas échéant, vous sera notifiée par
-  SMS, courriel ou tout autre canal de notification. Nous vous encourageons donc à
-  le consulter de temps en temps pour rester informé de la manière dont nous traitons
-  vos données. "
+userGroups:
+- title: platform-user
+  content: " **AVIS DE CONFIDENTIALITÉ POUR LE PROCESSUS D'INSCRIPTION À LA PLATEFORME
+    Tiko ET L'UTILISATION DU SERVICE** \n\n La protection de votre vie privée et de
+    vos données personnelles est très importante pour Triggerise Stichting et ses
+    affiliés ('nous', 'notre' ou 'nous'). \n\n Cet avis de confidentialité explique
+    quelles données personnelles nous collectons, pourquoi nous collectons ces données
+    et qui peut y accéder une fois que vous vous êtes inscrit pour bénéficier de nos
+    services et/ou produits. Il explique également la durée de conservation de vos
+    données personnelles et les droits dont vous disposez en ce qui concerne le traitement
+    de vos données personnelles.\n\n C'est l'entité locale de Tiko qui agit en tant
+    que responsable du traitement des données personnelles que nous détenons à votre
+    sujet. Les questions, commentaires et demandes concernant le présent avis de confidentialité
+    sont les bienvenus et doivent être adressés à notre délégué à la protection des
+    données (DPD) par courrier électronique à l'adresse <privacy@triggerise.org>.
+    \n\n\n**1. Quelles sont les données personnelles que nous traitons?** \n\n Les
+    données à caractère personnel sont toutes les informations qui se rapportent à
+    une personne identifiée ou identifiable. Les différents éléments d'information
+    collectés qui peuvent conduire à l'identification d'une personne particulière
+    constituent également des données à caractère personnel. Vous trouverez ci-dessous
+    les différentes catégories de données à caractère personnel que nous collectons
+    lorsque vous vous inscrivez et commencez à recevoir des services et/ou des produits
+    via la plateforme que nous gérons, la plateforme Tiko. \n\n - Phase d'inscription
+    Pour devenir membre de Tiko, les informations que nous recevons de vous sont les
+    suivantes : sexe, mois de naissance, année de naissance et numéro de téléphone
+    (s'il est disponible et si vous choisissez de le fournir). \n\n - Phase de mise
+    en œuvre des services Nous enregistrons un échantillon de voix et le type de service
+    et/ou de produit que vous avez reçu, ainsi que la date à laquelle cela s'est produit
+    et le fournisseur de services qui a offert le service et/ou le produit. \n\n -
+    Phase d'échange de points de fidélité (' Tiko Miles ' ou ' Miles ') Nous traitons
+    les endroits où vous avez utilisé vos Miles Tiko et le nombre de Miles que vous
+    avez dépensés. \n\n **2. Quels sont les objectifs et les fondements de l'utilisation
+    de vos données personnelles?** \n\n Nous traiterons vos données à caractère personnel
+    aux fins suivantes et sur la base des fondements juridiques suivants \n\n <table
+    class='privacy-table'> <caption>Tableau de confidentialité</caption> <thead> <th>Objectif</th>
+    <th>Base légale du traitement</th> </thead> <tbody> <tr scope='row'> <td>Pour
+    confirmer votre éligibilité à recevoir des services et/ou des produits et pour
+    créer votre compte sur la plateforme Tiko</td> <td>Il s'agit des données à caractère
+    personnel collectées au cours de la phase d'inscription et le traitement est effectué
+    sur la base de votre consentement et de notre intérêt légitime.</td> </tr> <tr
+    scope='row'> <td>Empêcher l'utilisation abusive de notre plate-forme</td> <td>Il
+    s'agit de l'échantillon vocal obtenu au cours de la phase d'utilisation du service
+    ainsi que du suivi de l'utilisation du service et de la phase d'échange des Tiko
+    Miles, afin d'identifier les schémas d'utilisation abusive. Ce traitement est
+    effectué sur la base de notre intérêt légitime.</td> </tr> <tr scope='row'> <td>Pour
+    permettre aux prestataires de services et aux vendeurs de vous offrir un service
+    et/ou un produit </td> <td>Il s'agit des données à caractère personnel collectées
+    lors de la phase d'inscription ainsi que des données à caractère personnel collectées
+    lors de la phase d'utilisation du service et/ou de la (des) phase(s) de remboursement.
+    Ce traitement est effectué sur la base de notre intérêt légitime.</td> </tr> <tr
+    scope='row'> <td>pouvoir rembourser les prestataires de services et les vendeurs
+    pour le service et/ou le produit que vous avez reçu</td> <td>Il s'agit en particulier
+    de la validation des services et/ou produits que vous avez reçus. Ce traitement
+    est effectué sur la base de notre intérêt légitime et constitue une étape nécessaire
+    à l'exécution du contrat avec les prestataires de services et les vendeurs.</td>
+    </tr> <tr scope='row'> <td>Pour promouvoir des services, des produits et/ou des
+    informations que nous pensons susceptibles de vous intéresser</td> <td>Ce traitement
+    est effectué sur la base du consentement que vous avez fourni au cours de la phase
+    d'inscription. La réception de messages et/ou d'appels promotionnels n'est pas
+    obligatoire pour pouvoir bénéficier de services et/ou de produits et, si vous
+    changez d'avis à ce sujet, vous pouvez : (1) envoyer le mot 'STOP' à n'importe
+    lequel des numéros courts que vous avez utilisés pour vous inscrire (2), contacter
+    et informer un mobilisateur qui vous a aidé à vous inscrire sur la plateforme
+    Tiko (3), nous appeler directement aux numéros partagés avec vous (4), envoyer
+    un message WhatsApp disant 'STOP' ou (5), nous envoyer un courriel à <a href='mailto:privacy@triggerise.org'
+    target='_blank' rel='noopener noreferrer'>privacy@triggerise.org</a></td> </tr>
+    <tr scope='row'> <td>Pour effectuer des recherches, préparer des statistiques
+    agrégées et faire l'objet d'audits.</td> <td>Il peut s'agir de données personnelles
+    collectées lors de l'inscription, de l'utilisation du service et/ou de la phase
+    de remboursement. Ce traitement est effectué sur la base de notre intérêt légitime
+    à pouvoir rendre compte à nos donateurs ainsi que des obligations légales qui
+    nous incombent de rendre compte aux autorités de santé publique et de soutenir
+    les progrès en matière d'accès universel aux soins de santé. Nos rapports aux
+    donateurs et aux autorités de santé publique présentent des informations agrégées
+    et les statistiques sont anonymes. Si nous analysons les données que nous avons
+    collectées pour obtenir des informations, il se peut que des données à caractère
+    personnel soient également analysées. La base juridique du traitement est fondée
+    sur des objectifs statistiques et de recherche scientifique.</td> </tr> <tr scope='row'>
+    <td>Améliorer la qualité des services et/ou des produits qui vous sont fournis</td>
+    <td>Nous pouvons vous contacter pour vous demander votre avis sur votre expérience
+    de l'utilisation des services et/ou des produits. Ce traitement est effectué sur
+    la base de notre intérêt légitime.</td> </tr> </tbody> </table> \n\n**3. Avec
+    qui partagerons-nous vos données personnelles?** \n\n Nous avons pour principe
+    de ne pas vendre, échanger ou louer vos données personnelles à qui que ce soit.
+    Nous ne divulguons pas de données personnelles à d'autres entités que celles qui
+    travaillent en notre nom, selon nos instructions et dans le cadre d'accords sur
+    le traitement des données. En général, l'accès à tout type de données personnelles
+    est strictement limité sur la base du besoin de savoir. Notre personnel et les
+    tiers avec lesquels nous interagissons sont liés par des accords de confidentialité
+    et de non-divulgation.\n\n Pour pouvoir travailler, nous utilisons un ensemble
+    d'outils informatiques, dont certains sont basés sur le cloud. Nous avons opté
+    pour des outils qui garantissent un niveau élevé de conformité avec les normes
+    du secteur en matière de protection et de sécurité des données. Les données de
+    la plateforme Tiko sont stockées sur des plateformes cryptées en nuage fournies
+    par Amazon Web Services (AWS) et hébergées dans la région géographique de l'Europe
+    (Irlande). Nous avons mis en place une série de mesures organisationnelles et
+    techniques plus larges (par exemple, anti-virus, tests de pénétration réguliers
+    de notre infrastructure informatique) pour garantir la sécurité de vos données
+    à caractère personnel.\n\n **4. Combien de temps conserverons-nous vos données
+    personnelles?** \n\n Nous ne conservons les informations vous concernant que pour
+    pouvoir utiliser ce que nous savons pour vous aider, ou pour pouvoir travailler
+    avec vous à l'avenir. Par exemple, si nous devons vous conseiller sur un nouveau
+    problème, il se peut que nos dossiers indiquent que vous nous avez déjà parlé
+    d'autres problèmes. L'utilisation de ces informations nous permet de mieux vous
+    aider ou vous conseiller.\n\n Veuillez noter que nous pouvons être amenés à conserver
+    (certaines de) vos données à caractère personnel pendant une période plus longue
+    pour traiter des questions spécifiques qui peuvent se poser ou parce que cela
+    est requis par la loi ou par tout organisme de réglementation compétent (par exemple,
+    lorsque nous devons satisfaire à des exigences légales, comptables ou de reporting).
+    \n\n **5. Que dit la loi sur vos droits?**\n\n La loi stipule que vous pouvez
+    toujours: \n\n 1. Demandez-nous une copie des informations dont nous disposons
+    à votre sujet\n\n 2. Modifier les informations dont nous disposons à votre sujet
+    ou les mettre à jour si elles sont incorrectes.\n\n 3. Modifiez la façon dont
+    vous souhaitez que nous vous contactions\n\n 4. Demandez-nous de supprimer toutes
+    les informations que nous possédons à votre sujet\n\n 5. Dites-nous si vous êtes
+    préoccupé par la manière dont nous conservons ou utilisons les informations vous
+    concernant et si vous souhaitez déposer une plainte à ce sujet\n\n Si vous souhaitez
+    exercer l'un de vos droits ou si vous avez des questions sur les conditions qui
+    peuvent s'appliquer, veuillez nous contacter à l'adresse <privacy@triggerise.org>.
+    Nous nous efforçons de répondre à toutes les demandes légitimes dans un délai
+    de 7 à 14 jours, selon le type de demande. Vous pouvez également avoir le droit
+    de déposer une plainte auprès de l'autorité nationale compétente du pays dans
+    lequel vous résidez. Pour de plus amples informations sur les conditions dans
+    lesquelles vous pouvez déposer une plainte auprès d'une autorité nationale, veuillez
+    consulter le site web correspondant. "
+- title: partner
+  content: "**AVIS DE CONFIDENTIALITÉ POUR L'ENREGISTREMENT DES MOBILISATRICES, DES
+    CLINIQUES, DES PHARMACIES ET DES DÉTAILLANTS SUR LA PLATEFORME Tiko ET L'UTILISATION
+    DE LA PLATEFORMEQUI EN DÉCOULE** \n\n La protection de votre vie privée et de
+    vos données personnelles est très importante pour Triggerise Stichting et ses
+    affiliés (« nous », « notre » ou « nos »).\n\n Cet avis de confidentialité explique
+    quelles données personnelles nous collectons, pourquoi nous collectons ces données
+    et qui peut y accéder, une fois que vous acceptez de vous associer à nous dans
+    la mise en œuvre de nos programmes par le biais de la plateforme Tiko. En pratique,
+    cela signifie que vous devenez un acteur de la plateforme Tiko et que vous pouvez
+    utiliser l'application Tiko. Cet avis de confidentialité explique également la
+    durée de conservation des données à caractère personnel et les droits dont vous
+    disposez en ce qui concerne le traitement de vos données à caractère personnel.
+    \n\n C'est l'entité locale de Tiko qui agit en tant que responsable du traitement
+    des données personnelles que nous détenons à votre sujet. Les questions, commentaires
+    et demandes concernant le présent avis de confidentialité sont les bienvenus et
+    doivent être adressés à notre délégué à la protection des données (DPD) par courrier
+    électronique à l'adresse <privacy@triggerise.org>.\n\n **1. Quelles sont les données
+    personnelles que nous traitons?** \n\n Les données à caractère personnel sont
+    toutes les informations qui se rapportent à une personne identifiée ou identifiable.
+    Les différents éléments d'information collectés qui peuvent conduire à l'identification
+    d'une personne particulière constituent également des données à caractère personnel.
+    Vous trouverez ci-dessous les différentes catégories de données à caractère personnel
+    que nous collectons lorsque nous vous intégrons à l'écosystème Tiko, en fonction
+    de votre rôle: \n\n <b>Onboarding des mobilisatrices:</b> nous recueillons directement
+    auprès de vous: votre nom (prénom et nom de famille), votre localisation, votre
+    identité nationale, votre sexe, votre date de naissance, votre numéro de téléphone
+    portable et un selfie à des fins de reconnaissance faciale. Documents: carte d'identité
+    (recto et verso), votre signature (lorsque vous signez notre code de conduite).\n\n
+    <b>Utilisation de l'application Tiko par les mobilisatrices:</b> journal des activités
+    de l'utilisatrice sur l'application, nombre d'adolescents inscrits, nombre de
+    Tiko Miles attribués, Tiko Miles encaissés par mois.\n\n <b>Onboarding des cliniques
+    et des pharmacies:</b> nous collectons directement auprès de vous : nom (prénom
+    et nom de famille), numéro de téléphone portable, numéro d'identification, signature
+    du représentant autorisé de l'établissement lors de la conclusion de la lettre
+    d'accord, adresse, nom et numéro M-PESA. Nous collectons indirectement : les noms
+    et numéros de téléphone des employés des établissements qui auront accès à l'application
+    Tiko.\n\n <b>Utilisation de l'application Tiko par les cliniques et les pharmacies:</b>
+    journal d'activité par utilisateur de l'application, nombre de Tiko Miles à rembourser.\n\n
+    <b>Embarquement des détaillants:</b> nous collectons directement auprès de vous
+    : nom (prénom et nom de famille), numéro de téléphone portable, numéro d'identification,
+    signature de la lettre d'accord, lieu.\n\n <b>Utilisation de l'application Tiko
+    par les commerçants:</b> enregistrement de l'activité par utilisatrice de l'application,
+    Miles Tiko attribués, Miles Tiko à rembourser.\n\n **2. Quels sont les objectifs
+    et les fondements de l'utilisation de vos données personnelles?** \n\n Nous traiterons
+    vos données à caractère personnel aux fins suivantes et sur la base des fondements
+    juridiques suivants:\n\n <table class='privacy-table'> <caption>Tableau de confidentialité</caption>
+    <thead> <th>Objectif</th> <th>Base légale du traitement</th> </thead> <tbody>
+    <tr scope='row'> <td>Pour conclure une lettre d'accord avec vous et activer votre
+    compte sur la plateforme Tiko</td> <td>Il s'agit des données à caractère personnel
+    collectées au cours de la phase d'intégration et le traitement est effectué en
+    tant qu'étape précontractuelle nécessaire, ainsi que sur la base de notre intérêt
+    légitime.</td> </tr> <tr scope='row'> <td>Prévenir l'utilisation abusive de notre
+    plateforme et respecter nos obligations en matière de protection de la jeunesse.</td>
+    <td>Il s'agit en particulier du selfie obtenu lors de la phase d'intégration à
+    des fins de reconnaissance faciale (et de tout téléchargement ultérieur de photos
+    demandé périodiquement), ainsi que de la surveillance du journal d'activité afin
+    d'identifier les schémas d'utilisation abusive. Ce traitement est effectué sur
+    la base de votre consentement ainsi que de notre intérêt légitime à pouvoir prévenir
+    l'utilisation abusive de notre plateforme et à respecter nos obligations en matière
+    de protection des jeunes.</td> </tr> <tr scope='row'> <td>Pour pouvoir vous rembourser
+    les services et/ou produits que vous avez fournis ou le nombre de personnes que
+    vous avez aidées à s'inscrire.</td> <td>Il s'agit en particulier (en fonction
+    de votre rôle dans la plateforme) des journaux de validation des services et/ou
+    produits que vous avez fournis ou du nombre de Tiko Miles qui vous ont été attribués.
+    Ce traitement est effectué en tant qu'étape nécessaire à l'exécution du contrat
+    et sur la base de notre intérêt légitime.</td> </tr> <tr scope='row'> <td>Préparer
+    des rapports, des statistiques agrégées, effectuer des recherches et faire l'objet
+    d'un audit.</td> <td>Il peut s'agir de données à caractère personnel collectées
+    lors de la phase d'intégration, ainsi que lors de la phase de prestation de services
+    et/ou d'échange de Tiko Miles. Ce traitement est effectué sur la base de notre
+    intérêt légitime à pouvoir rendre compte à nos donateurs ainsi que des obligations
+    légales que nous pouvons avoir de rendre compte aux autorités de santé publique
+    et de soutenir les progrès en matière d'accès universel aux soins de santé. Nos
+    rapports aux donateurs et aux autorités sanitaires présentent des informations
+    agrégées et les statistiques sont anonymes. Dans le cas où nous analysons les
+    données que nous avons collectées pour obtenir des informations, il se peut que
+    des données personnelles soient également analysées et la base juridique du traitement
+    est fondée sur des objectifs statistiques et de recherche scientifique.</td> </tr>
+    <tr scope='row'> <td>Améliorer la qualité des services et/ou des produits que
+    vous fournissez</td> <td>Nous pouvons vous contacter pour effectuer des audits
+    sur la manière dont vous fournissez des services et/ou des produits. Ce traitement
+    est effectué sur la base de nos intérêts légitimes</td> </tr> </tbody> </table>\n\n
+    **3. Avec qui partagerons-nous vos données personnelles?** \n\n Nous avons pour
+    principe de ne pas vendre, échanger ou louer vos données personnelles à qui que
+    ce soit. Nous ne divulguons pas de données à caractère personnel à d'autres entités
+    que celles qui travaillent en notre nom, selon nos instructions, et qui sont liées
+    par un accord de non-divulgation et/ou des accords de traitement des données.
+    Ces entités peuvent être un auditeur travaillant pour notre compte ou pour le
+    compte de nos donateurs, par exemple. En général, l'accès à tout type de données
+    personnelles est strictement limité sur la base du besoin de savoir. Nos employés
+    et les tiers avec lesquels nous interagissons sont liés par des accords de confidentialité
+    et de non-divulgation. \n\Pour pouvoir travailler, nous utilisons un ensemble
+    d'outils informatiques dont certains sont basés sur le cloud. Nous avons opté
+    pour des outils qui garantissent un niveau élevé de conformité avec les normes
+    du secteur en matière de protection et de sécurité des données. Les données que
+    nous collectons à des fins d'intégration sont stockées dans un outil crypté de
+    gestion de la relation client (GRC ou en anglais « CRM ») qui est hébergé dans
+    un nuage dans la région géographique de l'Europe (Allemagne). Les données issues
+    de l'utilisation de l'application Tiko sont stockées sur des plateformes cryptées
+    basées sur le cloud fournies par Amazon Web Services (AWS) et hébergées dans la
+    région géographique de l'Europe (Irlande). Nous avons mis en place une série de
+    mesures organisationnelles et techniques plus larges (par exemple, anti-virus,
+    tests de pénétration réguliers de notre infrastructure informatique) pour garantir
+    la sécurité de vos données à caractère personnel.\n\n **4. Combien de temps conserverons-nous
+    vos données personnelles?** \n\n Nous conservons les données personnelles collectées
+    aussi longtemps que vous êtes un acteur actif de l'écosystème Tiko. Veuillez noter
+    qu'en cas de cessation de notre relation avec vous, il se peut que nous devions
+    conserver (certaines de) vos données à caractère personnel pour traiter toute
+    question spécifique susceptible de se poser ou parce que la loi ou tout organisme
+    de réglementation compétent l'exige (par exemple, lorsque nous devons satisfaire
+    à des exigences juridiques, comptables ou de reporting).\n\n **5. Quels sont vos
+    droits en ce qui concerne vos données personnelles?** \n\n 1.) Vous avez le droit
+    d'accéder aux données personnelles que vous nous avez communiquées\n\n 2.) Si
+    les données à caractère personnel que nous détenons à votre sujet sont inexactes,
+    périmées, incomplètes ou trompeuses, vous pouvez nous demander de les rectifier\n\n
+    3.) Lorsque nous utilisons vos données à caractère personnel sur la base de votre
+    consentement, vous pouvez retirer votre consentement à tout moment \n\n 4.) Vous
+    pouvez vous opposer au traitement de tout ou partie de vos données à caractère
+    personnel et, dans ce cas, nous limiterons le traitement jusqu'à ce qu'il soit
+    vérifié, que nos intérêts légitimes l'emportent ou non sur les vôtres. \n\n 5.)
+    Vous pouvez demander une copie structurée, couramment utilisée et lisible par
+    machine de vos données à caractère personnel\n\n 6.) Dans certaines circonstances
+    (par exemple, si les données personnelles ne sont pas pertinentes ou sont excessives),
+    vous pouvez nous demander d'effacer vos données personnelles. \n\n Si vous souhaitez
+    exercer l'un de vos droits ou si vous avez des questions sur les conditions d'exercice
+    de ces droits, veuillez nous contacter à l'adresse suivante : <privacy@triggerise.org>.
+    Le délai de traitement de vos demandes varie entre 7 et 14 jours, en fonction
+    du type de demande. Si nous constatons que nous ne sommes pas en mesure de respecter
+    le délai de 7 à 14 jours, nous vous en informerons.  \n\n **6. Comment pouvez-vous
+    vous plaindre du traitement de vos données personnelles?** \n\n Nous espérons
+    que vous n'aurez jamais besoin de le faire, mais si vous souhaitez vous plaindre
+    de l'utilisation que nous faisons de vos données personnelles, envoyez un courriel
+    avec les détails de votre plainte à <privacy@triggerise.org>. Nous examinerons
+    et répondrons à toutes les plaintes que nous recevrons. Vous pouvez également
+    avoir le droit de déposer une plainte auprès de l'autorité nationale compétente
+    du pays dans lequel vous résidez. Pour de plus amples informations sur les conditions
+    dans lesquelles vous pouvez déposer une plainte auprès d'une autorité nationale,
+    veuillez consulter le site web correspondant. \n\n Nous pouvons mettre à jour
+    cet avis de confidentialité de temps à autre. La dernière version sera publiée
+    sur notre site web avec la date d'entrée en vigueur.\n\nDernière mise à jour en
+    novembre 2023"
+- title: general
+  content: "**AVIS DE CONFIDENTIALITE À L’ATTENTION DES VISITEURS DU SITE WEB TIKO**
+    \n\n La protection de votre vie privée et de vos données personnelles est très
+    importante pour Triggerise Stichting et ses affiliés (ci-après « nous », « notre
+    » ou « nos »).\n\n Le présent avis de confidentialité explique quelles données
+    à caractère personnel nous collectons et utilisons lorsque vous vous rendez sur
+    notre site web. Nous sommes le responsable du traitement des données à caractère
+    personnel que nous détenons à votre sujet et, en tant que tel, il nous incombe
+    d'en assurer la qualité, la confidentialité, l'intégrité et la disponibilité,
+    ainsi que de mettre en place des mesures techniques et organisationnelles pour
+    aider à protéger vos données à caractère personnel contre tout accès, utilisation
+    ou divulgation non autorisé(e).\n\n Les questions, commentaires et demandes concernant
+    le présent avis de confidentialité sont les bienvenus et doivent être adressés
+    à notre délégué à la protection des données (DPD) par courrier électronique à
+    l'adresse suivante: <privacy@triggerise.org>.\n\n **1. Quelles sont les données
+    à caractère personnel que nous traitons?** \n\n On entend par données à caractère
+    personnel toute information se rapportant à une personne identifiée ou identifiable.
+    Les différents éléments d'information collectés qui peuvent conduire à l'identification
+    d'une personne particulière constituent également des données à caractère personnel.
+    Chaque fois que vous vous rendez sur notre site web, nous recueillons les données
+    suivantes: \n\n L'adresse IP de l'appareil demandeur, la date et l'heure de l'accès,
+    le nom et l'URL du fichier demandé, le site web à partir duquel l'accès est obtenu
+    (« Referrer URL »), le navigateur utilisé et, le cas échéant, le système d'exploitation
+    de votre appareil et l'identité de votre fournisseur d'accès. En outre, tant que
+    vous avez donné votre consentement, nous utilisons des cookies à des fins d'analyse.
+    Ces cookies permettent de suivre les éléments suivants : temps d'engagement moyen,
+    nombre total de vues, nombre de vues par page, activité dans le temps, utilisateurs
+    par pays et par ville. Si vous décidez de nous contacter via le formulaire web
+    de notre site web, nous recueillons également les informations que vous y indiquez
+    (par exemple, votre nom et votre adresse électronique).\n\n **2. Quels sont les
+    objectifs et les fondements de l'utilisation de vos données à caractères personnel?**
+    \n\n Nous utilisons les données susmentionnées pour vous permettre d'accéder à
+    notre site web, pour nous assurer que le site web peut établir une connexion internet
+    sans problème et qu'il est facile à utiliser, pour analyser la sécurité et la
+    stabilité du système, ainsi que pour l'optimisation des performances et l'amélioration
+    de l'expérience de l'utilisateur. Si vous nous fournissez vos coordonnées, nous
+    pourrons les utiliser pour vous contacter. La sécurité, le bon fonctionnement
+    et l'amélioration de notre site web relèvent de notre intérêt légitime à offrir
+    une expérience continue et transparente lors de la navigation sur notre site web.
+    L'utilisation de vos coordonnées relève du consentement que vous donnez lorsque
+    vous décidez, sur une base volontaire, de remplir le formulaire web.\n\n **3.
+    Avec qui partagerons-nous vos données à caractère personnel?** \n\n Vos données
+    personnelles ne sont partagées qu'avec les personnes qui doivent y avoir accès,
+    c'est-à-dire principalement notre équipe d'ingénieurs web. En externe, il peut
+    s'agir de nos partenaires techniques et d'infrastructure. Lorsque nous partageons
+    des données à caractère personnel avec d'autres, nous mettons en place des dispositions
+    contractuelles (un contrat contenant un accord de traitement des données et/ou
+    un accord de non-divulgation) afin de protéger les données à caractère personnel.
+    Si nous recevons des demandes de tiers habilités à obtenir la divulgation de données
+    à caractère personnel, nous n'y répondrons que si nous sommes autorisés à le faire
+    conformément à la législation applicable en matière de protection des données.
+    Notre site web utilise des « cookies ». Vous trouverez de plus amples informations
+    sur notre politique en matière de cookies ici.\n\n **4. Combien de temps conserverons-nous
+    vos données à caractère personnel?** \n\n Les données permettant d'identifier
+    un utilisateur sont supprimées au bout de 14 jours, à moins qu'un événement important
+    pour la sécurité ne se produise (par exemple, une attaque par déni de service,
+    dite « attaque DDoS »). En cas d'événement lié à la sécurité, les fichiers journaux
+    du serveur sont conservés jusqu'à ce que l'événement lié à la sécurité ait été
+    éliminé et entièrement clarifié.\n\n **5. Quels sont vos droits en ce qui concerne
+    vos données à caractère personnel?** \n\n Vous avez le droit de:\n\n 1.) demander
+    l'accès à vos données à caractère personnel que nous détenons\n\n 2.) demander
+    une copie de vos données à caractère personnel que nous détenons\n\n 3.) nous
+    demander de rectifier les données à caractère personnel qui nous ont été communiquées\n\n
+    4.) demander que nous effacions vos données à caractère personnel\n\n 5.) nous
+    demander de restreindre le traitement de vos données à caractère personnel ou
+    de vous opposer au traitement de vos données à caractère personnel\n\n Si vous
+    souhaitez exercer l'un de vos droits ou si vous avez des questions sur les conditions
+    applicables à cet effet, veuillez nous contacter à l'adresse suivante: <privacy@triggerise.org>.
+    Nous nous efforçons de répondre à toutes les demandes légitimes dans un délai
+    de 14 jours calendaires. Ce délai peut être plus long si votre demande est particulièrement
+    complexe ou si vous avez formulé plusieurs demandes, mais dans ce cas, nous vous
+    en informerons et vous tiendrons au courant.\n\n **6. Comment pouvez-vous vous
+    plaindre du traitement de vos données à caractère personnel?** \n\n Nous espérons
+    que vous n'aurez jamais besoin de le faire, mais si vous souhaitez vous plaindre
+    de l'utilisation que nous faisons de vos données personnelles, envoyez un e-mail
+    avec les détails de votre plainte à l’adresse suivante : <privacy@triggerise.org>.
+    Nous examinerons et répondrons à toutes les plaintes que nous recevrons. Vous
+    pouvez également avoir le droit de déposer une plainte auprès de l'autorité nationale
+    compétente du pays dans lequel vous résidez. Pour de plus amples informations
+    sur les conditions dans lesquelles vous pouvez déposer une plainte auprès d'une
+    autorité nationale, veuillez consulter le site web correspondant. \n\n Nous pouvons
+    mettre à jour cet avis de confidentialité de temps à autre. La dernière version
+    sera publiée sur notre site web avec la date d'entrée en vigueur\n\nDernière mise
+    à jour : octobre 2023"
 layout: simple
 ---
 

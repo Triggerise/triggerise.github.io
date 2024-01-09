@@ -163,9 +163,52 @@ function initializeCookies() {
     }
 }
 //---- Cookies End ----//
+//---- Privacy popup start ----//
+
+// Function to get query parameters
+function setOverflowHidden() {
+    $('html, body').css('overflow', 'hidden');
+}
+function setOverflowAuto() {
+    $('html, body').css('overflow', 'auto');
+}
+function getQueryParam(key) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(key);
+}
+function removeQueryParam(key) {
+    const urlParams = new URLSearchParams(window.location.search);
+    urlParams.delete(key);
+    const newUrl = `${window.location.pathname}?${urlParams.toString()}`;
+    window.history.replaceState({}, '', newUrl);
+    window.location.href = newUrl;
+}
+function togglePrivacyPopup(userType, removeQuery) {
+    const privacyModal = $("#privacyModal-" + userType);
+    if (privacyModal) privacyModal.fadeToggle();
+    if (removeQuery) {
+        removeQueryParam('privacyUserType');
+        removeQueryParam('showPrivacyPopup');
+        setOverflowAuto();
+    } else {
+        setOverflowHidden();
+    }
+}
+//---- Privacy popup end ----//
 function initPrivacy() {
 
     window.addEventListener('load', function () {
+        let userType = getQueryParam('privacyUserType');
+        if (!userType) userType = 'general';
+
+        const privacyModal = $("#privacyContent-" + userType);
+        if (privacyModal) privacyModal.fadeToggle();
+
+        const showPrivacyPopup = getQueryParam('showPrivacyPopup');
+        if (showPrivacyPopup) {
+            togglePrivacyPopup(userType.toLowerCase());
+        }
+
         if (allPolicies) {
             try {
                 displayPolicy();
@@ -180,6 +223,12 @@ function initPrivacy() {
         } catch (err) {
             console.error(err);
         }
+
+        $(window).click(function (e) {
+            if ($(e.target).hasClass("privacy__modal__centered")) {
+                togglePrivacyPopup(userType, true);
+            }
+        });
 
     });
 } initPrivacy();

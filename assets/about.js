@@ -172,7 +172,6 @@ function worldMap() {
     });
     toggleMapTooltips();
     $('.svgMap-map-image').children('g').children('path').each(function (i) {
-        console.log(this);
         if (!africanCountryCodes.includes($(this).attr('data-id'))) {
             $(this).remove();
         }

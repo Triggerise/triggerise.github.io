@@ -1,0 +1,92 @@
+<!-- Privacy footer modal -->
+{% assign policies = site.privacy-policy-popup %}
+{% assign userTypeGroups = site.privacy-policy-user-types %}
+{% for policyUserGroup in userTypeGroups %}
+<div id="privacyModal-{{ policyUserGroup.title }}" class="privacy__modal">
+    <div class="privacy__modal__centered">
+        <div class="privacy__modal__content wrapper">
+            <div class="story-list">
+                <div class="policies-filters">
+                    {% for policy in policies %}
+                    <span><a href="#{{ policy.title }}" id="link{{ policy.title }}"
+                            class="policy-link {{ policy.title }}">{{
+                            policy.title }} /</a></span>
+                    {% endfor %}
+                    <span class="close-btn"
+                        onclick="togglePrivacyPopup('{{ policyUserGroup.title }}', true)">&times;</span>
+                </div>
+            </div>
+            <div class="success-story-wrapper">
+                {% for policy in policies %}
+                <div class="policy {{ policy.title}}">
+                    <div id="policies">
+                        {% for foundUserGroup in policy.userGroups %}
+                        {% if foundUserGroup.title == policyUserGroup.title %}
+                        <div class="privacy__modal__header">
+                            <div class="privacy__modal__header__column img-container">{% include logo.html %}</div>
+                            {% if foundUserGroup.headerTitle %}
+                            <div class="privacy__modal__header__column text-right">
+                                <h2>{{ foundUserGroup.headerTitle }}</h2>
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% if policy.headerUserGroupSelections %}
+                        <div class="privacy__modal__header__selection-container">
+                            {% for userGroupSelections in policy.headerUserGroupSelections %}
+                            <a title="{{ userGroupSelections.description }}" class="privacy__modal__header__selection-container__item"
+                                href="{{ userGroupSelections.linkURL }}" target="_blank" rel="noopener noreferrer">
+                                <img alt="Visitor type image" src="{{ userGroupSelections.titleImage }}" />
+                                {% if foundUserGroup.title == userGroupSelections.title %}
+                                <div class="privacy__modal__header__selection-container__item__overlay"></div>
+                                {% endif %}
+                            </a>
+                            {% endfor %}
+                        </div>
+                        {% endif %}
+                        <div class="privacy__modal__body">
+                            {% for policyGroup in foundUserGroup.policyGroups %}
+                            <div class="privacy__modal__body__column">
+                                {% if policyGroup.showTopDivider %}
+                                <div class="divider"></div>
+                                {% endif %}
+                                <div class="privacy__modal__body__column__inner_content">
+                                    <div class="privacy__modal__body__column__inner_content__header">
+                                        {% if policyGroup.titleImage %}
+                                        <img lazy src="{{ policyGroup.titleImage }}" />
+                                        {% endif %}
+                                        {% if policyGroup.title %}
+                                        <h3>{{ policyGroup.title }}</h3>
+                                        {% endif %}
+                                        {% if policyGroup.linkURL %}
+                                        <a href="{{ policyGroup.linkURL }}" target="_blank" rel="noopener noreferrer">{{
+                                            policyGroup.linkText }}</a>
+                                        {% endif %}
+                                    </div>
+                                    {{ policyGroup.policyContent }}
+                                </div>
+                                {% if policyGroup.showBottomDivider %}
+                                <div class="divider divider-bottom"></div>
+                                {% endif %}
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% if foundUserGroup.readMoreURL %}
+                        <a class="privacy__modal__read-more" href="{{ foundUserGroup.readMoreURL }}" target="_blank"
+                            rel="noopener noreferrer">
+                            <div class="privacy__modal__footer">
+                                <p>
+                                    {{ foundUserGroup.readMoreText }}
+                                </p>
+                            </div>
+                        </a>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

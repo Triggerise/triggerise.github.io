@@ -146,6 +146,57 @@ function loadCounter() {
   });
 }
 // ---- Counter End ---- //
+// ---- Initialise rebranding banner ---- //
+function initialiseRebrandingBanner() {
+  const popupVideoSeen = localStorage.getItem('triggerise_is_tiko_video_seen');
+        if (!popupVideoSeen) {
+            const triggeriseIsTikoVideoContainer = document.getElementById('triggeriseIsTikoVideoContainer');
+            if (triggeriseIsTikoVideoContainer) {
+                triggeriseIsTikoVideoContainer.innerHTML = `
+                <div id="fade">
+                    <div id="light">
+                        <div class="inner-container">
+                            <div class="header-container">
+                                <h4 style="margin: 0; margin-left: 15px;">Triggerise is now Tiko</h4>
+                                <a class="boxclose" id="boxclose" onclick="lightbox_close();"></a>
+                            </div>
+                            <video autoplay muted id="triggeriseIsTikoVideo" width="100%" height="100%" controls
+                                aria-describedby="video-description">
+                                <source src="/uploads/triggeriseIsTiko.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                                <track kind="subtitles" label="English" />
+                            </video>
+                            <div id="video-description" style="display: none;">
+                                <h2>Triggerise is now Tiko</h2>
+                                <p>A short video demostrating that the Triggerise brand has now become Tiko.</p>
+                            </div>
+                            <div class="footer-container">
+                            <a class="view__tiko__btn" href="https://tikoafrica.org/" target="_blank" rel="nofollow noopener external" id="viewTiko">
+                              <button>
+                                Visit our new website
+                              </button>
+                              </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>`;
+                window.scrollTo(0, 0);
+            }
+        }
+}
+function lightbox_close() {
+  const lightBoxVideo = document.getElementById("triggeriseIsTikoVideo");
+  const triggeriseIsTikoVideoContainer = document.getElementById('triggeriseIsTikoVideoContainer');
+  const lightElement = document.getElementById('light');
+  const body = document.body || document.getElementsByTagName('body')[0];
+
+  if (lightBoxVideo && triggeriseIsTikoVideoContainer && lightElement && body) {
+      lightBoxVideo.pause();
+      localStorage.setItem('triggerise_is_tiko_video_seen', true);
+      body.removeChild(triggeriseIsTikoVideoContainer);
+  }
+}
+// ---- End rebranding banner ---- //
 // Initialize all functional code
 function init() {
   window.addEventListener('load', function () {
@@ -174,6 +225,7 @@ function init() {
     });
     try {
       loadCounter();
+      initialiseRebrandingBanner();
     } catch (err) {
       console.error(err);
     }
