@@ -32,15 +32,6 @@ Jobs:
     working with them! If this describes you, then the Data Team Lead position could
     be a great match.
   Link: https://triggerise.bamboohr.com/careers/375?source=aWQ9MzI%3D
-- Job Title: DevOps Engineer
-  Location: Kenya / South Africa / Portugal
-  Job Description: 'Do you have experience building, testing & maintaining tools that
-    allow for speedy development of software? Do you enjoy working in an Agile way
-    and are excited by the prospect of using technology to create impact?  Read on
-    to find out more about our DevOps Engineer position!
-
-'
-  Link: https://triggerise.bamboohr.com/careers/369?source=aWQ9MjM%3D
 - Job Title: Java Engineering Team Lead
   Location: Kenya / South Africa / Portugal
   Job Description: Are you a problem-solver with a background in software development?
