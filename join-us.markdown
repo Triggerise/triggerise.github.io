@@ -23,8 +23,22 @@ Jobs:
   Job Description: Do you have experience in fundraising, particularly in the field
     of sexual reproductive health? Are you looking for a role where the work that
     you do sustainably creates an impact on a global scale? Read on to hear more about
-    the role of NBD Lead at Triggerise! 
+    the role of NBD Lead at Tiko/Triggerise!
   Link: https://triggerise.bamboohr.com/careers/334?source=aWQ9MzI%3D
+- Job Title: New Business Development Lead
+  Location: South Africa
+  Job Description: Do you have experience in fundraising, particularly in the field
+    of sexual reproductive health? Are you looking for a role where the work that
+    you do sustainably creates an impact on a global scale? Read on to hear more about
+    the role of NBD Lead at Tiko/Triggerise! 
+  Link: https://triggerise.bamboohr.com/careers/381?source=aWQ9MjM%3D
+- Job Title: Communications Manager
+  Location: London, UK
+  Job Description: Are you passionate about communications with a flair for making
+    a difference in sexual reproductive health and rights? Seeking a dynamic role
+    where your creativity and strategic thinking contribute to meaningful global change?
+    Discover more about the exciting opportunity as a Communications Manager at Tiko!
+  Link: https://triggerise.bamboohr.com/careers/377?source=aWQ9MjM%3D
 - Job Title: Data Engineering Team Lead
   Location: Kenya / South Africa / Portugal
   Job Description: Are you an expert in all things data and have experience leading
@@ -38,36 +52,12 @@ Jobs:
     Do you want to be a part of an innovative team that use their technical skills
     to make a positive impact? Then this role could be for you!
   Link: https://triggerise.bamboohr.com/careers/372?source=aWQ9MzI%3D
-- Job Title: Country Director (Ethiopia)
-  Location: 'Addis Ababa, Ethiopia '
-  Job Description: "Can you help our Ethiopian market reach the next level of maturity?
-    Are you an organised and data-driven manager that can help the team grow? \n\n"
-  Link: https://triggerise.bamboohr.com/careers/365?source=aWQ9MjM%3D
-- Job Title: Data Protection Officer
-  Location: Ethiopia / Kenya / Portugal / South Africa
-  Job Description: Do you have practical experience within the data protection space?
-    Would you be able to bring a fresh perspective to managing data privacy risks,
-    while providing advice and oversight across all aspects of data privacy in a global
-    organisation?  Read more to find out about the role of Data Protection Officer.
-  Link: https://triggerise.bamboohr.com/careers/366?source=aWQ9MzI%3D
 - Job Title: Ecosystem Coordinator
-  Location: Uganda
+  Location: South Africa
   Job Description: 'Would you enjoy working closely with different actors in the Tiko
     ecosystem to help solve any issues or answer any questions that they may have?
     Continue reading to find out more about our Ecosystem Coordinator role! '
-  Link: https://triggerise.bamboohr.com/careers/370?source=aWQ9MzI%3D
-- Job Title: Ecosystem Trainer
-  Location: 'Mombasa, Kenya '
-  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
-    to ensure that they are knowledgeable about our platform and it''s offers? Continue
-    reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/373?source=aWQ9MzI%3D
-- Job Title: Ecosystem Trainer
-  Location: Uganda
-  Job Description: 'Would you enjoy working with different actors in the Tiko ecosystem
-    to ensure that they are knowledgeable about our platform and it''s offers? Continue
-    reading to find out more about our Ecosystem Trainer role! '
-  Link: https://triggerise.bamboohr.com/careers/371?source=aWQ9MzI%3D
+  Link: https://triggerise.bamboohr.com/careers/374?source=aWQ9MjM%3D
 - Job Title: Social & Behaviour Change Lead
   Location: Uganda / South Africa / Kenya / Ethiopia
   Job Description: Do you want to make an impact through the power of marketing and
@@ -82,13 +72,38 @@ Jobs:
     adolescents and young people through your research expertise, keep reading – this
     role is for you!
   Link: https://triggerise.bamboohr.com/careers/378?source=aWQ9MjM%3D
-- Job Title: Communications Manager
-  Location: London, UK
-  Job Description: Are you passionate about communications with a flair for making
-    a difference in sexual reproductive health and rights? Seeking a dynamic role
-    where your creativity and strategic thinking contribute to meaningful global change?
-    Discover more about the exciting opportunity as a Communications Manager at Tiko!
-  Link: https://triggerise.bamboohr.com/careers/377?source=aWQ9MjM%3D
+- Job Title: Marketing & Communications Manager
+  Location: Johannesburg, South Africa
+  Job Description: Are you ready to use your marketing expertise to make an impact?
+    Would you enjoy being the driving force behind designing and implementing a marketing
+    strategy focused on value creation? You could be our next Marketing and Communications
+    Manager!
+  Link: https://triggerise.bamboohr.com/careers/368?source=aWQ9MjM%3D
+- Job Title: Marketing & Communications Specialist
+  Location: Kampala, Uganda
+  Job Description: Are you keen to use your marketing skills to make a difference?
+    Want to be part of a team that helps get the word out and drives engagement? You
+    could be our next Marketing and Communication Specialist in Uganda!
+  Link: https://triggerise.bamboohr.com/careers/382?source=aWQ9MjM%3D
+- Job Title: Data Product Manager
+  Location: South Africa / Kenya
+  Job Description: Do you have a passion for shaping data strategy and leading a team
+    of data product experts? Are you ready to drive innovation and foster a data-driven
+    culture within a dynamic organization? If so, we invite you to explore our Data
+    Product Manager role and be at the forefront of our data-driven journey at Tiko!
+  Link: https://triggerise.bamboohr.com/careers/384?source=aWQ9MjM%3D
+- Job Title: Machine Learning Engineer
+  Location: 'Portugal / South Africa / Kenya '
+  Job Description: Are you a Machine Learning Engineer looking for your next challenge?
+    Do you love to create algorithms that help the organisation predict and detect
+    significant data patterns? Look no further! Continue reading, and apply!
+  Link: https://triggerise.bamboohr.com/careers/385?source=aWQ9MjM%3D
+- Job Title: Java Backend Engineer
+  Location: 'Portugal / South Africa / Kenya '
+  Job Description: Are you a Java Backend Engineer and a skilled problem-solver? Do
+    you want to be a part of an innovative team that uses its technical skills to
+    make a positive impact? Then this role could be for you!
+  Link: https://triggerise.bamboohr.com/careers/386?source=aWQ9MjM%3D
 - Job Title: Open Applications
   Location: Global
   Job Description: 'Interested in creating a better world by bringing out the best
