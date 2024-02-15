@@ -110,11 +110,6 @@ Our People:
   Location: Cape Town, South Africa
   LinkedIn: https://www.linkedin.com/in/hameline-chimuka-60b05325/
   Image: "/uploads/HC%20Photo.jpeg"
-- Name: Akshar
-  Role: Engineering Manager
-  Location: Cape Town, South Africa
-  LinkedIn: https://za.linkedin.com/in/aksharbhagwandin
-  Image: "/uploads/akshar-team-image.webp"
 - Name: Leah
   Role: Country Director - Kenya
   Location: Nairobi, Kenya
