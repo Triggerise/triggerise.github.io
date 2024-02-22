@@ -125,11 +125,6 @@ Our People:
   Location: Lisbon, Portugal
   LinkedIn: https://pt.linkedin.com/in/daiane-bulgarelli
   Image: "/uploads/daiane-team-image.webp"
-- Name: Netsy
-  Role: Country Director – Ethiopia
-  Location: Addis Ababa, Ethiopia
-  LinkedIn: https://www.linkedin.com/in/netsy-woldesemait-msc-pmp-47ba82a1/
-  Image: "/uploads/netsy-team-image.png"
 Safeguarding-text: "We always protect user data and never compromise privacy \n\nWe
   only collect user data that is given with consent and use it to improve our product
   \n\nWe never sell personal information, this includes metadata \n"
